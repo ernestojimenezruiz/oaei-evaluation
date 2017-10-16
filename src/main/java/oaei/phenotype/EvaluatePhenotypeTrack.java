@@ -13,5 +13,15 @@ package oaei.phenotype;
  *
  */
 public class EvaluatePhenotypeTrack {
+	
+	//Load ontologies: path
+	//Read from configuration path
+	
+	//Load Mappings
+	
+	
+	
+	
+	
 
 }
