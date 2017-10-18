@@ -23,6 +23,43 @@ import uk.ac.ox.krr.logmap2.reasoning.ReasonerAccess;
  */
 public class SemanticMeasures {
 	
+	private static double sem_precision=0.0;
+	private static double sem_recall=0.0;
+	private static double sem_fscore=0.0;
+	/**
+	 * @return the semantic precision
+	 */
+	public static double getSemanticPrecision() {
+		return sem_precision;
+	}
+	
+	/**
+	 * @return the semantic recall
+	 */
+	public static double getSemanticRecall() {
+		return sem_recall;
+	}
+	
+	/**
+	 * @return the semantic fscore
+	 */
+	public static double getSemanticFscore() {
+		return sem_fscore;
+	}
+	
+	
+	
+	public void computeSemanticMeasures(ReasonerAccess reference_reasoner, ReasonerAccess system_reasoner, Set<MappingObjectStr> reference_mappings,  Set<MappingObjectStr> system_mappings){
+		
+		sem_precision = getSemanticPrecision(reference_reasoner, system_mappings);
+		
+		sem_recall = getSemanticRecall(system_reasoner, reference_mappings);
+		
+		sem_fscore = Math.round((2000.0 * sem_precision * sem_recall) / (sem_precision + sem_recall))/1000.0;
+		
+		
+	}
+	
 		
 	public static double getSemanticPrecision(ReasonerAccess reference_reasoner, Set<MappingObjectStr> system_mappings){
 		return checkMappingEntailment(reference_reasoner, system_mappings);

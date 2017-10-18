@@ -15,11 +15,15 @@ import org.semanticweb.owlapi.model.OWLOntology;
 import org.semanticweb.owlapi.model.OWLOntologyCreationException;
 import org.semanticweb.owlapi.model.OWLOntologyManager;
 
+import com.hp.hpl.jena.reasoner.Reasoner;
+
 import uk.ac.ox.krr.logmap2.io.OWLAlignmentFormat;
 import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 import uk.ac.ox.krr.logmap2.owlapi.SynchronizedOWLManager;
+import uk.ac.ox.krr.logmap2.reasoning.ELKAccess;
 import uk.ac.ox.krr.logmap2.reasoning.HermiTAccess;
 import uk.ac.ox.krr.logmap2.reasoning.ReasonerAccess;
+import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
 
 /**
  * This class creates a merged ontology and classifies it
@@ -36,22 +40,26 @@ public class MergedOntology {
 	
 	private OWLOntologyManager managerMerged;
 	
-	public MergedOntology(OWLOntology onto1, OWLOntology onto2, Set<MappingObjectStr> mappings, boolean classify) throws Exception{
-		this(onto1, onto2, createOWLOntologyFromRDFMappings(onto1, onto2, mappings), classify);
+	public MergedOntology(OWLOntology onto1, OWLOntology onto2, Set<MappingObjectStr> mappings, boolean classify, int reasonerID) throws Exception{
+		this(onto1, onto2, createOWLOntologyFromRDFMappings(onto1, onto2, mappings), classify, reasonerID);
 	}
 	
-	public MergedOntology(OWLOntology onto1, OWLOntology onto2, OWLOntology mappings, boolean classify) throws Exception{
-		this(onto1.getAxioms(), onto2.getAxioms(), mappings.getAxioms(), classify);
+	public MergedOntology(OWLOntology onto1, OWLOntology onto2, OWLOntology mappings, boolean classify, int reasonerID) throws Exception{
+		this(onto1.getAxioms(), onto2.getAxioms(), mappings.getAxioms(), classify, reasonerID);
 	}
 	
-	public MergedOntology(Set<OWLAxiom> onto1, Set<OWLAxiom> onto2, Set<OWLAxiom> mappings, boolean classify) throws Exception{
+	public MergedOntology(Set<OWLAxiom> onto1, Set<OWLAxiom> onto2, Set<OWLAxiom> mappings, boolean classify, int reasonerID) throws Exception{
 		
 		createMergedOntology(onto1, onto2, mappings);
 		
 		if (classify)
-			classifyMergedOntology();
+			classifyMergedOntology(reasonerID);
+		
+		
 		
 	}
+	
+	
 	
 	
 	public OWLOntology getOntology(){
@@ -77,9 +85,13 @@ public class MergedOntology {
 	}
 	
 	
-	private void classifyMergedOntology() throws Exception{
+	private void classifyMergedOntology(int reasonerID) throws Exception{
 		boolean usefactory=false;
-		mergedReasoner = new HermiTAccess(managerMerged, mergedOntology, usefactory);
+		
+		if (reasonerID==ReasonerManager.HERMIT)
+			mergedReasoner = new HermiTAccess(managerMerged, mergedOntology, usefactory);
+		else if (reasonerID==ReasonerManager.ELK)
+			mergedReasoner = new ELKAccess(managerMerged, mergedOntology, usefactory);
 	}
 	
 	

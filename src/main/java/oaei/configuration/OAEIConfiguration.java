@@ -21,6 +21,13 @@ import java.util.Properties;
  */
 public class OAEIConfiguration {
 	
+	
+	//Protocol for the physical ontology uri: file: (linux), file:/ (windows)
+	protected String protocol;
+	
+	//Base path if all resources are in same path
+	protected String base_path;
+	
 	//Paths of mappings to be evaluated
 	protected String mappings_path;
 	
@@ -60,6 +67,14 @@ public class OAEIConfiguration {
 		}
 	}
 	
+	
+	public String getProtocol(){
+		return protocol;
+	}
+	
+	public String getBasePath(){
+		return base_path;
+	}
 	
 	public String getMappingsPath(){
 		return mappings_path;
@@ -133,19 +148,23 @@ public class OAEIConfiguration {
 			fileInput.close();
 			
 			//read parameters
-			mappings_path = properties.getProperty("mappings_path");
+			protocol = properties.getProperty("protocol");
 			
-			ontologies_path = properties.getProperty("ontologies_path");
+			base_path = properties.getProperty("base_path");
+									
+			mappings_path = base_path + properties.getProperty("mappings_path");
 			
-			reference_path = properties.getProperty("reference_path");
+			ontologies_path = base_path + properties.getProperty("ontologies_path");
+			
+			reference_path = base_path + properties.getProperty("reference_path");
 			
 			task_name = properties.getProperty("task_name");
 			
 			file_name_pattern = properties.getProperty("file_name_pattern");
 			
-			onto_file1 = properties.getProperty("onto_file1");
+			onto_file1 = protocol + ontologies_path + properties.getProperty("onto_file1");
 			
-			onto_file2 = properties.getProperty("onto_file2");
+			onto_file2 = protocol + ontologies_path + properties.getProperty("onto_file2");
 			
 			onto_uri1 = properties.getProperty("onto_uri1");
 			
