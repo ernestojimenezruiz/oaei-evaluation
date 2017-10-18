@@ -20,6 +20,8 @@ public class SystemResults extends Mappings{
 	
 	private double time;
 	
+	private int uniqueMappingsSize;
+	
 	
 	public static String getHeaderForResults(){
 		return ""; //TODO build nice results header line
@@ -71,6 +73,22 @@ public class SystemResults extends Mappings{
 	 */
 	public void addResult(String reference_name, Results measures) {
 		results.put(reference_name, measures);
+	}
+
+
+	/**
+	 * @return the uniqueMappings
+	 */
+	public int getUniqueMappingsSize() {
+		return uniqueMappingsSize;
+	}
+
+
+	/**
+	 * @param uniqueMappings the uniqueMappings to set
+	 */
+	public void setUniqueMappingsSize(int uniqueMappings) {
+		this.uniqueMappingsSize = uniqueMappings;
 	}
 
 	

@@ -21,41 +21,89 @@ import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
  */
 public abstract class Mappings {
 	
-	String name;
+	private String name;
 	
-	String file_name;
+	private String file_name;
 	
-	int mappings_size;
+	private int mappings_size;
 	
-	Set<MappingObjectStr> mappingSet = new HashSet<MappingObjectStr>();
+	private Set<MappingObjectStr> mappingSet = new HashSet<MappingObjectStr>();
 	
-	HashAlignment hashALignment;
+	private HashAlignment hashAlignment;
 	
-	MergedOntology alignedOntology;
+	private MergedOntology alignedOntology;
 	
-	int unsat_classes;
+	private int unsat_classes;
 	
 	
 	public Mappings (String name, String file_name){
 		
-		this.name = name;
-		this.file_name = file_name;
+		this.name=name;
+		this.file_name=file_name;
 	}
 	
 	
 	public void setMappings(Set<MappingObjectStr> mappings){
-		mappingSet.addAll(mappings);		
-		hashALignment =  new HashAlignment(mappings);
+		mappingSet.addAll(mappings);
+		hashAlignment =  new HashAlignment(mappings);		
 		mappings_size=mappings.size();
 	}
 	
 	
 	public void setAlignedOntology(MergedOntology mergedO){
+		
 		alignedOntology = mergedO;
 		
 		unsat_classes = alignedOntology.getReasoner().getUnsatisfiableClasses().size();
 		
 	}
+	
+	
+	public int getUnsatisfiableClassesSize() {
+		return unsat_classes;
+	}
+	
+	
+	
+	public int getMappingsSize() {
+		return mappings_size;
+	}
+
+
+	/**
+	 * @return the name
+	 */
+	public String getName() {
+		return name;
+	}
+
+
+	/**
+	 * @return the file_name
+	 */
+	public String getFileName() {
+		return file_name;
+	}
+
+
+	/**
+	 * @return the hashALignment
+	 */
+	public HashAlignment getHashAlignment() {
+		return hashAlignment;
+	}
+
+
+	
+	public Set<MappingObjectStr> getMappingSet(){
+		return mappingSet;
+	}
+
+	
+	
+
+
+	
 	
 	
 	
