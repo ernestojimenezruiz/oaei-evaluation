@@ -106,8 +106,10 @@ public class OAEIConfiguration {
 	
 		String config_path = System.getProperty("user.dir") + "/configuration/";
 		
-		System.out.println(config_path);
+		//System.out.println(config_path);
 		
+		
+		//Keep only files ending in .properties
 		File files = new File(config_path);
 		FilenameFilter filter = new FilenameFilter() {
 			public boolean accept(File dir, String name) {
@@ -118,25 +120,48 @@ public class OAEIConfiguration {
 					return false;
 				}
 			}
-		};
-		
+		};		
 		String[] tool_files = files.list(filter);
 		
 		
-		if (tool_files.length>0){
+		if (tool_files.length==1){
+			
+			//We expect only one
 			FileInputStream fileInput = new FileInputStream(new File(config_path + tool_files[0]));
 			Properties properties = new Properties();
 			properties.load(fileInput);
 			fileInput.close();
 			
 			//read parameters
-			Enumeration enuKeys = properties.keys();
-			while (enuKeys.hasMoreElements()) {
-				String key = (String) enuKeys.nextElement();
-				String value = properties.getProperty(key);
-				System.out.println(key + ": " + value);
-			}
+			mappings_path = properties.getProperty("mappings_path");
 			
+			ontologies_path = properties.getProperty("ontologies_path");
+			
+			reference_path = properties.getProperty("reference_path");
+			
+			task_name = properties.getProperty("task_name");
+			
+			file_name_pattern = properties.getProperty("file_name_pattern");
+			
+			onto_file1 = properties.getProperty("onto_file1");
+			
+			onto_file2 = properties.getProperty("onto_file2");
+			
+			onto_uri1 = properties.getProperty("onto_uri1");
+			
+			onto_uri2 = properties.getProperty("onto_uri2");
+			
+			
+			//Enumeration enuKeys = properties.keys();
+			//while (enuKeys.hasMoreElements()) {
+			//	String key = (String) enuKeys.nextElement();
+			//	String value = properties.getProperty(key);
+			//	System.out.println(key + ": " + value);
+			//}
+			
+		}
+		else if (tool_files.length>1){
+			System.err.println("There are more than one configuration files.");
 		}
 		else{
 			System.err.println("No configuration file available.");
