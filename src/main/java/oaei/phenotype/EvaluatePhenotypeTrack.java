@@ -9,6 +9,7 @@ package oaei.phenotype;
 import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.TreeMap;
 
 import org.semanticweb.owlapi.model.OWLOntology;
 import org.semanticweb.owlapi.model.OWLOntologyCreationException;
@@ -18,6 +19,7 @@ import oaei.mappings.ReferenceMappings;
 import oaei.mappings.SystemMappings;
 import oaei.measures.SemanticMeasures;
 import oaei.measures.StandardMeasures;
+import oaei.results.Results;
 import oaei.util.MergedOntology;
 import uk.ac.ox.krr.logmap2.OntologyLoader;
 import uk.ac.ox.krr.logmap2.io.LogOutput;
@@ -38,8 +40,8 @@ public class EvaluatePhenotypeTrack {
 	OWLOntology onto2;
 	
 	
-	Map<String, SystemMappings> system_results_map = new HashMap<String, SystemMappings>();
-	Map<String, ReferenceMappings> reference_mappings_map = new HashMap<String, ReferenceMappings>();
+	TreeMap<String, SystemMappings> system_results_map = new TreeMap<String, SystemMappings>();
+	TreeMap<String, ReferenceMappings> reference_mappings_map = new TreeMap<String, ReferenceMappings>();
 	
 	
 	int reasonerID = ReasonerManager.HERMIT;
@@ -66,46 +68,25 @@ public class EvaluatePhenotypeTrack {
 		//TODO Extract uniqueness (optional)
 		//Store uniqueness files: extended tsv files with labels (others than RDFS:label)?
 		
-		//Extract P, R and F
-		for (String tool_name : system_results_map.keySet()){
+		
+		//Compute measures for systems against references
+		computeMeasures();
 			
-			SystemMappings system = system_results_map.get(tool_name);
-			
-			for (String reference_name : reference_mappings_map.keySet()){
 				
-				ReferenceMappings reference = reference_mappings_map.get(reference_name);
-				
-				//Check if unsat: this will affect precision and/or recall
-				
-				//Compute semantic measures
-				SemanticMeasures.computeSemanticMeasures(
-						reference.getOWLReasonerMergedOntology(), 
-						system.getOWLReasonerMergedOntology(), 
-						reference.getMappingSet(), system.getMappingSet());
-				
-				//Compute standards measures
-				StandardMeasures.computeStandardMeasures(
-						system.getHashAlignment(), 
-						reference.getHashAlignment());
-				
-				//Store results
-				
-				
-			}
-			
-			
-			
-		}
-		
-		
-		
-		
-		
-		//Store results: implement the toString() method
-		
+		//Print and Store results
+		printResults();
 	}
 	
 	
+	
+	
+	
+	
+	
+
+
+
+
 	private void loadOntologies() throws OWLOntologyCreationException{
 		
 		OntologyLoader loader1;
@@ -145,6 +126,7 @@ public class EvaluatePhenotypeTrack {
 				system_results_map.get(name).setMappings(mappingReaderTool.getMappingObjects());
 								
 				//Set merged ontology
+				LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
 				system_results_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, mappingReaderTool.getMappingObjects(), extractModules, classifyMergedOntologies, reasonerID));
 				
 				
@@ -160,47 +142,117 @@ public class EvaluatePhenotypeTrack {
 		String ref_files[] = files.list();
 		for(int i=0; i<ref_files.length; i++){
 			
+			if (ref_files[i].contains(configuration.getFileNamePattern())){
 			
-			String mappings_file = configuration.getReferencesPath() + ref_files[i];
-			MappingsReaderManager mappingReaderTool = new MappingsReaderManager(mappings_file, MappingsReaderManager.OAEIFormat);
-			
-			
-			String name;
-		
-			if (ref_files.length==1)
-				name="reference";
-			else if (ref_files[i].contains("2")){
-				name="consensus-2";
-			}
-			else if (ref_files[i].contains("3")){
-				name="consensus-3";
-			}
-			else if (ref_files[i].contains("4")){
-				name="consensus-4";
-			}
-			else if (ref_files[i].contains("5")){
-				name="consensus-5";
-			}
-			else {
-				name = ref_files[i];
-			}
+				String mappings_file = configuration.getReferencesPath() + ref_files[i];
+				MappingsReaderManager mappingReaderTool = new MappingsReaderManager(mappings_file, MappingsReaderManager.OAEIFormat);
+				
+				
+				//TODO reference alignments must follow this pattern too
+				String name = ref_files[i].split(configuration.getFileNamePattern())[0];
+				
+									
+				//Create entry
+				reference_mappings_map.put(name, new ReferenceMappings(name, ref_files[i]));
+				
+				
+				//Add mappings
+				reference_mappings_map.get(name).setMappings(mappingReaderTool.getMappingObjects());
 								
-			//Create entry
-			reference_mappings_map.put(name, new ReferenceMappings(name, ref_files[i]));
-			
-			
-			//Add mappings
-			reference_mappings_map.get(name).setMappings(mappingReaderTool.getMappingObjects());
-							
-			//Set merged ontology
-			reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, mappingReaderTool.getMappingObjects(), extractModules, classifyMergedOntologies, reasonerID));
-			
-			
+				//Set merged ontology
+				//Set merged ontology
+				LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
+				reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, mappingReaderTool.getMappingObjects(), extractModules, classifyMergedOntologies, reasonerID));
+				
+			}	
 			
 		}
 		
 		
 		
+	}
+	
+	
+	private void computeMeasures(){
+		
+		//Extract P, R and F
+		for (String tool_name : system_results_map.navigableKeySet()){
+			
+			SystemMappings system = system_results_map.get(tool_name);
+			
+			for (String reference_name : reference_mappings_map.navigableKeySet()){
+				
+				ReferenceMappings reference = reference_mappings_map.get(reference_name);
+				
+				system.addResult(reference_name, new Results(tool_name, reference_name));
+				
+				
+				//Check if unsat: this will affect precision and/or recall
+				
+				//Compute semantic measures
+				LogOutput.printAlways("Computing semantic measures for " + tool_name + " against " + reference_name);
+				SemanticMeasures.computeSemanticMeasures(
+						reference.getOWLReasonerMergedOntology(), 
+						system.getOWLReasonerMergedOntology(), 
+						reference.getMappingSet(), system.getMappingSet());
+				
+				
+				//Store results
+				system.getResults().get(reference_name).
+						setSemanticMeasures(SemanticMeasures.getSemanticPrecision(), SemanticMeasures.getSemanticRecall(), SemanticMeasures.getSemanticFscore());
+				
+				//Compute standards measures
+				LogOutput.printAlways("Computing standard measures for " + tool_name + " against " + reference_name);
+				StandardMeasures.computeStandardMeasures(
+						system.getHashAlignment(), 
+						reference.getHashAlignment());
+				
+				//Store results
+				system.getResults().get(reference_name).
+						setStandardMeasures(StandardMeasures.getPrecision(), StandardMeasures.getRecall(), StandardMeasures.getFscore());
+												
+			}
+		}
+	}
+	
+	/**
+	 * 
+	 */
+	private void printResults() {
+
+		int i=0;
+		
+		for (String tool_name : system_results_map.navigableKeySet()){
+					
+			SystemMappings system = system_results_map.get(tool_name);
+		
+			if (i==0){
+				System.out.print(system.getHeaderForResults());
+				i++;
+			}			
+			
+			System.out.print(system.toString());
+		}
+		
+	}
+	
+	
+	private void storeResults() {
+		//TODO
+		
+	}
+
+
+	
+	
+	
+	public static void main (String[] argss){
+		try {
+			new EvaluatePhenotypeTrack(false);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	
 	

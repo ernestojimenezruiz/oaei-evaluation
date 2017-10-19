@@ -6,8 +6,9 @@
  *******************************************************************************/
 package oaei.mappings;
 
-import java.util.HashMap;
+import java.util.Comparator;
 import java.util.Map;
+import java.util.TreeMap;
 
 import oaei.results.Results;
 
@@ -24,13 +25,49 @@ public class SystemMappings extends Mappings{
 	private int uniqueMappingsSize;
 	
 	
-	public static String getHeaderForResults(){
-		return ""; //TODO build nice results header line
+	public String getHeaderForResults(){
+		StringBuilder builder = new StringBuilder();
+		
+		String separator = "\t";
+		
+		builder.append(separator).append(separator).append(separator).append(separator);
+		for (String key : results.navigableKeySet()){
+			builder.append(key).append(separator).append(separator).append(separator);
+		}
+		builder.append("\n");
+		
+		
+		builder.append("System").append(separator).
+			append("Time (ms)").append(separator).
+			append("Size").append(separator).
+			append("Unique").append(separator);
+		
+		for (String key : results.navigableKeySet()){
+			
+			builder.append("P").append(separator).
+				append("F").append(separator).
+				append("R").append(separator).
+				append("S-P").append(separator).
+				append("S-F").append(separator).
+				append("S-R").append(separator);
+			
+		}
+			
+			
+		builder.append(getUnsatisfiableClassesSize()).append(separator).
+			append("File nanme").append("\n");
+		
+		
+		return builder.toString();  //TODO build nice results line 
 	}
 	
 	
-	//Hashmap with pairs reference-results
-	private Map<String, Results> results = new HashMap<String, Results>(); 
+	//Map with ordered pairs reference-results
+	private TreeMap<String, Results> results = new TreeMap<String, Results>(new Comparator<String>() {
+	    public int compare(String o1, String o2) {
+	        return o1.toLowerCase().compareTo(o2.toLowerCase());
+	    }
+	});
 	
 	
 	public SystemMappings (String name, String file_name){
@@ -56,7 +93,33 @@ public class SystemMappings extends Mappings{
 	
 	
 	public String toString(){
-		return "";  //TODO build nice results line 
+		
+		StringBuilder builder = new StringBuilder();
+		
+		String separator = "\t";
+		
+		builder.append(getName()).append(separator).
+			append(getComputationTime()).append(separator).
+			append(getMappingsSize()).append(separator).
+			append(getUniqueMappingsSize()).append(separator);
+		
+		for (String key : results.navigableKeySet()){
+			
+			builder.append(results.get(key).getPrecision()).append(separator).
+				append(results.get(key).getFscore()).append(separator).
+				append(results.get(key).getRecall()).append(separator).
+				append(results.get(key).getSemanticPrecision()).append(separator).
+				append(results.get(key).getSemanticFscore()).append(separator).
+				append(results.get(key).getSemanticRecall()).append(separator);
+			
+		}
+			
+			
+		builder.append(getUnsatisfiableClassesSize()).append(separator).
+			append(getFileName()).append("\n");
+		
+		
+		return builder.toString();  //TODO build nice results line 
 	}
 
 
@@ -91,6 +154,10 @@ public class SystemMappings extends Mappings{
 	public void setUniqueMappingsSize(int uniqueMappings) {
 		this.uniqueMappingsSize = uniqueMappings;
 	}
+
+	
+	
+	
 
 	
 	

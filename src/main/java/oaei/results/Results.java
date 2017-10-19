@@ -25,6 +25,7 @@ public class Results {
 	private double recall=0.0;
 	private double fscore=0.0;
 	
+	
 	public Results(String system_name, String reference_name){
 		this.system_name = system_name;
 		this.reference_name = reference_name;
@@ -36,7 +37,7 @@ public class Results {
 		this.fscore=fscore;
 	}
 	
-	public void setemanticMeasures(double precision, double recall, double fscore){
+	public void setSemanticMeasures(double precision, double recall, double fscore){
 		this.sem_precision=precision;
 		this.sem_recall=recall;
 		this.sem_fscore=fscore;
