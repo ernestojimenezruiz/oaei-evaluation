@@ -9,9 +9,12 @@ package oaei.mappings;
 import java.util.HashSet;
 import java.util.Set;
 
+import org.semanticweb.owlapi.model.OWLOntology;
+
 import oaei.util.HashAlignment;
 import oaei.util.MergedOntology;
 import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
+import uk.ac.ox.krr.logmap2.reasoning.ReasonerAccess;
 
 /**
  *
@@ -100,8 +103,19 @@ public abstract class Mappings {
 	}
 
 	
-	
+	public MergedOntology getMergedOntology(){
+		return alignedOntology;
+	}
 
+	public OWLOntology getOWLMergedOntology(){
+		return alignedOntology.getOntology();
+	}
+	
+	public ReasonerAccess getOWLReasonerMergedOntology(){
+		return alignedOntology.getReasoner();
+	}
+	
+	
 
 	
 	

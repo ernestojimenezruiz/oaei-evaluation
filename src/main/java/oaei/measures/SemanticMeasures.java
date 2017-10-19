@@ -4,7 +4,7 @@
  *    This file is part of the Ontology Services Toolkit 
  *
  *******************************************************************************/
-package oaei.util;
+package oaei.measures;
 
 import java.util.Set;
 
@@ -49,7 +49,7 @@ public class SemanticMeasures {
 	
 	
 	
-	public void computeSemanticMeasures(ReasonerAccess reference_reasoner, ReasonerAccess system_reasoner, Set<MappingObjectStr> reference_mappings,  Set<MappingObjectStr> system_mappings){
+	public static void computeSemanticMeasures(ReasonerAccess reference_reasoner, ReasonerAccess system_reasoner, Set<MappingObjectStr> reference_mappings,  Set<MappingObjectStr> system_mappings){
 		
 		sem_precision = getSemanticPrecision(reference_reasoner, system_mappings);
 		

@@ -4,11 +4,12 @@
  *    This file is part of the Ontology Services Toolkit 
  *
  *******************************************************************************/
-package oaei.results;
+package oaei.mappings;
 
 import java.util.HashMap;
 import java.util.Map;
-import oaei.mappings.Mappings;
+
+import oaei.results.Results;
 
 /**
  *
@@ -16,7 +17,7 @@ import oaei.mappings.Mappings;
  * Created on 18 Oct 2017
  *
  */
-public class SystemResults extends Mappings{
+public class SystemMappings extends Mappings{
 	
 	private double time;
 	
@@ -32,7 +33,7 @@ public class SystemResults extends Mappings{
 	private Map<String, Results> results = new HashMap<String, Results>(); 
 	
 	
-	public SystemResults (String name, String file_name){
+	public SystemMappings (String name, String file_name){
 		super(name, file_name);
 	}
 

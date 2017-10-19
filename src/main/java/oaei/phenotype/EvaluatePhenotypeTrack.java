@@ -15,7 +15,9 @@ import org.semanticweb.owlapi.model.OWLOntologyCreationException;
 
 import oaei.configuration.OAEIConfiguration;
 import oaei.mappings.ReferenceMappings;
-import oaei.results.SystemResults;
+import oaei.mappings.SystemMappings;
+import oaei.measures.SemanticMeasures;
+import oaei.measures.StandardMeasures;
 import oaei.util.MergedOntology;
 import uk.ac.ox.krr.logmap2.OntologyLoader;
 import uk.ac.ox.krr.logmap2.io.LogOutput;
@@ -36,7 +38,7 @@ public class EvaluatePhenotypeTrack {
 	OWLOntology onto2;
 	
 	
-	Map<String, SystemResults> system_results_map = new HashMap<String, SystemResults>();
+	Map<String, SystemMappings> system_results_map = new HashMap<String, SystemMappings>();
 	Map<String, ReferenceMappings> reference_mappings_map = new HashMap<String, ReferenceMappings>();
 	
 	
@@ -61,10 +63,41 @@ public class EvaluatePhenotypeTrack {
 		//load systems
 		loadSystemMappings();
 		
-		//Extract uniqueness (optional)
+		//TODO Extract uniqueness (optional)
 		//Store uniqueness files: extended tsv files with labels (others than RDFS:label)?
 		
 		//Extract P, R and F
+		for (String tool_name : system_results_map.keySet()){
+			
+			SystemMappings system = system_results_map.get(tool_name);
+			
+			for (String reference_name : reference_mappings_map.keySet()){
+				
+				ReferenceMappings reference = reference_mappings_map.get(reference_name);
+				
+				//Check if unsat: this will affect precision and/or recall
+				
+				//Compute semantic measures
+				SemanticMeasures.computeSemanticMeasures(
+						reference.getOWLReasonerMergedOntology(), 
+						system.getOWLReasonerMergedOntology(), 
+						reference.getMappingSet(), system.getMappingSet());
+				
+				//Compute standards measures
+				StandardMeasures.computeStandardMeasures(
+						system.getHashAlignment(), 
+						reference.getHashAlignment());
+				
+				//Store results
+				
+				
+			}
+			
+			
+			
+		}
+		
+		
 		
 		
 		
@@ -105,7 +138,7 @@ public class EvaluatePhenotypeTrack {
 				String name = tool_files[i].split(configuration.getFileNamePattern())[0];
 				
 				//Create entry
-				system_results_map.put(name, new SystemResults(name, tool_files[i]));
+				system_results_map.put(name, new SystemMappings(name, tool_files[i]));
 				
 				
 				//Add mappings

@@ -4,10 +4,11 @@
  *    This file is part of the Ontology Services Toolkit 
  *
  *******************************************************************************/
-package oaei.util;
+package oaei.measures;
 
 import java.util.Set;
 
+import oaei.util.HashAlignment;
 import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 
 /**
@@ -44,7 +45,7 @@ public class StandardMeasures {
 	}
 	
 	
-	public void computeStandardMeasures(Set<MappingObjectStr> system, Set<MappingObjectStr> reference){
+	public static void computeStandardMeasures(Set<MappingObjectStr> system, Set<MappingObjectStr> reference){
 		
 		HashAlignment system_aligment = new HashAlignment(system);
 		HashAlignment reference_aligment = new HashAlignment(reference);
@@ -55,7 +56,7 @@ public class StandardMeasures {
 	}
 	
 	
-	public void computeStandardMeasures(HashAlignment system, HashAlignment reference){
+	public static void computeStandardMeasures(HashAlignment system, HashAlignment reference){
 		
 		evaluationParameters(reference.evaluation(system));
 		
