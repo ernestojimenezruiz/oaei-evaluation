@@ -13,6 +13,7 @@ import org.semanticweb.owlapi.model.OWLOntology;
 
 import oaei.util.HashAlignment;
 import oaei.util.MergedOntology;
+import oaei.util.Utilities;
 import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 import uk.ac.ox.krr.logmap2.reasoning.ReasonerAccess;
 
@@ -36,6 +37,8 @@ public abstract class Mappings {
 	
 	private MergedOntology alignedOntology;
 	
+	private OWLOntology mappingsOntology;
+	
 	private int unsat_classes;
 	
 	
@@ -46,7 +49,7 @@ public abstract class Mappings {
 	}
 	
 	
-	public void setMappings(Set<MappingObjectStr> mappings){
+	public void setMappings(OWLOntology onto1, OWLOntology onto2, Set<MappingObjectStr> mappings) throws Exception{
 		
 		//Avoid mappings between same URIs
 		for (MappingObjectStr mapping : mappings){
@@ -59,6 +62,10 @@ public abstract class Mappings {
 		//mappingSet.addAll(mappings);
 		hashAlignment =  new HashAlignment(mappingSet);		
 		mappings_size=mappingSet.size();
+		
+		mappingsOntology= Utilities.createOWLOntologyFromRDFMappings(onto1, onto2, mappings);
+		
+		
 	}
 	
 	
@@ -123,11 +130,14 @@ public abstract class Mappings {
 	public ReasonerAccess getOWLReasonerMergedOntology(){
 		return alignedOntology.getReasoner();
 	}
-	
-	
 
-	
-	
+
+	/**
+	 * @return the mappingsOntology
+	 */
+	public OWLOntology getMappingsOntology() {
+		return mappingsOntology;
+	}
 	
 	
 

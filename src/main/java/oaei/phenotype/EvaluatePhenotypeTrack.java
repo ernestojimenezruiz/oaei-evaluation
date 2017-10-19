@@ -8,9 +8,12 @@ package oaei.phenotype;
 
 import java.io.File;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 import java.util.TreeMap;
 
+import org.semanticweb.owlapi.model.OWLEntity;
 import org.semanticweb.owlapi.model.OWLOntology;
 import org.semanticweb.owlapi.model.OWLOntologyCreationException;
 
@@ -43,6 +46,10 @@ public class EvaluatePhenotypeTrack {
 	TreeMap<String, SystemMappings> system_results_map = new TreeMap<String, SystemMappings>();
 	TreeMap<String, ReferenceMappings> reference_mappings_map = new TreeMap<String, ReferenceMappings>();
 	
+	//To store all entities in relevant mapping and extract modules for these entities
+	//Important to cover entities from the reference alignments
+	Set<OWLEntity> signature_for_modules = new HashSet<OWLEntity>();
+	
 	
 	int reasonerID = ReasonerManager.HERMIT;
 	
@@ -64,6 +71,9 @@ public class EvaluatePhenotypeTrack {
 		
 		//load systems
 		loadSystemMappings();
+		
+		//Create Merged ontologies
+		createMergedOntologies();
 		
 		//TODO Extract uniqueness (optional)
 		//Store uniqueness files: extended tsv files with labels (others than RDFS:label)?
@@ -123,12 +133,18 @@ public class EvaluatePhenotypeTrack {
 				
 				
 				//Add mappings
-				system_results_map.get(name).setMappings(mappingReaderTool.getMappingObjects());
+				system_results_map.get(name).setMappings(onto1, onto2, mappingReaderTool.getMappingObjects());
 								
-				//Set merged ontology
-				LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
-				system_results_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, mappingReaderTool.getMappingObjects(), extractModules, classifyMergedOntologies, reasonerID));
 				
+				//Entities in mappings
+				signature_for_modules.addAll(system_results_map.get(name).getMappingsOntology().getSignature());
+				
+				
+				
+				//Set merged ontology
+				//LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
+				//system_results_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, mappingReaderTool.getMappingObjects(), extractModules, classifyMergedOntologies, reasonerID));
+				//LogOutput.printAlways("\tUnsat: " + system_results_map.get(name).getUnsatisfiableClassesSize());  
 				
 			}
 		}
@@ -157,18 +173,42 @@ public class EvaluatePhenotypeTrack {
 				
 				
 				//Add mappings
-				reference_mappings_map.get(name).setMappings(mappingReaderTool.getMappingObjects());
-								
+				reference_mappings_map.get(name).setMappings(onto1, onto2, mappingReaderTool.getMappingObjects());
+				
+				
+				//Entities in mappings
+				signature_for_modules.addAll(reference_mappings_map.get(name).getMappingsOntology().getSignature());
+				
+				
 				//Set merged ontology
-				//Set merged ontology
-				LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
-				reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, mappingReaderTool.getMappingObjects(), extractModules, classifyMergedOntologies, reasonerID));
+				//LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
+				//reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, mappingReaderTool.getMappingObjects(), extractModules, classifyMergedOntologies, reasonerID));
+				//LogOutput.printAlways("\tUnsat: " + reference_mappings_map.get(name).getUnsatisfiableClassesSize());
 				
 			}	
 			
 		}
 		
+	}
+	
+	
+	
+	private void createMergedOntologies() throws Exception{
 		
+		for (String name : system_results_map.keySet()){
+			//Set merged ontology
+			LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
+			system_results_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, system_results_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classifyMergedOntologies, reasonerID));
+			LogOutput.printAlways("\tUnsat: " + system_results_map.get(name).getUnsatisfiableClassesSize());
+		}
+		
+		
+		for (String name : reference_mappings_map.keySet()){
+			//Set merged ontology
+			LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
+			reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, reference_mappings_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classifyMergedOntologies, reasonerID));
+			LogOutput.printAlways("\tUnsat: " + reference_mappings_map.get(name).getUnsatisfiableClassesSize());
+		}
 		
 	}
 	
@@ -227,11 +267,11 @@ public class EvaluatePhenotypeTrack {
 			SystemMappings system = system_results_map.get(tool_name);
 		
 			if (i==0){
-				System.out.print(system.getHeaderForResults());
+				System.out.println(system.getHeaderForResults());
 				i++;
 			}			
 			
-			System.out.print(system.toString());
+			System.out.println(system.toString());
 		}
 		
 	}

@@ -55,7 +55,7 @@ public class SystemMappings extends Mappings{
 			
 			
 		builder.append(getUnsatisfiableClassesSize()).append(separator).
-			append("File nanme").append("\n");
+			append("File nanme");//.append("\n");
 		
 		
 		return builder.toString();  //TODO build nice results line 
@@ -116,7 +116,7 @@ public class SystemMappings extends Mappings{
 			
 			
 		builder.append(getUnsatisfiableClassesSize()).append(separator).
-			append(getFileName()).append("\n");
+			append(getFileName());//.append("\n");
 		
 		
 		return builder.toString();  //TODO build nice results line 
