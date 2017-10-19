@@ -47,9 +47,18 @@ public abstract class Mappings {
 	
 	
 	public void setMappings(Set<MappingObjectStr> mappings){
-		mappingSet.addAll(mappings);
-		hashAlignment =  new HashAlignment(mappings);		
-		mappings_size=mappings.size();
+		
+		//Avoid mappings between same URIs
+		for (MappingObjectStr mapping : mappings){
+			if (mapping.getIRIStrEnt1().equals(mapping.getIRIStrEnt2()))
+				continue;
+			
+			mappingSet.add(mapping);
+			
+		}
+		//mappingSet.addAll(mappings);
+		hashAlignment =  new HashAlignment(mappingSet);		
+		mappings_size=mappingSet.size();
 	}
 	
 	
