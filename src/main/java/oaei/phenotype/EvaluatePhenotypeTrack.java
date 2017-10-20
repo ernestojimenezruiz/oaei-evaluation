@@ -195,6 +195,15 @@ public class EvaluatePhenotypeTrack {
 	
 	private void createMergedOntologies() throws Exception{
 		
+		
+		for (String name : reference_mappings_map.keySet()){
+			//Set merged ontology
+			LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
+			reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, reference_mappings_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classifyMergedOntologies, reasonerID));
+			LogOutput.printAlways("\tUnsat: " + reference_mappings_map.get(name).getUnsatisfiableClassesSize());
+		}
+		
+		
 		for (String name : system_results_map.keySet()){
 			//Set merged ontology
 			LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
@@ -203,12 +212,7 @@ public class EvaluatePhenotypeTrack {
 		}
 		
 		
-		for (String name : reference_mappings_map.keySet()){
-			//Set merged ontology
-			LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
-			reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, reference_mappings_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classifyMergedOntologies, reasonerID));
-			LogOutput.printAlways("\tUnsat: " + reference_mappings_map.get(name).getUnsatisfiableClassesSize());
-		}
+		
 		
 	}
 	
