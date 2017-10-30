@@ -24,6 +24,8 @@ public class SystemMappings extends Mappings{
 	
 	private int uniqueMappingsSize;
 	
+	private String family;
+	
 	
 	public String getHeaderForResults(){
 		StringBuilder builder = new StringBuilder();
@@ -153,6 +155,25 @@ public class SystemMappings extends Mappings{
 	 */
 	public void setUniqueMappingsSize(int uniqueMappings) {
 		this.uniqueMappingsSize = uniqueMappings;
+	}
+
+
+	/**
+	 * @param family
+	 */
+	public void setFamily(String family) {
+		this.family=family;
+		
+	}
+
+	
+
+	/**
+	 * 
+	 */
+	public String getFamily() {
+		return family;
+		
 	}
 
 	
