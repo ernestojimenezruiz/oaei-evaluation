@@ -47,6 +47,16 @@ public class ConsensusMapping extends MappingObjectStr {
 		voting_families.add(family);
 	}
 	
+	public Set<String> getVotingSystems(){
+		return voting_systems;
+	}
+	
+	
+	
+	public Set<String> getVotingFamilies(){
+		return voting_families;
+	}
+	
 	
 	public int getSystemVotes(){
 		return voting_systems.size();
@@ -57,14 +67,15 @@ public class ConsensusMapping extends MappingObjectStr {
 	}
 	
 	
-	public void setConfidenceConsensusMapping(int max_votes, int min_required_votes){
+	public void setConfidenceConsensusMapping(int max_votes){
 		
 		//For the output confidence
 		double y1_min_confidence = 0.7;		
 		double y2_max_confidence = 1.0;
 				
 				
-		int x1_min_votes = min_required_votes;			
+		//We fixed so that we keep same confidence values across consensus alignments (i.e. same confidence of mapping voted by 4 systems in consensus alignment 2,3 and 4)
+		int x1_min_votes = 2; //Minimum consensus. 			
 		int x2_max_votes = max_votes;
 		
 		double coef = (y2_max_confidence-y1_min_confidence)/(double)((double)x2_max_votes-(double)x1_min_votes);
@@ -90,7 +101,7 @@ public class ConsensusMapping extends MappingObjectStr {
 		families = StringUtils.removeEnd(families, ";");
 		
 		
-		
+		//uri1   label1   uri2   label2   confidence   #syst. votes    systems   #fam. votes   families
 		return this.getIRIStrEnt1() + "\t" + this.getLabelEntity1() + "\t" +  this.getIRIStrEnt2() + "\t" + this.getLabelEntity2() + "\t" + this.getConfidence() + "\t" + this.getSystemVotes()  + "\t" +  systems + "\t" + this.getFamilyVotes() + "\t" +  families;
 		
 	}

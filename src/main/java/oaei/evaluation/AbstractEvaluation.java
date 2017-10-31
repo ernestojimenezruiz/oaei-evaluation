@@ -61,8 +61,8 @@ public abstract class AbstractEvaluation {
 		OntologyLoader loader2;
 				
 		LogOutput.printAlways("Loading ontologies...");
-		loader1 = new OntologyLoader(configuration.geOntologyFile1());
-		loader2 = new OntologyLoader(configuration.geOntologyFile2());
+		loader1 = new OntologyLoader(configuration.getOntologyFile1());
+		loader2 = new OntologyLoader(configuration.getOntologyFile2());
 				
 		onto1 = loader1.getOWLOntology();
 		onto2 = loader2.getOWLOntology();

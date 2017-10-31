@@ -100,19 +100,19 @@ public class OAEIConfiguration {
 	}
 	
 	
-	public String geOntologyFile1(){
+	public String getOntologyFile1(){
 		return onto_file1;
 	}
 	
-	public String geOntologyFile2(){
+	public String getOntologyFile2(){
 		return onto_file2;
 	}
 	
-	public String geOntologyURI1(){
+	public String getOntologyURI1(){
 		return onto_uri1;
 	}
 	
-	public String geOntologyURI2(){
+	public String getOntologyURI2(){
 		return onto_uri2;
 	}
 	
