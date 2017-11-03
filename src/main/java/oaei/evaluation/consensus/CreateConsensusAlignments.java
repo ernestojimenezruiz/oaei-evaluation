@@ -245,16 +245,19 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 		for (String system : system_results_map.keySet()){
 			
 			for (MappingObjectStr mapping : system_results_map.get(system).getMappingSet()){
-												
-				consensusAlignment.add(
-						mapping.getIRIStrEnt1(), 
-						mapping.getIRIStrEnt2(), 
-						system, 
-						system_results_map.get(system).getFamily(),
-						getMappingType(IRI.create(mapping.getIRIStrEnt1()), onto1),
-						getLabel4Entity(IRI.create(mapping.getIRIStrEnt1()), onto1),
-						getLabel4Entity(IRI.create(mapping.getIRIStrEnt2()), onto2));
 				
+				//We avoid mappings among same URIS
+				if (!mapping.getIRIStrEnt1().equals(mapping.getIRIStrEnt2())){
+					
+					consensusAlignment.add(
+							mapping.getIRIStrEnt1(), 
+							mapping.getIRIStrEnt2(), 
+							system, 
+							system_results_map.get(system).getFamily(),
+							getMappingType(IRI.create(mapping.getIRIStrEnt1()), onto1),
+							getLabel4Entity(IRI.create(mapping.getIRIStrEnt1()), onto1),
+							getLabel4Entity(IRI.create(mapping.getIRIStrEnt2()), onto2));
+				}
 			}			
 		}		
 	}
