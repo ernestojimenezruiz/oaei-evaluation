@@ -6,8 +6,7 @@
  *******************************************************************************/
 package oaei.evaluation.consensus;
 
-import java.util.HashMap;
-import java.util.Map;
+
 import java.util.TreeMap;
 
 import org.semanticweb.owlapi.model.IRI;
@@ -24,6 +23,8 @@ import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 
 
 /**
+ * 
+ * Creates consensus mappings for the given configuration
  *
  * @author ernesto
  * Created on 30 Oct 2017
