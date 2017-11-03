@@ -7,9 +7,7 @@
 package oaei.evaluation.consensus;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 import java.util.TreeMap;
 
 import org.semanticweb.owlapi.model.IRI;
@@ -19,13 +17,11 @@ import org.semanticweb.owlapi.model.OWLOntology;
 
 import oaei.configuration.OAEIConfiguration;
 import oaei.evaluation.AbstractEvaluation;
-import oaei.mappings.ReferenceMappings;
-import oaei.mappings.SystemMappings;
 import uk.ac.ox.krr.logmap2.indexing.ExtractStringFromAnnotationAssertionAxiom;
 import uk.ac.ox.krr.logmap2.io.OutPutFilesManager;
 import uk.ac.ox.krr.logmap2.io.WriteFile;
 import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
-import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
+
 
 /**
  *
@@ -72,25 +68,30 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 	}
 
 
+	WriteFile writer_statistics;
 	/**
 	 * @throws Exception 
 	 * 
 	 */
 	private void printConsensusAlignments() throws Exception {
 		
+		writer_statistics = new WriteFile(configuration.getResultsPath() + "Consensus" + configuration.getFileNamePattern() + ".txt", false);
+		
 		//We use max votes!
 		for (int votes=2; votes<=max_votes; votes++){
 		
-			//The following methods explore the same structure, but for readibility we explore the alignments 3 times
+			//The following methods explore the same structure, but for readability we explore the alignments 3 times
 			
 			storeReadableAlignments(votes);
 			
 			storeRDFAlignments(votes);
 			
-			//TODO print statistics
+			//print statistics
 			keepStatistics(votes);
 			
 		}
+		
+		writer_statistics.closeBuffer();
 		
 		
 	}
@@ -101,13 +102,13 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 	 */
 	private void keepStatistics(int min_required_votes) {
 		
-		WriteFile writer = new WriteFile(configuration.getResultsPath() + "Consensus" + configuration.getFileNamePattern() + ".txt");
+		
 		
 		ConsensusMapping cmapping;
 		
 		int num_mappings=0;
-		Map<String, Integer> contributingSystems = new HashMap<String, Integer>(); 
-		Map<String, Integer> contributingFamilies = new HashMap<String, Integer>(); 
+		TreeMap<String, Integer> contributingSystems = new TreeMap<String, Integer>(); 
+		TreeMap<String, Integer> contributingFamilies = new TreeMap<String, Integer>(); 
 		
 
 		for (String source : consensusAlignment.getSources()){
@@ -134,23 +135,41 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 		
 			}
 		}
-
 		
-		//TODO Statistics!!!!
-
-		writer.closeBuffer();
+		writer_statistics.writeLine("Vote " + min_required_votes);
+		writer_statistics.writeLine("\tMappings: " + num_mappings);
+					
+		//System.out.println(contributingFamilies);
+		writer_statistics.writeLine("\tFamilies:");
+		for (String family: contributingFamilies.navigableKeySet()){
+			double contribution = Math.round((double)contributingFamilies.get(family) * 1000.0 / (double)num_mappings)/10.0;
+			writer_statistics.writeLine("\t\t" + family + ": " + contribution + "%");
+		}
+		
+		//System.out.println(contributingSystems);
+		writer_statistics.writeLine("\tSystems:");
+		for (String system: contributingSystems.navigableKeySet()){
+			double contribution = Math.round((double)contributingSystems.get(system) * 1000.0 / (double)num_mappings)/10.0;
+			writer_statistics.writeLine("\t\t" + system + ": " + contribution + "%");
+		}
+		
+		writer_statistics.writeEmptyLine();
+		
+	
 		
 	}
 
 
 	/**
-	 * Stores consensus alignments in a readable format: uri1   label1   uri2   label2   confidence   #syst. votes    systems   #fam. votes   families 
+	 * Stores consensus alignments in a readable format: uri1   label1   uri2   label2   confidence   #fam. votes   families	#syst. votes    systems 
 	 * @param min_required_votes
 	 */
 	private void storeReadableAlignments(int min_required_votes){
 		
 		WriteFile writer = new WriteFile(configuration.getReferencesPath() + "Consensus-" + String.valueOf(min_required_votes) + configuration.getFileNamePattern() + ".tsv");
-				
+		
+		writer.writeLine("#URI 1" + "\t" + "Label 1"  + "\t" + "URI 2" + "\t" + "Label 2"  + "\t" + "Confidence"  + "\t" + "Family votes"  + "\t" + "Families"  + "\t" + "System votes"  + "\t" + "Systems");
+		
 		ConsensusMapping cmapping;
 		
 		for (String source : consensusAlignment.getSources()){
@@ -316,5 +335,17 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 		consensusAlignment.setConfidenceForMappings(max_votes);
 		
 	}
+	
+	
+	public static void main (String[] argss){
+		try {
+			new CreateConsensusAlignments();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	
 
 }

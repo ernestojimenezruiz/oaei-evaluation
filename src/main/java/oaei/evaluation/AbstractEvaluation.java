@@ -92,13 +92,17 @@ public abstract class AbstractEvaluation {
 				if (name.startsWith("LogMap"))
 					family = "LogMap";
 				else if (name.startsWith("PhenoM"))
-					family = "PhenoM";
+					family = "PhenomeNET";
 				else if (name.startsWith("DisMatch"))
 					family = "DisMatch";
 				else if (name.startsWith("AML"))
 					family = "AML";
 				else if (name.startsWith("XMap"))
 					family = "XMap";
+				else if (name.startsWith("LYAM") || name.startsWith("YAM"))
+					family = "YAM";
+				else if (name.startsWith("FCA_Map"))
+					family = "FCA-Map";
 				else					
 					family = name;
 				

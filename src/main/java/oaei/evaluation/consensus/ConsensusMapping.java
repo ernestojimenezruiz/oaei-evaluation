@@ -6,8 +6,8 @@
  *******************************************************************************/
 package oaei.evaluation.consensus;
 
-import java.util.HashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -24,8 +24,8 @@ public class ConsensusMapping extends MappingObjectStr {
 	private String label1;	
 	private String label2;
 	
-	private Set<String> voting_systems = new HashSet<String>();
-	private Set<String> voting_families  = new HashSet<String>();
+	private TreeSet<String> voting_systems = new TreeSet<String>();
+	private TreeSet<String> voting_families  = new TreeSet<String>();
 	
 	
 	/**
@@ -101,8 +101,9 @@ public class ConsensusMapping extends MappingObjectStr {
 		families = StringUtils.removeEnd(families, ";");
 		
 		
-		//uri1   label1   uri2   label2   confidence   #syst. votes    systems   #fam. votes   families
-		return this.getIRIStrEnt1() + "\t" + this.getLabelEntity1() + "\t" +  this.getIRIStrEnt2() + "\t" + this.getLabelEntity2() + "\t" + this.getConfidence() + "\t" + this.getSystemVotes()  + "\t" +  systems + "\t" + this.getFamilyVotes() + "\t" +  families;
+		//uri1   label1   uri2   label2   confidence   #fam. votes   families	  #syst. votes    systems
+		return this.getIRIStrEnt1() + "\t" + this.getLabelEntity1() + "\t" +  this.getIRIStrEnt2() + "\t" + this.getLabelEntity2() + "\t" + this.getConfidence() + 
+				"\t" + this.getFamilyVotes() + "\t" +  families +  "\t" + this.getSystemVotes()  + "\t" +  systems;
 		
 	}
 

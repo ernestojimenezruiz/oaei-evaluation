@@ -37,6 +37,9 @@ public class OAEIConfiguration {
 	//Path of the reference alignments
 	protected String reference_path;
 	
+	//Path to results
+	protected String results_path;
+	
 	//Name of the task to be evaluated
 	protected String task_name;
 	
@@ -87,6 +90,11 @@ public class OAEIConfiguration {
 	
 	public String getReferencesPath(){
 		return reference_path;
+		
+	}
+	
+	public String getResultsPath(){
+		return results_path;
 		
 	}
 	
@@ -158,6 +166,8 @@ public class OAEIConfiguration {
 			
 			reference_path = base_path + properties.getProperty("reference_path");
 			
+			results_path = base_path + properties.getProperty("results_path");
+			
 			task_name = properties.getProperty("task_name");
 			
 			file_name_pattern = properties.getProperty("file_name_pattern");
@@ -180,7 +190,7 @@ public class OAEIConfiguration {
 			
 		}
 		else if (tool_files.length>1){
-			System.err.println("There are more than one configuration files.");
+			System.err.println("There are more than one configuration file.");
 		}
 		else{
 			System.err.println("No configuration file available.");
