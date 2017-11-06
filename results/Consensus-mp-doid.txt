@@ -1,95 +1,163 @@
 Vote 2
-	Mappings: 527
+	Mappings: 579
 	Families:
-		AML: 96.2%
-		BioPortal: 42.7%
-		DisMatch: 67.4%
-		LogMap: 94.5%
-		ONTOEMMA: 83.7%
-		YAM: 44.0%
+		AML: 89.1%
+		BioPortal: 38.9%
+		DisMatch: 66.0%
+		KEPLER: 50.8%
+		LogMap: 87.6%
+		ONTOEMMA: 76.2%
+		POMAP: 86.5%
+		YAM: 40.1%
 	Systems:
-		AML: 96.2%
-		BioPortal: 42.7%
-		DisMatch_ar: 67.0%
-		DisMatch_sg: 65.1%
-		DisMatch_tr: 66.4%
-		LogMap: 89.8%
-		LogMapBio: 94.3%
-		LogMapLite: 42.9%
-		ONTOEMMA: 83.7%
-		YAM-BIO: 44.0%
+		AML: 89.1%
+		BioPortal: 38.9%
+		DisMatch_ar: 65.6%
+		DisMatch_sg: 63.2%
+		DisMatch_tr: 64.6%
+		KEPLER: 50.8%
+		LogMap: 82.7%
+		LogMapBio: 87.4%
+		LogMapLite: 39.0%
+		ONTOEMMA: 76.2%
+		POMAP: 86.5%
+		YAM-BIO: 40.1%
 
 Vote 3
-	Mappings: 460
+	Mappings: 495
 	Families:
-		AML: 98.9%
-		BioPortal: 48.9%
-		DisMatch: 69.8%
-		LogMap: 99.3%
-		ONTOEMMA: 94.3%
-		YAM: 50.4%
+		AML: 97.4%
+		BioPortal: 45.5%
+		DisMatch: 67.5%
+		KEPLER: 55.2%
+		LogMap: 97.0%
+		ONTOEMMA: 88.7%
+		POMAP: 93.9%
+		YAM: 46.9%
 	Systems:
-		AML: 98.9%
-		BioPortal: 48.9%
-		DisMatch_ar: 69.8%
-		DisMatch_sg: 67.4%
-		DisMatch_tr: 69.1%
-		LogMap: 96.7%
-		LogMapBio: 99.1%
-		LogMapLite: 49.1%
-		ONTOEMMA: 94.3%
-		YAM-BIO: 50.4%
+		AML: 97.4%
+		BioPortal: 45.5%
+		DisMatch_ar: 67.3%
+		DisMatch_sg: 65.3%
+		DisMatch_tr: 66.9%
+		KEPLER: 55.2%
+		LogMap: 94.3%
+		LogMapBio: 96.8%
+		LogMapLite: 45.7%
+		ONTOEMMA: 88.7%
+		POMAP: 93.9%
+		YAM-BIO: 46.9%
 
 Vote 4
-	Mappings: 298
+	Mappings: 451
 	Families:
-		AML: 100.0%
-		BioPortal: 75.5%
-		DisMatch: 99.7%
-		LogMap: 100.0%
-		ONTOEMMA: 98.0%
-		YAM: 76.5%
+		AML: 98.9%
+		BioPortal: 49.9%
+		DisMatch: 71.4%
+		KEPLER: 59.9%
+		LogMap: 98.7%
+		ONTOEMMA: 93.3%
+		POMAP: 96.9%
+		YAM: 51.4%
 	Systems:
-		AML: 100.0%
-		BioPortal: 75.5%
-		DisMatch_ar: 99.7%
-		DisMatch_sg: 96.3%
-		DisMatch_tr: 98.7%
-		LogMap: 98.0%
-		LogMapBio: 99.7%
-		LogMapLite: 75.8%
-		ONTOEMMA: 98.0%
-		YAM-BIO: 76.5%
+		AML: 98.9%
+		BioPortal: 49.9%
+		DisMatch_ar: 71.2%
+		DisMatch_sg: 69.0%
+		DisMatch_tr: 70.7%
+		KEPLER: 59.9%
+		LogMap: 96.2%
+		LogMapBio: 98.4%
+		LogMapLite: 50.1%
+		ONTOEMMA: 93.3%
+		POMAP: 96.9%
+		YAM-BIO: 51.4%
 
 Vote 5
-	Mappings: 227
+	Mappings: 313
+	Families:
+		AML: 99.0%
+		BioPortal: 71.9%
+		DisMatch: 97.4%
+		KEPLER: 83.7%
+		LogMap: 100.0%
+		ONTOEMMA: 94.6%
+		POMAP: 97.1%
+		YAM: 73.8%
+	Systems:
+		AML: 99.0%
+		BioPortal: 71.9%
+		DisMatch_ar: 97.4%
+		DisMatch_sg: 94.6%
+		DisMatch_tr: 96.8%
+		KEPLER: 83.7%
+		LogMap: 97.4%
+		LogMapBio: 99.7%
+		LogMapLite: 72.2%
+		ONTOEMMA: 94.6%
+		POMAP: 97.1%
+		YAM-BIO: 73.8%
+
+Vote 6
+	Mappings: 245
 	Families:
 		AML: 100.0%
-		BioPortal: 98.7%
-		DisMatch: 100.0%
+		BioPortal: 91.8%
+		DisMatch: 99.6%
+		KEPLER: 99.2%
 		LogMap: 100.0%
-		ONTOEMMA: 98.2%
+		ONTOEMMA: 98.0%
+		POMAP: 96.7%
+		YAM: 92.7%
+	Systems:
+		AML: 100.0%
+		BioPortal: 91.8%
+		DisMatch_ar: 99.6%
+		DisMatch_sg: 99.6%
+		DisMatch_tr: 99.6%
+		KEPLER: 99.2%
+		LogMap: 97.6%
+		LogMapBio: 99.6%
+		LogMapLite: 91.8%
+		ONTOEMMA: 98.0%
+		POMAP: 96.7%
+		YAM-BIO: 92.7%
+
+Vote 7
+	Mappings: 225
+	Families:
+		AML: 100.0%
+		BioPortal: 99.1%
+		DisMatch: 100.0%
+		KEPLER: 99.6%
+		LogMap: 100.0%
+		ONTOEMMA: 98.7%
+		POMAP: 96.9%
 		YAM: 99.6%
 	Systems:
 		AML: 100.0%
-		BioPortal: 98.7%
+		BioPortal: 99.1%
 		DisMatch_ar: 100.0%
 		DisMatch_sg: 100.0%
 		DisMatch_tr: 100.0%
-		LogMap: 97.4%
+		KEPLER: 99.6%
+		LogMap: 97.3%
 		LogMapBio: 99.6%
-		LogMapLite: 99.1%
-		ONTOEMMA: 98.2%
+		LogMapLite: 99.6%
+		ONTOEMMA: 98.7%
+		POMAP: 96.9%
 		YAM-BIO: 99.6%
 
-Vote 6
-	Mappings: 219
+Vote 8
+	Mappings: 211
 	Families:
 		AML: 100.0%
 		BioPortal: 100.0%
 		DisMatch: 100.0%
+		KEPLER: 100.0%
 		LogMap: 100.0%
 		ONTOEMMA: 100.0%
+		POMAP: 100.0%
 		YAM: 100.0%
 	Systems:
 		AML: 100.0%
@@ -97,9 +165,11 @@ Vote 6
 		DisMatch_ar: 100.0%
 		DisMatch_sg: 100.0%
 		DisMatch_tr: 100.0%
-		LogMap: 97.3%
-		LogMapBio: 99.5%
+		KEPLER: 100.0%
+		LogMap: 99.5%
+		LogMapBio: 100.0%
 		LogMapLite: 100.0%
 		ONTOEMMA: 100.0%
+		POMAP: 100.0%
 		YAM-BIO: 100.0%
 

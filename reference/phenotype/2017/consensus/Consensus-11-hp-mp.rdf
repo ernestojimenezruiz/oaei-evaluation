@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://data.bioontology.org/ontologies/HP</onto1>
+<onto2>http://data.bioontology.org/ontologies/MP</onto2>
+<uri1>http://data.bioontology.org/ontologies/HP</uri1>
+<uri2>http://data.bioontology.org/ontologies/MP</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/HP_0011844"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0009250"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/HP_0410003"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0009893"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/HP_0030735"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0011492"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/HP_0020006"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010719"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

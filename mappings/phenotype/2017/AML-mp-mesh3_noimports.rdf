@@ -1,0 +1,5335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>http://purl.obolibrary.org/obo/mp.owl</onto1>
+	<onto2>http://purl.bioontology.org/ontology/MESH/</onto2>
+	<uri1>http://purl.obolibrary.org/obo/mp.owl</uri1>
+	<uri2>http://purl.bioontology.org/ontology/MESH/</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010138"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001167"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005254"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013285"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008817"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006406"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011404"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011702"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002731"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008531"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012547"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016137"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001924"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007246"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010520"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012848"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010140"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010689"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010519"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054537"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004026"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009006"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001263"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015431"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005360"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D052878"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001967"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003638"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006194"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007637"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006278"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001014"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010559"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006327"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000610"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002779"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004024"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000782"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002743"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005921"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003560"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010003"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005297"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016136"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005546"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020256"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008852"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015861"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003031"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000138"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003301"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010437"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003279"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000783"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000465"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006471"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003991"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001161"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001864"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014657"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006203"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005130"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002708"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053040"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004254"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016657"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000604"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000686"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002766"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012857"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005338"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D050197"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001577"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000740"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002993"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001168"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001916"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002543"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008950"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017180"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003260"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014839"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001194"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003872"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001914"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006470"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001857"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010493"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010636"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002037"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006120"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008945"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010139"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001025"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000644"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003914"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011660"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054083"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001856"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009205"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006124"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014264"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008543"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001281"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006118"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001023"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006136"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014648"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006128"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011666"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000284"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004310"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010409"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003310"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001596"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007022"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006110"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014693"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006117"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001024"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005312"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010490"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006122"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008946"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010478"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002532"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000231"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006973"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006125"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014263"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003054"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016135"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001785"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004487"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005262"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003103"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001344"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001763"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002750"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005094"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002546"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015878"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001304"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002386"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003665"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009877"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006164"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004483"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001852"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003231"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005515"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014605"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013479"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015423"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006151"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001251"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005251"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001762"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002001"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001766"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005258"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009798"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005256"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004948"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003689"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009886"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005263"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004479"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001326"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012162"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006240"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015875"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005255"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005099"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003099"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012163"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003078"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001035"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006185"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012166"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003100"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009216"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006198"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015841"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013466"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007638"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005260"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015814"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005261"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015783"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010711"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054514"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013787"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020795"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006165"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004774"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001314"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003318"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001585"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000743"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008387"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000747"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002811"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000748"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001548"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006949"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011420"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011776"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009860"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009400"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010033"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010263"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000315"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006456"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003280"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014549"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003554"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010688"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000519"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006869"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002871"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000419"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001762"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011141"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011517"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006959"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011403"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011704"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003197"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009397"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003624"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001002"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003620"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009846"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005161"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006417"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011767"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014518"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011829"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014719"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011763"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014526"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0020400"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003555"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001559"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006943"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003028"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000471"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005639"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006486"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011516"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054880"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003195"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002114"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012339"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006947"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001429"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003681"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004119"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007008"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005638"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006432"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005331"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007333"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000189"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007003"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005435"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006465"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005245"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006395"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009276"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004438"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004898"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014592"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010128"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020896"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005243"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006491"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011515"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011693"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013127"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004844"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002816"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003092"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003294"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007443"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003335"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010188"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003320"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012006"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008003"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000126"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003307"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011707"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003286"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005764"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003281"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005242"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003261"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006396"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003305"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011349"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003292"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008551"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003273"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004381"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003270"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007415"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003276"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004933"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002791"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D045602"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003321"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014138"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000493"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012005"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011570"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004931"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002675"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053627"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003347"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006964"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012545"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013595"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000243"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009207"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005157"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016142"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004514"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004420"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002064"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012640"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003348"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007018"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001890"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000757"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003506"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000172"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008869"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000858"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012259"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008588"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005159"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053713"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009929"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008591"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009445"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010018"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005190"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010019"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005422"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010026"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000566"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013580"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000161"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012600"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000066"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010024"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000160"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007738"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004282"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D063173"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000067"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010022"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003116"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012279"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000162"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008141"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001867"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012220"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002320"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006985"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013753"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D055090"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010822"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011030"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005426"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D059246"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006050"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011658"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010334"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010996"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003660"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002916"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001957"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001049"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008970"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002754"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011012"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001987"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010998"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011649"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002321"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007040"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003828"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011654"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005407"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006930"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001393"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001259"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009710"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D059445"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002822"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002375"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009434"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020335"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005279"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009290"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005202"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053609"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005323"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004421"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000753"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010243"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000754"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010291"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013148"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008413"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001193"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011565"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003427"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010241"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004241"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000051"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013372"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006945"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011164"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015434"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013371"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007007"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000376"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005499"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0014187"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013088"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000414"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000505"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003415"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011317"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010471"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D021921"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002899"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005221"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001426"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D059606"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002192"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015160"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002319"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018496"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005039"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000860"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001575"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003490"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005324"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001201"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003032"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016857"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002318"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006935"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003322"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001658"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003326"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017093"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003332"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008100"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003046"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008103"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002830"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D042882"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008541"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018921"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005505"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013922"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005152"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010198"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002872"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011086"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003179"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013921"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000708"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013952"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012673"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D058739"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010141"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008205"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000111"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002972"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004201"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005317"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004038"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008200"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009880"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008865"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000433"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008831"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009881"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008265"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012171"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016104"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004020"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006831"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003259"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009325"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003746"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013280"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003267"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003248"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005036"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003967"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000624"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014987"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009644"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014511"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000120"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008310"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003621"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053159"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013251"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003790"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003717"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010167"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003414"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004814"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002183"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005911"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005150"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002100"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004143"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009122"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004897"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010040"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002269"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009133"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003741"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014012"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004510"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009220"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005044"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018805"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000747"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018908"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006034"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009212"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001958"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004646"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004027"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014314"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003376"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000568"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008867"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D024182"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004025"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011123"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004028"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019457"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008866"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D043171"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000562"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017689"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000576"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003025"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003390"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008209"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002544"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D059327"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006296"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054119"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000564"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013576"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005150"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004614"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003711"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009389"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009443"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010312"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010163"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006461"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000611"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007565"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0014045"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D059609"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003646"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018763"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0014086"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006391"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002640"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D045262"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001188"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017495"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011174"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008060"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008909"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013484"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010412"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562831"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004675"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012253"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012080"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002915"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004270"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000698"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005408"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017496"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0014065"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016631"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003674"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018384"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003214"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016874"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001945"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016084"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/DOID_657"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000236"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/DOID_305"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002277"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005578"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000072660"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010651"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001028"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001925"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007248"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005604"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000071017"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003667"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006394"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013459"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019557"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002626"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013610"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005536"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562567"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010484"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562388"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001155"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C536875"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004004"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562830"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004694"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C535568"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012121"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C565209"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009578"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562503"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013137"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000071936"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010413"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C535974"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013546"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562950"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0014157"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562827"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005230"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C574275"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003296"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562563"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005163"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562573"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006261"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C536376"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013730"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C536836"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001859"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009393"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001915"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020300"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005415"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002780"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001870"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012793"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013367"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010309"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003561"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001172"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005013"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008218"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005330"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009202"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006045"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008944"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003024"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D023921"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000274"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006332"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006093"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001165"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004175"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013684"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006048"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011665"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004110"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014188"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004225"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054092"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003139"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004374"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006044"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014262"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010403"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006344"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006130"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018633"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006123"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018785"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003387"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001017"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010402"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006345"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010479"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002532"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010410"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003310"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002795"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002311"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006112"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000787"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003024"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003324"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011625"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014545"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000334"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000380"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009274"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006871"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006159"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016117"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001293"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000853"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006153"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006956"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001297"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008850"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006150"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004172"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012538"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054514"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008144"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009755"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006222"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009901"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001320"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015877"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008011"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007417"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001848"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002833"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006244"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001764"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001337"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014985"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009308"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000230"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006047"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001022"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006093"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001164"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001948"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014718"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003124"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007021"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003614"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D052858"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003598"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004842"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005302"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001750"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013282"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001746"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000525"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000141"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010079"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015831"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012552"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000140"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002036"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012208"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002035"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007890"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005654"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011164"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008570"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008064"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012550"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000142"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0014127"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013945"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009646"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003556"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005633"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006955"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001566"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054559"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006114"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006337"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002927"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008532"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003282"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013276"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003158"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003680"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003130"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001006"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002926"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006627"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009482"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007079"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001873"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005756"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001847"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004660"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002687"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009845"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001926"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007247"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013172"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000022"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002286"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003456"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009668"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011271"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012011"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003294"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003216"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004832"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003541"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014627"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013304"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054850"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009877"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005096"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009877"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D054850"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0020225"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010020"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004684"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D055959"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001861"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011014"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001177"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001261"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013942"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000070676"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010208"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011378"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004684"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D055009"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002933"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013585"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001872"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012852"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010334"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006876"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000745"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014202"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001961"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012021"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005604"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016750"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006252"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020434"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005421"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003483"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003454"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003873"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003595"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013088"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009792"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012628"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008854"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001768"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001527"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001264"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000412"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006983"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012270"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004489"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005414"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001651"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001325"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015792"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003251"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002764"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006223"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010211"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000599"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006529"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003328"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006975"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003256"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008105"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008821"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D033461"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013805"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D055728"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003254"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002761"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002493"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006942"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004033"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014096"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012514"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005660"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011253"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007979"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003751"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007972"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003432"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006961"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003504"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013966"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003865"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008199"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003502"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006980"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003269"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003111"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003924"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006548"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004740"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006319"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003224"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009410"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001849"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010031"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000751"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009135"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004739"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006314"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004741"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D046089"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003258"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006551"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006077"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006552"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004144"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009123"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000743"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013035"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003121"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018392"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001261"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009765"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005333"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001919"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009744"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017689"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000576"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000070558"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009219"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019048"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000222"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009503"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8075</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011801"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014524"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003622"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016055"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001759"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006029"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005634"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007010"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000198"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017674"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002079"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006946"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000194"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006934"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000691"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013163"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003786"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019588"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002083"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D061213"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000240"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006411"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003548"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006976"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010146"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006554"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004749"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C580334"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011747"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D055728"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002926"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C538058"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000434"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C537717"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002708"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C563477"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010519"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C535758"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009649"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010065"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010177"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000012"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002006"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009369"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.846</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003278"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004941"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0012448"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009044"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010884"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004940"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009854"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018589"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0008011"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D044483"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001440"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006120"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003615"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562406"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8455</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005016"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008231"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001868"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009869"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009360"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004716"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001891"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006849"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009092"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004714"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006082"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009443"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006082"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004679"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009877"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015576"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002639"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008844"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013498"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014136"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010883"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014135"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010016"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014820"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003608"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011472"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001190"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004890"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001433"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006963"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009644"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053099"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005534"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007035"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010421"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006322"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.792</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001860"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006505"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003433"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007011"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003503"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007037"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001869"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010195"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010994"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000334"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005419"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D034141"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013365"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010871"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005293"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018149"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000195"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006996"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011405"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009395"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.774</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009589"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013106"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002728"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C535563"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8366</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003441"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C538138"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8366</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009043"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C538110"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8366</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002531"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000707"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006316"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009318"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002666"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006929"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002667"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006994"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001845"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007249"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009877"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D057091"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006223"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562401"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006372"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010927"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002016"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010048"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005159"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053714"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002962"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011507"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005156"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018476"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001208"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001768"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001875"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009920"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009825"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003320"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005441"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053565"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002830"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002769"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003266"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015529"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005011"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004802"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000702"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000072281"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009906"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008260"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009153"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010190"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8075</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004143"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009128"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001116"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007006"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003587"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014517"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000218"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007964"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8075</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002081"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D066087"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8272</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013466"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C531719"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8272</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001762"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004231"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8265</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001954"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004417"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002842"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006973"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0010475"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D063748"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0004086"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006323"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002628"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005234"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002032"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012509"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000757"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020139"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003949"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D050171"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0011854"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001929"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003233"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008133"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0003233"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D029597"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005567"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007019"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002013"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018296"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8075</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0013291"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C536003"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8178</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000694"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C563028"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8178</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0000851"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/C562568"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8178</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0005202"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D064348"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.817</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0009481"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053706"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8075</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002196"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D061085"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8075</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002038"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002277"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006325"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D034381"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001921"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007246"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.76</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002843"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007022"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.792</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0001319"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015875"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0006310"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012175"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.798</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.obolibrary.org/obo/MP_0002633"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014339"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.765</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

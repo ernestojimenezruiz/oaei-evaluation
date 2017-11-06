@@ -1,126 +1,202 @@
 Vote 2
-	Mappings: 878
+	Mappings: 1066
 	Families:
-		AML: 97.6%
-		BioPortal: 42.1%
-		DisMatch: 74.9%
-		LogMap: 74.4%
-		ONTOEMMA: 52.3%
-		XMap: 56.0%
-		YAM: 45.9%
+		AML: 84.4%
+		BioPortal: 34.8%
+		DisMatch: 70.8%
+		KEPLER: 59.8%
+		LogMap: 62.0%
+		ONTOEMMA: 43.1%
+		POMAP: 72.6%
+		XMap: 46.4%
+		YAM: 37.8%
 	Systems:
-		AML: 97.6%
-		BioPortal: 42.1%
-		DisMatch_ar: 73.7%
-		DisMatch_sg: 73.6%
-		DisMatch_tr: 73.7%
-		LogMap: 69.0%
-		LogMapBio: 73.0%
-		LogMapLite: 44.1%
-		ONTOEMMA: 52.3%
-		XMap: 56.0%
-		YAM-BIO: 45.9%
+		AML: 84.4%
+		BioPortal: 34.8%
+		DisMatch_ar: 69.1%
+		DisMatch_sg: 68.9%
+		DisMatch_tr: 69.3%
+		KEPLER: 59.8%
+		LogMap: 57.4%
+		LogMapBio: 60.9%
+		LogMapLite: 36.3%
+		ONTOEMMA: 43.1%
+		POMAP: 72.6%
+		XMap: 46.4%
+		YAM-BIO: 37.8%
 
 Vote 3
-	Mappings: 562
+	Mappings: 767
 	Families:
-		AML: 99.3%
-		BioPortal: 64.8%
-		DisMatch: 85.4%
-		LogMap: 96.1%
-		ONTOEMMA: 80.8%
-		XMap: 82.0%
-		YAM: 71.7%
+		AML: 94.4%
+		BioPortal: 48.1%
+		DisMatch: 76.4%
+		KEPLER: 70.8%
+		LogMap: 81.9%
+		ONTOEMMA: 59.7%
+		POMAP: 88.7%
+		XMap: 60.8%
+		YAM: 52.5%
 	Systems:
-		AML: 99.3%
-		BioPortal: 64.8%
-		DisMatch_ar: 83.8%
-		DisMatch_sg: 84.2%
-		DisMatch_tr: 84.7%
-		LogMap: 90.4%
-		LogMapBio: 94.0%
-		LogMapLite: 68.9%
-		ONTOEMMA: 80.8%
-		XMap: 82.0%
-		YAM-BIO: 71.7%
+		AML: 94.4%
+		BioPortal: 48.1%
+		DisMatch_ar: 75.0%
+		DisMatch_sg: 74.8%
+		DisMatch_tr: 75.1%
+		KEPLER: 70.8%
+		LogMap: 77.1%
+		LogMapBio: 80.3%
+		LogMapLite: 50.5%
+		ONTOEMMA: 59.7%
+		POMAP: 88.7%
+		XMap: 60.8%
+		YAM-BIO: 52.5%
 
 Vote 4
-	Mappings: 474
+	Mappings: 578
 	Families:
-		AML: 99.8%
-		BioPortal: 75.9%
-		DisMatch: 92.2%
-		LogMap: 99.4%
-		ONTOEMMA: 90.3%
-		XMap: 90.7%
-		YAM: 83.8%
+		AML: 98.4%
+		BioPortal: 63.3%
+		DisMatch: 86.3%
+		KEPLER: 81.5%
+		LogMap: 92.2%
+		ONTOEMMA: 77.9%
+		POMAP: 94.5%
+		XMap: 78.4%
+		YAM: 69.7%
 	Systems:
-		AML: 99.8%
-		BioPortal: 75.9%
-		DisMatch_ar: 90.7%
-		DisMatch_sg: 91.1%
-		DisMatch_tr: 91.6%
-		LogMap: 95.4%
-		LogMapBio: 96.8%
-		LogMapLite: 81.2%
-		ONTOEMMA: 90.3%
-		XMap: 90.7%
-		YAM-BIO: 83.8%
+		AML: 98.4%
+		BioPortal: 63.3%
+		DisMatch_ar: 84.8%
+		DisMatch_sg: 84.8%
+		DisMatch_tr: 84.9%
+		KEPLER: 81.5%
+		LogMap: 87.7%
+		LogMapBio: 90.1%
+		LogMapLite: 67.0%
+		ONTOEMMA: 77.9%
+		POMAP: 94.5%
+		XMap: 78.4%
+		YAM-BIO: 69.7%
 
 Vote 5
-	Mappings: 386
+	Mappings: 489
 	Families:
-		AML: 99.7%
-		BioPortal: 92.5%
-		DisMatch: 100.0%
-		LogMap: 99.7%
-		ONTOEMMA: 98.4%
-		XMap: 99.2%
-		YAM: 95.3%
+		AML: 99.4%
+		BioPortal: 73.8%
+		DisMatch: 92.0%
+		KEPLER: 87.7%
+		LogMap: 98.6%
+		ONTOEMMA: 87.7%
+		POMAP: 95.5%
+		XMap: 87.5%
+		YAM: 82.2%
 	Systems:
-		AML: 99.7%
-		BioPortal: 92.5%
-		DisMatch_ar: 98.7%
-		DisMatch_sg: 99.7%
-		DisMatch_tr: 99.7%
-		LogMap: 95.3%
-		LogMapBio: 96.6%
-		LogMapLite: 94.0%
-		ONTOEMMA: 98.4%
-		XMap: 99.2%
-		YAM-BIO: 95.3%
+		AML: 99.4%
+		BioPortal: 73.8%
+		DisMatch_ar: 90.6%
+		DisMatch_sg: 91.0%
+		DisMatch_tr: 91.4%
+		KEPLER: 87.7%
+		LogMap: 94.7%
+		LogMapBio: 96.1%
+		LogMapLite: 78.9%
+		ONTOEMMA: 87.7%
+		POMAP: 95.5%
+		XMap: 87.5%
+		YAM-BIO: 82.2%
 
 Vote 6
-	Mappings: 362
+	Mappings: 416
+	Families:
+		AML: 99.8%
+		BioPortal: 86.3%
+		DisMatch: 99.0%
+		KEPLER: 96.9%
+		LogMap: 99.8%
+		ONTOEMMA: 92.8%
+		POMAP: 96.6%
+		XMap: 93.5%
+		YAM: 93.3%
+	Systems:
+		AML: 99.8%
+		BioPortal: 86.3%
+		DisMatch_ar: 97.8%
+		DisMatch_sg: 98.8%
+		DisMatch_tr: 98.8%
+		KEPLER: 96.9%
+		LogMap: 95.7%
+		LogMapBio: 96.9%
+		LogMapLite: 90.9%
+		ONTOEMMA: 92.8%
+		POMAP: 96.6%
+		XMap: 93.5%
+		YAM-BIO: 93.3%
+
+Vote 7
+	Mappings: 372
 	Families:
 		AML: 99.7%
+		BioPortal: 96.0%
+		DisMatch: 100.0%
+		KEPLER: 100.0%
+		LogMap: 99.7%
+		ONTOEMMA: 98.4%
+		POMAP: 96.5%
+		XMap: 99.5%
+		YAM: 98.7%
+	Systems:
+		AML: 99.7%
+		BioPortal: 96.0%
+		DisMatch_ar: 99.2%
+		DisMatch_sg: 100.0%
+		DisMatch_tr: 100.0%
+		KEPLER: 100.0%
+		LogMap: 95.2%
+		LogMapBio: 96.5%
+		LogMapLite: 97.3%
+		ONTOEMMA: 98.4%
+		POMAP: 96.5%
+		XMap: 99.5%
+		YAM-BIO: 98.7%
+
+Vote 8
+	Mappings: 361
+	Families:
+		AML: 100.0%
 		BioPortal: 98.6%
 		DisMatch: 100.0%
+		KEPLER: 100.0%
 		LogMap: 99.7%
 		ONTOEMMA: 99.2%
+		POMAP: 96.7%
 		XMap: 100.0%
 		YAM: 100.0%
 	Systems:
-		AML: 99.7%
+		AML: 100.0%
 		BioPortal: 98.6%
 		DisMatch_ar: 99.2%
 		DisMatch_sg: 100.0%
 		DisMatch_tr: 100.0%
+		KEPLER: 100.0%
 		LogMap: 95.0%
 		LogMapBio: 96.4%
 		LogMapLite: 99.2%
 		ONTOEMMA: 99.2%
+		POMAP: 96.7%
 		XMap: 100.0%
 		YAM-BIO: 100.0%
 
-Vote 7
-	Mappings: 352
+Vote 9
+	Mappings: 340
 	Families:
 		AML: 100.0%
 		BioPortal: 100.0%
 		DisMatch: 100.0%
+		KEPLER: 100.0%
 		LogMap: 100.0%
 		ONTOEMMA: 100.0%
+		POMAP: 100.0%
 		XMap: 100.0%
 		YAM: 100.0%
 	Systems:
@@ -129,10 +205,12 @@ Vote 7
 		DisMatch_ar: 99.1%
 		DisMatch_sg: 100.0%
 		DisMatch_tr: 100.0%
-		LogMap: 95.5%
-		LogMapBio: 96.9%
+		KEPLER: 100.0%
+		LogMap: 96.8%
+		LogMapBio: 98.2%
 		LogMapLite: 99.4%
 		ONTOEMMA: 100.0%
+		POMAP: 100.0%
 		XMap: 100.0%
 		YAM-BIO: 100.0%
 

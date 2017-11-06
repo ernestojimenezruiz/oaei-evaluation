@@ -21,6 +21,7 @@ import oaei.mappings.SystemMappings;
 import oaei.util.MergedOntology;
 import uk.ac.ox.krr.logmap2.OntologyLoader;
 import uk.ac.ox.krr.logmap2.io.LogOutput;
+import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 import uk.ac.ox.krr.logmap2.oaei.reader.MappingsReaderManager;
 import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
 
@@ -88,7 +89,7 @@ public abstract class AbstractEvaluation {
 				
 				String name = tool_files[i].split(configuration.getFileNamePattern())[0];
 				
-				//Family
+				//TODO: Family. Add to configuration files
 				if (name.startsWith("LogMap"))
 					family = "LogMap";
 				else if (name.startsWith("PhenoM"))
@@ -113,7 +114,11 @@ public abstract class AbstractEvaluation {
 				
 				
 				//Add mappings
-				system_results_map.get(name).setMappings(onto1, onto2, mappingReaderTool.getMappingObjects());
+				//TODO POMAP 2017 mappings have to be revsersed
+				if (name.startsWith("POMAP"))
+					system_results_map.get(name).setMappings(onto1, onto2, reverse(mappingReaderTool.getMappingObjects()));
+				else
+					system_results_map.get(name).setMappings(onto1, onto2, mappingReaderTool.getMappingObjects());
 								
 				
 				//Set family
@@ -133,6 +138,25 @@ public abstract class AbstractEvaluation {
 			}
 		}
 	}
+	
+	private Set<MappingObjectStr> reverse(
+			Set<MappingObjectStr> mappingObjects) {
+
+		//Set<MappingObjectStr> reversedMappings = new HashSet<MappingObjectStr>();
+		
+		String tmp;
+		for (MappingObjectStr mapping : mappingObjects){
+			tmp = mapping.getIRIStrEnt1();
+			mapping.setIRIStrEnt1(mapping.getIRIStrEnt2());
+			mapping.setIRIStrEnt2(tmp);
+			
+			//mapping.setIRIStrEnt1(iri1)
+			//reversedMappings.add(new MappingObjectStr());
+		}
+		
+		return mappingObjects;
+	}
+
 	
 	
 	protected  void loadReferenceMappings() throws Exception{
