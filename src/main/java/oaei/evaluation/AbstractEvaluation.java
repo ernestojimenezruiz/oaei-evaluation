@@ -89,6 +89,9 @@ public abstract class AbstractEvaluation {
 				
 				String name = tool_files[i].split(configuration.getFileNamePattern())[0];
 				
+				if (name.contains("2016"))
+					continue;
+				
 				//TODO: Family. Add to configuration files
 				if (name.startsWith("LogMap"))
 					family = "LogMap";
