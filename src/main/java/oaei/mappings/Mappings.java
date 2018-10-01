@@ -18,6 +18,8 @@ import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 import uk.ac.ox.krr.logmap2.reasoning.ReasonerAccess;
 
 /**
+ * 
+ * Structure to keep reference mappings or mappings computed by a system
  *
  * @author ernesto
  * Created on 18 Oct 2017
@@ -138,6 +140,9 @@ public abstract class Mappings {
 	public OWLOntology getMappingsOntology() {
 		return mappingsOntology;
 	}
+
+
+	
 	
 	
 

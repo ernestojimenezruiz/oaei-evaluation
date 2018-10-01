@@ -13,6 +13,8 @@ import java.io.IOException;
 import java.util.Enumeration;
 import java.util.Properties;
 
+import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
+
 /**
  *
  * @author ernesto
@@ -30,6 +32,10 @@ public class OAEIConfiguration {
 	
 	//Paths of mappings to be evaluated
 	protected String mappings_path;
+	
+	//Paths of seals logs
+	protected String logs_path="";
+	
 	
 	//Path of the track ontologies
 	protected String ontologies_path;
@@ -58,6 +64,8 @@ public class OAEIConfiguration {
 	//Logical uri onto2
 	protected String onto_uri2;
 	
+	//Reasoner
+	protected int reasoner_id;
 	
 	public OAEIConfiguration(){
 		
@@ -81,6 +89,10 @@ public class OAEIConfiguration {
 	
 	public String getMappingsPath(){
 		return mappings_path;
+	}
+	
+	public String getLogsPath(){
+		return logs_path;
 	}
 	
 	
@@ -124,6 +136,10 @@ public class OAEIConfiguration {
 		return onto_uri2;
 	}
 	
+	public int getResonerID() {
+		return reasoner_id;
+	}
+	
 	
 	protected void loadConfiguration() throws IOException{
 	
@@ -162,7 +178,12 @@ public class OAEIConfiguration {
 									
 			mappings_path = base_path + properties.getProperty("mappings_path");
 			
-			ontologies_path = base_path + properties.getProperty("ontologies_path");
+			if(properties.containsKey("logs_path"))
+				logs_path = base_path + properties.getProperty("logs_path");
+			
+			//ontologies_path = base_path + properties.getProperty("ontologies_path");
+			
+			ontologies_path = properties.getProperty("ontologies_path");
 			
 			reference_path = base_path + properties.getProperty("reference_path");
 			
@@ -178,15 +199,25 @@ public class OAEIConfiguration {
 			
 			onto_uri1 = properties.getProperty("onto_uri1");
 			
-			onto_uri2 = properties.getProperty("onto_uri2");
+			String reasoner_name;
+			if (properties.containsKey("reasoner")){
+				reasoner_name = properties.getProperty("reasoner");
+				if (reasoner_name.equals("ELK"))
+					reasoner_id = ReasonerManager.ELK;
+				else
+					reasoner_id = ReasonerManager.HERMIT;
+					
+			}
+			else
+				reasoner_id = ReasonerManager.HERMIT;
 			
 			
-			//Enumeration enuKeys = properties.keys();
-			//while (enuKeys.hasMoreElements()) {
-			//	String key = (String) enuKeys.nextElement();
-			//	String value = properties.getProperty(key);
-			//	System.out.println(key + ": " + value);
-			//}
+			/*Enumeration enuKeys = properties.keys();
+			while (enuKeys.hasMoreElements()) {
+				String key = (String) enuKeys.nextElement();
+				String value = properties.getProperty(key);
+				System.out.println(key + ": " + value);
+			}*/
 			
 		}
 		else if (tool_files.length>1){

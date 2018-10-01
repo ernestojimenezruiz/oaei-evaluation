@@ -1,0 +1,161 @@
+>>> Preparing environment ...
+Choosen linking strategy instance: class alod2vecMatcher.MaxGramLeftToRightTokenizer
+Threshold (config file): 0.9
+Number of Threads (config file): 8
+Multi-Threading automatically enabled.
+Starting phase 1: Trivial matches.
+Awaiting Termination of Thread Pools.
+Thread-50 is done.
+Thread-4 is done.
+Thread-2 is done.
+Thread-3 is done.
+Thread-5 is done.
+Thread-6 is done.
+Thread-9 is done.
+Thread-8 is done.
+Thread-7 is done.
+Thread-10 is done.
+Thread-12 is done.
+Thread-15 is done.
+Thread-11 is done.
+Thread-13 is done.
+Thread-14 is done.
+Thread-17 is done.
+Thread-16 is done.
+Thread-18 is done.
+Thread-21 is done.
+Thread-20 is done.
+Thread-22 is done.
+Thread-19 is done.
+Thread-24 is done.
+Thread-25 is done.
+Thread-23 is done.
+Thread-26 is done.
+Thread-27 is done.
+Thread-29 is done.
+Thread-31 is done.
+Thread-30 is done.
+Thread-33 is done.
+Thread-32 is done.
+Thread-28 is done.
+Thread-34 is done.
+Thread-35 is done.
+Thread-36 is done.
+Thread-37 is done.
+Thread-38 is done.
+Thread-39 is done.
+Thread-40 is done.
+Thread-41 is done.
+Thread-44 is done.
+Thread-43 is done.
+Thread-42 is done.
+Thread-46 is done.
+Thread-45 is done.
+Thread-49 is done.
+Thread-48 is done.
+Thread-47 is done.
+Thread Pools completed.
+Starting phase 2: Non-trivial matches.
+Progress: 1.0000000035229832%
+Progress: 2.0000000070459665%
+Progress: 3.0000000105689493%
+Progress: 4.000000014091933%
+Progress: 5.000000017614916%
+Progress: 6.0000000211378985%
+Progress: 7.000000024660882%
+Progress: 8.000000028183866%
+Progress: 9.000000031706849%
+Progress: 10.000000035229831%
+Progress: 11.000000038752814%
+Progress: 12.000000042275797%
+Progress: 13.000000045798782%
+Progress: 14.000000049321764%
+Progress: 15.000000052844747%
+Progress: 16.000000056367732%
+Progress: 17.000000059890713%
+Progress: 18.000000063413697%
+Progress: 19.000000066936682%
+Progress: 20.000000070459663%
+Progress: 21.000000073982648%
+Progress: 22.00000007750563%
+Progress: 23.000000081028613%
+Progress: 24.000000084551594%
+Progress: 25.000000088074582%
+Progress: 26.000000091597563%
+Progress: 27.000000095120548%
+Progress: 28.00000009864353%
+Progress: 29.000000102166513%
+Progress: 30.000000105689494%
+Progress: 31.00000010921248%
+Progress: 32.000000112735464%
+Progress: 33.00000011625844%
+Progress: 34.000000119781426%
+Progress: 35.00000012330441%
+Progress: 36.000000126827395%
+Progress: 37.00000013035037%
+Progress: 38.000000133873364%
+Progress: 39.00000013739635%
+Progress: 40.000000140919326%
+Progress: 41.00000014444231%
+Progress: 42.000000147965295%
+Progress: 43.00000015148828%
+Progress: 44.00000015501126%
+Progress: 45.00000015853424%
+Progress: 46.000000162057226%
+Progress: 47.00000016558021%
+Progress: 48.00000016910319%
+Progress: 49.00000017262617%
+Progress: 50.000000176149165%
+Progress: 51.000000003522985%
+Progress: 52.00000000704597%
+Progress: 53.00000001056895%
+Progress: 54.00000001409193%
+Progress: 55.000000017614916%
+Progress: 56.00000002113789%
+Progress: 57.00000002466088%
+Progress: 58.00000002818386%
+Progress: 59.00000003170685%
+Progress: 60.00000003522983%
+Progress: 61.00000003875281%
+Progress: 62.00000004227579%
+Progress: 63.00000004579878%
+Progress: 64.00000004932176%
+Progress: 65.00000005284474%
+Progress: 66.00000005636774%
+Progress: 67.00000005989072%
+Progress: 68.00000006341371%
+Progress: 69.00000006693668%
+Progress: 70.00000007045966%
+Progress: 71.00000007398265%
+Progress: 72.00000007750563%
+Progress: 73.00000008102862%
+Progress: 74.0000000845516%
+Progress: 75.00000008807459%
+Progress: 76.00000009159757%
+Progress: 77.00000009512054%
+Progress: 78.00000009864353%
+Progress: 79.00000010216651%
+Progress: 80.0000001056895%
+Progress: 81.00000010921248%
+Progress: 82.00000011273546%
+Progress: 83.00000011625845%
+Progress: 84.00000011978143%
+Progress: 85.0000001233044%
+Progress: 86.00000012682739%
+Progress: 87.00000013035037%
+Progress: 88.00000013387336%
+Progress: 89.00000013739634%
+Progress: 90.00000014091933%
+Progress: 91.00000014444231%
+Progress: 92.0000001479653%
+Progress: 93.00000015148827%
+Progress: 94.00000015501125%
+Progress: 95.00000015853423%
+Progress: 96.00000016205723%
+Progress: 97.00000016558022%
+Progress: 98.0000001691032%
+Progress: 99.00000017262617%
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.743	0.556	0.636	9209275
+>>> Cleaning up environment...

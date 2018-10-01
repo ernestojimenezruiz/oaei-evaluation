@@ -1,0 +1,148 @@
+>>> Preparing environment ...
+Representative elements: 2601
+Time performing matching with input ontologies O1 and O2 (s): 4.84
+Extracting up to 10 mediating ontologies from BioPortal.
+Necessary number of calls to BioPortal: 70
+UBERON
+	Pos hits: 50
+	Size: 19902
+	Language: OWL
+SYN
+	Pos hits: 45
+	Size: 14462
+	Language: OWL
+OBA
+	Pos hits: 37
+	Size: 17116
+	Language: OWL
+CHEAR
+	Pos hits: 37
+	Size: 49671
+	Language: OWL
+UPHENO
+	Pos hits: 32
+	Size: 86943
+	Language: OWL
+CL
+	Pos hits: 28
+	Size: 6635
+	Language: OWL
+ENVO
+	Pos hits: 28
+	Size: 8511
+	Language: OWL
+BTO
+	Pos hits: 24
+	Size: 5902
+	Language: OBO
+EMAPA
+	Pos hits: 23
+	Size: 8566
+	Language: OWL
+MA
+	Pos hits: 21
+	Size: 3257
+	Language: OBO
+Time extracting Mediating Ontologies (s): 187.319
+Downloading ontology UBERON. Attempt: 1
+
+Time downloading MO 'UBERON' (s): 188.137
+Time matching O1 with MO 'UBERON' (s): 4.761
+Time matching O2 with MO 'UBERON' (s): 5.234
+Time creating composed mappings for'UBERON' (s): 0.0
+
+Time performing composed matching with MO 'UBERON' (s): 0.0
+Composed mappings: 0
+Downloading ontology SYN. Attempt: 1
+
+Time downloading MO 'SYN' (s): 24.996
+Time matching O1 with MO 'SYN' (s): 5.739
+Time matching O2 with MO 'SYN' (s): 6.729
+Time creating composed mappings for'SYN' (s): 0.217
+
+Time performing composed matching with MO 'SYN' (s): 0.217
+Composed mappings: 2601
+Downloading ontology OBA. Attempt: 1
+
+Time downloading MO 'OBA' (s): 86.539
+Time matching O1 with MO 'OBA' (s): 3.902
+Time matching O2 with MO 'OBA' (s): 7.63
+Time creating composed mappings for'OBA' (s): 0.008
+
+Time performing composed matching with MO 'OBA' (s): 0.008
+Composed mappings: 321
+Downloading ontology CHEAR. Attempt: 1
+
+Time downloading MO 'CHEAR' (s): 41.261
+Time matching O1 with MO 'CHEAR' (s): 2.393
+Time matching O2 with MO 'CHEAR' (s): 3.365
+Time creating composed mappings for'CHEAR' (s): 0.0
+
+Time performing composed matching with MO 'CHEAR' (s): 0.0
+Composed mappings: 56
+Downloading ontology UPHENO. Attempt: 1
+
+Time downloading MO 'UPHENO' (s): 1.78
+Time matching O1 with MO 'UPHENO' (s): 0.672
+Time matching O2 with MO 'UPHENO' (s): 1.146
+Time creating composed mappings for'UPHENO' (s): 0.0
+
+Time performing composed matching with MO 'UPHENO' (s): 0.0
+Composed mappings: 0
+Downloading ontology CL. Attempt: 1
+
+Time downloading MO 'CL' (s): 23.559
+Time matching O1 with MO 'CL' (s): 1.825
+Time matching O2 with MO 'CL' (s): 2.529
+Time creating composed mappings for'CL' (s): 0.005
+
+Time performing composed matching with MO 'CL' (s): 0.005
+Composed mappings: 246
+Downloading ontology ENVO. Attempt: 1
+
+Time downloading MO 'ENVO' (s): 40.797
+Time matching O1 with MO 'ENVO' (s): 1.707
+Time matching O2 with MO 'ENVO' (s): 2.474
+Time creating composed mappings for'ENVO' (s): 0.0
+
+Time performing composed matching with MO 'ENVO' (s): 0.0
+Composed mappings: 5
+Downloading ontology BTO. Attempt: 1
+
+Time downloading MO 'BTO' (s): 7.448
+Time matching O1 with MO 'BTO' (s): 1.493
+Time matching O2 with MO 'BTO' (s): 2.714
+Time creating composed mappings for'BTO' (s): 0.01
+
+Time performing composed matching with MO 'BTO' (s): 0.01
+Composed mappings: 649
+Downloading ontology EMAPA. Attempt: 1
+
+Time downloading MO 'EMAPA' (s): 29.123
+Time matching O1 with MO 'EMAPA' (s): 2.174
+Time matching O2 with MO 'EMAPA' (s): 2.548
+Time creating composed mappings for'EMAPA' (s): 0.041
+
+Time performing composed matching with MO 'EMAPA' (s): 0.041
+Composed mappings: 1153
+Downloading ontology MA. Attempt: 1
+
+Time downloading MO 'MA' (s): 1.23
+Time matching O1 with MO 'MA' (s): 1.286
+Time matching O2 with MO 'MA' (s): 1.701
+Time creating composed mappings for'MA' (s): 0.036
+
+Time performing composed matching with MO 'MA' (s): 0.036
+Composed mappings: 1056
+
+Results Composed mappings: 
+
+
+
+Time performing mapping repir (s): 0.464
+Number of total computed mappings: 2776
+LogMap 2 (with BioPortal) total matching time (s): 700.48
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.941	0.902	0.921	700498
+>>> Cleaning up environment...

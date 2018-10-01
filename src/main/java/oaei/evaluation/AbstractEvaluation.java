@@ -7,7 +7,9 @@
 package oaei.evaluation;
 
 import java.io.File;
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 
@@ -18,9 +20,12 @@ import org.semanticweb.owlapi.model.OWLOntologyCreationException;
 import oaei.configuration.OAEIConfiguration;
 import oaei.mappings.ReferenceMappings;
 import oaei.mappings.SystemMappings;
+import oaei.measures.StandardMeasures;
+import oaei.results.Results;
 import oaei.util.MergedOntology;
 import uk.ac.ox.krr.logmap2.OntologyLoader;
 import uk.ac.ox.krr.logmap2.io.LogOutput;
+import uk.ac.ox.krr.logmap2.io.ReadFile;
 import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 import uk.ac.ox.krr.logmap2.oaei.reader.MappingsReaderManager;
 import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
@@ -44,11 +49,14 @@ public abstract class AbstractEvaluation {
 	protected TreeMap<String, SystemMappings> system_results_map = new TreeMap<String, SystemMappings>();
 	protected TreeMap<String, ReferenceMappings> reference_mappings_map = new TreeMap<String, ReferenceMappings>();
 	
+	private Map<MappingObjectStr, Integer> allMappings2votes = new HashMap<MappingObjectStr, Integer>();
+	
 	//To store all entities in relevant mapping and extract modules for these entities
 	//Important to cover entities from the reference alignments
 	protected Set<OWLEntity> signature_for_modules = new HashSet<OWLEntity>();
 	
 	
+	//To be selected from configuration
 	protected int reasonerID = ReasonerManager.HERMIT;
 	
 	protected boolean classifyMergedOntologies = true;
@@ -89,6 +97,11 @@ public abstract class AbstractEvaluation {
 				
 				String name = tool_files[i].split(configuration.getFileNamePattern())[0];
 				
+				name = name.replaceAll("-","");
+				
+				
+				
+				//TODO Change for evaluation...
 				if (name.contains("2016"))
 					continue;
 				
@@ -111,25 +124,37 @@ public abstract class AbstractEvaluation {
 					family = name;
 				
 				
+				long time = extractTimeFromLog(name); //tool_files[i]
+				
+				
 				
 				//Create entry
 				system_results_map.put(name, new SystemMappings(name, tool_files[i]));
 				
 				
 				//Add mappings
-				//TODO POMAP 2017 mappings have to be revsersed
-				if (name.startsWith("POMAP"))
+				//TODO POMAP 2017 mappings have to be reversed
+				if (name.startsWith("POMAP")) {
 					system_results_map.get(name).setMappings(onto1, onto2, reverse(mappingReaderTool.getMappingObjects()));
-				else
+				}
+				else {
 					system_results_map.get(name).setMappings(onto1, onto2, mappingReaderTool.getMappingObjects());
-								
+				}		
+				//Global set of mappings + voting
+				addMappingsToGlobalSet(system_results_map.get(name).getMappingSet());
 				
 				//Set family
 				system_results_map.get(name).setFamily(family);
 				
 				
+				//Set time (ms)
+				system_results_map.get(name).setComputationTime(time);
+				
+				
 				//Entities in mappings
 				signature_for_modules.addAll(system_results_map.get(name).getMappingsOntology().getSignature());
+				
+				
 				
 				
 				
@@ -142,6 +167,120 @@ public abstract class AbstractEvaluation {
 		}
 	}
 	
+	
+	
+	/**
+	 * We keep voting of mappings too
+	 */
+	private void addMappingsToGlobalSet(Set<MappingObjectStr> mappings){
+		
+		for (MappingObjectStr mapping : mappings){
+			
+			if (!allMappings2votes.containsKey(mapping))
+				allMappings2votes.put(mapping, 1);
+			else
+				allMappings2votes.put(mapping, allMappings2votes.get(mapping)+1);
+		
+		}
+		
+	}
+	
+	
+	/**
+	 * Extract computation time from SEALS logs (in ms)
+	 * @param string
+	 * @return
+	 */
+	private long extractTimeFromLog(String tool_name) {
+
+		
+		try {
+			
+			File files = new File(configuration.getLogsPath());
+			String log_files[] = files.list();
+			
+			for(int i=0; i<log_files.length; i++){			
+		
+				//System.out.println(log_files[i] + " " + tool_name);
+				
+				if (log_files[i].contains(configuration.getFileNamePattern())&&
+					log_files[i].contains(tool_name) &&
+					log_files[i].contains("out")){
+				
+					//Log file name
+					String tool_log_file = configuration.getLogsPath() + log_files[i]; 
+							//"out_" + tool_file_name.split(".rdf")[0];
+					
+				
+					//After line starting with >>> Evaluation: read time in next line (4th element):	0.968	0.208	0.342	1185 
+					ReadFile reader = new ReadFile(tool_log_file);
+					
+					String line;
+					String[] elements;
+					
+					line=reader.readLine();
+					boolean isResulstLine=false;
+					
+					
+					
+					while (line!=null) {
+						
+						if (line.startsWith("Precision	Recall	F-measure	Run Time")) { //next line >>> Evaluation:
+							isResulstLine=true;
+							
+						}
+						else if(isResulstLine) {
+							//System.out.println(line);
+							if (line.indexOf("\t")>=0){
+								elements=line.split("\\t");
+								//System.out.println(elements[3]);
+								return Long.valueOf(elements[3]);
+							}
+							
+						}
+							
+						//keep reading
+						line=reader.readLine();
+					
+					}
+				}
+			}
+			return 0;
+			
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+			return -1; //in case of error or missing file
+		}
+		
+		
+	}
+	
+	
+	/**
+	 * Syntactic unique mappings
+	 */
+	protected void createUniqueMappings() {
+		
+		for (String tool_name : system_results_map.navigableKeySet()){
+			
+			for (MappingObjectStr mapping : system_results_map.get(tool_name).getMappingSet()) {
+				
+				//Unique vote
+				if (allMappings2votes.containsKey(mapping) && allMappings2votes.get(mapping)==1) {
+					
+					system_results_map.get(tool_name).addUniqueMapping(mapping);
+					
+				}
+				
+			}
+			
+			
+		}
+		
+	}
+
+
 	private Set<MappingObjectStr> reverse(
 			Set<MappingObjectStr> mappingObjects) {
 
@@ -166,6 +305,7 @@ public abstract class AbstractEvaluation {
 		
 		//Load reference
 		File files = new File(configuration.getReferencesPath());
+		//System.out.println(configuration.getReferencesPath() + files.exists());
 		String ref_files[] = files.list();
 		for(int i=0; i<ref_files.length; i++){
 			
@@ -233,5 +373,73 @@ public abstract class AbstractEvaluation {
 		}
 		
 	}
+	
+	
+	protected void computeMeasures(){
+		
+		//Extract P, R and F
+		for (String tool_name : system_results_map.navigableKeySet()){
+			
+			SystemMappings system = system_results_map.get(tool_name);
+			
+			for (String reference_name : reference_mappings_map.navigableKeySet()){
+				
+				ReferenceMappings reference = reference_mappings_map.get(reference_name);
+				
+				system.addResult(reference_name, new Results(tool_name, reference_name));
+				
+				
+				//Check if unsat: this will affect precision and/or recall
+				
+				//Compute semantic measures
+				/*LogOutput.printAlways("Computing semantic measures for " + tool_name + " against " + reference_name);
+				SemanticMeasures.computeSemanticMeasures(
+						reference.getOWLReasonerMergedOntology(), 
+						system.getOWLReasonerMergedOntology(), 
+						reference.getMappingSet(), system.getMappingSet());
+				
+				
+				//Store results
+				system.getResults().get(reference_name).
+						setSemanticMeasures(SemanticMeasures.getSemanticPrecision(), SemanticMeasures.getSemanticRecall(), SemanticMeasures.getSemanticFscore());
+				*/
+				
+				//Compute standards measures
+				LogOutput.printAlways("Computing standard measures for " + tool_name + " against " + reference_name);
+				StandardMeasures.computeStandardMeasures(
+						system.getHashAlignment(), 
+						reference.getHashAlignment());
+				
+				//Store results
+				system.getResults().get(reference_name).
+						setStandardMeasures(StandardMeasures.getPrecision(), StandardMeasures.getRecall(), StandardMeasures.getFscore());
+												
+			}
+		}
+	}
+	
+	
+	
+	/**
+	 * 
+	 */
+	protected void printResults() {
+
+		int i=0;
+		
+		for (String tool_name : system_results_map.navigableKeySet()){
+					
+			SystemMappings system = system_results_map.get(tool_name);
+		
+			if (i==0){
+				System.out.println(system.getHeaderForResults());
+				i++;
+			}			
+			
+			System.out.println(system.toString());
+		}
+		
+	}
+	
 	
 }

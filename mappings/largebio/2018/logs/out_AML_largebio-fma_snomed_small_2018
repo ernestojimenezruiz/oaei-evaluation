@@ -1,0 +1,81 @@
+>>> Preparing environment ...
+Loading source ontology
+http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0 loaded in 1 seconds
+Classes: 10157
+Individuals: 0
+Properties: 24
+Loading target ontology
+http://www.ihtsdo.org/snomed loaded in 2 seconds
+Classes: 13412
+Individuals: 0
+Properties: 18
+Direct Relationships: 33934
+Running transitive closure on RelationshipMap
+Transitive closure finished in 4 seconds
+Extended Relationships: 540697
+Disjoints: 41
+Reading config.ini file
+Finished!
+Running Lexical Matcher
+Finished in 0 seconds
+Loading mediating ontology doid.owl
+http://purl.obolibrary.org/obo/doid.owl loaded in 2 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/doid.owl
+Finished in 0 seconds
+0.0
+doid.owl discarded
+Loading mediating ontology uberon.owl
+http://purl.obolibrary.org/obo/uberon.owl loaded in 3 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/uberon.owl
+Finished in 0 seconds
+0.06629834254143646
+uberon.owl selected as a mediator
+Running Mediating Matcher using store/knowledge/mesh.lexicon
+Finished in 0 seconds
+mesh.lexicon selected
+Building Word Lexicons
+Running Word Matcher
+Blocks to match: 2x2
+..
+..
+Finished in 3 seconds
+Extending Alignment with String Matcher
+Matching Children & Parents
+Matching Siblings
+Finished in 1 seconds
+Running Spaceless Lexical Matcher
+Finished in 0 seconds
+Running Thesaurus Matcher
+Finished in 19 seconds
+Performing Selection
+Finished in 0 seconds
+Building Repair Map
+Computing list of classes to check
+1) Analyzing multi-parent and disjoint classes
+2) Filtering redundant classes based on descendency
+3) Filtering redundant classes based on ancestry
+4) Analyzing mapped classes
+Finished in 2 seconds
+Core fragments: 14912 classes
+Check list: 5140 classes to check
+Computing ancestor paths
+1) Computing direct paths
+..........
+Direct paths: 15426
+2) Extending paths through mappings with transitive closure
+..........
+Extended paths: 320394
+3) Adding self-relations
+Computed ancestral paths in 9 seconds
+Paths to process: 320394
+Building conflict sets of mappings
+Computed minimal conflict sets in 19 seconds
+Sets of conflicting mappings: 20135
+Repair Map finished in 30 seconds
+Repairing Alignment
+Finished Repair in 0 seconds
+Removed 485 mappings
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.923	0.762	0.835	68956
+>>> Cleaning up environment...

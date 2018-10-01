@@ -15,6 +15,7 @@ import oaei.measures.SemanticMeasures;
 import oaei.measures.StandardMeasures;
 import oaei.results.Results;
 import uk.ac.ox.krr.logmap2.io.LogOutput;
+import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
 
 /**
  *
@@ -30,7 +31,12 @@ public class EvaluateOAEITrack extends AbstractEvaluation{
 		
 		//load configuration
 		configuration = new OAEIConfiguration();
-				
+		
+		
+		//reasoner
+		reasonerID = configuration.getResonerID();
+		
+		
 		//load ontologies
 		loadOntologies();
 		
@@ -40,11 +46,13 @@ public class EvaluateOAEITrack extends AbstractEvaluation{
 		//load systems
 		loadSystemMappings();
 		
+		
 		//Create Merged ontologies
 		createMergedOntologies();
 		
 		//TODO Extract uniqueness (optional)
 		//Store uniqueness files: extended tsv files with labels (others than RDFS:label)?
+		createUniqueMappings();
 		
 		
 		//Compute measures for systems against references
@@ -57,68 +65,9 @@ public class EvaluateOAEITrack extends AbstractEvaluation{
 	
 	
 	
-	private void computeMeasures(){
-		
-		//Extract P, R and F
-		for (String tool_name : system_results_map.navigableKeySet()){
-			
-			SystemMappings system = system_results_map.get(tool_name);
-			
-			for (String reference_name : reference_mappings_map.navigableKeySet()){
-				
-				ReferenceMappings reference = reference_mappings_map.get(reference_name);
-				
-				system.addResult(reference_name, new Results(tool_name, reference_name));
-				
-				
-				//Check if unsat: this will affect precision and/or recall
-				
-				//Compute semantic measures
-				LogOutput.printAlways("Computing semantic measures for " + tool_name + " against " + reference_name);
-				SemanticMeasures.computeSemanticMeasures(
-						reference.getOWLReasonerMergedOntology(), 
-						system.getOWLReasonerMergedOntology(), 
-						reference.getMappingSet(), system.getMappingSet());
-				
-				
-				//Store results
-				system.getResults().get(reference_name).
-						setSemanticMeasures(SemanticMeasures.getSemanticPrecision(), SemanticMeasures.getSemanticRecall(), SemanticMeasures.getSemanticFscore());
-				
-				//Compute standards measures
-				LogOutput.printAlways("Computing standard measures for " + tool_name + " against " + reference_name);
-				StandardMeasures.computeStandardMeasures(
-						system.getHashAlignment(), 
-						reference.getHashAlignment());
-				
-				//Store results
-				system.getResults().get(reference_name).
-						setStandardMeasures(StandardMeasures.getPrecision(), StandardMeasures.getRecall(), StandardMeasures.getFscore());
-												
-			}
-		}
-	}
 	
-	/**
-	 * 
-	 */
-	private void printResults() {
-
-		int i=0;
-		
-		for (String tool_name : system_results_map.navigableKeySet()){
-					
-			SystemMappings system = system_results_map.get(tool_name);
-		
-			if (i==0){
-				System.out.println(system.getHeaderForResults());
-				i++;
-			}			
-			
-			System.out.println(system.toString());
-		}
-		
-	}
+	
+	
 	
 	
 	private void storeResults() {

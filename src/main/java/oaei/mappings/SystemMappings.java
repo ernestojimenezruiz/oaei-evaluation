@@ -7,10 +7,13 @@
 package oaei.mappings;
 
 import java.util.Comparator;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 import java.util.TreeMap;
 
 import oaei.results.Results;
+import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 
 /**
  *
@@ -20,11 +23,11 @@ import oaei.results.Results;
  */
 public class SystemMappings extends Mappings{
 	
-	private double time;
-	
-	private int uniqueMappingsSize;
+	private long time;
 	
 	private String family;
+	
+	private Set<MappingObjectStr> uniqueMappings = new HashSet<MappingObjectStr>();
 	
 	
 	public String getHeaderForResults(){
@@ -44,19 +47,20 @@ public class SystemMappings extends Mappings{
 			append("Size").append(separator).
 			append("Unique").append(separator);
 		
+		//There may be different Reference alignments
 		for (String key : results.navigableKeySet()){
 			
 			builder.append("P").append(separator).
 				append("F").append(separator).
-				append("R").append(separator).
-				append("S-P").append(separator).
-				append("S-F").append(separator).
-				append("S-R").append(separator);
+				append("R").append(separator);
+				//append("S-P").append(separator).
+				//append("S-F").append(separator).
+				//append("S-R").append(separator);
 			
 		}
 			
 			
-		builder.append(getUnsatisfiableClassesSize()).append(separator).
+		builder.append("Unsat.").append(separator).
 			append("File nanme");//.append("\n");
 		
 		
@@ -80,7 +84,7 @@ public class SystemMappings extends Mappings{
 	/**
 	 * @return the time
 	 */
-	public double getComputationTime() {
+	public long getComputationTime() {
 		return time;
 	}
 
@@ -88,7 +92,7 @@ public class SystemMappings extends Mappings{
 	/**
 	 * @param time the time to set
 	 */
-	public void setComputationTime(double time) {
+	public void setComputationTime(long time) {
 		this.time = time;
 	}
 	
@@ -109,10 +113,10 @@ public class SystemMappings extends Mappings{
 			
 			builder.append(results.get(key).getPrecision()).append(separator).
 				append(results.get(key).getFscore()).append(separator).
-				append(results.get(key).getRecall()).append(separator).
-				append(results.get(key).getSemanticPrecision()).append(separator).
-				append(results.get(key).getSemanticFscore()).append(separator).
-				append(results.get(key).getSemanticRecall()).append(separator);
+				append(results.get(key).getRecall()).append(separator);
+				//append(results.get(key).getSemanticPrecision()).append(separator).
+				//append(results.get(key).getSemanticFscore()).append(separator).
+				//append(results.get(key).getSemanticRecall()).append(separator);
 			
 		}
 			
@@ -146,16 +150,9 @@ public class SystemMappings extends Mappings{
 	 * @return the uniqueMappings
 	 */
 	public int getUniqueMappingsSize() {
-		return uniqueMappingsSize;
+		return uniqueMappings.size();
 	}
 
-
-	/**
-	 * @param uniqueMappings the uniqueMappings to set
-	 */
-	public void setUniqueMappingsSize(int uniqueMappings) {
-		this.uniqueMappingsSize = uniqueMappings;
-	}
 
 
 	/**
@@ -179,7 +176,14 @@ public class SystemMappings extends Mappings{
 	
 	
 	
+	public Set<MappingObjectStr> getUniqueMappings() {
+		return uniqueMappings;
+	}
 
+
+	public void addUniqueMapping(MappingObjectStr uniqueMapping) {
+		this.uniqueMappings.add(uniqueMapping);
+	}
 	
 	
 	

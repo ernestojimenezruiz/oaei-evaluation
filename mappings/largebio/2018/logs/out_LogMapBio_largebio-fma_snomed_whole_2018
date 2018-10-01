@@ -1,0 +1,148 @@
+>>> Preparing environment ...
+Representative elements: 6259
+Time performing matching with input ontologies O1 and O2 (s): 273.9
+Extracting up to 10 mediating ontologies from BioPortal.
+Necessary number of calls to BioPortal: 201
+UBERON
+	Pos hits: 50
+	Size: 19902
+	Language: OWL
+OBA
+	Pos hits: 33
+	Size: 17116
+	Language: OWL
+CHEAR
+	Pos hits: 29
+	Size: 49671
+	Language: OWL
+UPHENO
+	Pos hits: 25
+	Size: 86943
+	Language: OWL
+CL
+	Pos hits: 16
+	Size: 6635
+	Language: OWL
+ENVO
+	Pos hits: 14
+	Size: 8511
+	Language: OWL
+SYN
+	Pos hits: 12
+	Size: 14462
+	Language: OWL
+BTO
+	Pos hits: 11
+	Size: 5902
+	Language: OBO
+EMAPA
+	Pos hits: 9
+	Size: 8566
+	Language: OWL
+CLO
+	Pos hits: 9
+	Size: 41916
+	Language: OWL
+Time extracting Mediating Ontologies (s): 267.527
+Downloading ontology UBERON. Attempt: 1
+
+Time downloading MO 'UBERON' (s): 212.368
+Time matching O1 with MO 'UBERON' (s): 8.548
+Time matching O2 with MO 'UBERON' (s): 5.335
+Time creating composed mappings for'UBERON' (s): 0.0
+
+Time performing composed matching with MO 'UBERON' (s): 0.0
+Composed mappings: 0
+Downloading ontology OBA. Attempt: 1
+
+Time downloading MO 'OBA' (s): 100.095
+Time matching O1 with MO 'OBA' (s): 17.589
+Time matching O2 with MO 'OBA' (s): 54.795
+Time creating composed mappings for'OBA' (s): 0.018
+
+Time performing composed matching with MO 'OBA' (s): 0.018
+Composed mappings: 29
+Downloading ontology CHEAR. Attempt: 1
+
+Time downloading MO 'CHEAR' (s): 31.16
+Time matching O1 with MO 'CHEAR' (s): 7.916
+Time matching O2 with MO 'CHEAR' (s): 42.764
+Time creating composed mappings for'CHEAR' (s): 0.001
+
+Time performing composed matching with MO 'CHEAR' (s): 0.001
+Composed mappings: 28
+Downloading ontology UPHENO. Attempt: 1
+
+Time downloading MO 'UPHENO' (s): 1.934
+Time matching O1 with MO 'UPHENO' (s): 3.757
+Time matching O2 with MO 'UPHENO' (s): 4.601
+Time creating composed mappings for'UPHENO' (s): 0.001
+
+Time performing composed matching with MO 'UPHENO' (s): 0.001
+Composed mappings: 0
+Downloading ontology CL. Attempt: 1
+
+Time downloading MO 'CL' (s): 25.85
+Time matching O1 with MO 'CL' (s): 6.376
+Time matching O2 with MO 'CL' (s): 27.823
+Time creating composed mappings for'CL' (s): 0.001
+
+Time performing composed matching with MO 'CL' (s): 0.002
+Composed mappings: 165
+Downloading ontology ENVO. Attempt: 1
+
+Time downloading MO 'ENVO' (s): 39.271
+Time matching O1 with MO 'ENVO' (s): 5.096
+Time matching O2 with MO 'ENVO' (s): 26.506
+Time creating composed mappings for'ENVO' (s): 0.0
+
+Time performing composed matching with MO 'ENVO' (s): 0.0
+Composed mappings: 2
+Downloading ontology SYN. Attempt: 1
+
+Time downloading MO 'SYN' (s): 25.849
+Time matching O1 with MO 'SYN' (s): 22.14
+Time matching O2 with MO 'SYN' (s): 82.875
+Time creating composed mappings for'SYN' (s): 0.207
+
+Time performing composed matching with MO 'SYN' (s): 0.207
+Composed mappings: 1716
+Downloading ontology BTO. Attempt: 1
+
+Time downloading MO 'BTO' (s): 7.579
+Time matching O1 with MO 'BTO' (s): 8.432
+Time matching O2 with MO 'BTO' (s): 42.887
+Time creating composed mappings for'BTO' (s): 0.016
+
+Time performing composed matching with MO 'BTO' (s): 0.016
+Composed mappings: 514
+Downloading ontology EMAPA. Attempt: 1
+
+Time downloading MO 'EMAPA' (s): 28.499
+Time matching O1 with MO 'EMAPA' (s): 17.384
+Time matching O2 with MO 'EMAPA' (s): 49.503
+Time creating composed mappings for'EMAPA' (s): 0.067
+
+Time performing composed matching with MO 'EMAPA' (s): 0.067
+Composed mappings: 1187
+Downloading ontology CLO. Attempt: 1
+
+Time downloading MO 'CLO' (s): 231.955
+Time matching O1 with MO 'CLO' (s): 28.12
+Time matching O2 with MO 'CLO' (s): 80.335
+Time creating composed mappings for'CLO' (s): 0.01
+
+Time performing composed matching with MO 'CLO' (s): 0.01
+Composed mappings: 211
+
+Results Composed mappings: 
+
+
+
+Time performing mapping repir (s): 43.53
+Number of total computed mappings: 6471
+LogMap 2 (with BioPortal) total matching time (s): 1840.238
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.834	0.65	0.731	1840266
+>>> Cleaning up environment...
