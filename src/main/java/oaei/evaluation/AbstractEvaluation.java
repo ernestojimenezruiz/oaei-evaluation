@@ -172,7 +172,7 @@ public abstract class AbstractEvaluation {
 			if (ref_files[i].contains(configuration.getFileNamePattern())){
 			
 				String mappings_file = configuration.getReferencesPath() + ref_files[i];
-				MappingsReaderManager mappingReaderTool = new MappingsReaderManager(mappings_file, MappingsReaderManager.OAEIFormat);
+				MappingsReaderManager mappingReadeReference = new MappingsReaderManager(mappings_file, MappingsReaderManager.OAEIFormat);
 				
 				
 				//TODO reference alignments must follow this pattern too
@@ -184,7 +184,7 @@ public abstract class AbstractEvaluation {
 				
 				
 				//Add mappings
-				reference_mappings_map.get(name).setMappings(onto1, onto2, mappingReaderTool.getMappingObjects());
+				reference_mappings_map.get(name).setMappings(onto1, onto2, mappingReadeReference.getMappingObjects());
 				
 				
 				//Entities in mappings
