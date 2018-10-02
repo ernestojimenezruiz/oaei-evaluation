@@ -65,7 +65,7 @@ public abstract class Mappings {
 		hashAlignment =  new HashAlignment(mappingSet);		
 		mappings_size=mappingSet.size();
 		
-		mappingsOntology= Utilities.createOWLOntologyFromRDFMappings(onto1, onto2, mappings);
+		mappingsOntology= Utilities.createOWLOntologyFromRDFMappings(onto1, onto2, mappingSet);
 		
 		
 	}

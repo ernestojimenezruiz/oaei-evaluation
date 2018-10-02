@@ -103,12 +103,12 @@ public abstract class AbstractEvaluation {
 				name = name.replaceAll("-","");
 				
 				
-				
 				//TODO Change for evaluation...
-				if (name.contains("2016"))
-					continue;
+				//if (name.contains("2016"))
+				//	continue;
 				
 				//TODO: Family. Add to configuration files
+				//For systems with more than one year of results and variants
 				if (name.startsWith("LogMap"))
 					family = "LogMap";
 				else if (name.startsWith("PhenoM"))
@@ -128,6 +128,9 @@ public abstract class AbstractEvaluation {
 				
 				
 				long time = extractTimeFromLog(name); //tool_files[i]
+				
+				//Convert to seconds and round
+				time = Math.round((double)time / (double)1000);;
 				
 				
 				
@@ -507,10 +510,10 @@ public abstract class AbstractEvaluation {
 				System.out.println("<td> - </td>");
 			
 			
-			if (object.getUniqueMappingsSize()>0)
+			//if (object.getUniqueMappingsSize()>0)
 				System.out.format("<td> %,d </td>%n", object.getUniqueMappingsSize());
-			else
-				System.out.println("<td> - </td>");
+			//else
+			//	System.out.println("<td> - </td>");
 			
 			
 			
@@ -531,9 +534,11 @@ public abstract class AbstractEvaluation {
 			if (object.getUnsatisfiableClassesSize()>=0){
 				System.out.format("<td> "+prefix+"%,d </td>", object.getUnsatisfiableClassesSize());
 				//System.out.println("<td class=\"right\">" + object.degreee + "&#37</td> ");
-				if (object.getUnsatisfiableClassesDegree()<0.1)
-					//System.out.format("<td class=\"right\"> %.f&#37</td>", object.degreee);
-					//System.out.println("<td class=\"right\">" + prefix + object.degreee + "&#37</td> ");
+				
+				if ((object.getUnsatisfiableClassesDegree()==0.0))
+					System.out.format("<td class=\"right\"> " + prefix + "%.0f&#37</td>", object.getUnsatisfiableClassesDegree());
+				else if ((object.getUnsatisfiableClassesDegree()*100)<0.1)
+					
 					System.out.format("<td class=\"right\"> " + prefix + "%.3f&#37</td>", object.getUnsatisfiableClassesDegree()*100);
 				else
 					System.out.format("<td class=\"right\"> " + prefix + "%.1f&#37</td>", object.getUnsatisfiableClassesDegree()*100);
@@ -556,7 +561,100 @@ public abstract class AbstractEvaluation {
 		System.out.println("</table>");
 		
 		
+	}
+	
+	
+	protected void printLatex() {
 		
+		
+		TreeSet<SystemMappings> orderedSystemMappings = 
+				new TreeSet<SystemMappings>(new SystemMappingsComparator());
+		
+		orderedSystemMappings.addAll(system_results_map.values());
+		
+		
+		
+		//Print header
+		
+		
+		
+		Iterator<SystemMappings> it = orderedSystemMappings.iterator();
+		SystemMappings object;
+		
+		
+		String prefix;
+		
+		
+		
+		while (it.hasNext()){
+			
+			
+			object = it.next();
+			
+			System.out.println("{\\small\\sf " + object.getName() + " }");
+			
+			
+			//http://docs.oracle.com/javase/tutorial/java/data/numberformat.html
+			
+			System.out.format("& %,d", object.getComputationTime());
+			
+			if (object.getMappingsSize()>0)
+				System.out.format("& %,d %n", object.getMappingsSize());
+			else
+				System.out.println("& - ");
+			
+			
+			System.out.format("& %,d %n", object.getUniqueMappingsSize());
+			
+			
+			for (String key : object.getResults().keySet()) {
+				System.out.format("& %.2f", object.getResults().get(key).getPrecision());
+				System.out.format("& %.2f", object.getResults().get(key).getFscore());
+				System.out.format("& %.2f%n", object.getResults().get(key).getRecall());
+			}
+						
+			prefix = "";
+			if (!object.isReasonerComplete()){
+				prefix = "$\\geq$";
+			}
+			
+			
+			if (object.getUnsatisfiableClassesSize()>=0){
+				System.out.format("& "+prefix+"%,d", object.getUnsatisfiableClassesSize());
+
+				if (object.getUnsatisfiableClassesDegree()==0.0){
+					
+					System.out.println("& " + prefix + object.getUnsatisfiableClassesDegree() + "\\%");
+//					System.out.format("& " + prefix + "%.0f", object.degreee);
+//					System.out.print("\\%");
+				}
+				else if ((object.getUnsatisfiableClassesDegree()*100)<0.1){
+					//System.out.println("& " + prefix + object.degreee + "\\%");
+					System.out.format("& " + prefix + "%.3f", object.getUnsatisfiableClassesDegree()*100);
+					System.out.print("\\%");
+				}
+				else{
+					System.out.format("& " + prefix + "%.1f", object.getUnsatisfiableClassesDegree()*100);
+					System.out.print("\\%");
+				}
+				
+				
+				
+				
+			}
+			else{//for tests
+				System.out.print("& - ");
+				System.out.println("& - ");
+			}
+			
+			System.out.println("\\\\");
+			System.out.println("\n");
+			
+			
+		}
+		
+		
+		//Print ctable closing
 		
 		
 	}

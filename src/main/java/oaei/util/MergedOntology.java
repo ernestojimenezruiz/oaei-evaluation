@@ -88,6 +88,8 @@ public class MergedOntology {
 		axioms.addAll(onto2_ax);
 		axioms.addAll(mappings_ax);
 		
+		//System.out.println(onto1_ax.size() + " " + onto2_ax.size()  + "  " + mappings_ax.size());
+		
 		managerMerged = SynchronizedOWLManager.createOWLOntologyManager();
 		
 		if (extractModules){
@@ -134,6 +136,8 @@ public class MergedOntology {
 			mergedReasoner = new ELKAccess(managerMerged, mergedOntology, usefactory);
 		
 		mergedReasoner.classifyOntology(false);
+		
+		//System.out.println(mergedOntology.getAxiomCount() + "  " + mergedReasoner.getUnsatisfiableClasses().size());
 		
 		long fin = Calendar.getInstance().getTimeInMillis();
 		LogOutput.printAlways("\tReasoning time (s): " + (float)((double)fin-(double)init)/1000.0);

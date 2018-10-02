@@ -43,7 +43,7 @@ public class SystemMappings extends Mappings{
 		
 		
 		builder.append("System").append(separator).
-			append("Time (ms)").append(separator).
+			append("Time (s)").append(separator).
 			append("Size").append(separator).
 			append("Unique").append(separator);
 		

@@ -28,8 +28,14 @@ public class Utilities {
 		
 		for (MappingObjectStr mapping : mappings){			
 			
-				if (onto1.containsClassInSignature(IRI.create(mapping.getIRIStrEnt1()), true)
-					&& onto2.containsClassInSignature(IRI.create(mapping.getIRIStrEnt2()), true)) {
+				//Reverse cases too			
+				if (
+					(onto1.containsClassInSignature(IRI.create(mapping.getIRIStrEnt1()), true)
+					&& onto2.containsClassInSignature(IRI.create(mapping.getIRIStrEnt2()), true))
+					||
+					(onto1.containsClassInSignature(IRI.create(mapping.getIRIStrEnt2()), true)
+					&& onto2.containsClassInSignature(IRI.create(mapping.getIRIStrEnt1()), true))
+					) {
 					
 					owlOutput.addClassMapping2Output(
 							mapping.getIRIStrEnt1(), 
@@ -39,8 +45,13 @@ public class Utilities {
 					
 					
 				}
-				else if (onto1.containsObjectPropertyInSignature(IRI.create(mapping.getIRIStrEnt1()), true)
-						&& onto2.containsObjectPropertyInSignature(IRI.create(mapping.getIRIStrEnt2()), true)) {
+				else if (
+						(onto1.containsObjectPropertyInSignature(IRI.create(mapping.getIRIStrEnt1()), true)
+						&& onto2.containsObjectPropertyInSignature(IRI.create(mapping.getIRIStrEnt2()), true))
+						||
+						(onto1.containsObjectPropertyInSignature(IRI.create(mapping.getIRIStrEnt2()), true)
+						&& onto2.containsObjectPropertyInSignature(IRI.create(mapping.getIRIStrEnt1()), true))
+						) {
 					
 					owlOutput.addObjPropMapping2Output(
 							mapping.getIRIStrEnt1(), 
@@ -52,8 +63,13 @@ public class Utilities {
 					
 				
 				}
-				else if (onto1.containsDataPropertyInSignature(IRI.create(mapping.getIRIStrEnt1()), true)
-					&& onto2.containsDataPropertyInSignature(IRI.create(mapping.getIRIStrEnt2()), true)) {
+				else if (
+						(onto1.containsDataPropertyInSignature(IRI.create(mapping.getIRIStrEnt1()), true)
+						&& onto2.containsDataPropertyInSignature(IRI.create(mapping.getIRIStrEnt2()), true))
+						||
+						(onto1.containsDataPropertyInSignature(IRI.create(mapping.getIRIStrEnt2()), true)
+						&& onto2.containsDataPropertyInSignature(IRI.create(mapping.getIRIStrEnt1()), true))
+						){
 					
 					owlOutput.addDataPropMapping2Output(
 							mapping.getIRIStrEnt1(), 
@@ -64,9 +80,14 @@ public class Utilities {
 					
 				}
 				
-				else if (onto1.containsIndividualInSignature(IRI.create(mapping.getIRIStrEnt1()), true)
-						&& onto2.containsIndividualInSignature(IRI.create(mapping.getIRIStrEnt2()), true)) {
-					
+				else if (
+						(onto1.containsIndividualInSignature(IRI.create(mapping.getIRIStrEnt1()), true)
+						&& onto2.containsIndividualInSignature(IRI.create(mapping.getIRIStrEnt2()), true)) 
+						||
+						(onto1.containsIndividualInSignature(IRI.create(mapping.getIRIStrEnt2()), true)
+						&& onto2.containsIndividualInSignature(IRI.create(mapping.getIRIStrEnt1()), true))
+						){
+						
 					owlOutput.addInstanceMapping2Output(
 							mapping.getIRIStrEnt1(), 
 							mapping.getIRIStrEnt2(), 
