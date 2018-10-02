@@ -7,11 +7,14 @@
 package oaei.evaluation;
 
 import java.io.File;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
+import java.util.TreeSet;
 
 import org.semanticweb.owlapi.model.OWLEntity;
 import org.semanticweb.owlapi.model.OWLOntology;
@@ -60,7 +63,7 @@ public abstract class AbstractEvaluation {
 	protected int reasonerID = ReasonerManager.HERMIT;
 	
 	protected boolean classifyMergedOntologies = true;
-	protected boolean extractModules = true; 
+	protected boolean extractModules = false; 
 	
 	
 
@@ -440,6 +443,154 @@ public abstract class AbstractEvaluation {
 		}
 		
 	}
+	
+	
+	
+	
+	protected void printHTML() {
+		
+		TreeSet<SystemMappings> orderedSystemMappings = 
+				new TreeSet<SystemMappings>(new SystemMappingsComparator());
+		
+		orderedSystemMappings.addAll(system_results_map.values());
+		
+		
+		
+		//HEADER
+		System.out.println("<table cellpadding=\"4\" cellspacing=\"0\">");
+		System.out.println("");
+		System.out.println("<tr class=\"header\">");
+		System.out.println("<td  class=\"header\" rowspan=\"2\"> System </td>");
+		System.out.println("<td  class=\"header\" rowspan=\"2\" colspan=\"1\"> Time (s) </td>");
+		System.out.println("<td  class=\"header\" rowspan=\"2\" colspan=\"1\"> # Mappings </td> </td>");
+		System.out.println("<td  class=\"header\" rowspan=\"2\" colspan=\"1\"> # Unique </td> </td>");
+		System.out.println("<td  class=\"header\" colspan=\"3\"> Scores </td>");
+		System.out.println("<td  class=\"header\" colspan=\"2\"> Incoherence Analysis</td>");
+		System.out.println("</tr>");
+
+
+		System.out.println("<tr class=\"header\">");
+		System.out.println("<td  class=\"header\"> Precision </td><td  class=\"header\"> &nbsp;Recall&nbsp; </td> <td  class=\"header\"> F-measure </td>"); 
+		System.out.println("<td  class=\"header\"> Unsat.</td> <td  class=\"header\"> Degree </td>"); 
+		System.out.println("</tr>");
+		System.out.println("");
+		
+		
+		
+		
+		
+		Iterator<SystemMappings> it = orderedSystemMappings.iterator();
+		SystemMappings object;
+		
+		//odd or even
+		String type_line;
+		int i=1;
+		
+		String prefix;
+		
+		while (it.hasNext()){
+			
+			object = it.next();
+			
+			
+			if ( i % 2 == 0 ) { type_line="even"; } else { type_line="odd"; }
+			
+			System.out.println("<tr class=\""+ type_line + "\">");
+			
+			System.out.println("<td class=\"text\">"+object.getName()+"</td>");
+			
+			//http://docs.oracle.com/javase/tutorial/java/data/numberformat.html
+			System.out.format("<td> %,d </td>", object.getComputationTime());
+			if (object.getMappingsSize()>0)
+				System.out.format("<td> %,d </td>%n", object.getMappingsSize());
+			else
+				System.out.println("<td> - </td>");
+			
+			
+			if (object.getUniqueMappingsSize()>0)
+				System.out.format("<td> %,d </td>%n", object.getUniqueMappingsSize());
+			else
+				System.out.println("<td> - </td>");
+			
+			
+			
+			for (String key : object.getResults().keySet()) {
+				System.out.format("<td> %.3f </td> ", object.getResults().get(key).getPrecision());
+				System.out.format("<td> %.3f </td> ", object.getResults().get(key).getRecall());
+				System.out.format("<td class=\"bold\"> %.3f </td>%n", object.getResults().get(key).getFscore());
+			}
+			
+			//System.out.println("<td>" + object.unsat + "</td> ");
+			
+			prefix = "";
+			if (!object.isReasonerComplete()){
+				prefix = "&ge;";
+			}
+			
+			
+			if (object.getUnsatisfiableClassesSize()>=0){
+				System.out.format("<td> "+prefix+"%,d </td>", object.getUnsatisfiableClassesSize());
+				//System.out.println("<td class=\"right\">" + object.degreee + "&#37</td> ");
+				if (object.getUnsatisfiableClassesDegree()<0.1)
+					//System.out.format("<td class=\"right\"> %.f&#37</td>", object.degreee);
+					//System.out.println("<td class=\"right\">" + prefix + object.degreee + "&#37</td> ");
+					System.out.format("<td class=\"right\"> " + prefix + "%.3f&#37</td>", object.getUnsatisfiableClassesDegree()*100);
+				else
+					System.out.format("<td class=\"right\"> " + prefix + "%.1f&#37</td>", object.getUnsatisfiableClassesDegree()*100);
+			}
+			else{
+				System.out.print("<td> - </td>");
+				System.out.println("<td> - </td>");
+			}
+			System.out.println("</tr>");
+			
+			System.out.println("\n");
+			
+			i++;
+		
+		}
+		
+		//Closing table
+		System.out.println("");
+		System.out.println("<caption><b>Table X:</b> Results for the largebio task X.</caption>");
+		System.out.println("</table>");
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	private class SystemMappingsComparator implements Comparator<SystemMappings> {
+
+		@Override
+		public int compare(SystemMappings s1, SystemMappings s2) {
+			
+			if (s1.getMainFscore() < s2.getMainFscore()){
+				return 1;
+			}
+			else if (s1.getMainFscore() == s2.getMainFscore()){
+				
+				//if (r1.precision < r2.precision){ //do it with unsat
+				if (s1.getUnsatisfiableClassesSize() > s2.getUnsatisfiableClassesSize()){
+					return 1;						
+				}
+				else{
+					return -1;
+				}
+				
+			}
+			else{
+				return -1;
+			}
+		}
+	
+	
+	}	
+	
+	
 	
 	
 }

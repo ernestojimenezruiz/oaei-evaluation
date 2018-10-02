@@ -42,6 +42,8 @@ public class MergedOntology {
 	
 	private OWLOntologyManager managerMerged;
 	
+	private boolean completeReasoner=true;
+	
 	public MergedOntology(OWLOntology onto1, OWLOntology onto2, Set<MappingObjectStr> mappings, boolean extractModules, Set<OWLEntity> signature_for_modules, boolean classify, int reasonerID) throws Exception{
 		this(onto1, onto2, Utilities.createOWLOntologyFromRDFMappings(onto1, onto2, mappings), extractModules, signature_for_modules, classify, reasonerID);
 	}
@@ -57,6 +59,10 @@ public class MergedOntology {
 		if (classify)
 			classifyMergedOntology(reasonerID);
 		
+		if (reasonerID==ReasonerManager.ELK)
+			completeReasoner=false;
+		else
+			completeReasoner=true;
 		
 		
 	}
@@ -131,6 +137,14 @@ public class MergedOntology {
 		
 		long fin = Calendar.getInstance().getTimeInMillis();
 		LogOutput.printAlways("\tReasoning time (s): " + (float)((double)fin-(double)init)/1000.0);
+	}
+
+	public boolean isCompleteReasoner() {
+		return completeReasoner;
+	}
+
+	public void setCompleteReasoner(boolean completeReasoner) {
+		this.completeReasoner = completeReasoner;
 	}
 	
 	

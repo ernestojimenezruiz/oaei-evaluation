@@ -85,6 +85,16 @@ public abstract class Mappings {
 	}
 	
 	
+	public double getUnsatisfiableClassesDegree() {
+		return (double)unsat_classes/(double)getOWLMergedOntology().getClassesInSignature(true).size();
+	}
+	
+	
+	
+	public boolean isReasonerComplete() {
+		return alignedOntology.isCompleteReasoner();
+	}
+	
 	
 	public int getMappingsSize() {
 		return mappings_size;

@@ -135,6 +135,23 @@ public class SystemMappings extends Mappings{
 	public Map<String, Results> getResults() {
 		return results;
 	}
+	
+	
+	
+	/**
+	 * Useful method to order results
+	 * @return
+	 */
+	public double getMainFscore() {
+		//we return the first one
+		for (String key : results.navigableKeySet()){
+			return results.get(key).getFscore();
+		}
+		return 0.0;
+	}
+	
+	
+	
 
 	
 	
