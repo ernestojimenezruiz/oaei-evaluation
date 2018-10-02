@@ -1,0 +1,154 @@
+>>> Preparing environment ...
+Representative elements: 2276
+Time performing matching with input ontologies O1 and O2 (s): 12.743
+Extracting up to 10 mediating ontologies from BioPortal.
+Error accessing: http://data.bioontology.org/ontologies/CSEO/metrics  Attempt: 1
+Error accessing: http://data.bioontology.org/ontologies/CSEO/metrics  Attempt: 2
+Error accessing: http://data.bioontology.org/ontologies/CSEO/metrics  Attempt: 3
+Error accessing: http://data.bioontology.org/ontologies/DERMLEX/submissions  Attempt: 1
+Error accessing: http://data.bioontology.org/ontologies/DERMLEX/submissions  Attempt: 2
+Error accessing: http://data.bioontology.org/ontologies/DERMLEX/submissions  Attempt: 3
+Necessary number of calls to BioPortal: 60
+DOID
+	Pos hits: 48
+	Size: 12694
+	Language: OBO
+HORD
+	Pos hits: 38
+	Size: 29654
+	Language: OWL
+ORDO
+	Pos hits: 38
+	Size: 13871
+	Language: OWL
+EFO
+	Pos hits: 30
+	Size: 22048
+	Language: OWL
+CCONT
+	Pos hits: 28
+	Size: 22080
+	Language: OWL
+BAO
+	Pos hits: 21
+	Size: 7192
+	Language: OWL
+HRDO
+	Pos hits: 19
+	Size: 13539
+	Language: OWL
+DTO
+	Pos hits: 15
+	Size: 10075
+	Language: OWL
+NATPRO
+	Pos hits: 13
+	Size: 9465
+	Language: OWL
+GAMUTS
+	Pos hits: 12
+	Size: 16933
+	Language: OWL
+Time extracting Mediating Ontologies (s): 122.594
+Downloading ontology DOID. Attempt: 1
+
+Time downloading MO 'DOID' (s): 16.954
+Time matching O1 with MO 'DOID' (s): 13.207
+Time matching O2 with MO 'DOID' (s): 10.093
+Time creating composed mappings for'DOID' (s): 0.54
+
+Time performing composed matching with MO 'DOID' (s): 0.54
+Composed mappings: 2347
+Downloading ontology HORD. Attempt: 1
+
+Time downloading MO 'HORD' (s): 29.052
+Time matching O1 with MO 'HORD' (s): 40.786
+Time matching O2 with MO 'HORD' (s): 691.941
+Time creating composed mappings for'HORD' (s): 1.104
+
+Time performing composed matching with MO 'HORD' (s): 1.104
+Composed mappings: 2321
+Downloading ontology ORDO. Attempt: 1
+
+Time downloading MO 'ORDO' (s): 191.74
+Time matching O1 with MO 'ORDO' (s): 11.196
+Time matching O2 with MO 'ORDO' (s): 82.142
+Time creating composed mappings for'ORDO' (s): 1.108
+
+Time performing composed matching with MO 'ORDO' (s): 1.108
+Composed mappings: 2293
+Downloading ontology EFO. Attempt: 1
+
+Time downloading MO 'EFO' (s): 127.497
+Time matching O1 with MO 'EFO' (s): 15.947
+Time matching O2 with MO 'EFO' (s): 23.337
+Time creating composed mappings for'EFO' (s): 0.646
+
+Time performing composed matching with MO 'EFO' (s): 0.646
+Composed mappings: 2038
+Downloading ontology CCONT. Attempt: 1
+
+Time downloading MO 'CCONT' (s): 0.966
+Time matching O1 with MO 'CCONT' (s): 1.997
+Time matching O2 with MO 'CCONT' (s): 3.857
+Time creating composed mappings for'CCONT' (s): 0.0
+
+Time performing composed matching with MO 'CCONT' (s): 0.0
+Composed mappings: 0
+Downloading ontology BAO. Attempt: 1
+
+Time downloading MO 'BAO' (s): 31.037
+Time matching O1 with MO 'BAO' (s): 7.191
+Time matching O2 with MO 'BAO' (s): 8.441
+Time creating composed mappings for'BAO' (s): 0.073
+
+Time performing composed matching with MO 'BAO' (s): 0.073
+Composed mappings: 1053
+Downloading ontology HRDO. Attempt: 1
+
+Time downloading MO 'HRDO' (s): 115.185
+Time matching O1 with MO 'HRDO' (s): 18.884
+Time matching O2 with MO 'HRDO' (s): 39.306
+Time creating composed mappings for'HRDO' (s): 0.712
+
+Time performing composed matching with MO 'HRDO' (s): 0.712
+Composed mappings: 2063
+Downloading ontology DTO. Attempt: 1
+
+Time downloading MO 'DTO' (s): 39.507
+Time matching O1 with MO 'DTO' (s): 6.29
+Time matching O2 with MO 'DTO' (s): 7.497
+Time creating composed mappings for'DTO' (s): 0.03
+
+Time performing composed matching with MO 'DTO' (s): 0.03
+Composed mappings: 560
+Downloading ontology NATPRO. Attempt: 1
+
+Time downloading MO 'NATPRO' (s): 68.986
+Time matching O1 with MO 'NATPRO' (s): 10.694
+Time matching O2 with MO 'NATPRO' (s): 9.811
+Time creating composed mappings for'NATPRO' (s): 0.14
+
+Time performing composed matching with MO 'NATPRO' (s): 0.14
+Composed mappings: 922
+Downloading ontology GAMUTS. Attempt: 1
+
+Time downloading MO 'GAMUTS' (s): 103.369
+Time matching O1 with MO 'GAMUTS' (s): 7.17
+Time matching O2 with MO 'GAMUTS' (s): 9.449
+Time creating composed mappings for'GAMUTS' (s): 0.111
+
+Time performing composed matching with MO 'GAMUTS' (s): 0.111
+Composed mappings: 974
+
+Results Composed mappings: 
+
+
+
+Time performing mapping repir (s): 2.167
+Number of total computed mappings: 2499
+LogMap 2 (with BioPortal) total matching time (s): 1891.0
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.884	0.836	0.859	1891018
+>>> Cleaning up environment...
