@@ -21,6 +21,10 @@ public class ParticipationAndTimes  extends AbstractEvaluation{
 			new TreeSet<ResultObjectTimes>(new ResultObjectComparatorTimes());
 	
 	
+	int num_tasks;
+	
+	
+	
 	public ParticipationAndTimes() throws Exception {
 		
 		//load configuration
@@ -86,6 +90,8 @@ public class ParticipationAndTimes  extends AbstractEvaluation{
 				else
 					task_times.add(Long.valueOf(elements[i]));
 			}
+			
+			num_tasks = task_times.size();
 			
 			//create object
 			orderedObjectsTime.add(
@@ -207,23 +213,10 @@ public class ParticipationAndTimes  extends AbstractEvaluation{
 		
 		
 		
-		//HEADER
-		System.out.println("<table cellpadding=\"4\" cellspacing=\"0\">");
-		System.out.println("<tr class=\"header\">"); 
-		System.out.println("<td  class=\"header\" rowspan=\"2\"  colspan=\"1\"> System </td>"); 
-		System.out.println("<td  class=\"header\" colspan=\"2\"> FMA-NCI </td>");
-		System.out.println("<td  class=\"header\" colspan=\"2\"> FMA-SNOMED </td>"); 
-		System.out.println("<td  class=\"header\" colspan=\"2\"> SNOMED-NCI </td> "); 
-		System.out.println("<td  class=\"header\" rowspan=\"2\"  colspan=\"1\"> Average </td>"); 
-		System.out.println("<td  class=\"header\" rowspan=\"2\"  colspan=\"1\"> # Tasks </td>"); 
-		System.out.println("</tr>");
-		System.out.println("");
-		System.out.println("<tr class=\"header\">"); 
-		System.out.println("<td  class=\"header\"> Task 1 </td><td  class=\"header\"> Task 2 </td>"); 
-		System.out.println("<td  class=\"header\"> Task 3 </td><td  class=\"header\"> Task 4 </td>"); 
-		System.out.println("<td  class=\"header\"> Task 5 </td><td  class=\"header\"> Task 6 </td>"); 
-		System.out.println("</tr>"); 
-
+		//HEADER (optional)
+		//printLargebioHeader();
+		//printPhenotypeHeader();
+		printGenericHeader();
 		
 		
 		
@@ -272,7 +265,7 @@ public class ParticipationAndTimes  extends AbstractEvaluation{
 		//Add summary row?
 		double average_total = 0.0;
 		int completed_total = 0; 
-		int[] num_complete_task = new int[6];
+		int[] num_complete_task = new int[num_tasks];
 		for (int j=0; j<num_complete_task.length; j++){
 			num_complete_task[j]=0;
 		}
@@ -323,13 +316,72 @@ public class ParticipationAndTimes  extends AbstractEvaluation{
 	
 
 
+	private void printGenericHeader() {
+		System.out.println("<table cellpadding=\"4\" cellspacing=\"0\">");
+		System.out.println("<tr class=\"header\">"); 
+		System.out.println("<td  class=\"header\" rowspan=\"1\"  colspan=\"1\"> System </td>"); 
+		
+		for (int i=1; i<=num_tasks; i++)
+			System.out.println("<td  class=\"header\" colspan=\"1\"> Task "+ i + " </td>");
+		
+		System.out.println("<td  class=\"header\" rowspan=\"1\"  colspan=\"1\"> Average </td>"); 
+		System.out.println("<td  class=\"header\" rowspan=\"1\"  colspan=\"1\"> # Tasks </td>"); 
+		System.out.println("</tr>");
+		System.out.println("");
+		
+	}
+
+
+
+	private void printLargebioHeader() {
+		System.out.println("<table cellpadding=\"4\" cellspacing=\"0\">");
+		System.out.println("<tr class=\"header\">"); 
+		System.out.println("<td  class=\"header\" rowspan=\"2\"  colspan=\"1\"> System </td>"); 
+		System.out.println("<td  class=\"header\" colspan=\"2\"> FMA-NCI </td>");
+		System.out.println("<td  class=\"header\" colspan=\"2\"> FMA-SNOMED </td>"); 
+		System.out.println("<td  class=\"header\" colspan=\"2\"> SNOMED-NCI </td> "); 
+		System.out.println("<td  class=\"header\" rowspan=\"2\"  colspan=\"1\"> Average </td>"); 
+		System.out.println("<td  class=\"header\" rowspan=\"2\"  colspan=\"1\"> # Tasks </td>"); 
+		System.out.println("</tr>");
+		System.out.println("");
+		System.out.println("<tr class=\"header\">"); 
+		System.out.println("<td  class=\"header\"> Task 1 </td><td  class=\"header\"> Task 2 </td>"); 
+		System.out.println("<td  class=\"header\"> Task 3 </td><td  class=\"header\"> Task 4 </td>"); 
+		System.out.println("<td  class=\"header\"> Task 5 </td><td  class=\"header\"> Task 6 </td>"); 
+		System.out.println("</tr>"); 
+		
+	}
+
+	
+	
+	private void printPhenotypeHeader() {
+		System.out.println("<table cellpadding=\"4\" cellspacing=\"0\">");
+		System.out.println("<tr class=\"header\">"); 
+		System.out.println("<td  class=\"header\" rowspan=\"1\"  colspan=\"1\"> System </td>"); 
+		System.out.println("<td  class=\"header\" colspan=\"1\"> HP-MP </td>");
+		System.out.println("<td  class=\"header\" colspan=\"1\"> DOID-ORDO </td>"); 
+		System.out.println("<td  class=\"header\" rowspan=\"1\"  colspan=\"1\"> Average </td>"); 
+		System.out.println("<td  class=\"header\" rowspan=\"1\"  colspan=\"1\"> # Tasks </td>"); 
+		System.out.println("</tr>");
+		System.out.println("");
+		
+	}
+
+
+
+
+
+
+
+
 	private class ResultObjectTimes  {
 		
 		public String tool;
 		
 		//Time for each task
 		public List<Long> task_times; //Order: task 1, 2,...,6 
-		public List<Long> task_times2; //Order: forst small tasks: task 1,3,5,2,4,6
+		//Only relevant for largebio
+		//public List<Long> task_times2; //Order: forst small tasks: task 1,3,5,2,4,6
 		public double average_time;
 		public int completed;
 		
@@ -340,7 +392,7 @@ public class ParticipationAndTimes  extends AbstractEvaluation{
 			
 			this.tool = tool;
 			task_times = new ArrayList<Long>(times);
-			task_times2 = new ArrayList<Long>();
+			//task_times2 = new ArrayList<Long>();
 			
 			completed = 0;
 			average_time = 0.0;
@@ -352,12 +404,12 @@ public class ParticipationAndTimes  extends AbstractEvaluation{
 			}
 			
 			
-			task_times2.add(task_times.get(0));
-			task_times2.add(task_times.get(3));
-			task_times2.add(task_times.get(1));
-			task_times2.add(task_times.get(4));
-			task_times2.add(task_times.get(2));
-			task_times2.add(task_times.get(5));
+			//task_times2.add(task_times.get(0));
+			//task_times2.add(task_times.get(3));
+			//task_times2.add(task_times.get(1));
+			//task_times2.add(task_times.get(4));
+			//task_times2.add(task_times.get(2));
+			//task_times2.add(task_times.get(5));
 			
 			average_time = average_time / (double) completed;
 			

@@ -63,7 +63,7 @@ public abstract class AbstractEvaluation {
 	protected int reasonerID = ReasonerManager.HERMIT;
 	
 	protected boolean classifyMergedOntologies = true;
-	protected boolean extractModules = false; 
+	protected boolean extractModules = true; 
 	
 	
 
