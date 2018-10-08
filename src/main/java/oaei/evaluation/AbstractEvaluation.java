@@ -123,7 +123,11 @@ public abstract class AbstractEvaluation {
 					family = "YAM";
 				else if (name.startsWith("FCA_Map"))
 					family = "FCA-Map";
-				else					
+				else if (name.startsWith("KEPLER"))
+					family = "KEPLER";
+				else if (name.startsWith("POMAP"))
+					family = "POMAP";
+				else		
 					family = name;
 				
 				
