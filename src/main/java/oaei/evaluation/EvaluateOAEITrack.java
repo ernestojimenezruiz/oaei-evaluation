@@ -63,6 +63,9 @@ public class EvaluateOAEITrack extends AbstractEvaluation{
 		printResults();
 		System.out.println("\n");
 		printHTML();
+		System.out.println("\n");
+		printLatex();
+		
 	}
 	
 	
