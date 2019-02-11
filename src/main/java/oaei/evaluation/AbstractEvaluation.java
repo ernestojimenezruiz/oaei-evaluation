@@ -121,12 +121,14 @@ public abstract class AbstractEvaluation {
 					family = "XMap";
 				else if (name.startsWith("LYAM") || name.startsWith("YAM"))
 					family = "YAM";
-				else if (name.startsWith("FCA_Map"))
+				else if (name.startsWith("FCA_Map") || name.startsWith("FCAMap"))
 					family = "FCA-Map";
 				else if (name.startsWith("KEPLER"))
 					family = "KEPLER";
 				else if (name.startsWith("POMAP"))
 					family = "POMAP";
+				else if (name.startsWith("DKPAOM"))
+					family = "DKPAOM";
 				else		
 					family = name;
 				
