@@ -15,6 +15,7 @@ import java.util.Properties;
 
 import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
 
+
 /**
  *
  * @author ernesto

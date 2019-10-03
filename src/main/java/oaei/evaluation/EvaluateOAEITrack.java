@@ -18,6 +18,12 @@ import uk.ac.ox.krr.logmap2.io.LogOutput;
 import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
 
 /**
+ * 
+ * Configuration:  It is expected to have a path for mappings, 
+ * a path for logs from OAEI/Seals, and the reference alignments. 
+ * In case of phenotype, the consensus alignment must be created. 
+ * 
+ *
  *
  * @author ernesto
  * Created on 15 Oct 2017

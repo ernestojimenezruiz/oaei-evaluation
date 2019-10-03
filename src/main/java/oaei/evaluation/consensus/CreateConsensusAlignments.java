@@ -25,6 +25,11 @@ import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 /**
  * 
  * Creates consensus mappings for the given configuration
+ * For Phenotype track:
+ * 1. Create consensus for all available mappings sets
+ * 2. Evaluate track against reference alignments
+ * 3. Create times.log
+ * 4. Latex and HTML tables should be created automatically
  *
  * @author ernesto
  * Created on 30 Oct 2017
