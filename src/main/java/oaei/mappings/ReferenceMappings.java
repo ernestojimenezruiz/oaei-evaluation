@@ -6,11 +6,6 @@
  *******************************************************************************/
 package oaei.mappings;
 
-import java.util.Set;
-
-import oaei.util.HashAlignment;
-import oaei.util.MergedOntology;
-import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
 
 /**
  *

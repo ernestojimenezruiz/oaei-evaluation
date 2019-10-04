@@ -13,6 +13,8 @@ import org.semanticweb.owlapi.model.IRI;
 import org.semanticweb.owlapi.model.OWLAnnotationAssertionAxiom;
 import org.semanticweb.owlapi.model.OWLEntity;
 import org.semanticweb.owlapi.model.OWLOntology;
+import org.semanticweb.owlapi.model.parameters.Imports;
+import org.semanticweb.owlapi.search.EntitySearcher;
 
 import oaei.configuration.OAEIConfiguration;
 import oaei.evaluation.AbstractEvaluation;
@@ -276,16 +278,16 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 	 * @return
 	 */
 	private int getMappingType(IRI uri, OWLOntology onto) {
-		if (onto.containsClassInSignature(uri, true)){
+		if (onto.containsClassInSignature(uri, Imports.INCLUDED)){
 			return MappingObjectStr.CLASSES;
 		}
-		else if (onto.containsDataPropertyInSignature(uri, true)){
+		else if (onto.containsDataPropertyInSignature(uri, Imports.INCLUDED)){
 			return MappingObjectStr.DATAPROPERTIES;					
 		}
-		else if (onto.containsObjectPropertyInSignature(uri, true)){
+		else if (onto.containsObjectPropertyInSignature(uri, Imports.INCLUDED)){
 			return MappingObjectStr.OBJECTPROPERTIES;
 		}
-		else if (onto.containsIndividualInSignature(uri, true)){
+		else if (onto.containsIndividualInSignature(uri, Imports.INCLUDED)){
 			return MappingObjectStr.INSTANCES;
 		}
 		else{
@@ -300,16 +302,16 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 		OWLEntity entity;
 		String label=uri.toString();
 		
-		if (onto.containsClassInSignature(uri, true)){
+		if (onto.containsClassInSignature(uri, Imports.INCLUDED)){
 			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLClass(uri);
 		}
-		else if (onto.containsDataPropertyInSignature(uri, true)){
+		else if (onto.containsDataPropertyInSignature(uri, Imports.INCLUDED)){
 			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLDataProperty(uri);					
 		}
-		else if (onto.containsObjectPropertyInSignature(uri, true)){
+		else if (onto.containsObjectPropertyInSignature(uri, Imports.INCLUDED)){
 			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLObjectProperty(uri);
 		}
-		else if (onto.containsIndividualInSignature(uri, true)){
+		else if (onto.containsIndividualInSignature(uri, Imports.INCLUDED)){
 			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLNamedIndividual(uri);
 		}
 		else{
@@ -318,7 +320,8 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 			
 		
 		//Label from accepted annotations
-		for (OWLAnnotationAssertionAxiom annAx : entity.getAnnotationAssertionAxioms(onto)){
+		//for (OWLAnnotationAssertionAxiom annAx : entity.getAnnotationAssertionAxioms(onto)){
+		for (OWLAnnotationAssertionAxiom annAx : EntitySearcher.getAnnotationAssertionAxioms(entity, onto)) {
 			label = annotationExtractor.getSingleLabel(annAx, onto, onto.getOWLOntologyManager().getOWLDataFactory());
 			if (!label.equals(""))
 				return label;

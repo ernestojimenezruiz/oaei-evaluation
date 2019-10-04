@@ -10,7 +10,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FilenameFilter;
 import java.io.IOException;
-import java.util.Enumeration;
 import java.util.Properties;
 
 import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;

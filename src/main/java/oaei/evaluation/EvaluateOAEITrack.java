@@ -9,13 +9,7 @@ package oaei.evaluation;
 
 
 import oaei.configuration.OAEIConfiguration;
-import oaei.mappings.ReferenceMappings;
-import oaei.mappings.SystemMappings;
-import oaei.measures.SemanticMeasures;
-import oaei.measures.StandardMeasures;
-import oaei.results.Results;
-import uk.ac.ox.krr.logmap2.io.LogOutput;
-import uk.ac.ox.krr.logmap2.reasoning.ReasonerManager;
+
 
 /**
  * 
@@ -81,7 +75,7 @@ public class EvaluateOAEITrack extends AbstractEvaluation{
 	
 	
 	
-	private void storeResults() {
+	protected void storeResults() {
 		//TODO
 		
 	}

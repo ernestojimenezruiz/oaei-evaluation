@@ -10,6 +10,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 import org.semanticweb.owlapi.model.OWLOntology;
+import org.semanticweb.owlapi.model.parameters.Imports;
 
 import oaei.util.HashAlignment;
 import oaei.util.MergedOntology;
@@ -86,7 +87,7 @@ public abstract class Mappings {
 	
 	
 	public double getUnsatisfiableClassesDegree() {
-		return (double)unsat_classes/(double)getOWLMergedOntology().getClassesInSignature(true).size();
+		return (double)unsat_classes/(double)getOWLMergedOntology().getClassesInSignature(Imports.INCLUDED).size();
 	}
 	
 	
