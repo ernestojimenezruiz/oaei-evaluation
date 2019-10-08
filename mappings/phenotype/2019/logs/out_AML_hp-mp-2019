@@ -1,0 +1,58 @@
+>>> Preparing environment ...
+Loading source ontology
+http://purl.obolibrary.org/obo/hp.owl loaded in 4 seconds
+Classes: 14911
+Individuals: 0
+Properties: 18
+Loading target ontology
+http://purl.obolibrary.org/obo/mp.owl loaded in 4 seconds
+Classes: 15670
+Individuals: 0
+Properties: 15
+Direct Relationships: 30787
+Running transitive closure on RelationshipMap
+Transitive closure finished in 1 seconds
+Extended Relationships: 240725
+Disjoints: 0
+Reading config.ini file
+Finished!
+Running Direct Cross-Reference Matcher
+Finished in 0 seconds
+Running Lexical Matcher
+Finished in 0 seconds
+Loading mediating ontology doid.owl
+http://purl.obolibrary.org/obo/doid.owl loaded in 2 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/doid.owl
+Finished in 0 seconds
+doid.owl selected as a mediator
+Loading mediating ontology uberon.owl
+http://purl.obolibrary.org/obo/uberon.owl loaded in 3 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/uberon.owl
+Finished in 0 seconds
+uberon.owl discarded
+Running Mediating Matcher using store/knowledge/mesh.lexicon
+Finished in 0 seconds
+mesh.lexicon selected
+Building Word Lexicons
+Running Word Matcher
+Blocks to match: 2x2
+..
+..
+Finished in 5 seconds
+Extending Alignment with String Matcher
+Matching Children & Parents
+Matching Siblings
+Finished in 2 seconds
+Running Spaceless Lexical Matcher
+Finished in 0 seconds
+Running Thesaurus Matcher
+Finished in 62 seconds
+Performing Selection
+Finished in 0 seconds
+Building Repair Map
+Nothing to repair!
+Alignment is coherent
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.884	0.833	0.858	90110
+>>> Cleaning up environment...

@@ -1,0 +1,151 @@
+>>> Preparing environment ...
+Representative elements: 11618
+Time performing matching with input ontologies O1 and O2 (s): 541.76
+Extracting up to 10 mediating ontologies from BioPortal.
+Error accessing: http://data.bioontology.org/ontologies/ODNAE/metrics  Attempt: 1
+Error accessing: http://data.bioontology.org/ontologies/ODNAE/metrics  Attempt: 2
+Error accessing: http://data.bioontology.org/ontologies/ODNAE/metrics  Attempt: 3
+Necessary number of calls to BioPortal: 120
+EFO
+	Pos hits: 36
+	Size: 36711
+	Language: OWL
+CCONT
+	Pos hits: 36
+	Size: 36733
+	Language: OWL
+CSEO
+	Pos hits: 28
+	Size: 20085
+	Language: OWL
+MONDO
+	Pos hits: 26
+	Size: 23585
+	Language: OBO
+UPHENO
+	Pos hits: 22
+	Size: 94403
+	Language: OWL
+DINTO
+	Pos hits: 20
+	Size: 28178
+	Language: OWL
+SYN
+	Pos hits: 20
+	Size: 14462
+	Language: OWL
+GALEN
+	Pos hits: 14
+	Size: 23141
+	Language: OWL
+DOID
+	Pos hits: 14
+	Size: 12694
+	Language: OBO
+RCTV2
+	Pos hits: 14
+	Size: 88854
+	Language: OWL
+Time extracting Mediating Ontologies (s): 302.978
+Downloading ontology EFO. Attempt: 1
+
+Time downloading MO 'EFO' (s): 539.318
+Time matching O1 with MO 'EFO' (s): 523.577
+Time matching O2 with MO 'EFO' (s): 204.956
+Time creating composed mappings for'EFO' (s): 2.075
+
+Time performing composed matching with MO 'EFO' (s): 2.075
+Composed mappings: 6126
+Downloading ontology CCONT. Attempt: 1
+
+Time downloading MO 'CCONT' (s): 7.735
+Time matching O1 with MO 'CCONT' (s): 13.045
+Time matching O2 with MO 'CCONT' (s): 10.232
+Time creating composed mappings for'CCONT' (s): 0.0
+
+Time performing composed matching with MO 'CCONT' (s): 0.0
+Composed mappings: 27
+Downloading ontology CSEO. Attempt: 1
+
+Time downloading MO 'CSEO' (s): 80.904
+Time matching O1 with MO 'CSEO' (s): 151.943
+Time matching O2 with MO 'CSEO' (s): 91.104
+Time creating composed mappings for'CSEO' (s): 0.247
+
+Time performing composed matching with MO 'CSEO' (s): 0.247
+Composed mappings: 650
+Downloading ontology MONDO. Attempt: 1
+
+Time downloading MO 'MONDO' (s): 79.476
+Time matching O1 with MO 'MONDO' (s): 238.506
+Time matching O2 with MO 'MONDO' (s): 111.153
+Time creating composed mappings for'MONDO' (s): 1.26
+
+Time performing composed matching with MO 'MONDO' (s): 1.26
+Composed mappings: 4442
+Downloading ontology UPHENO. Attempt: 1
+
+Time downloading MO 'UPHENO' (s): 1.946
+Time matching O1 with MO 'UPHENO' (s): 5.498
+Time matching O2 with MO 'UPHENO' (s): 5.69
+Time creating composed mappings for'UPHENO' (s): 0.0
+
+Time performing composed matching with MO 'UPHENO' (s): 0.0
+Composed mappings: 0
+Downloading ontology DINTO. Attempt: 1
+
+Time downloading MO 'DINTO' (s): 310.158
+Time matching O1 with MO 'DINTO' (s): 81.397
+Time matching O2 with MO 'DINTO' (s): 47.358
+Time creating composed mappings for'DINTO' (s): 0.238
+
+Time performing composed matching with MO 'DINTO' (s): 0.238
+Composed mappings: 1649
+Downloading ontology SYN. Attempt: 1
+
+Time downloading MO 'SYN' (s): 26.758
+Time matching O1 with MO 'SYN' (s): 113.979
+Time matching O2 with MO 'SYN' (s): 44.881
+Time creating composed mappings for'SYN' (s): 0.086
+
+Time performing composed matching with MO 'SYN' (s): 0.086
+Composed mappings: 325
+Downloading ontology GALEN. Attempt: 1
+
+Time downloading MO 'GALEN' (s): 53.106
+Time matching O1 with MO 'GALEN' (s): 130.166
+Time matching O2 with MO 'GALEN' (s): 39.444
+Time creating composed mappings for'GALEN' (s): 0.553
+
+Time performing composed matching with MO 'GALEN' (s): 0.553
+Composed mappings: 2495
+Downloading ontology DOID. Attempt: 1
+
+Time downloading MO 'DOID' (s): 16.277
+Time matching O1 with MO 'DOID' (s): 82.323
+Time matching O2 with MO 'DOID' (s): 31.068
+Time creating composed mappings for'DOID' (s): 0.598
+
+Time performing composed matching with MO 'DOID' (s): 0.598
+Composed mappings: 2969
+Downloading ontology RCTV2. Attempt: 1
+
+Time downloading MO 'RCTV2' (s): 96.227
+Time matching O1 with MO 'RCTV2' (s): 354.542
+Time matching O2 with MO 'RCTV2' (s): 162.287
+Time creating composed mappings for'RCTV2' (s): 1.833
+
+Time performing composed matching with MO 'RCTV2' (s): 1.833
+Composed mappings: 2054
+
+Results Composed mappings: 
+
+
+
+Time performing mapping repir (s): 67.79
+Number of total computed mappings: 13732
+LogMap 2 (with BioPortal) total matching time (s): 4586.338
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.814	0.627	0.708	4586388
+>>> Cleaning up environment...

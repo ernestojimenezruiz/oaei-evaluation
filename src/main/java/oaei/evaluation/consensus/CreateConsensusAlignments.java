@@ -83,7 +83,7 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 	 */
 	private void printConsensusAlignments() throws Exception {
 		
-		writer_statistics = new WriteFile(configuration.getResultsPath() + "Consensus" + configuration.getFileNamePattern() + ".txt", false);
+		writer_statistics = new WriteFile(configuration.getResultsPath() + "Consensus-" + configuration.getFileNamePattern() + ".txt", false);
 		
 		//We use max votes!
 		for (int votes=2; votes<=max_votes; votes++){
@@ -174,7 +174,7 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 	 */
 	private void storeReadableAlignments(int min_required_votes){
 		
-		WriteFile writer = new WriteFile(configuration.getReferencesPath() + "Consensus-" + String.valueOf(min_required_votes) + configuration.getFileNamePattern() + ".tsv");
+		WriteFile writer = new WriteFile(configuration.getReferencesPath() + "Consensus-" + String.valueOf(min_required_votes) + "-" + configuration.getFileNamePattern() + ".tsv");
 		
 		writer.writeLine("#URI 1" + "\t" + "Label 1"  + "\t" + "URI 2" + "\t" + "Label 2"  + "\t" + "Confidence"  + "\t" + "Family votes"  + "\t" + "Families"  + "\t" + "System votes"  + "\t" + "Systems");
 		

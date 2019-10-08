@@ -1,0 +1,16 @@
+>>> Preparing environment ...
+
+This is the Matcher Bridge ver 0.0.1
+The lexically matcher ver 1.0.3 was initiated properly and the align method is called.
+The inputstreams are loaded into model propertly.
+Lexical matching for classes is ended properly.
+Lexical matching for properties is ended properly.
+Lexical matching for instances is ended properly.
+The final result consists of 762 mappings.
+======================================================================
+
+Alignment method completed here.
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.958	0.339	0.501	14171
+>>> Cleaning up environment...

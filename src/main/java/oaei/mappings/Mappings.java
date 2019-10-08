@@ -76,8 +76,12 @@ public abstract class Mappings {
 		
 		alignedOntology = mergedO;
 		
-		unsat_classes = alignedOntology.getReasoner().getUnsatisfiableClasses().size();
-		
+		try {
+			unsat_classes = alignedOntology.getReasoner().getUnsatisfiableClasses().size();
+		}
+		catch (Exception e) {
+			unsat_classes = -1;
+		}
 	}
 	
 	

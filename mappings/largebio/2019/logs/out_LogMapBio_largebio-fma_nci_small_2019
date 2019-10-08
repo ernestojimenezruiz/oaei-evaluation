@@ -1,0 +1,154 @@
+>>> Preparing environment ...
+Representative elements: 2601
+Time performing matching with input ontologies O1 and O2 (s): 7.305
+Extracting up to 10 mediating ontologies from BioPortal.
+Error accessing: http://data.bioontology.org/ontologies/STUFF/metrics  Attempt: 1
+Error accessing: http://data.bioontology.org/ontologies/STUFF/metrics  Attempt: 2
+Error accessing: http://data.bioontology.org/ontologies/STUFF/metrics  Attempt: 3
+Error accessing: http://data.bioontology.org/ontologies/LIPRO/metrics  Attempt: 1
+Error accessing: http://data.bioontology.org/ontologies/LIPRO/metrics  Attempt: 2
+Error accessing: http://data.bioontology.org/ontologies/LIPRO/metrics  Attempt: 3
+Necessary number of calls to BioPortal: 80
+UBERON
+	Pos hits: 57
+	Size: 20127
+	Language: OWL
+UPHENO
+	Pos hits: 56
+	Size: 94403
+	Language: OWL
+EFO
+	Pos hits: 54
+	Size: 36711
+	Language: OWL
+CCONT
+	Pos hits: 54
+	Size: 36733
+	Language: OWL
+SYN
+	Pos hits: 51
+	Size: 14462
+	Language: OWL
+OBA
+	Pos hits: 48
+	Size: 17116
+	Language: OWL
+CL
+	Pos hits: 33
+	Size: 10582
+	Language: OWL
+ENVO
+	Pos hits: 33
+	Size: 8962
+	Language: OWL
+EMAPA
+	Pos hits: 30
+	Size: 8585
+	Language: OWL
+BTO
+	Pos hits: 30
+	Size: 5902
+	Language: OBO
+Time extracting Mediating Ontologies (s): 309.988
+Downloading ontology UBERON. Attempt: 1
+
+Time downloading MO 'UBERON' (s): 193.935
+Time matching O1 with MO 'UBERON' (s): 4.846
+Time matching O2 with MO 'UBERON' (s): 5.14
+Time creating composed mappings for'UBERON' (s): 0.0
+
+Time performing composed matching with MO 'UBERON' (s): 0.0
+Composed mappings: 0
+Downloading ontology UPHENO. Attempt: 1
+
+Time downloading MO 'UPHENO' (s): 1.923
+Time matching O1 with MO 'UPHENO' (s): 1.369
+Time matching O2 with MO 'UPHENO' (s): 1.847
+Time creating composed mappings for'UPHENO' (s): 0.0
+
+Time performing composed matching with MO 'UPHENO' (s): 0.0
+Composed mappings: 0
+Downloading ontology EFO. Attempt: 1
+
+Time downloading MO 'EFO' (s): 660.512
+Time matching O1 with MO 'EFO' (s): 32.731
+Time matching O2 with MO 'EFO' (s): 49.243
+Time creating composed mappings for'EFO' (s): 0.3
+
+Time performing composed matching with MO 'EFO' (s): 0.3
+Composed mappings: 2089
+Downloading ontology CCONT. Attempt: 1
+
+Time downloading MO 'CCONT' (s): 1.708
+Time matching O1 with MO 'CCONT' (s): 1.017
+Time matching O2 with MO 'CCONT' (s): 1.723
+Time creating composed mappings for'CCONT' (s): 0.0
+
+Time performing composed matching with MO 'CCONT' (s): 0.0
+Composed mappings: 14
+Downloading ontology SYN. Attempt: 1
+
+Time downloading MO 'SYN' (s): 30.841
+Time matching O1 with MO 'SYN' (s): 6.604
+Time matching O2 with MO 'SYN' (s): 8.165
+Time creating composed mappings for'SYN' (s): 0.021
+
+Time performing composed matching with MO 'SYN' (s): 0.021
+Composed mappings: 279
+Downloading ontology OBA. Attempt: 1
+
+Time downloading MO 'OBA' (s): 95.838
+Time matching O1 with MO 'OBA' (s): 5.626
+Time matching O2 with MO 'OBA' (s): 9.688
+Time creating composed mappings for'OBA' (s): 0.013
+
+Time performing composed matching with MO 'OBA' (s): 0.013
+Composed mappings: 321
+Downloading ontology CL. Attempt: 1
+
+Time downloading MO 'CL' (s): 143.724
+Time matching O1 with MO 'CL' (s): 10.603
+Time matching O2 with MO 'CL' (s): 12.261
+Time creating composed mappings for'CL' (s): 0.108
+
+Time performing composed matching with MO 'CL' (s): 0.108
+Composed mappings: 1374
+Downloading ontology ENVO. Attempt: 1
+
+Time downloading MO 'ENVO' (s): 40.693
+Time matching O1 with MO 'ENVO' (s): 2.495
+Time matching O2 with MO 'ENVO' (s): 3.418
+Time creating composed mappings for'ENVO' (s): 0.0
+
+Time performing composed matching with MO 'ENVO' (s): 0.0
+Composed mappings: 5
+Downloading ontology EMAPA. Attempt: 1
+
+Time downloading MO 'EMAPA' (s): 25.44
+Time matching O1 with MO 'EMAPA' (s): 3.152
+Time matching O2 with MO 'EMAPA' (s): 3.744
+Time creating composed mappings for'EMAPA' (s): 0.07
+
+Time performing composed matching with MO 'EMAPA' (s): 0.07
+Composed mappings: 1231
+Downloading ontology BTO. Attempt: 1
+
+Time downloading MO 'BTO' (s): 5.286
+Time matching O1 with MO 'BTO' (s): 2.361
+Time matching O2 with MO 'BTO' (s): 4.216
+Time creating composed mappings for'BTO' (s): 0.021
+
+Time performing composed matching with MO 'BTO' (s): 0.021
+Composed mappings: 649
+
+Results Composed mappings: 
+
+
+
+Time performing mapping repir (s): 0.761
+Number of total computed mappings: 2869
+LogMap 2 (with BioPortal) total matching time (s): 1689.848
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.919	0.912	0.915	1689877
+>>> Cleaning up environment...

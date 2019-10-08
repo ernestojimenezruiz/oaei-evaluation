@@ -129,6 +129,8 @@ public abstract class AbstractEvaluation {
 					family = "POMAP";
 				else if (name.startsWith("DKPAOM"))
 					family = "DKPAOM";
+				//else if (name.startsWith("DKPAOM"))
+				//	family = "DKPAOM";
 				else		
 					family = name;
 				
@@ -356,6 +358,7 @@ public abstract class AbstractEvaluation {
 	
 	protected  void createMergedOntologies() throws Exception{
 		
+		
 		createMergedOntologiesForReferenceMappingSets();
 		
 		createMergedOntologiesForSystemMappingSets();
@@ -365,10 +368,14 @@ public abstract class AbstractEvaluation {
 	
 	protected  void createMergedOntologiesForReferenceMappingSets() throws Exception{
 				
+	
+		boolean classify=classifyMergedOntologies;
+		//boolean classify=false;
+		
 		for (String name : reference_mappings_map.keySet()){
 			//Set merged ontology
 			LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
-			reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, reference_mappings_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classifyMergedOntologies, reasonerID));
+			reference_mappings_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, reference_mappings_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classify, reasonerID));
 			LogOutput.printAlways("\tUnsat: " + reference_mappings_map.get(name).getUnsatisfiableClassesSize());
 		}		
 				
@@ -376,11 +383,18 @@ public abstract class AbstractEvaluation {
 	
 	
 	protected  void createMergedOntologiesForSystemMappingSets() throws Exception{
-			
+		
+		boolean classify;
+		System.out.println("Classifying integrated ontology for '" + system_results_map.size() + "' systems.");
 		for (String name : system_results_map.keySet()){
 			//Set merged ontology
+			System.out.println("Classifying integrated ontology with: " + name);
+			classify=classifyMergedOntologies;
+			//if (name.equals("AGM")) //hard classification in SNOMED-NCI
+			//	classify=false;
+			
 			LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
-			system_results_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, system_results_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classifyMergedOntologies, reasonerID));
+			system_results_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, system_results_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classify, reasonerID));
 			LogOutput.printAlways("\tUnsat: " + system_results_map.get(name).getUnsatisfiableClassesSize());
 		}
 		

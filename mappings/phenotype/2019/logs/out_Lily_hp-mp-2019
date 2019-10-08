@@ -1,0 +1,21 @@
+>>> Preparing environment ...
+file:/home/ernesto/Documents/Datasets/Phenotype/hp_noimports.owl
+file:/home/ernesto/Documents/Datasets/Phenotype/mp_noimports.owl
+Source Ontology:/home/ernesto/Documents/Datasets/Phenotype/hp_noimports.owl
+Target Ontology:/home/ernesto/Documents/Datasets/Phenotype/mp_noimports.owl
+RefalignFile:
+lilyFileName:/tmp/lily3253957300707117744.rdf
+Parsing ontologies...
+Source ontology loaded
+Target ontology loaded
+Size: 350015	334972
+Source Large Ontology:/home/ernesto/Documents/Datasets/Phenotype/hp_noimports.owl
+Target Large Ontology:/home/ernesto/Documents/Datasets/Phenotype/mp_noimports.owl
+Parsing Ontologies...
+Preprocess...
+Matching...
+Debugging
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.0	0.0	0.0	146627
+>>> Cleaning up environment...

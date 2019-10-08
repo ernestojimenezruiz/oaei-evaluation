@@ -1,0 +1,21 @@
+>>> Preparing environment ...
+file:/home/ernesto/Documents/Datasets/Phenotype/doid_noimports.owl
+file:/home/ernesto/Documents/Datasets/Phenotype/ordo.owl
+Source Ontology:/home/ernesto/Documents/Datasets/Phenotype/doid_noimports.owl
+Target Ontology:/home/ernesto/Documents/Datasets/Phenotype/ordo.owl
+RefalignFile:
+lilyFileName:/tmp/lily5395965920350999273.rdf
+Parsing ontologies...
+Source ontology loaded
+Target ontology loaded
+Size: 203287	1014045
+Source Large Ontology:/home/ernesto/Documents/Datasets/Phenotype/doid_noimports.owl
+Target Large Ontology:/home/ernesto/Documents/Datasets/Phenotype/ordo.owl
+Parsing Ontologies...
+Preprocess...
+Matching...
+Debugging
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.0	0.0	0.0	1007594
+>>> Cleaning up environment...

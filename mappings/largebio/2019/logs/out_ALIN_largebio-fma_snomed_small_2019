@@ -1,0 +1,42 @@
+>>> Preparing environment ...
+WARNING - this metric is not recomended for fast processing it has been added 
+ by a third party into the library and from the source is an extremely 
+ unoptermised process the library author does not recomend its usage 
+ if you do take the time to perfect this code I will gladly update its
+ source - thanks Sam
+WARNING - this metric is not recomended for fast processing it has been added 
+ by a third party into the library and from the source is an extremely 
+ unoptermised process the library author does not recomend its usage 
+ if you do take the time to perfect this code I will gladly update its
+ source - thanks Sam
+Loading ./WordNet-3.0/dict/data.noun
+Building the WordNet taxonomy ...
+Pre-processing the WordNet taxonomy
+Computing the maximum distance
+Computing the maximum distance
+Computing the maximum distance
+Computing the maximum distance
+-t0
+-eMetrica
+-qMetrica
+-mJaccardSimilarity
+-mJaroWinkler
+-mQGramsDistance
+-mResnik
+-dPrincipalClasse
+-p
+-C
+-r
+-E
+-a
+-D0.9
+-R
+-H
+-k1
+-w1
+-V
+-v10000
+There is substitution file for the ontology fma
+Ontology 2 is being loaded.
+There is no substitution file for the ontology snomed
+The loading of ontology 2 is over.
