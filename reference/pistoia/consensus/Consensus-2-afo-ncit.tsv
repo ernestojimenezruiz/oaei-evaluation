@@ -1,0 +1,312 @@
+#URI 1	Label 1	URI 2	Label 2	Confidence	Family votes	Families	System votes	Systems
+http://purl.allotrope.org/ontologies/role#AFRL_0000352	specimen role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19157	specimen	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000233	standard	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893	standard	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/material#AFM_0000394	fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25278	fluid	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0000125	mass	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34808	mass	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0001334	diameter	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25285	diameter	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0000008	velocity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41146	speed	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0001574	flow rate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82554	flow rate	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0001994	monitor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C139456	trend analysis	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/PATO_0000122	length	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25334	length	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000386	solid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45300	solid	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002843	compression	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41208	compression	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002849	quantification	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48937	quantitation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0000304	certificate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68637	certificate	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000220	eluent	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70796	eluent	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000464	target	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48835	role	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000101	system	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700	system	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001511	scalar string datum	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45253	string	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000465	from role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42868	source role	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000224	diluent	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60823	diluent	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/equipment#AFE_0000857	spectrometer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62336	spectrometer	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0000018	fluorescence	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16586	fluorescence	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0001585	conductivity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C134263	conductivity	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/process#AFP_0000310	gas chromatography run	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C30014	gas chromatography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000216	additive	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63495	additive	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000217	catalyst	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48810	catalyst	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/material#AFM_0000154	gas	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45299	gas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000252	validation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16237	validation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0000413	peak	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48054	peak	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001503	start command	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25431	begin	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001628	restart command	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25658	restart	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001507	nick name	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80243	nickname	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000014	numerator	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80490	numerator	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000257	quality control	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	quality control	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000258	reference sample	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25641	reference	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001626	stop	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65125	stop	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001625	time offset	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25476	delay	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/PATO_0000146	temperature	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25206	temperature	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001508	statistical method	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71492	sampling method	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/common#AFC_0000021	range	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38013	range	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000250	sum	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25697	sum	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/PATO_0000141	structure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41186	structure	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/PATO_0001595	depth	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25333	depth	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000249	ingredient	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51981	ingredient	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000008	input role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47905	input	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001510	boolean datum	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	boolean	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001630	hold command	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62290	hold	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0000527	spectroscopy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17155	spectroscopy	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0000527	spectroscopy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62326	spectrometry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/function#AFFN_0000128	to increment	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47882	increment	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000248	relative datum	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45830	relative value	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000006	denominator	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80489	denominator	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000127	analyte	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128639	analyte	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/equipment#AFE_0000718	tube	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41277	tube	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001619	resolution	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47876	resolution	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000361	batch	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41396	lot	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000361	batch	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67073	batch	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/PATO_0000033	concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185	concentration	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0001242	wavelength	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48158	wavelength	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000012	solution	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70830	solution	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/IAO_0000304	caption	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80505	caption	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002834	test	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47891	test	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/IAO_0000422	postal address	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70946	postal address	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000494	spray	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65101	spray	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002716	particle sizing	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112926	particle sizing	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0100026	organism	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14250	organism	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001041	sol	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73489	sol	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001033	gel	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45297	gel	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0000748	high-performance liquid chromatography	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16434	high performance liquid chromatography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001054	x-ray radiation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17262	x-ray	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000423	extraneous contaminant role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84280	contaminant	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/PATO_0001422	dead	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28554	dead	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/PATO_0001421	alive	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37987	alive	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001561	definition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43680	definition	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001561	definition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42777	definition	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001044	colloid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32345	colloid	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000451	destination role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165585	destination	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000452	origin site	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42703	origin	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000448	general agent role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1708	agent	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/material#AFM_0001016	emulsion	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63807	emulsion	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000441	submitter	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54269	submitter	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000320	arithmetic mean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37917	average	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000320	arithmetic mean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53319	mean	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000321	median	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28007	median	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000323	variance	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48918	variance	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0000117	size	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25681	size	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/RO_0002577	system	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700	system	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000694	prediction	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54156	prediction	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0001824	aspiration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15631	aspiration	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0000260	plan	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25619	plan	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002680	measurement method	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60819	assay	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0000354	device	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62103	device	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001490	birthday	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68615	birth date	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0000266	molecular absorption spectrophotometry	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116701	spectrophotometry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001494	decision	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53285	decision	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003419	loading	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48174	loading	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001118	sample id	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C164332	sample identifier	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002693	t-test	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53231	t-test	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001480	fax	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25210	fax	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0001367	electroporation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15707	electroporation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001121	measurement id	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117058	run identifier	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0003305	sensing	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25598	observation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0003668	completed	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73470	completed by	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001004	signal	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43382	signal	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001486	gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	gender	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001588	signal intensity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25539	intensity	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/IAO_0000131	serial number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73518	serial number	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000403	liquid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45298	liquid	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000404	plasma	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13356	plasma	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000888	electro-magnetic energy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17050	electromagnetic radiation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/IAO_0000017	equipment model number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99285	model number	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003637	inferring	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75591	inference	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000403	post	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38008	post	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000880	energy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48058	energy	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000406	investigator	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25936	investigator	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002788	fluorescence detection	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62322	fluorimetry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003634	sampling	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25662	sampling	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000407	reviewer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54634	reviewer	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002309	colorimetric method	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111096	colorimetry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/IAO_0000132	batch number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70848	lot number	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001216	position	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104788	position	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/common#AFC_0000092	or	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25457	condition	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/common#AFC_0000090	condition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25457	condition	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001219	baseline	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25213	baseline	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000402	head	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12419	head	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0000317	detector	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41276	detector	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002792	packing	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84731	packing	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0001410	jar	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43195	jar	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003643	approving	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25425	approval	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0003641	degradation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62970	degradation	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/process#AFP_0001348	synthesis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61408	synthesis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001220	baseline (chromatography)	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25213	baseline	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0000378	cellular assay	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15959	cellular assay	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003646	submission	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25695	submission	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0003403	partitioning	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45273	distribution	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001587	conductivity datum	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C134263	conductivity	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001586	osmolality datum	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89824	osmolality	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003408	departure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53464	departure	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001584	temperature	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25206	temperature	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/common#AFC_0000160	list	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43432	list	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/IAO_0000309	diagram	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43559	diagram	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/IAO_0000429	email address	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42775	e-mail address	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/common#AFC_0000168	set	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47894	set	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0001515	photometer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80371	photometer	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/common#AFC_0000162	series	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25674	series	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001170	noise	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45783	noise	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0000588	column chromatography	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18242	column chromatography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0000225	liquid chromatography	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16435	liquid chromatography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000341	cell	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508	cell	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001059	registry	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61393	registry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0001319	sampling material	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25662	sampling	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/IAO_0000310	document	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498	document	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001159	wavelength	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48158	wavelength	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/common#AFC_0000036	codelist	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142454	codelist	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003620	activity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431	activity	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0001321	chromatography	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16431	chromatography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001046	tuple	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43426	tuple	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://xmlns.com/foaf/0.1/Organization	http://xmlns.com/foaf/0.1/Organization	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92453	organization	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000004	constitution	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41186	structure	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000001	action	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25404	action	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000002	procedure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79751	procedure	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000007	transition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75958	transition	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0000407	container	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43186	container	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000005	environmental situation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16551	environment	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000006	operational situation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88213	operation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0001410	reversed-phase liquid chromatography	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C161770	reversed-phase liquid chromatography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0001530	filtration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16583	filtration	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000442	suspension	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45304	suspension	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0000442	suspension	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49134	suspension	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000068	spectrum	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84383	spectrum	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001276	norm	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44275	standard	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/common#AFC_0000050	code	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25162	code	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001258	equipment manufacturer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25392	manufacturer	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000012	detergent	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122626	detergent	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0000761	display	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25485	display	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/process#AFP_0001666	densiometric measurements	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86063	densitometry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/IAO_0000101	image	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48179	image	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002293	sonication	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81871	sonication	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001090	slope	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70744	slope	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001094	assignment	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25426	assignment	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001092	point	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70656	point	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000173	mass fraction	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67470	mass fraction	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0000074	device system	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50311	device system	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000172	fraction	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25514	fraction	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003393	arrival	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53463	arrival	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001080	title	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42774	title	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001080	title	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19067	title	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000049	current	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25471	current	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003385	collecting	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25453	collection	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/quality#AFQ_0000048	voltage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70813	voltage	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000169	volume fraction	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67469	volume fraction	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0000185	spectrophotometer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62333	spectrophotometer	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001087	postal code	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25621	postal code	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0002389	calibration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69187	calibration	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003599	comparison	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49156	comparison	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0001071	locality	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87189	locality	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003598	data transformation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43582	data transformation	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001195	signal-to-noise ratio	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94983	signal to noise ratio	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0001078	street address	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25690	street address	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0000719	viable	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25324	viable	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000181	cell density	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120538	cell density	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003371	accomplishment	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86038	accomplishment	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003491	analysis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391	analysis	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/equipment#AFE_0002102	needle	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69013	needle	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000184	amount of cells	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48938	cell count	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000185	viable cell count (quality)	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C130166	viable cell count	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0000912	ratio scale	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47800	ratio scale	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000910	ordinal scale	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47797	ordinal scale	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000911	interval scale	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47799	interval scale	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000916	classification	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25161	classification	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000917	identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364	identifier	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003581	data collection	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103159	data collection	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000016	inner diameter	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101685	inner diameter	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0003573	sorting	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62803	sorting	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000018	inner diameter	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101685	inner diameter	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/IAO_0000038	graph	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37960	graph	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000900	event log	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42651	protocol	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0000900	event log	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45279	log	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000909	nominal scale	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47798	nominal scale	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003471	signal acquisition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45275	tracking	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0000080	o.d. measurement	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85776	optical density measurement	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000005	proportion	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44256	ratio	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000005	proportion	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25514	fraction	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/spatial#AFSP_0000001	site	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37901	site	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003348	channeling	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28264	localization	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/quality#AFQ_0000120	gel	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45297	gel	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0002070	affinity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20604	affinity	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9606	human	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14225	human	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9606	human	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14366	man	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/quality#AFQ_0000036	device configuration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C163747	device setting	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0003437	emission	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71894	emission	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003315	producing	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42620	creation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0003315	producing	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112927	production	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/quality#AFQ_0000032	distance	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25167	distance	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/PATO_0000915	thickness	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41145	thickness	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/PATO_0000918	volume	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25335	volume	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/IAO_0000064	algorithm	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16275	algorithm	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0001695	computer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16464	computer	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0000057	granulometry	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112926	particle sizing	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/quality#AFQ_0000141	audible device noise	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99179	audible device noise	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000077	dependent variable	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142509	dependent variable	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0000708	loading	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48174	loading	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000951	time	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25330	duration	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001085	organization	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92453	organization	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000954	rate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25636	rate	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001084	group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	group	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000955	observation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25598	observation	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/PATO_0002027	osmolality	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89824	osmolality	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000075	variable	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54166	variable	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001079	dispersion	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53321	dispersion	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000211	strain	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95501	strain	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFRL_0000440	signature	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25678	signature	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000201	signal amplification setting	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37956	gain	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/quality#AFQ_0000208	partial pressure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75755	partial pressure	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0000925	detection	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16210	detection	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/material#AFM_0001060	portion of compound	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366	compound	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0000932	order	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45287	order	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000932	order	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54092	order	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000936	size	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25681	size	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000937	time	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25207	time	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000094	during	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25490	during	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000115	plasma state of matter	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13356	plasma	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000113	liquid state of matter	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45298	liquid	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000114	gaseous state of matter	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45299	gas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000238	melting point	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63394	melting point	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001058	γ-ray	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44386	gamma radiation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001057	infrared radiation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16736	infrared radiation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001056	ultraviolet light	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17231	ultraviolet radiation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/material#AFM_0001055	visible light	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17732	visible light	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000112	solid state of matter	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45300	solid	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/quality#AFQ_0000231	membership	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165653	membership	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000920	quantity range	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C164588	quantity range	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000924	factor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25506	factor	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000922	description	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25365	description	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000928	index	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25390	index	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/BFO_0000182	history	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54625	history	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0002184	sensor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28220	sensor	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000032	stationary phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70673	stationary phase	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000994	theory	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84379	theory	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000278	abscissa	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44477	x-coordinate	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000279	y-coordinate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44478	y-coordinate	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/BFO_0000016	disposition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41205	disposition	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000639	file	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42883	file	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000271	dispersed phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73480	dispersed phase	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/PATO_0001019	density	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75762	mass density	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000272	continuous medium role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73479	continuous phase	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000022	reference role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25641	reference	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000147	out-port role	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25683	source	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000148	target	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25702	target	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000269	solvent	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45790	solvent	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/PATO_0000052	shape	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25677	shape	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PATO_0001025	pressure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25195	pressure	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://www.w3.org/2006/time#Interval	interval	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25543	interval	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0002165	separation column	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47874	separation column	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000993	model	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383	model	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000993	model	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866	model	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000733	distribution	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45273	distribution	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000056	effect	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74555	consequence	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000059	precondition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47910	precondition	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003282	computing	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54125	calculation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003282	computing	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61298	computation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/process#AFP_0003398	inserting material	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48685	insertion	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/PATO_0001035	force	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48161	force	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/result#AFR_0000961	scalar	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47839	scalar	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000287	operator	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84752	operator	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/role#AFRL_0000287	operator	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48036	operator	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.allotrope.org/ontologies/result#AFR_0000962	euclidean vector	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54169	vector	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/BFO_0000029	site	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37901	site	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/role#AFRL_0000280	coordinate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44465	coordinate	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/process#AFP_0003286	end	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25496	end	0.7	2	AML;loom	2	AML;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0000088	fraction collector	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80369	fraction collector	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.allotrope.org/ontologies/equipment#AFE_0002145	measurement device	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81182	measurement device	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom

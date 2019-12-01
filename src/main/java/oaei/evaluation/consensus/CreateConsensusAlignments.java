@@ -151,14 +151,14 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 		writer_statistics.writeLine("\tFamilies:");
 		for (String family: contributingFamilies.navigableKeySet()){
 			double contribution = Math.round((double)contributingFamilies.get(family) * 1000.0 / (double)num_mappings)/10.0;
-			writer_statistics.writeLine("\t\t" + family + ": " + contribution + "%");
+			writer_statistics.writeLine("\t\t" + family + ": " + contribution + "% (" + contributingFamilies.get(family) + ")");
 		}
 		
 		//System.out.println(contributingSystems);
 		writer_statistics.writeLine("\tSystems:");
 		for (String system: contributingSystems.navigableKeySet()){
 			double contribution = Math.round((double)contributingSystems.get(system) * 1000.0 / (double)num_mappings)/10.0;
-			writer_statistics.writeLine("\t\t" + system + ": " + contribution + "%");
+			writer_statistics.writeLine("\t\t" + system + ": " + contribution + "% (" + contributingSystems.get(system)+ "/"+ system_results_map.get(system).getMappingsSize() +")");
 		}
 		
 		writer_statistics.writeEmptyLine();
