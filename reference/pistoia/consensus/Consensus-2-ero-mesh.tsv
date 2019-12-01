@@ -1,0 +1,804 @@
+#URI 1	Label 1	URI 2	Label 2	Confidence	Family votes	Families	System votes	Systems
+http://purl.obolibrary.org/obo/NCBITaxon_63501	vincetoxicum	http://purl.bioontology.org/ontology/MESH/D066047	atratums, vincetoxicum	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_63743	natronomonas	http://purl.bioontology.org/ontology/MESH/C000626659	natronomonas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1781	mycobacterium marinum	http://purl.bioontology.org/ontology/MESH/D019910	mycobacterium marinum	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.org/net/OCRe/research.owl#Cross-sectional_study	cross-sectional study	http://purl.bioontology.org/ontology/MESH/D003430	cross sectional analyses	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_1300	streptococcaceae	http://purl.bioontology.org/ontology/MESH/D013289	streptococcaceae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_33090	viridiplantae	http://purl.bioontology.org/ontology/MESH/D057948	plant, green	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_25473	rubia	http://purl.bioontology.org/ontology/MESH/D045470	rubia	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_48106	centella asiatica	http://purl.bioontology.org/ontology/MESH/D028041	mandukaparni	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3726	raphanus sativus	http://purl.bioontology.org/ontology/MESH/D031224	radish, garden	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3967	phoradendron	http://purl.bioontology.org/ontology/MESH/D028184	leucarpums, phoradendron	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000490	tissue embedding	http://purl.bioontology.org/ontology/MESH/D016610	tissue embedding	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3728	sinapis alba	http://purl.bioontology.org/ontology/MESH/D031226	mustards, white	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001332	capillary electrophoresis	http://purl.bioontology.org/ontology/MESH/D019075	capillary zone electrophoreses	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001334	biopsy	http://purl.bioontology.org/ontology/MESH/Q000473	biopsy	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001334	biopsy	http://purl.bioontology.org/ontology/MESH/D001706	biopsy	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7091	bombyx mori	http://purl.bioontology.org/ontology/MESH/D012831	mori, bombyx	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_16752	houttuynia cordata	http://purl.bioontology.org/ontology/MESH/D052859	houttuynia cordata	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001337	electroencephalography	http://purl.bioontology.org/ontology/MESH/D004569	eeg	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9031	gallus gallus	http://purl.bioontology.org/ontology/MESH/D002645	chicken	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_1313	streptococcus pneumoniae	http://purl.bioontology.org/ontology/MESH/D013296	pneumococcus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_36596	prunus armeniaca	http://purl.bioontology.org/ontology/MESH/D000068219	apricot	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1314	streptococcus pyogenes	http://purl.bioontology.org/ontology/MESH/D013297	bacteria, flesh-eating	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/PCO_0000020	family	http://purl.bioontology.org/ontology/MESH/D005190	kinship network	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_5911	tetrahymena thermophila	http://purl.bioontology.org/ontology/MESH/D016808	tetrahymena thermophila	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.org/net/OCRe/research.owl#Observational_study	observational study	http://purl.bioontology.org/ontology/MESH/D064888	observational study	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_180763	vaccinium myrtillus	http://purl.bioontology.org/ontology/MESH/D029800	sea bilberries	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_36590	xanthium	http://purl.bioontology.org/ontology/MESH/D031210	cockleburs	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001346	electrooculography	http://purl.bioontology.org/ontology/MESH/D004585	electrooculograms	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000499	electromyography	http://purl.bioontology.org/ontology/MESH/D004576	surface electromyography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_53718	eclipta	http://purl.bioontology.org/ontology/MESH/D036601	eclipta	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001341	cryopreservation	http://purl.bioontology.org/ontology/MESH/D015925	suspensions, cryonic	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000019	genome wide association study	http://purl.bioontology.org/ontology/MESH/D055106	study, gwa	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000017	epidemiological study	http://purl.bioontology.org/ontology/MESH/D016021	epidemiologic study	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000016	clinical trial	http://purl.bioontology.org/ontology/MESH/D016430	intervention study	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/ERO_0001108	intubation	http://purl.bioontology.org/ontology/MESH/D007440	intubation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3702	arabidopsis thaliana	http://purl.bioontology.org/ontology/MESH/D017360	thaliana, a.	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_65948	nasturtium officinale	http://purl.bioontology.org/ontology/MESH/D031223	nasturtium-aquaticum, rorippa	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3704	armoracia rusticana	http://purl.bioontology.org/ontology/MESH/D031215	armoracia rusticana	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_46147	portulaca oleracea	http://purl.bioontology.org/ontology/MESH/D031822	portulacas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3705	brassica	http://purl.bioontology.org/ontology/MESH/D001937	collard greens	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001314	antibody production	http://purl.bioontology.org/ontology/MESH/D000917	response, antibody	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_145745	althaea officinalis	http://purl.bioontology.org/ontology/MESH/D031583	mallows, marsh	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3710	brassica nigra	http://purl.bioontology.org/ontology/MESH/D009149	mustards	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_1772	mycobacterium smegmatis	http://purl.bioontology.org/ontology/MESH/D020102	mycobacterium smegmatis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1773	mycobacterium tuberculosis	http://purl.bioontology.org/ontology/MESH/D009169	mycobacterium tuberculosis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3719	capsella bursa-pastoris	http://purl.bioontology.org/ontology/MESH/D029687	shepherds purse	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_29802	rubia tinctorum	http://purl.bioontology.org/ontology/MESH/D045470	rubia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_50225	taraxacum officinale	http://purl.bioontology.org/ontology/MESH/D031205	dandelion	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9265	didelphidae	http://purl.bioontology.org/ontology/MESH/D009893	opossums	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_94007	cnidium monnieri	http://purl.bioontology.org/ontology/MESH/D031048	cnidium	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000479	chemical synthesis	http://purl.bioontology.org/ontology/MESH/Q000138	chemical synthesis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11292	rabies virus	http://purl.bioontology.org/ontology/MESH/D011820	rabies virus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11050	flaviviridae	http://purl.bioontology.org/ontology/MESH/D018067	flaviviridae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11051	flavivirus	http://purl.bioontology.org/ontology/MESH/D005416	flaviviruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001325	ultrasonography	http://purl.bioontology.org/ontology/MESH/D014463	computer echotomography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001325	ultrasonography	http://purl.bioontology.org/ontology/MESH/Q000000981	radioisotope scanning	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7088	lepidoptera	http://purl.bioontology.org/ontology/MESH/D007915	lepidoptera	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001327	rehabilitation	http://purl.bioontology.org/ontology/MESH/D012046	habilitation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001327	rehabilitation	http://purl.bioontology.org/ontology/MESH/Q000534	rehabilitation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_74656	agrimonia pilosa	http://purl.bioontology.org/ontology/MESH/D031981	agrimonias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001328	gas chromatography-mass spectrometry 	http://purl.bioontology.org/ontology/MESH/D008401	chromatography, gas liquid mass spectrometry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_5943	oxytricha	http://purl.bioontology.org/ontology/MESH/D016813	oxytrichas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3764	rosa	http://purl.bioontology.org/ontology/MESH/D027826	rosehips	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3527	phytolacca americana	http://purl.bioontology.org/ontology/MESH/D029604	phytolacca americana	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001772	electron energy loss spectroscopy	http://purl.bioontology.org/ontology/MESH/D046590	electron energy-loss spectroscopy	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001773	cryo-electron microscopy	http://purl.bioontology.org/ontology/MESH/D020285	cryo electron microscopy	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001774	cryoultramicrotomy	http://purl.bioontology.org/ontology/MESH/D016616	cryoultramicrotomy	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_48386	perilla frutescens	http://purl.bioontology.org/ontology/MESH/D031344	perilla frutescen	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000201	microscopy	http://purl.bioontology.org/ontology/MESH/D008853	microscopy, optical	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000200	confocal microscopy	http://purl.bioontology.org/ontology/MESH/D018613	laser scanning confocal microscopy	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000446	spirometry	http://purl.bioontology.org/ontology/MESH/D013147	spirometries	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_41503	centaurea	http://purl.bioontology.org/ontology/MESH/D031179	star thistle, red	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1117	cyanobacteria	http://purl.bioontology.org/ontology/MESH/D000458	cyanophyceae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_294739	mentha pulegium	http://purl.bioontology.org/ontology/MESH/D031335	european pennyroyals	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_5719	parabasalia	http://purl.bioontology.org/ontology/MESH/D056900	parabasalia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001784	pulse oximetry	http://purl.bioontology.org/ontology/MESH/D010092	oximetry, pulse	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001786	electron tomography	http://purl.bioontology.org/ontology/MESH/D055032	microtomography, electron	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000215	light microscopy	http://purl.bioontology.org/ontology/MESH/D008853	microscopy, optical	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001309	data analysis	http://purl.bioontology.org/ontology/MESH/D000078332	data analyses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000218	cryosectioning	http://purl.bioontology.org/ontology/MESH/D016616	cryoultramicrotomy	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_837	porphyromonas gingivalis	http://purl.bioontology.org/ontology/MESH/D016966	bacteroides gingivalis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3501	urtica dioica	http://purl.bioontology.org/ontology/MESH/D026982	stinging nettles	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3746	fragaria	http://purl.bioontology.org/ontology/MESH/D031985	strawberries	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/UBERON_0000479	tissue	http://purl.bioontology.org/ontology/STY/T024	tissue	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_128375	uncaria tomentosa	http://purl.bioontology.org/ontology/MESH/D020948	cat claw	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_838	prevotella	http://purl.bioontology.org/ontology/MESH/D018720	prevotella	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_244027	epimedium grandiflorum	http://purl.bioontology.org/ontology/MESH/D034181	epimedium sagittatums	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_339321	rubia cordifolia	http://purl.bioontology.org/ontology/MESH/D045470	rubia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001511	laser doppler flowmetry 	http://purl.bioontology.org/ontology/MESH/D017078	flowmetry, doppler-laser	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_69266	vaccinium corymbosum	http://purl.bioontology.org/ontology/MESH/D029798	plant, blueberry	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3754	prunus	http://purl.bioontology.org/ontology/MESH/D027861	prunus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_5935	euplotes	http://purl.bioontology.org/ontology/MESH/D016812	euplotes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1336	streptococcus equi	http://purl.bioontology.org/ontology/MESH/D018502	streptococcus equi	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_405322	piper cubeba	http://purl.bioontology.org/ontology/MESH/D031701	peppers, jaborandi	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_28511	pogostemon cablin	http://purl.bioontology.org/ontology/MESH/D000070177	pogostemon cablin	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3758	prunus domestica	http://purl.bioontology.org/ontology/MESH/D000068242	plum	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001763	actigraphy	http://purl.bioontology.org/ontology/MESH/D056044	actigraphy	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001764	polysomnography	http://purl.bioontology.org/ontology/MESH/D017286	polysomnographies	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000672	calorimetry	http://purl.bioontology.org/ontology/MESH/D002151	calorimetry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000679	transcranial magnetic stimulation	http://purl.bioontology.org/ontology/MESH/D050781	transcranial magnetic stimulation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000677	tissue fixation	http://purl.bioontology.org/ontology/MESH/D016707	tissue fixation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13273	stellaria	http://purl.bioontology.org/ontology/MESH/D029752	stellaria media	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3760	prunus persica	http://purl.bioontology.org/ontology/MESH/D000068239	peach tree	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_75704	salix alba	http://purl.bioontology.org/ontology/MESH/D032108	salix alba	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_74613	glycyrrhiza uralensis	http://purl.bioontology.org/ontology/MESH/D029882	gan zao	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13274	stellaria media	http://purl.bioontology.org/ontology/MESH/D029752	stellaria media	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4896	schizosaccharomyces pombe	http://purl.bioontology.org/ontology/MESH/D012568	s pombe	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001972	ethnic group	http://purl.bioontology.org/ontology/MESH/D005006	ethnic groups	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001731	semen analysis	http://purl.bioontology.org/ontology/MESH/D055101	semen quality analysis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000641	intracytoplasmic sperm injection	http://purl.bioontology.org/ontology/MESH/D020554	sperm injections, intracytoplasmic	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000640	injection	http://purl.bioontology.org/ontology/MESH/D007267	injections	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_99300	rehmannia glutinosa	http://purl.bioontology.org/ontology/MESH/D032267	rehmannia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_1392	bacillus anthracis	http://purl.bioontology.org/ontology/MESH/D001408	bacillus anthracis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_55960	yucca filamentosa	http://purl.bioontology.org/ontology/MESH/D027623	yuccas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3572	saponaria officinalis	http://purl.bioontology.org/ontology/MESH/D029750	saponarias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001974	african american	http://purl.bioontology.org/ontology/MESH/D001741	african-americans	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6605	cephalopoda	http://purl.bioontology.org/ontology/MESH/D049830	cephalopod	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001509	community-based participatory research	http://purl.bioontology.org/ontology/MESH/D055812	community-based researchs, consumer-driven	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1396	bacillus cereus	http://purl.bioontology.org/ontology/MESH/D001409	bacillus cereus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_82096	eleutherococcus senticosus	http://purl.bioontology.org/ontology/MESH/D028001	ciwujia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_63350	epimedium	http://purl.bioontology.org/ontology/MESH/D034181	epimedium sagittatums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6608	sepiidae	http://purl.bioontology.org/ontology/MESH/D049832	cuttlefish	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_57918	fragaria vesca	http://purl.bioontology.org/ontology/MESH/D031985	strawberries	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_49266	fucus vesiculosus	http://purl.bioontology.org/ontology/MESH/D044645	bladder wrack	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001500	liquid chromatography 	http://purl.bioontology.org/ontology/MESH/D002853	liquid chromatography	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000652	radioimmunoassay	http://purl.bioontology.org/ontology/MESH/D011863	radioimmunoassays	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000650	cryoablation	http://purl.bioontology.org/ontology/MESH/D003452	cryoablation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001980	latino	http://purl.bioontology.org/ontology/MESH/D006630	americans, cuban	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4672	dioscorea	http://purl.bioontology.org/ontology/MESH/D027742	yams, wild	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_47081	melilotus	http://purl.bioontology.org/ontology/MESH/D029903	clovers, sweet	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001506	protein fingerprinting	http://purl.bioontology.org/ontology/MESH/D010449	protein fingerprints	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001748	pulsed-field gel electrophoresis 	http://purl.bioontology.org/ontology/MESH/D016521	electrophoresis, gel, pulsed field	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001507	computer aided design 	http://purl.bioontology.org/ontology/MESH/D017076	computer-assisted designs	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_52462	cuminum cyminum	http://purl.bioontology.org/ontology/MESH/D028527	cumin	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_57912	agrimonia eupatoria	http://purl.bioontology.org/ontology/MESH/D031981	agrimonias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001508	karyotyping	http://purl.bioontology.org/ontology/MESH/D007621	karyotyping	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_92921	silybum marianum	http://purl.bioontology.org/ontology/MESH/D020944	silybum marianums	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001502	freeze drying 	http://purl.bioontology.org/ontology/MESH/D005612	drying, freeze	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001503	microinjection 	http://purl.bioontology.org/ontology/MESH/D008845	microinjection	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_66636	larrea tridentata	http://purl.bioontology.org/ontology/MESH/D032442	larrea tridentata	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5722	trichomonas vaginalis	http://purl.bioontology.org/ontology/MESH/D014246	trichomonas vaginalis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_52470	ferula	http://purl.bioontology.org/ontology/MESH/D005309	harmonis, ferula	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_30648	dipodidae	http://purl.bioontology.org/ontology/MESH/D012377	rodentias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_194	campylobacter	http://purl.bioontology.org/ontology/MESH/D002167	campylobacter	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/GO_0008150	biological_process	http://purl.bioontology.org/ontology/MESH/D001686	processes, biological	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_60093	vinca minor	http://purl.bioontology.org/ontology/MESH/D031053	lesser periwinkle	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001716	database	http://purl.bioontology.org/ontology/MESH/D019991	database	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001717	synchrotron	http://purl.bioontology.org/ontology/MESH/D017356	synchrotrons	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3317	thuja occidentalis	http://purl.bioontology.org/ontology/MESH/D029783	thuja orientali	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_130404	piper methysticum	http://purl.bioontology.org/ontology/MESH/D020901	piper methysticums	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0000171	autotransplantation	http://purl.bioontology.org/ontology/MESH/D014182	transplantations, autologous	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_268884	origanum majorana	http://purl.bioontology.org/ontology/MESH/D031341	origanum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_40674	mammalia	http://purl.bioontology.org/ontology/MESH/D008322	mammals	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_118778	tussilago farfara	http://purl.bioontology.org/ontology/MESH/D031207	coltsfoot	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000870	microelectrode	http://purl.bioontology.org/ontology/MESH/D008839	microelectrode	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001964	human subject	http://purl.bioontology.org/ontology/MESH/D035842	subject, research	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_83154	bassia scoparia	http://purl.bioontology.org/ontology/MESH/D027467	burningbushs (bassia)	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4219	artemisia	http://purl.bioontology.org/ontology/MESH/D019306	levant wormseeds	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4217	arctium lappa	http://purl.bioontology.org/ontology/MESH/D031170	burdock, greater	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_84009	arctostaphylos uva-ursi	http://purl.bioontology.org/ontology/MESH/D029792	uva-ursus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0000105	transplantation	http://purl.bioontology.org/ontology/MESH/D014180	transplantations	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0000105	transplantation	http://purl.bioontology.org/ontology/MESH/Q000637	grafts	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0200111	data visualization	http://purl.bioontology.org/ontology/MESH/D000078326	visualization, data	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4464	acorus	http://purl.bioontology.org/ontology/MESH/D029023	calamus root	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4222	carthamus tinctorius	http://purl.bioontology.org/ontology/MESH/D031187	safflower	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_50230	arisaema	http://purl.bioontology.org/ontology/MESH/D031057	arisaema triphyllums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_96479	malva	http://purl.bioontology.org/ontology/MESH/D028501	malvas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001932	data collection method	http://purl.bioontology.org/ontology/MESH/D003625	method, data collection	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_41589	inula	http://purl.bioontology.org/ontology/MESH/D038143	pushkarmoolas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_5315	ganoderma lucidum	http://purl.bioontology.org/ontology/MESH/D020940	reishi	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4465	acorus calamus	http://purl.bioontology.org/ontology/MESH/D029023	calamus root	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_278672	symphytum officinale	http://purl.bioontology.org/ontology/MESH/D020844	officinales, symphytum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_10624	polyomavirus	http://purl.bioontology.org/ontology/MESH/D011120	viruses, polyoma	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_28133	prevotella nigrescens	http://purl.bioontology.org/ontology/MESH/D045242	prevotella nigrescens	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_28131	prevotella intermedia	http://purl.bioontology.org/ontology/MESH/D018713	prevotella intermedia	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9913	bos taurus	http://purl.bioontology.org/ontology/MESH/D002417	cattle	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000612	fluorescence recovery after photobleaching	http://purl.bioontology.org/ontology/MESH/D036681	frap (fluorescence recovery after photobleaching)	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_53751	echinacea purpurea	http://purl.bioontology.org/ontology/MESH/D020900	echinacea angustifolia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_59067	ruscus aculeatus	http://purl.bioontology.org/ontology/MESH/D031443	ruscus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7705	holothuroidea	http://purl.bioontology.org/ontology/MESH/D012616	cucumbers, sea	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4678	allium	http://purl.bioontology.org/ontology/MESH/D000490	alliaceae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4679	allium cepa	http://purl.bioontology.org/ontology/MESH/D019697	onions	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4432	nelumbo nucifera	http://purl.bioontology.org/ontology/MESH/D031653	sacred lotus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4441	camellia	http://purl.bioontology.org/ontology/MESH/D028244	camellias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4442	camellia sinensis	http://purl.bioontology.org/ontology/MESH/D028241	thea sinenses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001915	survival	http://purl.bioontology.org/ontology/MESH/D013534	survival	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/ERO_0001915	survival	http://purl.bioontology.org/ontology/MESH/Q000401	mortality	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4682	allium sativum	http://purl.bioontology.org/ontology/MESH/D005737	allium sativum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_39249	scrophularia	http://purl.bioontology.org/ontology/MESH/D032266	betonies, figwort	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_67937	zanthoxylum	http://purl.bioontology.org/ontology/MESH/D032106	zanthoxylum rubescen	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7957	carassius auratus	http://purl.bioontology.org/ontology/MESH/D006054	goldfish	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000838	blood pressure monitor	http://purl.bioontology.org/ontology/MESH/D015924	pressure monitor, blood	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7713	ascidiacea	http://purl.bioontology.org/ontology/MESH/D014561	sea squirt	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7955	danio rerio	http://purl.bioontology.org/ontology/MESH/D015027	brachydanio rerio	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7712	tunicata	http://purl.bioontology.org/ontology/MESH/D014561	sea squirt	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4204	viburnum	http://purl.bioontology.org/ontology/MESH/D027925	cramp barks	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7711	chordata	http://purl.bioontology.org/ontology/MESH/D043344	chordate	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4201	sambucus	http://purl.bioontology.org/ontology/MESH/D027923	american elderberries	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4202	sambucus nigra	http://purl.bioontology.org/ontology/MESH/D027924	black elder	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_59070	fritillaria	http://purl.bioontology.org/ontology/MESH/D031410	fritillaria	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_28112	tannerella forsythia	http://purl.bioontology.org/ontology/MESH/D000070436	tannerella forsythia	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0000136	incubator	http://purl.bioontology.org/ontology/MESH/D007185	incubators	0.7	2	AML;LogMap	2	AML;LogMap
+http://vivoweb.org/ontology/core#Laboratory	laboratory	http://purl.bioontology.org/ontology/MESH/D007753	laboratory	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.org/ontology/bibo/Patent	patent	http://purl.bioontology.org/ontology/MESH/D020490	patent	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000830	defibrillator	http://purl.bioontology.org/ontology/MESH/D047548	automated external defibrillator	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7524	hemiptera	http://purl.bioontology.org/ontology/MESH/D006430	aleurodoideas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4498	avena sativa	http://purl.bioontology.org/ontology/MESH/D018554	cultivated oat	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_43574	uncaria	http://purl.bioontology.org/ontology/MESH/D032070	uncaria	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_330167	dioscorea villosa	http://purl.bioontology.org/ontology/MESH/D027742	yams, wild	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_76025	fallopia multiflora	http://purl.bioontology.org/ontology/MESH/D000068676	fallopia multiflora	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_16195	polygonatum	http://purl.bioontology.org/ontology/MESH/D031384	smilacina, false	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_185542	ilex paraguariensis	http://purl.bioontology.org/ontology/MESH/D030019	yerba mate	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_162425	emericella nidulans	http://purl.bioontology.org/ontology/MESH/D032842	emericella nidulan	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_54476	vitex	http://purl.bioontology.org/ontology/MESH/D020950	vitex	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_140997	crataegus monogyna	http://purl.bioontology.org/ontology/MESH/D027825	hawthorn	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_54477	vitex agnus-castus	http://purl.bioontology.org/ontology/MESH/D020950	vitex	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6447	mollusca	http://purl.bioontology.org/ontology/MESH/D008974	molluscs	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6448	gastropoda	http://purl.bioontology.org/ontology/MESH/D049851	slugs	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7778	elasmobranchii	http://purl.bioontology.org/ontology/MESH/D018940	elasmobranchii	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4028	geranium	http://purl.bioontology.org/ontology/MESH/D031315	geraniums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_174649	rumex crispus	http://purl.bioontology.org/ontology/MESH/D031804	rumex crispus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_64040	actaea racemosa	http://purl.bioontology.org/ontology/MESH/D031885	bugbanes, black	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7786	torpedo	http://purl.bioontology.org/ontology/MESH/D014101	torpedinidae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7504	mantodea	http://purl.bioontology.org/ontology/MESH/D020050	mantodeas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7746	petromyzontidae	http://purl.bioontology.org/ontology/MESH/D007798	lampreys	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6657	crustacea	http://purl.bioontology.org/ontology/MESH/D003445	ostracods	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6656	arthropoda	http://purl.bioontology.org/ontology/MESH/D001181	arthropoda	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_10633	simian virus 40	http://purl.bioontology.org/ontology/MESH/D013539	sv 40 viruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7509	siphonaptera	http://purl.bioontology.org/ontology/MESH/D005423	flea	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_127999	tanacetum parthenium	http://purl.bioontology.org/ontology/MESH/D020903	chrysanthemum parthenium	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_35933	podophyllum peltatum	http://purl.bioontology.org/ontology/MESH/D028144	american mandrake	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10880	reoviridae	http://purl.bioontology.org/ontology/MESH/D012087	seadornaviruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10641	cauliflower mosaic virus	http://purl.bioontology.org/ontology/MESH/D017796	cauliflower mosaic viruses	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4006	linum usitatissimum	http://purl.bioontology.org/ontology/MESH/D019597	linum usitatissimum	0.7	2	AML;LogMap	2	AML;LogMap
+http://www.ebi.ac.uk/efo/swo/SWO_0000141	farms	http://purl.bioontology.org/ontology/MESH/D000072480	farmland	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10404	hepadnaviridae	http://purl.bioontology.org/ontology/MESH/D015613	hepadnaviridae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10407	hepatitis b virus	http://purl.bioontology.org/ontology/MESH/D006515	dane particle	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9940	ovis aries	http://purl.bioontology.org/ontology/MESH/D034561	ovis aries musimon	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/UBERON_0002050	embryonic structure	http://purl.bioontology.org/ontology/MESH/D004628	structures, embryonic	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/UBERON_0002050	embryonic structure	http://purl.bioontology.org/ontology/STY/T018	embryonic structure	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11786	murine leukemia virus	http://purl.bioontology.org/ontology/MESH/D009052	leukemia viruses, murine	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6239	caenorhabditis elegans	http://purl.bioontology.org/ontology/MESH/D017173	caenorhabditis elegans	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_12637	dengue virus	http://purl.bioontology.org/ontology/MESH/D003716	fever viruses, breakbone	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9505	aotus trivirgatus	http://purl.bioontology.org/ontology/MESH/D001029	aotus trivirgatus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9989	rodentia	http://purl.bioontology.org/ontology/MESH/D012377	rodentias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11308	orthomyxoviridae	http://purl.bioontology.org/ontology/MESH/D009975	influenza viruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_136217	curcuma longa	http://purl.bioontology.org/ontology/MESH/D030024	turmeric	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_99105	tanacetum	http://purl.bioontology.org/ontology/MESH/D031203	tansies	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_32008	burkholderia	http://purl.bioontology.org/ontology/MESH/D019117	burkholderia	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9513	cebus	http://purl.bioontology.org/ontology/MESH/D002428	capuchin, untufted	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_32247	rubus idaeus	http://purl.bioontology.org/ontology/MESH/D065856	blackberries	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4068	gymnema sylvestre	http://purl.bioontology.org/ontology/MESH/D031104	sylvestre, gymnema	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0000070	assay	http://purl.bioontology.org/ontology/MESH/Q000032	chemical analysis	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_151341	polyomaviridae	http://purl.bioontology.org/ontology/MESH/D027382	alphapolyomaviruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_151340	papillomaviridae	http://purl.bioontology.org/ontology/MESH/D027383	papillomavirus virus, human	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9514	cebus albifrons	http://purl.bioontology.org/ontology/MESH/C000630343	cebus albifrons	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9515	cebus apella	http://purl.bioontology.org/ontology/MESH/D000080522	capuchin monkey, tufted	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9516	cebus capucinus	http://purl.bioontology.org/ontology/MESH/D000080526	cebus capucinus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_43364	aesculus hippocastanum	http://purl.bioontology.org/ontology/MESH/D031319	aesculus hippocastanum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4071	capsicum	http://purl.bioontology.org/ontology/MESH/D002212	cayenne	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9520	saimiri	http://purl.bioontology.org/ontology/MESH/D012453	squirrel monkey	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9521	saimiri sciureus	http://purl.bioontology.org/ontology/MESH/C000630511	saimiri boliviensis	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9522	callicebus	http://purl.bioontology.org/ontology/MESH/D000080602	titi monkeys	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6499	aplysia	http://purl.bioontology.org/ontology/MESH/D001048	aplysias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7586	echinodermata	http://purl.bioontology.org/ontology/MESH/D004447	echinodermatas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6251	ascaris	http://purl.bioontology.org/ontology/MESH/D001200	ascari	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4039	daucus carota	http://purl.bioontology.org/ontology/MESH/D018552	daucus carota	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_172057	centaurium erythraea	http://purl.bioontology.org/ontology/MESH/D029966	centaury, small	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_44689	dictyostelium discoideum	http://purl.bioontology.org/ontology/MESH/D004023	discoideum, dictyostelium	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001081	microdialysis 	http://purl.bioontology.org/ontology/MESH/D017551	microdialysis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_99568	curcuma	http://purl.bioontology.org/ontology/MESH/D030024	turmeric	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_649199	astragalus membranaceus	http://purl.bioontology.org/ontology/MESH/D027885	astragalus mongholicus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001075	real-time pcr	http://purl.bioontology.org/ontology/MESH/D060888	real-time pcr	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001078	urodynamics 	http://purl.bioontology.org/ontology/MESH/D014563	urodynamics	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4045	apium graveolens	http://purl.bioontology.org/ontology/MESH/D000077102	apium	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8400	rana catesbeiana	http://purl.bioontology.org/ontology/MESH/D011892	rana catesbeiana	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4043	petroselinum crispum	http://purl.bioontology.org/ontology/MESH/D028528	parsley	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4044	apium	http://purl.bioontology.org/ontology/MESH/D000077102	apium	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_33554	carnivora	http://purl.bioontology.org/ontology/MESH/D002335	carnivora	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_102693	ulmus rubra	http://purl.bioontology.org/ontology/MESH/D034403	elm tree	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_10442	baculoviridae	http://purl.bioontology.org/ontology/MESH/D016367	baculoviridae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_8404	rana pipiens	http://purl.bioontology.org/ontology/MESH/D011894	lithobates pipiens	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4047	coriandrum sativum	http://purl.bioontology.org/ontology/MESH/D028526	corianders	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_41165	schizopyrenida	http://purl.bioontology.org/ontology/MESH/D016847	schizopyrenidas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_22663	punica granatum	http://purl.bioontology.org/ontology/MESH/D000079702	punica granatum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001092	medical device 	http://purl.bioontology.org/ontology/STY/T074	medical device	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/IAO_0000064	algorithm	http://purl.bioontology.org/ontology/MESH/D000465	algorithm	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9986	oryctolagus cuniculus	http://purl.bioontology.org/ontology/MESH/D011817	new zealand white rabbits	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4054	panax ginseng	http://purl.bioontology.org/ontology/MESH/D005894	shen, jen	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5141	neurospora crassa	http://purl.bioontology.org/ontology/MESH/D009492	neurospora crassas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6231	nematoda	http://purl.bioontology.org/ontology/MESH/D009348	secernentea	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4053	panax	http://purl.bioontology.org/ontology/MESH/D005894	shen, jen	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4295	ilex	http://purl.bioontology.org/ontology/MESH/D030017	holly	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10255	variola virus	http://purl.bioontology.org/ontology/MESH/D012901	smallpox viruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10016	dipodomys	http://purl.bioontology.org/ontology/MESH/D004173	rats, kangaroo	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7129	manduca	http://purl.bioontology.org/ontology/MESH/D018402	tobacco hornworm	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_976	bacteroidetes	http://purl.bioontology.org/ontology/MESH/D041963	cytophagales	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_80369	imperata cylindrica	http://purl.bioontology.org/ontology/MESH/D006109	imperata	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/UBERON_0000061	anatomical structure	http://purl.bioontology.org/ontology/STY/T017	anatomical structure	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7370	musca domestica	http://purl.bioontology.org/ontology/MESH/D006793	musca domesticas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9796	equus caballus	http://purl.bioontology.org/ontology/MESH/D006736	horse, domestic	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9554	papio	http://purl.bioontology.org/ontology/MESH/D010215	papios	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9555	papio anubis	http://purl.bioontology.org/ontology/MESH/D048530	baboon, olive	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001054	transgenic organism	http://purl.bioontology.org/ontology/MESH/D030781	organism, transgenic	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_56016	matricaria	http://purl.bioontology.org/ontology/MESH/D031168	german chamomile	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7130	manduca sexta	http://purl.bioontology.org/ontology/MESH/D018402	tobacco hornworm	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_10026	cricetinae	http://purl.bioontology.org/ontology/MESH/D006224	cricetinae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10028	cricetulus	http://purl.bioontology.org/ontology/MESH/D003412	hamsters, grey	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11118	coronaviridae	http://purl.bioontology.org/ontology/MESH/D003332	coronavirinae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0302736	comet assay	http://purl.bioontology.org/ontology/MESH/D020552	alkaline comet assay	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_22002	verbena	http://purl.bioontology.org/ontology/MESH/D032412	verbenas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001070	bronchoalveolar lavage	http://purl.bioontology.org/ontology/MESH/D018893	lung lavages	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0400047	gas laser	http://purl.bioontology.org/ontology/MESH/D054020	lasers, carbon dioxide	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7147	diptera	http://purl.bioontology.org/ontology/MESH/D004175	fly, true	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11320	influenza a virus	http://purl.bioontology.org/ontology/MESH/D009980	orthomyxovirus type a, human	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7108	spodoptera frugiperda	http://purl.bioontology.org/ontology/MESH/D018411	spodoptera frugiperdas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_78064	cetraria islandica	http://purl.bioontology.org/ontology/MESH/D000068837	iceland mosses	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_13749	vaccinium	http://purl.bioontology.org/ontology/MESH/D029796	vaccinium	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10239	viruses	http://purl.bioontology.org/ontology/MESH/D014780	virus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9527	cercopithecidae	http://purl.bioontology.org/ontology/MESH/D002520	miopithecus talapoin	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0000721	glucose tolerance test	http://purl.bioontology.org/ontology/MESH/D005951	intravenous glucose tolerance	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0400034	dye laser	http://purl.bioontology.org/ontology/MESH/D054025	lasers, pulsed dye	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4081	solanum lycopersicum	http://purl.bioontology.org/ontology/MESH/D018551	solanum lycopersicum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001278	iontophoresis	http://purl.bioontology.org/ontology/MESH/D007478	iontophoresis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_24646	lycium	http://purl.bioontology.org/ontology/MESH/D032305	berry, goji	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9534	chlorocebus aethiops	http://purl.bioontology.org/ontology/MESH/D002522	vervet monkey	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0400033	diode laser	http://purl.bioontology.org/ontology/MESH/D054023	lasers, quantum cascade	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0002123	optical tweezers	http://purl.bioontology.org/ontology/MESH/D052898	laser tweezer	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_30073	ephemeroptera	http://purl.bioontology.org/ontology/MESH/D065133	mayfly	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10245	vaccinia virus	http://purl.bioontology.org/ontology/MESH/D014616	rabbitpox virus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13516	eupatorium	http://purl.bioontology.org/ontology/MESH/D036602	eupatorium	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001051	estrus synchronization	http://purl.bioontology.org/ontology/MESH/D004973	estrus synchronization	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9538	erythrocebus patas	http://purl.bioontology.org/ontology/MESH/D004901	erythrocebus patas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9539	macaca	http://purl.bioontology.org/ontology/MESH/D008251	celebes ape	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_85823	blattodea	http://purl.bioontology.org/ontology/MESH/D003058	blattarias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_375272	pimenta dioica	http://purl.bioontology.org/ontology/MESH/D027841	pimentas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9540	macaca arctoides	http://purl.bioontology.org/ontology/MESH/D000080531	m. brunneus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9541	macaca fascicularis	http://purl.bioontology.org/ontology/MESH/D008252	cynomolgus monkeys	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001048	tissue harvesting	http://purl.bioontology.org/ontology/MESH/D020858	tissue harvesting	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9542	macaca fuscata	http://purl.bioontology.org/ontology/MESH/D000080527	macaca fuscata yakui	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9544	macaca mulatta	http://purl.bioontology.org/ontology/MESH/D008253	macaca mulatta lasiota	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9545	macaca nemestrina	http://purl.bioontology.org/ontology/MESH/D008254	pigtail macaques	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9788	equidae	http://purl.bioontology.org/ontology/MESH/D018397	equidae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_425106	stephania tetrandra	http://purl.bioontology.org/ontology/MESH/D031609	stephania tetrandras	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_33345	heteroptera	http://purl.bioontology.org/ontology/MESH/D020062	heteropteras	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10240	poxviridae	http://purl.bioontology.org/ontology/MESH/D011212	poxviruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_58227	garcinia	http://purl.bioontology.org/ontology/MESH/D029760	garcinias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_539	eikenella corrodens	http://purl.bioontology.org/ontology/MESH/D016124	bacteroides corrodens	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_2711	citrus sinensis	http://purl.bioontology.org/ontology/MESH/D032084	tree, orange	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_429701	tabebuia impetiginosa	http://purl.bioontology.org/ontology/MESH/D029663	tree, taheebo	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_38868	salvia officinalis	http://purl.bioontology.org/ontology/MESH/D027543	sage plants	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13569	hydrastis canadensis	http://purl.bioontology.org/ontology/MESH/D039321	canadensis, hydrastis	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_13329	achillea millefolium	http://purl.bioontology.org/ontology/MESH/D031162	yarrow	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_112883	lycium chinense	http://purl.bioontology.org/ontology/MESH/D032305	berry, goji	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6083	hydra	http://purl.bioontology.org/ontology/MESH/D006829	hydras	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001498	gas chromatography 	http://purl.bioontology.org/ontology/MESH/D002849	chromatographies, gas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_49511	piper longum	http://purl.bioontology.org/ontology/MESH/D031701	peppers, jaborandi	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_49992	thymus vulgaris	http://purl.bioontology.org/ontology/MESH/D046930	thymus vulgari	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0400096	solid state laser	http://purl.bioontology.org/ontology/MESH/D053844	lasers, diode pumped solid state	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9598	pan troglodytes	http://purl.bioontology.org/ontology/MESH/D002679	chimpanzee troglodyte	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10292	herpesviridae	http://purl.bioontology.org/ontology/MESH/D006564	mouse thymic virus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11158	paramyxoviridae	http://purl.bioontology.org/ontology/MESH/D010252	ferlaviruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1639	listeria monocytogenes	http://purl.bioontology.org/ontology/MESH/D008089	listeria monocytogenes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3818	arachis hypogaea	http://purl.bioontology.org/ontology/MESH/D010367	arachis hypogaea	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_23137	agrimonia	http://purl.bioontology.org/ontology/MESH/D031981	agrimonias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3816	abrus precatorius	http://purl.bioontology.org/ontology/MESH/D029912	precatory bean plants	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_49743	taraxacum	http://purl.bioontology.org/ontology/MESH/D031205	dandelion	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_83819	polygonum cuspidatum	http://purl.bioontology.org/ontology/MESH/D045468	japanese knotweed	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0002113	text mining	http://purl.bioontology.org/ontology/MESH/D057225	mining, text	0.7	2	AML;LogMap	2	AML;LogMap
+http://xmlns.com/foaf/0.1/Group	group	http://purl.bioontology.org/ontology/STY/T096	group	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/NCBITaxon_38851	gentiana lutea	http://purl.bioontology.org/ontology/MESH/D030012	gentian	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_12242	tobacco mosaic virus	http://purl.bioontology.org/ontology/MESH/D014027	mosaic viruses, tobacco	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_34256	mentha x piperita	http://purl.bioontology.org/ontology/MESH/D036142	peppermint	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_10036	mesocricetus auratus	http://purl.bioontology.org/ontology/MESH/D008647	hamsters, golden syrian	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_119260	cinnamomum aromaticum	http://purl.bioontology.org/ontology/MESH/D032904	trees, cassia	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_40922	anethum graveolens	http://purl.bioontology.org/ontology/MESH/D028524	weeds, dill	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_112863	lycium barbarum	http://purl.bioontology.org/ontology/MESH/D032305	berry, goji	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_141191	lawsonia inermis	http://purl.bioontology.org/ontology/MESH/D031564	inermi, lawsonia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_188482	amomum	http://purl.bioontology.org/ontology/MESH/D035801	amomum	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000383	electrocardiogram	http://purl.bioontology.org/ontology/MESH/D004562	ecg	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001235	magnetic resonance imaging	http://purl.bioontology.org/ontology/MESH/D008279	imaging, nmr	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001236	magnetic resonance spectroscopy	http://purl.bioontology.org/ontology/MESH/D009682	nuclear magnetic resonance	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_26867	plantago	http://purl.bioontology.org/ontology/MESH/D010943	plantains, narrow-leaved	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_165353	angelica sinensis	http://purl.bioontology.org/ontology/MESH/D029971	angelica sinensis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_8005	electrophorus electricus	http://purl.bioontology.org/ontology/MESH/D004593	electrophorus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8004	electrophorus	http://purl.bioontology.org/ontology/MESH/D004593	electrophorus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7157	culicidae	http://purl.bioontology.org/ontology/MESH/D009033	mosquito	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7399	hymenoptera	http://purl.bioontology.org/ontology/MESH/D006927	hymenoptera	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_458695	ligustrum lucidum	http://purl.bioontology.org/ontology/MESH/D031659	ligustrum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_91201	gastrodia elata	http://purl.bioontology.org/ontology/MESH/D031668	tien ma	0.7	2	AML;LogMap	2	AML;LogMap
+http://www.ebi.ac.uk/efo/swo/SWO_0000106	pcmg	http://purl.bioontology.org/ontology/MESH/C003053	n-methyl-4-piperidyl cyclopentylmethylethynylglycollate	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_74900	allium schoenoprasum	http://purl.bioontology.org/ontology/MESH/D027782	allium tuberosum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001239	spectrophotometry	http://purl.bioontology.org/ontology/MESH/D013053	spectrophotometry	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10045	gerbillinae	http://purl.bioontology.org/ontology/MESH/D005849	psammomys	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_55153	sciuridae	http://purl.bioontology.org/ontology/MESH/D012589	chipmunk	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_2706	citrus	http://purl.bioontology.org/ontology/MESH/D002957	trees, mandarin orange	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/ERO_0001250	photography	http://purl.bioontology.org/ontology/MESH/D010781	photographies	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_562	escherichia coli	http://purl.bioontology.org/ontology/MESH/D004926	enteroinvasive e. coli	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001245	licensing	http://purl.bioontology.org/ontology/MESH/D008004	licensure, institutional personnel	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6073	cnidaria	http://purl.bioontology.org/ontology/MESH/D003063	cnidarians	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001488	cyclotron 	http://purl.bioontology.org/ontology/MESH/D017357	synchrocyclotrons	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0400064	laser	http://purl.bioontology.org/ontology/MESH/D007834	q-switched laser	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001242	laser capture microdissection	http://purl.bioontology.org/ontology/MESH/D061346	capture microdissection, laser	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://vivoweb.org/ontology/core#Library	library	http://purl.bioontology.org/ontology/MESH/D007990	library	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8015	salmonidae	http://purl.bioontology.org/ontology/MESH/D012487	thymallus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7165	anopheles gambiae	http://purl.bioontology.org/ontology/MESH/D000852	anopheles	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_57577	trifolium pratense	http://purl.bioontology.org/ontology/MESH/D029921	trifolium	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_1423	bacillus subtilis	http://purl.bioontology.org/ontology/MESH/D001412	bacillus subtilis var. natto	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3603	vitis	http://purl.bioontology.org/ontology/MESH/D027843	grapes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3845	erythrina variegata	http://purl.bioontology.org/ontology/MESH/D004895	erythrina variegata	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4932	saccharomyces cerevisiae	http://purl.bioontology.org/ontology/MESH/D012441	yeasts, brewer's	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_81056	wolfiporia cocos	http://purl.bioontology.org/ontology/MESH/D000070660	wolfiporia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4930	saccharomyces	http://purl.bioontology.org/ontology/MESH/D012440	saccharomyce	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0000661	elisa	http://purl.bioontology.org/ontology/MESH/D004797	elisa	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0000422	syringe	http://purl.bioontology.org/ontology/MESH/D013594	syringes	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3847	glycine max	http://purl.bioontology.org/ontology/MESH/D013025	glycine max	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0302902	immobilization	http://purl.bioontology.org/ontology/MESH/D007103	immobilization	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1428	bacillus thuringiensis	http://purl.bioontology.org/ontology/MESH/D001413	thuricide	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0000659	specimen collection	http://purl.bioontology.org/ontology/MESH/D013048	handlings, specimen	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9397	chiroptera	http://purl.bioontology.org/ontology/MESH/D002685	pteropodidae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_50557	insecta	http://purl.bioontology.org/ontology/MESH/D007313	insect	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_49551	ligusticum	http://purl.bioontology.org/ontology/MESH/D030004	alpine lovages	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_29719	mentha spicata	http://purl.bioontology.org/ontology/MESH/D031337	spearmint	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10090	mus musculus	http://purl.bioontology.org/ontology/MESH/D051379	domesticus, mus musculus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001219	quality control	http://purl.bioontology.org/ontology/MESH/D011786	quality controls	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_124943	azadirachta indica	http://purl.bioontology.org/ontology/MESH/D031601	azadirachta	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_39992	terminalia	http://purl.bioontology.org/ontology/MESH/D029766	tree, arjuna	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13363	borago officinalis	http://purl.bioontology.org/ontology/MESH/D029683	borage	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9394	tupaia	http://purl.bioontology.org/ontology/MESH/D014417	tupaia	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001218	data management	http://purl.bioontology.org/ontology/MESH/D000079803	data management	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_2763	rhodophyta	http://purl.bioontology.org/ontology/MESH/D000461	red algae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3618	rumex	http://purl.bioontology.org/ontology/MESH/D031804	rumex crispus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000373	intravenous injection	http://purl.bioontology.org/ontology/MESH/D007275	injections, intravenous	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001224	sterilization	http://purl.bioontology.org/ontology/MESH/D013242	sterilization	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_72332	artemisia absinthium	http://purl.bioontology.org/ontology/MESH/D031171	artemisia absinthiums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000378	surgery	http://purl.bioontology.org/ontology/MESH/Q000601	operative procedures	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000377	subcutaneous injection	http://purl.bioontology.org/ontology/MESH/D007279	subcutaneous injections	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001220	autopsy	http://purl.bioontology.org/ontology/MESH/D001344	autopsies	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000376	intraperitoneal injection	http://purl.bioontology.org/ontology/MESH/D007274	intraperitoneal injection	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8078	fundulus heteroclitus	http://purl.bioontology.org/ontology/MESH/D023781	gulf killifish	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_13373	burkholderia mallei	http://purl.bioontology.org/ontology/MESH/D042726	burkholderia mallei	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://vivoweb.org/ontology/core#School	school	http://purl.bioontology.org/ontology/MESH/D012574	school, secondary	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_318982	commiphora myrrha	http://purl.bioontology.org/ontology/MESH/D029744	commiphora erythraea	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_544448	tenericutes	http://purl.bioontology.org/ontology/MESH/D008973	tenericutes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000590	adeno-associated viruses	http://purl.bioontology.org/ontology/MESH/D000229	dependovirus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_53845	caesalpinia	http://purl.bioontology.org/ontology/MESH/D029911	brazilwoods	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://vivoweb.org/ontology/core#Museum	museum	http://purl.bioontology.org/ontology/MESH/D009144	museums	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001676	fluorescence anisotropy	http://purl.bioontology.org/ontology/MESH/D005454	fluorescence anisotropies	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001434	dental instrument	http://purl.bioontology.org/ontology/MESH/D003762	instruments, dental	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_105181	elettaria cardamomum	http://purl.bioontology.org/ontology/MESH/D028523	elettarias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000342	nested polymerase chain reaction	http://purl.bioontology.org/ontology/MESH/D016133	nested polymerase chain reaction	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001677	raman spectroscopy	http://purl.bioontology.org/ontology/MESH/D013059	spectrum analysis, raman	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001678	immunophenotyping	http://purl.bioontology.org/ontology/MESH/D016130	subtypings, lymphocyte	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13100	juniperus	http://purl.bioontology.org/ontology/MESH/D018653	junipers	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3832	cyamopsis tetragonoloba	http://purl.bioontology.org/ontology/MESH/D031293	cyamopsis tetragonoloba	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0000690	immunoprecipitation	http://purl.bioontology.org/ontology/MESH/D047468	immune precipitation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0302912	electroporation	http://purl.bioontology.org/ontology/MESH/D018274	electropermeabilisation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_23159	crataegus	http://purl.bioontology.org/ontology/MESH/D027825	hawthorn	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001685	patch clamp technique	http://purl.bioontology.org/ontology/MESH/D018408	whole-cell recordings	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8293	caudata	http://purl.bioontology.org/ontology/MESH/D014562	amphiuma	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8292	amphibia	http://purl.bioontology.org/ontology/MESH/D000663	amphibia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_47101	galega officinalis	http://purl.bioontology.org/ontology/MESH/D029881	goat's rue	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001680	polyacrylamide gel electrophoresis	http://purl.bioontology.org/ontology/MESH/D004591	sds-page	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_100506	ophiopogon japonicus	http://purl.bioontology.org/ontology/MESH/D031441	ophiopogon japonicus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_40948	angelica	http://purl.bioontology.org/ontology/MESH/D029969	angelica	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_40949	angelica archangelica	http://purl.bioontology.org/ontology/MESH/D029970	angelica archangelica	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0100026	organism	http://purl.bioontology.org/ontology/STY/T001	organism	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_8296	ambystoma mexicanum	http://purl.bioontology.org/ontology/MESH/D000558	salamander, mexican	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1224	proteobacteria	http://purl.bioontology.org/ontology/MESH/D020560	purple bacteria	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3402	magnolia	http://purl.bioontology.org/ontology/MESH/D031566	magnolias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3883	phaseolus	http://purl.bioontology.org/ontology/MESH/D027805	beans, kidney	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_50507	schisandra chinensis	http://purl.bioontology.org/ontology/MESH/D032141	wuweizi	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3649	carica papaya	http://purl.bioontology.org/ontology/MESH/D029441	caricas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000563	cannulation	http://purl.bioontology.org/ontology/MESH/D002404	catheterizations	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_161934	beta vulgaris	http://purl.bioontology.org/ontology/MESH/D027461	chards	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001898	scanning tunneling microscopy	http://purl.bioontology.org/ontology/MESH/D016252	microscopies, scanning tunnelling	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000329	transmission electron microscopy	http://purl.bioontology.org/ontology/MESH/D046529	microscopy, transmission electron	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001658	rna sequencing	http://purl.bioontology.org/ontology/MESH/D017423	sequence analyses, rna	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000328	electron microscopy	http://purl.bioontology.org/ontology/MESH/D008854	microscopy, electron	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3656	cucumis melo	http://purl.bioontology.org/ontology/MESH/D028463	cucumis melos	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3655	cucumis	http://purl.bioontology.org/ontology/MESH/D028462	cucumi	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_5833	plasmodium falciparum	http://purl.bioontology.org/ontology/MESH/D010963	falciparums, plasmodium	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_945	ehrlichia chaffeensis	http://purl.bioontology.org/ontology/MESH/D018469	ehrlichia chaffeensis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3896	sophora	http://purl.bioontology.org/ontology/MESH/D029909	plants, mescal bean	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_210369	tribulus terrestris	http://purl.bioontology.org/ontology/MESH/D032444	tribulus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_157443	vincetoxicum atratum	http://purl.bioontology.org/ontology/MESH/D066047	atratums, vincetoxicum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0000630	hematology	http://purl.bioontology.org/ontology/MESH/D006405	hematology	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1239	firmicutes	http://purl.bioontology.org/ontology/MESH/D000068536	firmicutes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3659	cucumis sativus	http://purl.bioontology.org/ontology/MESH/D018553	cucumbers	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000330	scanning electron microscopy	http://purl.bioontology.org/ontology/MESH/D008855	microscopy, electron, scanning	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0000626	dna sequencing	http://purl.bioontology.org/ontology/MESH/D017422	dna sequence analysis	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001663	peptide mapping	http://purl.bioontology.org/ontology/MESH/D010449	protein fingerprints	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000338	purification	http://purl.bioontology.org/ontology/MESH/Q000302	isolation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.org/net/OCRe/research.owl#Cohort_study	cohort study	http://purl.bioontology.org/ontology/MESH/D015331	studies, closed cohort	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3660	cucurbita	http://purl.bioontology.org/ontology/MESH/D028464	squashe	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_12058	picornaviridae	http://purl.bioontology.org/ontology/MESH/D010849	senecaviruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_714	aggregatibacter actinomycetemcomitans	http://purl.bioontology.org/ontology/MESH/D016976	actinobacillus actinomycetemcomitans	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3624	actinidia	http://purl.bioontology.org/ontology/MESH/D029042	plant, kiwi	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3620	rheum	http://purl.bioontology.org/ontology/MESH/D012250	da huang	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3627	actinidia deliciosa	http://purl.bioontology.org/ontology/MESH/D029042	plant, kiwi	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_173701	boswellia sacra	http://purl.bioontology.org/ontology/MESH/D029743	boswellia carterii	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000305	iga	http://purl.bioontology.org/ontology/MESH/D007070	immunoglobulin a	0.7	2	AML;LogMap	2	AML;LogMap
+http://www.ebi.ac.uk/efo/swo/SWO_0000620	meta data	http://purl.bioontology.org/ontology/MESH/D000071253	metadata	0.7	2	LogMap;loom	2	LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000304	igg	http://purl.bioontology.org/ontology/MESH/D007074	igg1	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001638	intravital microscopy	http://purl.bioontology.org/ontology/MESH/D000069416	in vivo microscopy	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000308	igm	http://purl.bioontology.org/ontology/MESH/D007075	igm	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001635	scanning probe microscopy	http://purl.bioontology.org/ontology/MESH/D020527	scanning probe microscopy	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000307	ige	http://purl.bioontology.org/ontology/MESH/D007073	immunoglobulin e	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000306	igd	http://purl.bioontology.org/ontology/MESH/D007072	immunoglobulin d	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001636	phase contrast microscopy	http://purl.bioontology.org/ontology/MESH/D008858	phase-contrast microscopies	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4722	serenoa repens	http://purl.bioontology.org/ontology/MESH/D028024	serrulatas, sabal	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5811	toxoplasma gondii	http://purl.bioontology.org/ontology/MESH/D014122	toxoplasma	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/UBERON_0000105	life cycle stage	http://purl.bioontology.org/ontology/MESH/D008018	life cycle stage	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_85864	magnolia officinalis	http://purl.bioontology.org/ontology/MESH/D031566	magnolias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3879	medicago sativa	http://purl.bioontology.org/ontology/MESH/D000455	alfalfa	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0000415	polymerase chain reaction	http://purl.bioontology.org/ontology/MESH/D016133	nested polymerase chain reaction	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_50304	eleutherococcus	http://purl.bioontology.org/ontology/MESH/D028001	ciwujia	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_169205	achyranthes	http://purl.bioontology.org/ontology/MESH/D029044	achyranthes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000793	transfection	http://purl.bioontology.org/ontology/MESH/D014162	transfections	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_8090	oryzias latipes	http://purl.bioontology.org/ontology/MESH/D009990	killifish, medaka	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001402	feasibility study	http://purl.bioontology.org/ontology/MESH/D005240	feasibility studies	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001646	native polyacrylamide gel electrophoresis	http://purl.bioontology.org/ontology/MESH/D063347	native page	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_128017	dimocarpus longan	http://purl.bioontology.org/ontology/MESH/C000633684	dimocarpus longan	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_94328	zingiber officinale	http://purl.bioontology.org/ontology/MESH/D020939	zingiber officinale	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0400107	computer	http://purl.bioontology.org/ontology/MESH/D003201	computers	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_65409	scutellaria baicalensis	http://purl.bioontology.org/ontology/MESH/D031364	scutellaria baicalensis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_379279	prunus africana	http://purl.bioontology.org/ontology/MESH/D000068218	african prunes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001610	robotics	http://purl.bioontology.org/ontology/MESH/D012371	robotics	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://vivoweb.org/ontology/core#Program	program	http://purl.bioontology.org/ontology/MESH/D019542	program	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/NCBITaxon_39350	ocimum basilicum	http://purl.bioontology.org/ontology/MESH/D018649	basil	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001615	differential scanning calorimetry	http://purl.bioontology.org/ontology/MESH/D002152	differential scanning calorimetry	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_51240	juglans regia	http://purl.bioontology.org/ontology/MESH/D031324	walnuts, black	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_39352	origanum vulgare	http://purl.bioontology.org/ontology/MESH/D031341	origanum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3452	clematis	http://purl.bioontology.org/ontology/MESH/D039324	clemati	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_21819	mentha	http://purl.bioontology.org/ontology/MESH/D027541	menthas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_39358	prunella vulgaris	http://purl.bioontology.org/ontology/MESH/D031347	xiakucaos	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_1279	staphylococcus	http://purl.bioontology.org/ontology/MESH/D013210	staphylococcus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_128002	tanacetum vulgare	http://purl.bioontology.org/ontology/MESH/D031203	tansies	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5878	ciliophora	http://purl.bioontology.org/ontology/MESH/D016798	ciliophoras	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6724	astacoidea	http://purl.bioontology.org/ontology/MESH/D003400	astacus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_29780	mangifera indica	http://purl.bioontology.org/ontology/MESH/D031022	mangifera indicas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_159425	passiflora incarnata	http://purl.bioontology.org/ontology/MESH/D029598	passiflora	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_28450	burkholderia pseudomallei	http://purl.bioontology.org/ontology/MESH/D016957	burkholderia pseudomallei	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_29788	galium aparine	http://purl.bioontology.org/ontology/MESH/D032061	bedstraws	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_40573	dipsacus	http://purl.bioontology.org/ontology/MESH/D049917	teasel	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000771	in situ hybridization	http://purl.bioontology.org/ontology/MESH/D017403	hybridization in situ	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_1282	staphylococcus epidermidis	http://purl.bioontology.org/ontology/MESH/D013212	staphylococcus epidermidis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001628	electrospray ionization mass spectrometry 	http://purl.bioontology.org/ontology/MESH/D021241	electrospray ionization mass spectrometry	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_1280	staphylococcus aureus	http://purl.bioontology.org/ontology/MESH/D013211	staphylococcus aureus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_39347	nepeta cataria	http://purl.bioontology.org/ontology/MESH/D027521	nepeta catarias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_39338	melissa officinalis	http://purl.bioontology.org/ontology/MESH/D031334	balm, lemon	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4513	hordeum vulgare	http://purl.bioontology.org/ontology/MESH/D001467	hordeum vulgare	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4754	pneumocystis carinii	http://purl.bioontology.org/ontology/MESH/D045363	pneumocystis carinii	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4751	fungi	http://purl.bioontology.org/ontology/STY/T004	fungus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4751	fungi	http://purl.bioontology.org/ontology/MESH/D005658	fungi	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0000043	xenotransplantation	http://purl.bioontology.org/ontology/MESH/D014183	xenografting	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_117565	hyperotreti	http://purl.bioontology.org/ontology/MESH/D024561	hyperotretus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001830	positron emission tomography	http://purl.bioontology.org/ontology/MESH/D049268	tomography, positron-emission	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_12092	hepatitis a virus	http://purl.bioontology.org/ontology/MESH/D030041	hepatitis a virus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_48042	levisticum officinale	http://purl.bioontology.org/ontology/MESH/D030003	levisticum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/IAO_0000013	journal article	http://purl.bioontology.org/ontology/MESH/D016428	journal article	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001833	drill	http://purl.bioontology.org/ontology/MESH/D048528	mandrillus leucophaeus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3677	trichosanthes kirilowii	http://purl.bioontology.org/ontology/MESH/D029778	trichosanthe	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3435	persea americana	http://purl.bioontology.org/ontology/MESH/D027421	persea americanas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_2104	mycoplasma pneumoniae	http://purl.bioontology.org/ontology/MESH/D009177	eaton agent	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6704	nephropidae	http://purl.bioontology.org/ontology/MESH/D008121	lobsters, clawed	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_39329	lavandula angustifolia	http://purl.bioontology.org/ontology/MESH/D027523	lavender	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3673	momordica charantia	http://purl.bioontology.org/ontology/MESH/D029777	karela	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_29760	vitis vinifera	http://purl.bioontology.org/ontology/MESH/D027843	grapes	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_48038	foeniculum vulgare	http://purl.bioontology.org/ontology/MESH/D030001	vulgares, foeniculum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.org/net/OCRe/research.owl#Case_control_study	case-control study	http://purl.bioontology.org/ontology/MESH/D016022	studies, case-base	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_48032	carum carvi	http://purl.bioontology.org/ontology/MESH/D029974	carvus, carum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000510	atomic force microscopy	http://purl.bioontology.org/ontology/MESH/D018625	microscopy, atomic force	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4530	oryza sativa	http://purl.bioontology.org/ontology/MESH/D012275	oryza	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_30511	squalidae	http://purl.bioontology.org/ontology/MESH/D004284	dogfishes	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_55635	inula helenium	http://purl.bioontology.org/ontology/MESH/D038143	pushkarmoolas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001843	registry	http://purl.bioontology.org/ontology/MESH/D012042	register, parish	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/IAO_0000025	programming language	http://purl.bioontology.org/ontology/MESH/D011381	programming language	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000516	crystallization	http://purl.bioontology.org/ontology/MESH/D003460	crystalline polymorph	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_39324	hyssopus officinalis	http://purl.bioontology.org/ontology/MESH/D000068819	plant, hyssopus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4577	zea mays	http://purl.bioontology.org/ontology/MESH/D003313	corn, indian	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3486	humulus lupulus	http://purl.bioontology.org/ontology/MESH/D027582	humulus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_2157	archaea	http://purl.bioontology.org/ontology/MESH/D001105	archaebacteria	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6995	gryllidae	http://purl.bioontology.org/ontology/MESH/D006135	cricket	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_41230	marrubium vulgare	http://purl.bioontology.org/ontology/MESH/D027522	horehound	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0100331	fourier transform	http://purl.bioontology.org/ontology/MESH/D005583	cyclic analysis	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_23810	ailanthus altissima	http://purl.bioontology.org/ontology/MESH/D032268	ailanthus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3251	lycopodium	http://purl.bioontology.org/ontology/MESH/D032502	lycopodium	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001815	optical tomography	http://purl.bioontology.org/ontology/MESH/D041622	optical tomography	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4581	bambusa	http://purl.bioontology.org/ontology/MESH/D031723	bambusas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000725	cell separation	http://purl.bioontology.org/ontology/MESH/D002469	segregations, cell	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001812	indirect calorimetry	http://purl.bioontology.org/ontology/MESH/D002153	calorimetry, indirect	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000739	site-directed mutagenesis	http://purl.bioontology.org/ontology/MESH/D016297	site-specific mutageneses	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3257	equisetum	http://purl.bioontology.org/ontology/MESH/D020829	equisetums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_21634	lithospermum	http://purl.bioontology.org/ontology/MESH/D029684	lithospermums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0100342	monte carlo method	http://purl.bioontology.org/ontology/MESH/D009010	method, monte carlo	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10508	adenoviridae	http://purl.bioontology.org/ontology/MESH/D000256	adenoviridae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_28498	asarum canadense	http://purl.bioontology.org/ontology/MESH/D030023	wild gingers	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_49188	aconitum	http://purl.bioontology.org/ontology/MESH/D031841	monkshood	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_39388	verbascum thapsus	http://purl.bioontology.org/ontology/MESH/D032265	verbascum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_53873	dipteryx odorata	http://purl.bioontology.org/ontology/MESH/D046914	odoratas, dipteryx	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3469	papaver somniferum	http://purl.bioontology.org/ontology/MESH/D010207	poppy, opium	0.7	2	AML;LogMap	2	AML;LogMap
+http://xmlns.com/foaf/0.1/Organization	organization	http://purl.bioontology.org/ontology/STY/T092	organization	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3467	eschscholzia californica	http://purl.bioontology.org/ontology/MESH/D031675	eschscholzia californica	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.org/net/OCRe/study_design.owl#Crossover_study	crossover study	http://purl.bioontology.org/ontology/MESH/D018592	cross-over design	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_95486	burkholderia cenocepacia	http://purl.bioontology.org/ontology/MESH/D057508	burkholderia cenocepacia	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3472	sanguinaria canadensis	http://purl.bioontology.org/ontology/MESH/D031681	sanguinaria canadensis	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5890	tetrahymena	http://purl.bioontology.org/ontology/MESH/D013768	tetrahymenas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000703	in vitro fertilization 	http://purl.bioontology.org/ontology/MESH/D005307	test tube babies	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_85223	laurus nobilis	http://purl.bioontology.org/ontology/MESH/D027442	laurus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_172200	terminalia arjuna	http://purl.bioontology.org/ontology/MESH/D029766	tree, arjuna	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_1299	deinococcus radiodurans	http://purl.bioontology.org/ontology/MESH/D034301	deinococcus radiodurans	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_43868	commiphora	http://purl.bioontology.org/ontology/MESH/D029744	commiphora erythraea	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4565	triticum aestivum	http://purl.bioontology.org/ontology/MESH/D014908	triticum turgidum	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_170026	pausinystalia johimbe	http://purl.bioontology.org/ontology/MESH/D032068	pausinystalia yohimbe	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_200993	fumaria officinalis	http://purl.bioontology.org/ontology/MESH/D031312	fumitory	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3483	cannabis sativa	http://purl.bioontology.org/ontology/MESH/D002188	cannabi	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8930	columbidae	http://purl.bioontology.org/ontology/MESH/D010856	doves	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://vivoweb.org/ontology/core#Foundation	foundation	http://purl.bioontology.org/ontology/MESH/D005582	foundations	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6752	brachyura	http://purl.bioontology.org/ontology/MESH/D003386	brachyura	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6993	orthoptera	http://purl.bioontology.org/ontology/MESH/D009987	orthopteras	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000716	autoradiography	http://purl.bioontology.org/ontology/MESH/D001345	autoradiography	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_39367	rosmarinus officinalis	http://purl.bioontology.org/ontology/MESH/D027542	plant, rosemary	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0000715	risk management	http://purl.bioontology.org/ontology/MESH/D012308	risks management	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_2	bacteria	http://purl.bioontology.org/ontology/MESH/D001419	eubacteria	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://vivoweb.org/ontology/core#Hospital	hospital	http://purl.bioontology.org/ontology/MESH/D006761	hospital	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4139	scutellaria	http://purl.bioontology.org/ontology/MESH/D031363	scutellaria	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000926	chromatin immunoprecipitation	http://purl.bioontology.org/ontology/MESH/D047369	chromatin immunoprecipitation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4137	leonurus	http://purl.bioontology.org/ontology/MESH/D031332	leonurus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11866	avian myeloblastosis virus	http://purl.bioontology.org/ontology/MESH/D009189	myeloblastosis viruses, avian	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000929	dna footprinting	http://purl.bioontology.org/ontology/MESH/D018983	footprinting, dna	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_29159	crassostrea gigas	http://purl.bioontology.org/ontology/MESH/D049896	oysters, eastern	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5476	candida albicans	http://purl.bioontology.org/ontology/MESH/D002176	candida albicans	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3055	chlamydomonas reinhardtii	http://purl.bioontology.org/ontology/MESH/D016825	chlamydomonas reinhardius	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4382	lobelia	http://purl.bioontology.org/ontology/MESH/D029746	tobacco, indian	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_51089	myristica fragrans	http://purl.bioontology.org/ontology/MESH/D026323	myristica	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3052	chlamydomonas	http://purl.bioontology.org/ontology/MESH/D002696	chlamydomona	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0001070	scintillation counter	http://purl.bioontology.org/ontology/MESH/D012588	scintillation counting	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_12721	human immunodeficiency virus	http://purl.bioontology.org/ontology/MESH/D006678	viruses, human immunodeficiency	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/SO_1000008	point_mutation	http://purl.bioontology.org/ontology/MESH/D017354	point mutations	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11632	retroviridae	http://purl.bioontology.org/ontology/MESH/D012190	tumor virus, rna	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_4146	olea europaea	http://purl.bioontology.org/ontology/MESH/D031658	trees, olive	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_211815	rubus fruticosus	http://purl.bioontology.org/ontology/MESH/D065856	blackberries	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_13817	adiantum	http://purl.bioontology.org/ontology/MESH/D035681	adiantums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_355332	polygala tenuifolia	http://purl.bioontology.org/ontology/MESH/D031801	snakeroots, seneca	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4397	hamamelis virginiana	http://purl.bioontology.org/ontology/MESH/D029501	hamamelis virginiana	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7664	strongylocentrotus	http://purl.bioontology.org/ontology/MESH/D047269	strongylocentrotus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_100169	pterocarpus	http://purl.bioontology.org/ontology/MESH/D035721	pterocarpus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000930	nuclease protection assay	http://purl.bioontology.org/ontology/MESH/D023282	assay, nuclease protection	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_4392	eucommia ulmoides	http://purl.bioontology.org/ontology/MESH/D031283	du-zhongs	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5207	cryptococcus neoformans	http://purl.bioontology.org/ontology/MESH/D003455	cryptococcus neoformans var. grubii	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://www.ebi.ac.uk/swo/SWO_0000112	maple	http://purl.bioontology.org/ontology/MESH/D031002	acers	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_41496	calendula officinalis	http://purl.bioontology.org/ontology/MESH/D020838	calendula officinali	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_46945	sassafras albidum	http://purl.bioontology.org/ontology/MESH/D027441	sassafras	0.7	2	AML;LogMap	2	AML;LogMap
+http://www.ebi.ac.uk/swo/SWO_0000118	python	http://purl.bioontology.org/ontology/MESH/D017821	pythons	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_21880	salvia	http://purl.bioontology.org/ontology/MESH/D027544	salvias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_183260	hibiscus sabdariffa	http://purl.bioontology.org/ontology/MESH/D031584	kenaf	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_33637	laminaria	http://purl.bioontology.org/ontology/MESH/D007795	laminarias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_39174	origanum	http://purl.bioontology.org/ontology/MESH/D031341	origanum	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_33634	stramenopiles	http://purl.bioontology.org/ontology/MESH/D058009	stramenopiles	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_186534	caulimoviridae	http://purl.bioontology.org/ontology/MESH/D052639	cavemoviruses	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://vivoweb.org/ontology/core#GovernmentAgency	government agency	http://purl.bioontology.org/ontology/MESH/D006077	government agency	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_41485	atractylodes	http://purl.bioontology.org/ontology/MESH/D031174	atractylodes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_487	neisseria meningitidis	http://purl.bioontology.org/ontology/MESH/D009345	neisseria meningitidis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_416916	aggregatibacter	http://purl.bioontology.org/ontology/MESH/D064206	aggregatibacter	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_485	neisseria gonorrhoeae	http://purl.bioontology.org/ontology/MESH/D009344	neisseria gonorrhoeae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_28037	streptococcus mitis	http://purl.bioontology.org/ontology/MESH/D034361	streptococcus mitis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9821	suidae	http://purl.bioontology.org/ontology/MESH/D013552	suidae	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_3041	chlorophyta	http://purl.bioontology.org/ontology/MESH/D000460	algae, green	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_44586	panax notoginseng	http://purl.bioontology.org/ontology/MESH/D053723	panax notoginsengs	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_31033	takifugu rubripes	http://purl.bioontology.org/ontology/MESH/D023741	torafugu	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8782	aves	http://purl.bioontology.org/ontology/MESH/D001717	bird	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_33682	euglenozoa	http://purl.bioontology.org/ontology/MESH/D056898	euglenozoa	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0302890	polymerization	http://purl.bioontology.org/ontology/MESH/D058105	polymerizations	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10345	suid herpesvirus 1	http://purl.bioontology.org/ontology/MESH/D011558	swine herpesvirus 1	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0001046	bioreactor	http://purl.bioontology.org/ontology/MESH/D019149	bioreactor	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0302899	decapitation	http://purl.bioontology.org/ontology/MESH/D049248	decapitation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_554915	amoebozoa	http://purl.bioontology.org/ontology/MESH/D056894	amoebozoa	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_263	francisella tularensis	http://purl.bioontology.org/ontology/MESH/D005604	pasteurella tularensis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_8314	salamandridae	http://purl.bioontology.org/ontology/MESH/D012455	tarichas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_462879	solidago virgaurea	http://purl.bioontology.org/ontology/MESH/D036624	goldenrods	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_93934	coturnix japonica	http://purl.bioontology.org/ontology/MESH/D003370	japanese quails	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_10310	human herpesvirus 2	http://purl.bioontology.org/ontology/MESH/D018258	herpesvirus 2, human	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_11886	rous sarcoma virus	http://purl.bioontology.org/ontology/MESH/D052736	virus, rous sarcoma	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11646	lentivirus	http://purl.bioontology.org/ontology/MESH/D016086	lentivirinae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://vivoweb.org/ontology/core#University	university	http://purl.bioontology.org/ontology/MESH/D014495	universities	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9845	ruminantia	http://purl.bioontology.org/ontology/MESH/D012418	goats, mountain	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_746128	aspergillus fumigatus	http://purl.bioontology.org/ontology/MESH/D001232	aspergillus fumigatus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_22774	berberis	http://purl.bioontology.org/ontology/MESH/D028142	berberis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9606	homo sapiens	http://purl.bioontology.org/ontology/MESH/D006801	man (taxonomy)	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_185002	plantago ovata	http://purl.bioontology.org/ontology/MESH/D010943	plantains, narrow-leaved	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5498	cladosporium	http://purl.bioontology.org/ontology/MESH/D002963	cladosporiums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6340	annelida	http://purl.bioontology.org/ontology/MESH/D000845	annelidas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_55670	stevia rebaudiana	http://purl.bioontology.org/ontology/MESH/D036625	stevia rebaudiana	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_392747	paullinia cupana	http://purl.bioontology.org/ontology/MESH/D032126	paullinia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0002064	arab	http://purl.bioontology.org/ontology/MESH/D018912	palestinians	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_287	pseudomonas aeruginosa	http://purl.bioontology.org/ontology/MESH/D011550	pseudomonas pyocyanea	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_35608	artemisia annua	http://purl.bioontology.org/ontology/MESH/D031172	sweet annie	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_78534	trigonella foenum-graecum	http://purl.bioontology.org/ontology/MESH/D029910	trigonella foenum-graecums	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001181	microdissection 	http://purl.bioontology.org/ontology/MESH/D042282	microdissection	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9669	mustela putorius furo	http://purl.bioontology.org/ontology/MESH/D005289	european polecats	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_28903	mycoplasma bovis	http://purl.bioontology.org/ontology/MESH/D045682	mycoplasma bovis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_8342	anura	http://purl.bioontology.org/ontology/MESH/D001001	toads and frogs	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_5073	penicillium	http://purl.bioontology.org/ontology/MESH/D010407	penicilliums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13894	cocos nucifera	http://purl.bioontology.org/ontology/MESH/D003059	cocos nuciferas	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_11234	measles virus	http://purl.bioontology.org/ontology/MESH/D008459	edmonston virus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_49827	glycyrrhiza glabra	http://purl.bioontology.org/ontology/MESH/D006035	glycyrrhiza glabra	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_23216	rubus	http://purl.bioontology.org/ontology/MESH/D065856	blackberries	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0002036	self	http://purl.bioontology.org/ontology/MESH/D004532	ego	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9443	primates	http://purl.bioontology.org/ontology/MESH/D011323	primate	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9685	felis catus	http://purl.bioontology.org/ontology/MESH/D002415	felis catus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0002033	family relationship	http://purl.bioontology.org/ontology/MESH/D005195	family relations	0.7	2	AML;LogMap	2	AML;LogMap
+http://www.ebi.ac.uk/efo/swo/SWO_0000631	negative binomial distribution	http://purl.bioontology.org/ontology/MESH/D016010	negative binomial distributions	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8355	xenopus laevis	http://purl.bioontology.org/ontology/MESH/D014982	platanna	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6178	trematoda	http://purl.bioontology.org/ontology/MESH/D014200	himasthla	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10141	cavia porcellus	http://purl.bioontology.org/ontology/MESH/D006168	cavia	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9681	felidae	http://purl.bioontology.org/ontology/MESH/D045989	leopards, clouded	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_10114	rattus	http://purl.bioontology.org/ontology/MESH/D051381	rat, laboratory	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8317	pleurodeles	http://purl.bioontology.org/ontology/MESH/D010999	pleurodele	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7227	drosophila melanogaster	http://purl.bioontology.org/ontology/MESH/D004331	melanogaster, drosophila	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_8316	notophthalmus viridescens	http://purl.bioontology.org/ontology/MESH/D009673	red-spotted newt	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_49817	erythrina crista-galli	http://purl.bioontology.org/ontology/MESH/D004895	erythrina variegata	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_10116	rattus norvegicus	http://purl.bioontology.org/ontology/MESH/D051381	rat, laboratory	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_152363	sinomenium acutum	http://purl.bioontology.org/ontology/MESH/D032841	sinomeniums	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_13625	paeonia	http://purl.bioontology.org/ontology/MESH/D029596	radix, paeoniae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0302885	filtration	http://purl.bioontology.org/ontology/MESH/D005374	filtrations	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_8315	notophthalmus	http://purl.bioontology.org/ontology/MESH/D019185	notophthalmus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0302886	centrifugation	http://purl.bioontology.org/ontology/MESH/D002498	centrifugation	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0302887	staining	http://purl.bioontology.org/ontology/MESH/D013194	histological labelings	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_633	yersinia pseudotuberculosis	http://purl.bioontology.org/ontology/MESH/D015011	yersinia pseudotuberculosis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000071	software	http://purl.bioontology.org/ontology/MESH/D012984	software engineering	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_46786	polygonum	http://purl.bioontology.org/ontology/MESH/D028502	bistorts	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_632	yersinia pestis	http://purl.bioontology.org/ontology/MESH/D015010	pasteurella pestis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0002001	transformed cell line	http://purl.bioontology.org/ontology/MESH/D002461	transformed cell line	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_57008	sambucus canadensis	http://purl.bioontology.org/ontology/MESH/D027923	american elderberries	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_8322	triturus	http://purl.bioontology.org/ontology/MESH/D014319	triturus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6142	scyphozoa	http://purl.bioontology.org/ontology/MESH/D037401	sea nettle, pacific	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0600043	genetic transformation	http://purl.bioontology.org/ontology/MESH/D014170	transformations, genetic	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0600044	lavage	http://purl.bioontology.org/ontology/MESH/D007507	irrigation, therapeutic	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_5052	aspergillus	http://purl.bioontology.org/ontology/MESH/D001230	aspergillus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0600052	dialysis	http://purl.bioontology.org/ontology/MESH/D003956	dialysis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0600053	electrophoresis	http://purl.bioontology.org/ontology/MESH/D004586	electrophoresis	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_5059	aspergillus flavus	http://purl.bioontology.org/ontology/MESH/D001231	aspergillus flavus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001170	colposcope 	http://purl.bioontology.org/ontology/MESH/D020681	colposcope	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_21496	gentiana	http://purl.bioontology.org/ontology/MESH/D030012	gentian	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001168	fluorescent in situ hybridization 	http://purl.bioontology.org/ontology/MESH/D017404	in situ hybridization, fluorescent	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_329212	turnera diffusa	http://purl.bioontology.org/ontology/MESH/D029647	turnera	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0002016	whole genome sequencing	http://purl.bioontology.org/ontology/MESH/D000073336	sequencing, whole genome	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001169	gamma camera 	http://purl.bioontology.org/ontology/MESH/D015902	nuclear cameras	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0400142	power supply	http://purl.bioontology.org/ontology/MESH/D011211	electric power sources	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9666	mustela lutreola	http://purl.bioontology.org/ontology/MESH/D008907	mink, american	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_7004	locusta migratoria	http://purl.bioontology.org/ontology/MESH/D048188	locusta migratorias	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_34317	eucalyptus globulus	http://purl.bioontology.org/ontology/MESH/D005052	gum tree, blue	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_124778	illicium verum	http://purl.bioontology.org/ontology/MESH/D029523	star anise	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6398	lumbricus terrestris	http://purl.bioontology.org/ontology/MESH/D009835	eisenia worm	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_35883	ipomoea nil	http://purl.bioontology.org/ontology/MESH/D049915	nils, ipomoea	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OBI_0600020	histology	http://purl.bioontology.org/ontology/MESH/Q000033	anatomy & histology	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0600020	histology	http://purl.bioontology.org/ontology/MESH/D006653	histology	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_16719	juglans nigra	http://purl.bioontology.org/ontology/MESH/D031324	walnuts, black	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_16718	juglans	http://purl.bioontology.org/ontology/MESH/D031324	walnuts, black	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000292	peptide library	http://purl.bioontology.org/ontology/MESH/D019151	library, peptide	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_69406	atractylodes lancea	http://purl.bioontology.org/ontology/MESH/D031174	atractylodes	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_93760	cola acuminata	http://purl.bioontology.org/ontology/MESH/D030221	cola acuminata	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001372	laparotomy	http://purl.bioontology.org/ontology/MESH/D007813	minilaparotomy	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000289	cosmid	http://purl.bioontology.org/ontology/MESH/D003360	cosmids	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_9479	platyrrhini	http://purl.bioontology.org/ontology/MESH/D051078	world monkey, new	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001133	artificial chromosome	http://purl.bioontology.org/ontology/MESH/D022201	artificial chromosome	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_13215	piper	http://purl.bioontology.org/ontology/MESH/D031701	peppers, jaborandi	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_151069	litchi chinensis	http://purl.bioontology.org/ontology/MESH/D032125	litchi	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_13216	piper nigrum	http://purl.bioontology.org/ontology/MESH/D029222	white pepper	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_666	vibrio cholerae	http://purl.bioontology.org/ontology/MESH/D014734	vibrio cholerae	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001389	nebulizer	http://purl.bioontology.org/ontology/MESH/D009330	device, inhalation	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/CLO_0000031	cell line	http://purl.bioontology.org/ontology/MESH/D002460	line, cell	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_308559	lobelia inflata	http://purl.bioontology.org/ontology/MESH/D029746	tobacco, indian	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/BFO_0000001	entity	http://purl.bioontology.org/ontology/STY/T071	entity	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_11270	rhabdoviridae	http://purl.bioontology.org/ontology/MESH/D012209	rhabdovirus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_9481	callithrix	http://purl.bioontology.org/ontology/MESH/D002144	marmoset, short-tusked	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13422	chrysanthemum	http://purl.bioontology.org/ontology/MESH/D031202	chrysanthemums	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_13428	cinnamomum	http://purl.bioontology.org/ontology/MESH/D027424	cinnamomum	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_55262	frangula purshiana	http://purl.bioontology.org/ontology/MESH/D031955	buckthorn, cascara	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_13427	cichorium intybus	http://purl.bioontology.org/ontology/MESH/D018651	cichorium intybus	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_46347	glycyrrhiza	http://purl.bioontology.org/ontology/MESH/D006035	glycyrrhiza glabra	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000263	fermentor	http://purl.bioontology.org/ontology/MESH/D019149	bioreactor	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_6183	schistosoma mansoni	http://purl.bioontology.org/ontology/MESH/D012550	schistosoma mansoni	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001356	fluorescent microscopy	http://purl.bioontology.org/ontology/MESH/D008856	immunofluorescence microscopies	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001351	single photon emission computed tomography	http://purl.bioontology.org/ontology/MESH/D015899	single-photon emission computerized tomography	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/BFO_0000034	function	http://purl.bioontology.org/ontology/MESH/Q000502	function	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001358	multiplex ligation-dependent probe amplification 	http://purl.bioontology.org/ontology/MESH/D060885	pcr, multiplex	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/OBI_0600002	tumor grading	http://purl.bioontology.org/ontology/MESH/D060787	gleason grading	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_32189	convallaria majalis	http://purl.bioontology.org/ontology/MESH/D031405	lily-of-the-valley	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/NCBITaxon_199225	pinellia ternata	http://purl.bioontology.org/ontology/MESH/D030021	ban xias	0.7	2	AML;LogMap	2	AML;LogMap
+http://vivoweb.org/ontology/core#Association	association	http://purl.bioontology.org/ontology/MESH/D001244	association	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_3913	vigna	http://purl.bioontology.org/ontology/MESH/D000070658	blackeyed peas	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_203	campylobacter rectus	http://purl.bioontology.org/ontology/MESH/D044883	campylobacter rectus	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OGMS_0000073	diagnosis	http://purl.bioontology.org/ontology/MESH/Q000175	findings	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/OGMS_0000073	diagnosis	http://purl.bioontology.org/ontology/MESH/D003933	postmortem diagnoses	0.7	2	AML;loom	2	AML;loom
+http://purl.obolibrary.org/obo/NCBITaxon_7041	coleoptera	http://purl.bioontology.org/ontology/MESH/D001517	beetles	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_6192	fasciola hepatica	http://purl.bioontology.org/ontology/MESH/D005210	liver flukes	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0000279	genomic library	http://purl.bioontology.org/ontology/MESH/D015698	library, genome	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/ERO_0001362	immunoassay	http://purl.bioontology.org/ontology/MESH/D007118	immunochromatographic assays	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_226208	salvia miltiorrhiza	http://purl.bioontology.org/ontology/MESH/D027561	dan-shen	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
+http://purl.obolibrary.org/obo/NCBITaxon_126910	withania somnifera	http://purl.bioontology.org/ontology/MESH/D032341	withanias	0.7	2	AML;LogMap	2	AML;LogMap
+http://purl.obolibrary.org/obo/ERO_0001369	fluorescence resonance energy transfer 	http://purl.bioontology.org/ontology/MESH/D031541	fluorescence resonance energy transfer	1.0	3	AML;LogMap;loom	3	AML;LogMap;loom
