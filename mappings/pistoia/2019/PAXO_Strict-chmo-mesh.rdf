@@ -1,0 +1,1788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>chmo</onto1>
+<onto2>mesh</onto2>
+<uri1>http://purl.obolibrary.org/chmo.owl</uri1>
+<uri2>http://purl.obolibrary.org/mesh.owl</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000167"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000067493"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000061"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005434"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001082"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D061286"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001042"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D058645"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001019"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004586"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001000"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002845"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001025"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D057625"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000831"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000067549"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002344"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004566"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000328"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004578"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000067"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008853"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001026"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007525"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001024"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019075"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001038"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D053801"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002016"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014461"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000470"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013058"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001894"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013817"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000575"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D053719"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000582"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015591"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000156"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014961"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000497"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008401"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000387"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056951"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002433"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007368"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001102"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001345"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000687"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004055"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000682"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002151"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0010003"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D011481"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0010011"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000067393"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000690"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013818"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000698"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D033363"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001522"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D003956"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0010024"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018570"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000065"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D036681"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000946"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D052898"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001700"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D011675"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001707"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013010"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002108"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010092"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001640"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005374"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001624"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005285"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000298"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056928"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001810"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017356"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002275"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D063347"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001224"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000201"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002801"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D057230"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002782"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D058428"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002099"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D006696"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002018"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002500"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000291"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013053"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001528"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004210"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001532"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D057168"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001553"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005612"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002815"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012995"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002845"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018505"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000785"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009905"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000001"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D003124"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000782"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009501"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000924"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D060306"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000032"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D011048"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000064"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D031541"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000010"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D003217"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000016"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D011199"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000636"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.246835</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001023"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004591"/>
+		<measure rdf:datatype="xsd:float">0.2463775</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000684"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002152"/>
+		<measure rdf:datatype="xsd:float">0.2462675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000366"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D046590"/>
+		<measure rdf:datatype="xsd:float">0.2462675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001253"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013056"/>
+		<measure rdf:datatype="xsd:float">0.2457625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001531"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D061346"/>
+		<measure rdf:datatype="xsd:float">0.2457625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000112"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020527"/>
+		<measure rdf:datatype="xsd:float">0.2450975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000110"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008858"/>
+		<measure rdf:datatype="xsd:float">0.2450975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001600"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D059625"/>
+		<measure rdf:datatype="xsd:float">0.2448975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000087"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008856"/>
+		<measure rdf:datatype="xsd:float">0.24468</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002393"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017736"/>
+		<measure rdf:datatype="xsd:float">0.24468</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001006"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002846"/>
+		<measure rdf:datatype="xsd:float">0.24468</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000113"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018625"/>
+		<measure rdf:datatype="xsd:float">0.24468</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000417"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.244445</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001004"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002853"/>
+		<measure rdf:datatype="xsd:float">0.244185</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000086"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017348"/>
+		<measure rdf:datatype="xsd:float">0.2440475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001008"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002854"/>
+		<measure rdf:datatype="xsd:float">0.2439025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000988"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002854"/>
+		<measure rdf:datatype="xsd:float">0.2439025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000068"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008854"/>
+		<measure rdf:datatype="xsd:float">0.24359</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000103"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018613"/>
+		<measure rdf:datatype="xsd:float">0.24359</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001002"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002849"/>
+		<measure rdf:datatype="xsd:float">0.2432425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000127"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D064347"/>
+		<measure rdf:datatype="xsd:float">0.243055</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002316"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016521"/>
+		<measure rdf:datatype="xsd:float">0.242425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000080"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D046529"/>
+		<measure rdf:datatype="xsd:float">0.242425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000560"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018629"/>
+		<measure rdf:datatype="xsd:float">0.2421875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002017"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002499"/>
+		<measure rdf:datatype="xsd:float">0.241935</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000519"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019032"/>
+		<measure rdf:datatype="xsd:float">0.241935</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000132"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016252"/>
+		<measure rdf:datatype="xsd:float">0.2416675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002302"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056148"/>
+		<measure rdf:datatype="xsd:float">0.24138</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000073"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008855"/>
+		<measure rdf:datatype="xsd:float">0.24138</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002891"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017022"/>
+		<measure rdf:datatype="xsd:float">0.23913</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002200"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002152"/>
+		<measure rdf:datatype="xsd:float">0.238805</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000482"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D021241"/>
+		<measure rdf:datatype="xsd:float">0.238095</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002649"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017348"/>
+		<measure rdf:datatype="xsd:float">0.238095</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002478"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002849"/>
+		<measure rdf:datatype="xsd:float">0.23611</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002276"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D063347"/>
+		<measure rdf:datatype="xsd:float">0.2356325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000982"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013058"/>
+		<measure rdf:datatype="xsd:float">0.235295</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000632"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019265"/>
+		<measure rdf:datatype="xsd:float">0.235295</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001022"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004587"/>
+		<measure rdf:datatype="xsd:float">0.235295</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000943"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020527"/>
+		<measure rdf:datatype="xsd:float">0.235295</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001099"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D046529"/>
+		<measure rdf:datatype="xsd:float">0.2348475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001626"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D031521"/>
+		<measure rdf:datatype="xsd:float">0.234695</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000082"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D046032"/>
+		<measure rdf:datatype="xsd:float">0.234695</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001095"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008856"/>
+		<measure rdf:datatype="xsd:float">0.2340425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000954"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018625"/>
+		<measure rdf:datatype="xsd:float">0.2340425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002277"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D063347"/>
+		<measure rdf:datatype="xsd:float">0.232955</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000941"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008855"/>
+		<measure rdf:datatype="xsd:float">0.2327575</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001694"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D047369"/>
+		<measure rdf:datatype="xsd:float">0.2327575</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001957"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005434"/>
+		<measure rdf:datatype="xsd:float">0.2321425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002289"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.2321425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001032"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019075"/>
+		<measure rdf:datatype="xsd:float">0.2314825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001088"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008854"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001125"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018613"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002194"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008856"/>
+		<measure rdf:datatype="xsd:float">0.23</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000771"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D036641"/>
+		<measure rdf:datatype="xsd:float">0.2291675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001020"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015180"/>
+		<measure rdf:datatype="xsd:float">0.22794</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000330"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004578"/>
+		<measure rdf:datatype="xsd:float">0.2278475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002862"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008401"/>
+		<measure rdf:datatype="xsd:float">0.2278475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002623"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004578"/>
+		<measure rdf:datatype="xsd:float">0.2278475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000051"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002915"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D065638"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000054"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019032"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000914"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002152"/>
+		<measure rdf:datatype="xsd:float">0.2260275</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002315"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016521"/>
+		<measure rdf:datatype="xsd:float">0.2258075</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000313"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004577"/>
+		<measure rdf:datatype="xsd:float">0.2258075</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000951"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018625"/>
+		<measure rdf:datatype="xsd:float">0.22549</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000398"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056951"/>
+		<measure rdf:datatype="xsd:float">0.2241375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000404"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056951"/>
+		<measure rdf:datatype="xsd:float">0.2241375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000870"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019265"/>
+		<measure rdf:datatype="xsd:float">0.2241375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001016"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002853"/>
+		<measure rdf:datatype="xsd:float">0.223405</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001583"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D059625"/>
+		<measure rdf:datatype="xsd:float">0.223405</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000743"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D066241"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001629"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D031521"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002019"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002501"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000652"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.22159</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000591"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009682"/>
+		<measure rdf:datatype="xsd:float">0.2214275</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002413"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020285"/>
+		<measure rdf:datatype="xsd:float">0.221155</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001021"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004587"/>
+		<measure rdf:datatype="xsd:float">0.22093</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000901"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D033363"/>
+		<measure rdf:datatype="xsd:float">0.22093</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000836"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004578"/>
+		<measure rdf:datatype="xsd:float">0.2205875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000063"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D060807"/>
+		<measure rdf:datatype="xsd:float">0.22043</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000668"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009682"/>
+		<measure rdf:datatype="xsd:float">0.22034</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002282"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017348"/>
+		<measure rdf:datatype="xsd:float">0.2202375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000524"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008401"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000853"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002083"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002152"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002029"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002035"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002030"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000577"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D021241"/>
+		<measure rdf:datatype="xsd:float">0.21978</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000296"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013056"/>
+		<measure rdf:datatype="xsd:float">0.2196975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001261"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008401"/>
+		<measure rdf:datatype="xsd:float">0.2195125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002286"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.2191</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002287"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.2191</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001896"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018625"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000812"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D021241"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000587"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001607"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D059625"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000480"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D021241"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002874"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002845"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001036"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020374"/>
+		<measure rdf:datatype="xsd:float">0.21839</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000062"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D031541"/>
+		<measure rdf:datatype="xsd:float">0.21831</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002610"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D046529"/>
+		<measure rdf:datatype="xsd:float">0.21831</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000850"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014961"/>
+		<measure rdf:datatype="xsd:float">0.2179475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000142"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D033363"/>
+		<measure rdf:datatype="xsd:float">0.2179475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002582"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002849"/>
+		<measure rdf:datatype="xsd:float">0.2179475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001251"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009905"/>
+		<measure rdf:datatype="xsd:float">0.2177425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002347"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004566"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000815"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013050"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000665"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.217105</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001065"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018625"/>
+		<measure rdf:datatype="xsd:float">0.21698</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002311"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008856"/>
+		<measure rdf:datatype="xsd:float">0.21698</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002354"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010147"/>
+		<measure rdf:datatype="xsd:float">0.2166675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000825"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020349"/>
+		<measure rdf:datatype="xsd:float">0.2166675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000377"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056951"/>
+		<measure rdf:datatype="xsd:float">0.2166675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002844"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D040261"/>
+		<measure rdf:datatype="xsd:float">0.2166675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000119"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016252"/>
+		<measure rdf:datatype="xsd:float">0.2164175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000292"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013056"/>
+		<measure rdf:datatype="xsd:float">0.2164175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001029"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D057825"/>
+		<measure rdf:datatype="xsd:float">0.21605</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000521"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019032"/>
+		<measure rdf:datatype="xsd:float">0.216</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000520"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019032"/>
+		<measure rdf:datatype="xsd:float">0.2158275</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002472"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017348"/>
+		<measure rdf:datatype="xsd:float">0.21579</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000635"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019265"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000322"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012588"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002028"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002036"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002031"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002032"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002033"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002034"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015204"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000626"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020349"/>
+		<measure rdf:datatype="xsd:float">0.2155175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001031"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019075"/>
+		<measure rdf:datatype="xsd:float">0.2155175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000436"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056928"/>
+		<measure rdf:datatype="xsd:float">0.2155175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001050"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056148"/>
+		<measure rdf:datatype="xsd:float">0.215385</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000561"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018629"/>
+		<measure rdf:datatype="xsd:float">0.2152775</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002253"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004578"/>
+		<measure rdf:datatype="xsd:float">0.2152775</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000055"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018629"/>
+		<measure rdf:datatype="xsd:float">0.2152775</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001823"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.21519</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001107"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D021241"/>
+		<measure rdf:datatype="xsd:float">0.215055</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000287"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008856"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001005"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002854"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002005"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015180"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002493"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004578"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002494"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004578"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002434"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D006580"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000685"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002152"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001821"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017550"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000158"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D033362"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002808"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002849"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001417"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014467"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002084"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002152"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000810"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D046590"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002688"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002849"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000483"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D021241"/>
+		<measure rdf:datatype="xsd:float">0.213415</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000630"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056928"/>
+		<measure rdf:datatype="xsd:float">0.213115</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000106"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008857"/>
+		<measure rdf:datatype="xsd:float">0.2129625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000637"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019265"/>
+		<measure rdf:datatype="xsd:float">0.2129625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002117"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018625"/>
+		<measure rdf:datatype="xsd:float">0.2129625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0001804"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013056"/>
+		<measure rdf:datatype="xsd:float">0.2129625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000420"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009501"/>
+		<measure rdf:datatype="xsd:float">0.2129625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000490"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D021241"/>
+		<measure rdf:datatype="xsd:float">0.212765</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

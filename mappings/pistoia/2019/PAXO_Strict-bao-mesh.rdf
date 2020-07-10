@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>bao</onto1>
+<onto2>mesh</onto2>
+<uri1>http://purl.obolibrary.org/bao.owl</uri1>
+<uri2>http://purl.obolibrary.org/mesh.owl</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002789"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019950"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002781"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015544"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000129"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007118"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000138"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015394"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000161"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002942"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002808"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010539"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000204"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015850"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030002"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019394"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030004"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018808"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030006"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019040"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030005"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017304"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000003"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005454"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000001"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D031541"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000005"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005434"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002657"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001351"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000055"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013058"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000054"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020349"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002721"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015335"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150035"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D054025"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150036"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D054020"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150033"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007834"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000405"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012588"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000418"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005658"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000415"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007150"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000232"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014780"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000270"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012313"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000269"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004247"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002927"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004194"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002929"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012380"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002934"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009938"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001061"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D006160"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001060"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D006153"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001034"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013973"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001030"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019284"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002301"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D056004"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001013"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020889"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002342"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D003663"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002346"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D025341"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001021"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019311"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002351"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009323"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001028"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013793"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002231"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016415"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001216"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019793"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002525"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014054"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002526"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008853"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002527"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001345"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0080010"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000071448"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002428"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D011863"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002451"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002874"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002504"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D059665"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002508"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D047468"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003119"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012984"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000985"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010121"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000990"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010728"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000998"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D011339"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000927"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D006003"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000925"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019298"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000924"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005947"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000920"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019004"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000976"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009478"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000947"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016209"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000957"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018021"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000950"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007545"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002135"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012995"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002109"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D048308"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002066"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012709"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002080"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016133"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000639"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004317"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000693"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D006531"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000607"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D012617"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000605"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010944"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000498"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D058928"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000511"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007448"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000510"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014714"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000882"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D003065"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000885"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D003545"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000894"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004298"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000876"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002217"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000874"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002118"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003057"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005978"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000848"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000804"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000853"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016718"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000838"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000109"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000762"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007377"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000763"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015759"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000773"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014415"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000772"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014284"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000771"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013926"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000779"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D003402"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000776"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000255"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000775"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000244"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000748"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013752"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000750"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001616"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000759"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004318"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000797"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D011802"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000796"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007654"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000119"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D057026"/>
+		<measure rdf:datatype="xsd:float">0.2457625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002524"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016252"/>
+		<measure rdf:datatype="xsd:float">0.2457625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000459"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020527"/>
+		<measure rdf:datatype="xsd:float">0.2450975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000458"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008858"/>
+		<measure rdf:datatype="xsd:float">0.2450975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000450"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008856"/>
+		<measure rdf:datatype="xsd:float">0.24468</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002523"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018625"/>
+		<measure rdf:datatype="xsd:float">0.24468</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000441"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001667"/>
+		<measure rdf:datatype="xsd:float">0.24359</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000449"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008854"/>
+		<measure rdf:datatype="xsd:float">0.24359</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000453"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018613"/>
+		<measure rdf:datatype="xsd:float">0.24359</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000455"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D046529"/>
+		<measure rdf:datatype="xsd:float">0.242425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000454"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008855"/>
+		<measure rdf:datatype="xsd:float">0.24138</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000751"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001618"/>
+		<measure rdf:datatype="xsd:float">0.24138</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000284"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D043562"/>
+		<measure rdf:datatype="xsd:float">0.24074</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003016"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001665"/>
+		<measure rdf:datatype="xsd:float">0.24</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000105"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D061252"/>
+		<measure rdf:datatype="xsd:float">0.23913</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150045"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D053844"/>
+		<measure rdf:datatype="xsd:float">0.23611</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000271"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007371"/>
+		<measure rdf:datatype="xsd:float">0.234375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001001"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015230"/>
+		<measure rdf:datatype="xsd:float">0.234375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000636"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009980"/>
+		<measure rdf:datatype="xsd:float">0.234375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000497"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D052158"/>
+		<measure rdf:datatype="xsd:float">0.234375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002419"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D004797"/>
+		<measure rdf:datatype="xsd:float">0.232395</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002656"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017930"/>
+		<measure rdf:datatype="xsd:float">0.2321425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000975"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009478"/>
+		<measure rdf:datatype="xsd:float">0.2321425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000974"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009478"/>
+		<measure rdf:datatype="xsd:float">0.2321425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150010"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018613"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002108"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008869"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030010"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D051706"/>
+		<measure rdf:datatype="xsd:float">0.2291675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000525"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D020552"/>
+		<measure rdf:datatype="xsd:float">0.2291675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002089"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D048348"/>
+		<measure rdf:datatype="xsd:float">0.22826</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002784"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019269"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000282"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D050680"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002479"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019920"/>
+		<measure rdf:datatype="xsd:float">0.22619</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000829"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019832"/>
+		<measure rdf:datatype="xsd:float">0.22619</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002488"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005816"/>
+		<measure rdf:datatype="xsd:float">0.22549</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002190"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D053078"/>
+		<measure rdf:datatype="xsd:float">0.2253525</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000782"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005690"/>
+		<measure rdf:datatype="xsd:float">0.225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000494"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015500"/>
+		<measure rdf:datatype="xsd:float">0.22436</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001000"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015230"/>
+		<measure rdf:datatype="xsd:float">0.2241375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002181"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010085"/>
+		<measure rdf:datatype="xsd:float">0.223215</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002763"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015539"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000114"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D003470"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000673"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019943"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003049"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D053148"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000844"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000469"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000852"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014359"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000404"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018360"/>
+		<measure rdf:datatype="xsd:float">0.22093</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000442"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001667"/>
+		<measure rdf:datatype="xsd:float">0.22093</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000875"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015124"/>
+		<measure rdf:datatype="xsd:float">0.2205875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000461"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D060807"/>
+		<measure rdf:datatype="xsd:float">0.22043</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002234"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016415"/>
+		<measure rdf:datatype="xsd:float">0.2195125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003044"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001616"/>
+		<measure rdf:datatype="xsd:float">0.2195125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002507"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D018189"/>
+		<measure rdf:datatype="xsd:float">0.2192975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002931"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007739"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000236"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014409"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000325"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D002096"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002410"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D013329"/>
+		<measure rdf:datatype="xsd:float">0.21831</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000963"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D019402"/>
+		<measure rdf:datatype="xsd:float">0.21831</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002401"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D017248"/>
+		<measure rdf:datatype="xsd:float">0.2179475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000886"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D007295"/>
+		<measure rdf:datatype="xsd:float">0.2179475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002087"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000943"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002757"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D006157"/>
+		<measure rdf:datatype="xsd:float">0.21698</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002361"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000071076"/>
+		<measure rdf:datatype="xsd:float">0.216215</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000225"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D009690"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002532"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D014018"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003002"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D015398"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002201"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D005454"/>
+		<measure rdf:datatype="xsd:float">0.2155175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003017"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D051268"/>
+		<measure rdf:datatype="xsd:float">0.2152775</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002805"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D049109"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150013"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D061346"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002996"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D008564"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002911"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D054333"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002913"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D054314"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002243"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016415"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002236"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D016415"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0170003"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D001669"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002133"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010539"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002134"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D010539"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000489"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D000494"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003046"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D049452"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002631"/>
+		<entity2 rdf:resource="http://id.nlm.nih.gov/mesh/2017/D011489"/>
+		<measure rdf:datatype="xsd:float">0.212765</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

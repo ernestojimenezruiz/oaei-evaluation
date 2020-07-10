@@ -1,0 +1,4524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>bao</onto1>
+<onto2>ncit</onto2>
+<uri1>http://purl.obolibrary.org/bao.owl</uri1>
+<uri2>http://purl.obolibrary.org/ncit.owl</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0110001"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C60755"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000193"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C60693"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000192"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C68569"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002928"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25283"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002789"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17589"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000294"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28597"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002781"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C580"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000129"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16714"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002782"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128478"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002010"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C709"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000015"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16341"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000134"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16553"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000138"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14134"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000662"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C77916"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000264"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17828"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000119"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C124144"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000118"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C437"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002120"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64774"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002759"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C69087"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000269"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C449"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002135"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C60821"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000114"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85504"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000171"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C616"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000450"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16856"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000179"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C82866"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000176"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48809"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000175"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17021"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000325"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C735"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000291"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16946"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000160"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16921"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000364"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120867"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001103"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C74925"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002808"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C71611"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000416"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17731"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000295"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16981"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002805"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C116553"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002927"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2991"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000201"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C117963"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000204"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20451"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000369"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17119"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003058"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120268"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000551"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14250"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0165001"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25936"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002844"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C23014"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030000"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C101445"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030002"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17675"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030001"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17981"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030004"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17437"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000282"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17207"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030003"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17394"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030006"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17491"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000237"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17597"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030005"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C21333"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030008"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C116660"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030007"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48214"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030009"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C104244"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000370"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C41186"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030010"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17686"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000091"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42791"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000093"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61406"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000090"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27988"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000089"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62195"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000087"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64382"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000074"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C146999"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000099"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17449"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000070"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45995"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000080"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64356"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000079"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64357"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000077"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25709"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000362"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14234"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000005"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16585"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000014"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13302"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000011"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C706"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000010"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C75924"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002670"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16333"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002646"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47803"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002649"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C93168"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002656"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17661"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000232"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14283"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0190001"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44256"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000050"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62655"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000502"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16295"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000055"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17156"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000054"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18117"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000051"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C123895"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000025"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70671"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000037"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43386"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000036"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18138"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000034"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C51572"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002711"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48711"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002713"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18376"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002742"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C87662"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002757"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C111165"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002720"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C127140"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002929"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48835"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000510"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14282"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000368"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17458"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000367"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16837"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150008"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50069"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000511"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14228"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150035"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64722"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150033"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16782"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150014"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C78804"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003118"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142631"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150028"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50328"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000418"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C154813"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000509"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25796"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000415"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C23020"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000412"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C114489"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000270"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C132301"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000449"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16854"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002526"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16853"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000445"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142663"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000454"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16855"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000453"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17753"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000459"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20346"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000458"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16857"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000457"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19827"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000455"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18216"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000432"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C68741"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000287"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16701"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000228"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C124537"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000230"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61330"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000643"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45576"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000236"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20535"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000292"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17210"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000279"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16554"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000290"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16804"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000289"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16796"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000288"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16759"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000286"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17671"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000281"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18106"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000284"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18239"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000582"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16612"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003063"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120264"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000280"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16754"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000277"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17764"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000276"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C816"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000275"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C814"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000274"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C813"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000271"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20496"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000550"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C453"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002934"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C92453"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000324"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2191"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000323"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C123893"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000317"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C754"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000316"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C95940"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000315"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C324"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003016"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13671"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002909"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C90063"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001061"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C536"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001060"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C535"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001054"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C66685"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001034"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C136413"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001033"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2280"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001030"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128634"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002361"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19374"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001038"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80937"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001044"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2285"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002348"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19374"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001013"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C72842"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002335"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19044"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002346"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49291"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001021"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C1237"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001020"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C126907"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001028"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C95188"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001001"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C112043"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001000"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C782"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001009"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C806"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002015"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C344"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002221"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19234"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002238"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80132"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001216"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61766"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003117"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25518"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002552"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43386"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002555"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C118424"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0080020"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102406"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0080019"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25636"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0080021"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85759"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002523"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17754"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002524"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C76127"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002525"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C38093"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002527"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16314"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002538"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61742"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002590"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C114551"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001260"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25728"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001256"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C71688"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001251"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25533"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000656"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C88183"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0080017"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C67450"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001237"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62478"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002580"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C75426"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001241"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C95649"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001248"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94489"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002038"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13738"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002636"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142399"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002609"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C73483"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002618"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62352"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002611"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C565"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002612"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C569"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002613"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C566"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002614"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C567"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002610"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C568"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002424"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16357"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002422"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17638"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002428"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17057"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002433"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C74927"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002430"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18480"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002419"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102632"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002441"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18143"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002504"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C154792"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002508"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16724"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002510"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85837"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003119"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17146"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003110"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47598"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000985"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2283"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000991"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C118882"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000998"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C772"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000996"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C866"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000995"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C84071"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000927"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C96523"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000926"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C74739"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000924"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2831"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000920"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C148351"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000605"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14258"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000963"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28734"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000970"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C201"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000976"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C685"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000947"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20473"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000950"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62041"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002145"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16788"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002146"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128985"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002121"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70744"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002123"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C104137"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002124"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48481"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002125"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43466"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002131"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16479"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002171"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27939"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002172"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45279"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002173"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53319"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002174"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28007"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002175"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C154857"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002176"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53322"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002107"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25259"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002108"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C75652"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002109"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C26369"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002104"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45304"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002117"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16788"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002119"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70918"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0020009"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15744"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0020008"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15263"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0020006"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70676"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0190003"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42574"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0190002"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44276"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0190000"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48207"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0190006"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C51182"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0190005"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C95257"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0190008"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C67242"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002023"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20464"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002024"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20424"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002016"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C101788"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002066"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28187"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002080"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17003"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0165000"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C95553"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002093"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C111031"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002088"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C154897"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000586"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47822"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003019"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13734"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000581"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17223"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000641"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48685"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000652"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16965"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000639"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C456"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000508"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43377"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010019"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42783"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010018"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45297"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010014"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C41277"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010016"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C84671"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000776"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C209"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000696"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C29321"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000694"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44460"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000673"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C118426"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0180008"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16582"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000615"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102348"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000613"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54563"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000480"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153984"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000514"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C26358"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000477"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47823"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000531"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C63904"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000507"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C133817"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000565"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48158"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000577"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C41275"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003040"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3365"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003042"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C502"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003037"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70919"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003045"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19450"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003047"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19243"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003049"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18031"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003031"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C51962"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000882"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C384"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000885"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C29609"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000894"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62025"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000895"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C76286"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000867"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C83868"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000879"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17133"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000876"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47430"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000875"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C208"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000874"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C331"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003064"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25702"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003057"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C523"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003070"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C82948"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003072"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64382"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003073"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61408"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003074"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28223"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003067"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C51980"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003069"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C68780"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000848"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C74845"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000853"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C282"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0040007"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80146"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0040003"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64234"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000838"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C77840"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010048"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44282"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010023"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18158"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010020"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45308"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000762"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20439"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000760"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2293"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000769"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C68301"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000767"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C74447"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000766"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C113086"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000763"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C596"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000772"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2303"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000771"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20441"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000779"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C113245"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000775"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102257"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000748"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C865"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000747"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C823"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000751"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16964"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000750"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C107438"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000759"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C457"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000795"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C65779"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000797"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C793"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000796"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C605"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000718"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C82006"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000712"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14204"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002343"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C63919"/>
+		<measure rdf:datatype="xsd:float">0.244445</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002087"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C1934"/>
+		<measure rdf:datatype="xsd:float">0.244185</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150011"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17753"/>
+		<measure rdf:datatype="xsd:float">0.2426475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0190007"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C73636"/>
+		<measure rdf:datatype="xsd:float">0.24074</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002084"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C51962"/>
+		<measure rdf:datatype="xsd:float">0.24074</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000631"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C86191"/>
+		<measure rdf:datatype="xsd:float">0.238095</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150010"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17753"/>
+		<measure rdf:datatype="xsd:float">0.2368425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003044"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C107436"/>
+		<measure rdf:datatype="xsd:float">0.234695</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000636"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53454"/>
+		<measure rdf:datatype="xsd:float">0.234375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000392"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C26039"/>
+		<measure rdf:datatype="xsd:float">0.2333325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000975"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C685"/>
+		<measure rdf:datatype="xsd:float">0.2321425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000974"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C685"/>
+		<measure rdf:datatype="xsd:float">0.2321425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000489"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C154904"/>
+		<measure rdf:datatype="xsd:float">0.2317075</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000754"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C63661"/>
+		<measure rdf:datatype="xsd:float">0.2317075</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002667"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C117963"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000348"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C117963"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000347"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C117963"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002529"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85574"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002090"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28408"/>
+		<measure rdf:datatype="xsd:float">0.2302625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002301"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18097"/>
+		<measure rdf:datatype="xsd:float">0.2301575</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002243"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.22826</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002089"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17097"/>
+		<measure rdf:datatype="xsd:float">0.22826</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003043"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C105704"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002784"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C1192"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002177"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102394"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010013"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128793"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000755"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C916"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000404"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17672"/>
+		<measure rdf:datatype="xsd:float">0.22619</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001003"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C113236"/>
+		<measure rdf:datatype="xsd:float">0.2258075</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002990"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18469"/>
+		<measure rdf:datatype="xsd:float">0.225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002993"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16116"/>
+		<measure rdf:datatype="xsd:float">0.225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002231"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000782"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C68482"/>
+		<measure rdf:datatype="xsd:float">0.225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000022"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C104098"/>
+		<measure rdf:datatype="xsd:float">0.223685</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002181"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C38843"/>
+		<measure rdf:datatype="xsd:float">0.223215</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002648"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C93525"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002234"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000530"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45783"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000844"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16276"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000852"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47402"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000405"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C78810"/>
+		<measure rdf:datatype="xsd:float">0.22093</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002442"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45212"/>
+		<measure rdf:datatype="xsd:float">0.22093</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000283"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C113530"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003017"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C148652"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002007"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C141264"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002401"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C111196"/>
+		<measure rdf:datatype="xsd:float">0.2179475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002236"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010012"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128793"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000513"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128793"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000576"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128793"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010037"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C106054"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000746"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16205"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002447"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18881"/>
+		<measure rdf:datatype="xsd:float">0.21698</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002763"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40854"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003002"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17133"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000202"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C21099"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002312"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47866"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002533"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C90452"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000363"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C96687"/>
+		<measure rdf:datatype="xsd:float">0.2156875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000164"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48937"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150015"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28366"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002890"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C21591"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002996"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C82324"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002368"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C75360"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002245"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002630"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13449"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002426"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142337"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002418"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85555"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000984"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C106421"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002133"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C71611"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002134"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C71611"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002449"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16060"/>
+		<measure rdf:datatype="xsd:float">0.2133325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000241"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C126104"/>
+		<measure rdf:datatype="xsd:float">0.212765</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002233"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.212765</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002632"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17019"/>
+		<measure rdf:datatype="xsd:float">0.212765</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002752"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64571"/>
+		<measure rdf:datatype="xsd:float">0.2125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000842"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18843"/>
+		<measure rdf:datatype="xsd:float">0.2125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000778"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C113245"/>
+		<measure rdf:datatype="xsd:float">0.2125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002721"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48181"/>
+		<measure rdf:datatype="xsd:float">0.21212</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002722"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C78806"/>
+		<measure rdf:datatype="xsd:float">0.21212</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000519"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45848"/>
+		<measure rdf:datatype="xsd:float">0.21212</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002310"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17429"/>
+		<measure rdf:datatype="xsd:float">0.21212</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001259"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85535"/>
+		<measure rdf:datatype="xsd:float">0.21212</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003061"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44267"/>
+		<measure rdf:datatype="xsd:float">0.21212</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002931"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20231"/>
+		<measure rdf:datatype="xsd:float">0.2115375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000115"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C546"/>
+		<measure rdf:datatype="xsd:float">0.2115375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002342"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142504"/>
+		<measure rdf:datatype="xsd:float">0.2115375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002132"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48570"/>
+		<measure rdf:datatype="xsd:float">0.2115375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002785"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C63479"/>
+		<measure rdf:datatype="xsd:float">0.21111</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002336"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15320"/>
+		<measure rdf:datatype="xsd:float">0.21111</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003065"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C139279"/>
+		<measure rdf:datatype="xsd:float">0.21111</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000990"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C129392"/>
+		<measure rdf:datatype="xsd:float">0.21111</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000547"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2890"/>
+		<measure rdf:datatype="xsd:float">0.21111</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002188"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54708"/>
+		<measure rdf:datatype="xsd:float">0.2105275</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002168"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17741"/>
+		<measure rdf:datatype="xsd:float">0.2105275</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150013"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19263"/>
+		<measure rdf:datatype="xsd:float">0.210145</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002411"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C122205"/>
+		<measure rdf:datatype="xsd:float">0.21</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0110002"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C96587"/>
+		<measure rdf:datatype="xsd:float">0.2096775</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0080024"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94496"/>
+		<measure rdf:datatype="xsd:float">0.2096775</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0080010"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C34606"/>
+		<measure rdf:datatype="xsd:float">0.2096775</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000169"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53332"/>
+		<measure rdf:datatype="xsd:float">0.2093025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000096"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C117963"/>
+		<measure rdf:datatype="xsd:float">0.2093025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000244"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142787"/>
+		<measure rdf:datatype="xsd:float">0.2093025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000133"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C713"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000019"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47845"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002991"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17768"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150049"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C67341"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000419"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53585"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000430"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25338"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002998"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17568"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002240"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002235"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002554"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19800"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002530"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70913"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002182"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49663"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001254"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42724"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002572"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50132"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000558"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C100045"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002420"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16553"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002183"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49662"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000515"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128793"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003005"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16983"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000845"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C77427"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0040001"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C117039"/>
+		<measure rdf:datatype="xsd:float">0.2083325</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002162"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C123887"/>
+		<measure rdf:datatype="xsd:float">0.2075475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002110"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16856"/>
+		<measure rdf:datatype="xsd:float">0.2075475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000094"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40579"/>
+		<measure rdf:datatype="xsd:float">0.2073175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000049"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C116701"/>
+		<measure rdf:datatype="xsd:float">0.2073175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002653"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C126385"/>
+		<measure rdf:datatype="xsd:float">0.2073175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150021"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43385"/>
+		<measure rdf:datatype="xsd:float">0.2073175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002383"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19418"/>
+		<measure rdf:datatype="xsd:float">0.2073175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002294"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19418"/>
+		<measure rdf:datatype="xsd:float">0.2073175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002032"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19147"/>
+		<measure rdf:datatype="xsd:float">0.2073175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002036"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C113056"/>
+		<measure rdf:datatype="xsd:float">0.2073175</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002556"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85574"/>
+		<measure rdf:datatype="xsd:float">0.2071425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002737"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C67364"/>
+		<measure rdf:datatype="xsd:float">0.2068975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000697"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142472"/>
+		<measure rdf:datatype="xsd:float">0.2065225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010042"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49019"/>
+		<measure rdf:datatype="xsd:float">0.2065225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002773"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C75913"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000200"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C74925"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000215"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48809"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002014"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17604"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002345"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17429"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002207"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18940"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002192"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17201"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002190"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20422"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000473"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48809"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000792"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C735"/>
+		<measure rdf:datatype="xsd:float">0.2058825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003004"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C129422"/>
+		<measure rdf:datatype="xsd:float">0.20548</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002099"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C21101"/>
+		<measure rdf:datatype="xsd:float">0.2051275</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000494"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16429"/>
+		<measure rdf:datatype="xsd:float">0.2051275</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000061"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C63047"/>
+		<measure rdf:datatype="xsd:float">0.204545</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000020"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C14064"/>
+		<measure rdf:datatype="xsd:float">0.204545</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001040"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17227"/>
+		<measure rdf:datatype="xsd:float">0.204545</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001039"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17227"/>
+		<measure rdf:datatype="xsd:float">0.204545</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000644"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C104460"/>
+		<measure rdf:datatype="xsd:float">0.204545</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000813"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C39418"/>
+		<measure rdf:datatype="xsd:float">0.204225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002241"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.2040825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002242"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.2040825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002246"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.2040825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002247"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153248"/>
+		<measure rdf:datatype="xsd:float">0.2040825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002899"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19924"/>
+		<measure rdf:datatype="xsd:float">0.2037025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000642"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62200"/>
+		<measure rdf:datatype="xsd:float">0.2037025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0040030"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20637"/>
+		<measure rdf:datatype="xsd:float">0.2037025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003021"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C148648"/>
+		<measure rdf:datatype="xsd:float">0.20339</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000136"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C82330"/>
+		<measure rdf:datatype="xsd:float">0.203125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003006"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17661"/>
+		<measure rdf:datatype="xsd:float">0.203125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000007"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13811"/>
+		<measure rdf:datatype="xsd:float">0.203125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000373"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28359"/>
+		<measure rdf:datatype="xsd:float">0.203125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000520"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C93728"/>
+		<measure rdf:datatype="xsd:float">0.203125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002992"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16404"/>
+		<measure rdf:datatype="xsd:float">0.203125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002450"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20055"/>
+		<measure rdf:datatype="xsd:float">0.203125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002043"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C38784"/>
+		<measure rdf:datatype="xsd:float">0.203125</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000253"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19832"/>
+		<measure rdf:datatype="xsd:float">0.2027025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002302"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18097"/>
+		<measure rdf:datatype="xsd:float">0.2027025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002085"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C93038"/>
+		<measure rdf:datatype="xsd:float">0.2027025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000536"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C123887"/>
+		<measure rdf:datatype="xsd:float">0.20238</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000349"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C21099"/>
+		<measure rdf:datatype="xsd:float">0.2021275</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002232"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153249"/>
+		<measure rdf:datatype="xsd:float">0.201755</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000190"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C139121"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000188"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C139117"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0110000"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17771"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002041"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C125206"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000504"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C706"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000163"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C32498"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002842"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62589"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000088"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C153562"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002105"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17209"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000503"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C113808"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002900"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25936"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000030"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25458"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000376"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42791"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000375"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64382"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003052"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C125905"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0150034"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64722"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000443"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25474"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000444"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62007"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002197"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19449"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002914"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64382"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001037"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80935"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002308"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18243"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002267"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C68817"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002257"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16223"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002095"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17964"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001253"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C98261"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001252"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53355"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001238"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C139125"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002485"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C134272"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002446"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16924"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000969"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17457"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002196"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28264"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002057"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40985"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000663"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16224"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000535"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C87097"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000516"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128793"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003000"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17106"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003082"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16342"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003089"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C116553"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000849"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C104098"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0010031"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C129887"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000732"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17968"/>
+		<measure rdf:datatype="xsd:float">0.2</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

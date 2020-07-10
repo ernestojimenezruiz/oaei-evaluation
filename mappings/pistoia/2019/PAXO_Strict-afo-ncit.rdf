@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>afo</onto1>
+<onto2>ncit</onto2>
+<uri1>http://purl.obolibrary.org/afo.owl</uri1>
+<uri2>http://purl.obolibrary.org/ncit.owl</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000186"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25474"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000922"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25365"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000005"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44256"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000847"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50111"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003598"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43582"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001262"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80709"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000160"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43432"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000211"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C95501"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000209"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62352"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001505"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C127262"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000970"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48038"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003282"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54125"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000937"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25207"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001494"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53285"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000354"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000527"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62326"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001004"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43382"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001486"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17357"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000957"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C73537"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001480"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42879"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000917"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25364"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001483"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C88186"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000238"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C63394"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000857"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62336"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0002145"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C81182"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000407"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43186"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000317"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C41276"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001219"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25213"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000018"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C101685"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/spatial#AFSP_0000001"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C37901"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000168"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47894"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000166"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25453"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001216"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C104788"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000048"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70813"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0001515"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80371"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000049"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25471"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0001875"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50025"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000185"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62333"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000032"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25167"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000708"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48174"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000266"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C116701"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000410"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50059"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000012"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70830"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001079"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53321"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000217"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18242"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001085"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C92453"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001087"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C41167"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001084"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43359"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001083"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25190"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000304"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C68637"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003371"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C86038"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000225"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16435"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001044"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C32345"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001032"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64898"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001625"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25476"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000162"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25674"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001033"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45297"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000167"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142431"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003374"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25687"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003359"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61299"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001321"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16431"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000471"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49907"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001619"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47876"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003393"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53463"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000029"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128793"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000208"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C75755"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001057"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16736"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001058"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44386"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001055"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17732"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001056"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17231"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000993"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43383"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000994"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C84379"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002849"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48937"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002293"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C81871"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000386"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45300"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001041"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C73489"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000499"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50128"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003385"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25453"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000280"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44465"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000733"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C123937"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003452"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16840"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000094"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25490"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000056"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C74555"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000055"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16390"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000059"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47910"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003471"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45275"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000955"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25598"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000954"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25636"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001016"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C63807"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000936"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25681"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003573"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62803"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000951"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25330"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002389"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C69187"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000394"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25278"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000154"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45299"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000032"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70673"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001047"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C71252"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000279"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44478"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000278"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44477"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000088"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80369"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000932"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45287"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000935"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C79664"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001478"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C128635"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000341"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48694"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000006"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80489"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000928"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25390"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003408"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53464"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000924"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25506"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000378"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15959"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003404"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C86946"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000250"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25697"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003641"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61559"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003620"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43431"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000011"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70796"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000074"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50311"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002792"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C84731"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000021"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C38013"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000014"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80490"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000918"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54100"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000911"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47799"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000910"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47797"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000912"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47800"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003437"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C71894"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000916"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25161"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000220"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70796"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001499"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18314"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003431"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25639"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000909"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47798"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000900"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45279"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000413"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48054"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000588"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18242"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000441"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54269"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001348"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61408"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001666"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C86063"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001135"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64925"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003634"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25662"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002309"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C111096"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002788"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62322"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003623"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C79873"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000275"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48187"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000785"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C64657"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000402"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C12419"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000406"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25936"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000405"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25936"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000403"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C38008"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000409"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C125891"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000407"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54634"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002716"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C112926"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0002099"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C75603"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001170"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45783"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001157"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45995"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000068"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C84383"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000310"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C30014"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001159"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48158"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000090"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25457"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001951"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C122030"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000718"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C41277"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001142"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45997"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000120"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45297"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000112"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45300"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001120"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C104504"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000111"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C73487"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000113"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45298"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000114"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45299"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000115"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13356"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001115"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C130166"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000141"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C99179"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0002148"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49887"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000761"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25485"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001586"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C89824"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001587"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C134263"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001584"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25206"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001588"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25539"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000179"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25256"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000169"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C67469"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000172"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25514"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001561"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43680"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0001860"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49922"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000327"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50167"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0002184"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28220"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000322"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94873"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0001410"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43195"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000694"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54156"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000795"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50243"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003286"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25496"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000439"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17156"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002680"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C60819"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000050"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25162"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0001695"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16464"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001508"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19044"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000894"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17565"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000036"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142454"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001059"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61393"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003552"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17133"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000639"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42883"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002185"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85856"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000634"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17216"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000075"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54166"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000378"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50140"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000077"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142509"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0002102"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C69013"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003568"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C81208"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000494"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C65101"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000442"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45304"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003328"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25431"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000080"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85776"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003356"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61302"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003596"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42791"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003581"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C103159"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000157"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25209"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000498"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25619"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0002165"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47874"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002216"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C60832"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001367"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15707"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002693"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53231"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002834"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47891"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003540"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17606"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000181"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120538"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000184"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48938"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000321"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28007"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000323"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48918"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000173"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C67470"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000176"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C67391"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001094"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25426"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001092"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70656"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001090"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C70744"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/realizable#AFRE_0000001"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25404"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/realizable#AFRE_0000002"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C79751"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/realizable#AFRE_0000004"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C85235"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/realizable#AFRE_0000007"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C75958"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/realizable#AFRE_0000008"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54190"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000195"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C71251"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000196"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C82625"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001087"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25621"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001080"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C19067"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFRL_0000440"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25678"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/realizable#AFRE_0000012"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C122626"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/realizable#AFRE_0000013"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13273"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001078"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25690"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001079"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40978"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001071"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C87189"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002843"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C41208"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001068"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C95829"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001061"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40975"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001062"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40974"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001986"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C42663"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001046"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43426"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000880"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48058"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000403"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45298"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001530"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16583"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000404"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13356"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000816"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50092"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001276"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C44275"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000431"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16433"/>
+		<measure rdf:datatype="xsd:float">0.245615</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000808"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16435"/>
+		<measure rdf:datatype="xsd:float">0.2439025</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000024"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C30014"/>
+		<measure rdf:datatype="xsd:float">0.2428575</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000748"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120693"/>
+		<measure rdf:datatype="xsd:float">0.2405075</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000224"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120693"/>
+		<measure rdf:datatype="xsd:float">0.23718</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000078"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142509"/>
+		<measure rdf:datatype="xsd:float">0.2368425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003533"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62964"/>
+		<measure rdf:datatype="xsd:float">0.2368425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001054"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17262"/>
+		<measure rdf:datatype="xsd:float">0.234375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000507"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16433"/>
+		<measure rdf:datatype="xsd:float">0.2321425</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001100"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C84380"/>
+		<measure rdf:datatype="xsd:float">0.22973</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000264"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80369"/>
+		<measure rdf:datatype="xsd:float">0.22973</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0001763"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C12998"/>
+		<measure rdf:datatype="xsd:float">0.2291675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001063"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25191"/>
+		<measure rdf:datatype="xsd:float">0.2291675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000949"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102268"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000362"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62986"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001158"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C43385"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000231"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120693"/>
+		<measure rdf:datatype="xsd:float">0.226745</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000925"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C87741"/>
+		<measure rdf:datatype="xsd:float">0.2258075</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000555"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50241"/>
+		<measure rdf:datatype="xsd:float">0.22549</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000200"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C142442"/>
+		<measure rdf:datatype="xsd:float">0.225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003336"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C61575"/>
+		<measure rdf:datatype="xsd:float">0.225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002059"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120693"/>
+		<measure rdf:datatype="xsd:float">0.22353</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000263"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16810"/>
+		<measure rdf:datatype="xsd:float">0.2229725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000642"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50355"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000058"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47909"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000574"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C71252"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000332"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C28192"/>
+		<measure rdf:datatype="xsd:float">0.2222225</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001426"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15653"/>
+		<measure rdf:datatype="xsd:float">0.22093</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000166"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48453"/>
+		<measure rdf:datatype="xsd:float">0.22093</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000132"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C30014"/>
+		<measure rdf:datatype="xsd:float">0.2205875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000171"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120693"/>
+		<measure rdf:datatype="xsd:float">0.2202375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000018"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62941"/>
+		<measure rdf:datatype="xsd:float">0.22</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000525"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17637"/>
+		<measure rdf:datatype="xsd:float">0.2192975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000097"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17050"/>
+		<measure rdf:datatype="xsd:float">0.2192975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000579"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17637"/>
+		<measure rdf:datatype="xsd:float">0.2192975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001192"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16435"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000913"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47799"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002691"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17350"/>
+		<measure rdf:datatype="xsd:float">0.21875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000106"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45273"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000247"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C103167"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001188"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25474"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001187"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25474"/>
+		<measure rdf:datatype="xsd:float">0.2173925</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000026"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C103412"/>
+		<measure rdf:datatype="xsd:float">0.2166675</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000272"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C73479"/>
+		<measure rdf:datatype="xsd:float">0.216215</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000015"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C30014"/>
+		<measure rdf:datatype="xsd:float">0.216215</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001209"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C80304"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000698"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120693"/>
+		<measure rdf:datatype="xsd:float">0.21591</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000429"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C92041"/>
+		<measure rdf:datatype="xsd:float">0.215385</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000186"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50233"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000014"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C18242"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001031"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2452"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000128"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47882"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000995"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49608"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000277"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16870"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000271"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C73480"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000092"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C47953"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000027"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54125"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003358"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C97380"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001543"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16435"/>
+		<measure rdf:datatype="xsd:float">0.214285</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001763"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C120693"/>
+		<measure rdf:datatype="xsd:float">0.2134825</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

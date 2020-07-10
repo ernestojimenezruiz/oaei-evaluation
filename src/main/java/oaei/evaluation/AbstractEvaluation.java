@@ -131,6 +131,8 @@ public abstract class AbstractEvaluation {
 					family = "DKPAOM";
 				//else if (name.startsWith("DKPAOM"))
 				//	family = "DKPAOM";
+				else if (name.startsWith("PAXO"))
+					family = "PAXO";
 				else		
 					family = name;
 				
@@ -148,12 +150,13 @@ public abstract class AbstractEvaluation {
 				
 				//Add mappings
 				//TODO POMAP 2017 mappings have to be reversed
-				if (name.startsWith("POMAP")) {
-					system_results_map.get(name).setMappings(onto1, onto2, reverse(mappingReaderTool.getMappingObjects()));
-				}
-				else {
+				//Reversed before
+				//if (name.startsWith("POMAP")) {
+				//	system_results_map.get(name).setMappings(onto1, onto2, reverse(mappingReaderTool.getMappingObjects()));
+				//}
+				//else {
 					system_results_map.get(name).setMappings(onto1, onto2, mappingReaderTool.getMappingObjects());
-				}		
+				//}		
 				//Global set of mappings + voting
 				addMappingsToGlobalSet(system_results_map.get(name).getMappingSet());
 				
@@ -212,6 +215,10 @@ public abstract class AbstractEvaluation {
 			
 			File files = new File(configuration.getLogsPath());
 			String log_files[] = files.list();
+			
+			if (!files.exists()) {
+				return -1;
+			}
 			
 			for(int i=0; i<log_files.length; i++){			
 		
@@ -283,6 +290,9 @@ public abstract class AbstractEvaluation {
 				//Unique vote
 				if (allMappings2votes.containsKey(mapping) && allMappings2votes.get(mapping)==1) {
 					
+					//if (tool_name.startsWith("POMAP"))
+					//	System.out.println(mapping);
+					
 					system_results_map.get(tool_name).addUniqueMapping(mapping);
 					
 				}
@@ -298,7 +308,7 @@ public abstract class AbstractEvaluation {
 	private Set<MappingObjectStr> reverse(
 			Set<MappingObjectStr> mappingObjects) {
 
-		//Set<MappingObjectStr> reversedMappings = new HashSet<MappingObjectStr>();
+		Set<MappingObjectStr> reversedMappings = new HashSet<MappingObjectStr>();
 		
 		String tmp;
 		for (MappingObjectStr mapping : mappingObjects){
@@ -306,11 +316,14 @@ public abstract class AbstractEvaluation {
 			mapping.setIRIStrEnt1(mapping.getIRIStrEnt2());
 			mapping.setIRIStrEnt2(tmp);
 			
-			//mapping.setIRIStrEnt1(iri1)
-			//reversedMappings.add(new MappingObjectStr());
+			reversedMappings.add(mapping);
+			
+			//System.out.println(mapping);
+			
 		}
 		
-		return mappingObjects;
+		
+		return reversedMappings;
 	}
 
 	
