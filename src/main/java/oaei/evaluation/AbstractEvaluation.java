@@ -16,9 +16,13 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
+import org.semanticweb.owlapi.model.IRI;
+import org.semanticweb.owlapi.model.OWLAnnotationAssertionAxiom;
 import org.semanticweb.owlapi.model.OWLEntity;
 import org.semanticweb.owlapi.model.OWLOntology;
 import org.semanticweb.owlapi.model.OWLOntologyCreationException;
+import org.semanticweb.owlapi.model.parameters.Imports;
+import org.semanticweb.owlapi.search.EntitySearcher;
 
 import oaei.configuration.OAEIConfiguration;
 import oaei.mappings.ReferenceMappings;
@@ -27,6 +31,8 @@ import oaei.measures.StandardMeasures;
 import oaei.results.Results;
 import oaei.util.MergedOntology;
 import uk.ac.ox.krr.logmap2.OntologyLoader;
+import uk.ac.ox.krr.logmap2.indexing.ExtractStringFromAnnotationAssertionAxiom;
+import uk.ac.ox.krr.logmap2.io.ExtendedFlatTSVAlignmentFormat;
 import uk.ac.ox.krr.logmap2.io.LogOutput;
 import uk.ac.ox.krr.logmap2.io.ReadFile;
 import uk.ac.ox.krr.logmap2.mappings.objects.MappingObjectStr;
@@ -65,6 +71,8 @@ public abstract class AbstractEvaluation {
 	protected boolean classifyMergedOntologies = true;
 	protected boolean extractModules = true; 
 	
+	ExtractStringFromAnnotationAssertionAxiom annotationExtractor = new ExtractStringFromAnnotationAssertionAxiom();
+	
 	
 
 	protected  void loadOntologies() throws OWLOntologyCreationException{
@@ -101,6 +109,9 @@ public abstract class AbstractEvaluation {
 				String name = tool_files[i].split(configuration.getFileNamePattern())[0];
 				
 				name = name.replaceAll("-","");
+				
+				//TODO we do not read the type of mapping. All are considered as class mappings
+				//Use something like Utilities.createOWLOntologyFromRDFMappings to get the type
 				
 				
 				//TODO Change for evaluation...
@@ -280,10 +291,17 @@ public abstract class AbstractEvaluation {
 	
 	/**
 	 * Syntactic unique mappings
+	 * @throws Exception 
 	 */
-	protected void createUniqueMappings() {
+	protected void createUniqueMappings() throws Exception {
 		
+			
 		for (String tool_name : system_results_map.navigableKeySet()){
+			
+			ExtendedFlatTSVAlignmentFormat file_format = 
+					new ExtendedFlatTSVAlignmentFormat(
+							configuration.getResultsPath() + 
+							"Unique-" + system_results_map.get(tool_name).getFileName());
 			
 			for (MappingObjectStr mapping : system_results_map.get(tool_name).getMappingSet()) {
 				
@@ -295,10 +313,25 @@ public abstract class AbstractEvaluation {
 					
 					system_results_map.get(tool_name).addUniqueMapping(mapping);
 					
+					
+					int type = getMappingType(IRI.create(mapping.getIRIStrEnt1()), onto1);
+					String label1 = getLabel4Entity(IRI.create(mapping.getIRIStrEnt1()), onto1);
+					String label2 = getLabel4Entity(IRI.create(mapping.getIRIStrEnt2()), onto2);
+					
+					if (type==MappingObjectStr.CLASSES)
+						file_format.addClassMapping2Output(mapping.getIRIStrEnt1(), label1, mapping.getIRIStrEnt2(), label2, mapping.getMappingDirection(), mapping.getConfidence());
+					else if (type==MappingObjectStr.OBJECTPROPERTIES)
+						file_format.addObjPropMapping2Output(mapping.getIRIStrEnt1(), label1, mapping.getIRIStrEnt2(), label2, mapping.getMappingDirection(), mapping.getConfidence());
+					else if (type==MappingObjectStr.DATAPROPERTIES)
+						file_format.addDataPropMapping2Output(mapping.getIRIStrEnt1(), label1, mapping.getIRIStrEnt2(), label2, mapping.getMappingDirection(), mapping.getConfidence());
+					else if (type==MappingObjectStr.INSTANCES)
+						file_format.addInstanceMapping2Output(mapping.getIRIStrEnt1(), label1, mapping.getIRIStrEnt2(), label2, mapping.getConfidence());
+					
 				}
 				
 			}
 			
+			file_format.saveOutputFile();
 			
 		}
 		
@@ -324,6 +357,69 @@ public abstract class AbstractEvaluation {
 		
 		
 		return reversedMappings;
+	}
+	
+	
+	/**
+	 * 
+	 * @return
+	 */
+	protected int getMappingType(IRI uri, OWLOntology onto) {
+		if (onto.containsClassInSignature(uri, Imports.INCLUDED)){
+			return MappingObjectStr.CLASSES;
+		}
+		else if (onto.containsDataPropertyInSignature(uri, Imports.INCLUDED)){
+			return MappingObjectStr.DATAPROPERTIES;					
+		}
+		else if (onto.containsObjectPropertyInSignature(uri, Imports.INCLUDED)){
+			return MappingObjectStr.OBJECTPROPERTIES;
+		}
+		else if (onto.containsIndividualInSignature(uri, Imports.INCLUDED)){
+			return MappingObjectStr.INSTANCES;
+		}
+		else{
+			return MappingObjectStr.UNKNOWN;
+		}
+			
+	}
+
+
+	protected String getLabel4Entity(IRI uri, OWLOntology onto){
+		
+		OWLEntity entity;
+		String label=uri.toString();
+		
+		if (onto.containsClassInSignature(uri, Imports.INCLUDED)){
+			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLClass(uri);
+		}
+		else if (onto.containsDataPropertyInSignature(uri, Imports.INCLUDED)){
+			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLDataProperty(uri);					
+		}
+		else if (onto.containsObjectPropertyInSignature(uri, Imports.INCLUDED)){
+			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLObjectProperty(uri);
+		}
+		else if (onto.containsIndividualInSignature(uri, Imports.INCLUDED)){
+			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLNamedIndividual(uri);
+		}
+		else{
+			return uri.toString(); //we return uri
+		}
+			
+		
+		//Label from accepted annotations
+		//for (OWLAnnotationAssertionAxiom annAx : entity.getAnnotationAssertionAxioms(onto)){
+		for (OWLAnnotationAssertionAxiom annAx : EntitySearcher.getAnnotationAssertionAxioms(entity, onto)) {
+			label = annotationExtractor.getSingleLabel(annAx, onto, onto.getOWLOntologyManager().getOWLDataFactory());
+			if (!label.equals(""))
+				return label;
+		}
+		
+		
+		//URI if not accepted annotation found
+		return uri.toString();
+			
+			
+			
 	}
 
 	
@@ -403,8 +499,11 @@ public abstract class AbstractEvaluation {
 			//Set merged ontology
 			System.out.println("Classifying integrated ontology with: " + name);
 			classify=classifyMergedOntologies;
-			//if (name.equals("AGM")) //hard classification in SNOMED-NCI
-			//	classify=false;
+			//hard classification
+			//if (name.equals("AGM")) 
+			if (name.startsWith("PhenoM"))
+				classify=false;
+				
 			
 			LogOutput.printAlways("Creating merged ontology and reasoning for mappings: " + name);
 			system_results_map.get(name).setAlignedOntology(new MergedOntology(onto1, onto2, system_results_map.get(name).getMappingsOntology(), extractModules, signature_for_modules, classify, reasonerID));

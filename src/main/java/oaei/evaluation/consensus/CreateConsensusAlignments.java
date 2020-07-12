@@ -42,7 +42,7 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 	//Set<ConsensusMapping> consensus = new HashSet<ConsensusMapping>();  
 	HashConsensusAlignment consensusAlignment = new HashConsensusAlignment();
 	
-	ExtractStringFromAnnotationAssertionAxiom annotationExtractor = new ExtractStringFromAnnotationAssertionAxiom();
+	
 	
 	int max_votes;
 	
@@ -273,68 +273,7 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 	
 	
 	
-	/**
-	 * 
-	 * @return
-	 */
-	private int getMappingType(IRI uri, OWLOntology onto) {
-		if (onto.containsClassInSignature(uri, Imports.INCLUDED)){
-			return MappingObjectStr.CLASSES;
-		}
-		else if (onto.containsDataPropertyInSignature(uri, Imports.INCLUDED)){
-			return MappingObjectStr.DATAPROPERTIES;					
-		}
-		else if (onto.containsObjectPropertyInSignature(uri, Imports.INCLUDED)){
-			return MappingObjectStr.OBJECTPROPERTIES;
-		}
-		else if (onto.containsIndividualInSignature(uri, Imports.INCLUDED)){
-			return MappingObjectStr.INSTANCES;
-		}
-		else{
-			return MappingObjectStr.UNKNOWN;
-		}
-			
-	}
 
-
-	private String getLabel4Entity(IRI uri, OWLOntology onto){
-		
-		OWLEntity entity;
-		String label=uri.toString();
-		
-		if (onto.containsClassInSignature(uri, Imports.INCLUDED)){
-			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLClass(uri);
-		}
-		else if (onto.containsDataPropertyInSignature(uri, Imports.INCLUDED)){
-			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLDataProperty(uri);					
-		}
-		else if (onto.containsObjectPropertyInSignature(uri, Imports.INCLUDED)){
-			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLObjectProperty(uri);
-		}
-		else if (onto.containsIndividualInSignature(uri, Imports.INCLUDED)){
-			entity = onto.getOWLOntologyManager().getOWLDataFactory().getOWLNamedIndividual(uri);
-		}
-		else{
-			return uri.toString(); //we return uri
-		}
-			
-		
-		//Label from accepted annotations
-		//for (OWLAnnotationAssertionAxiom annAx : entity.getAnnotationAssertionAxioms(onto)){
-		for (OWLAnnotationAssertionAxiom annAx : EntitySearcher.getAnnotationAssertionAxioms(entity, onto)) {
-			label = annotationExtractor.getSingleLabel(annAx, onto, onto.getOWLOntologyManager().getOWLDataFactory());
-			if (!label.equals(""))
-				return label;
-		}
-		
-		
-		//URI if not accepted annotation found
-		return uri.toString();
-			
-			
-			
-	}
-	
 	
 	
 	
