@@ -1,0 +1,1740 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+         xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+         xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
+         xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>**</type>
+  <method>nl.TUD.Core.SANOM2</method>
+  <onto1>
+    <Ontology rdf:about="http://purl.allotrope.org/voc/afo/merged-NCBO/REC/2019/05/10">
+      <location>file:/home/ernesto/Documents/BioPortal/Ontologies/AFO.owl</location>
+      <formalism>
+        <Formalism align:name="OWL2.0" align:uri="http://www.w3.org/2002/07/owl#"/>
+      </formalism>
+    </Ontology>
+  </onto1>
+  <onto2>
+    <Ontology rdf:about="http://purl.obolibrary.org/obo/chmo.owl">
+      <location>file:/home/ernesto/Documents/BioPortal/Ontologies/CHMO.owl</location>
+      <formalism>
+        <Formalism align:name="OWL2.0" align:uri="http://www.w3.org/2002/07/owl#"/>
+      </formalism>
+    </Ontology>
+  </onto2>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001227'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001247'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8387096774193549</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002846'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002756'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8076923076923077</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0001211'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000999'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000040'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000040'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000345'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000805'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001023'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001128'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0003275'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/OBI_0000094'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8235294117647058</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001183'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002401'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0002184'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002793'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0003274'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000156'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.7777777777777778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000341'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000830'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000090'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002503'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000523'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002263'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000142'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000810'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002243'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002136'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000748'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001009'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000034'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000034'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001410'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001050'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000031'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000031'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/PATO_0000033'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002822'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/IAO_0000030'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/IAO_0000030'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000336'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000918'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000496'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000840'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000711'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002584'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000491'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000864'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000490'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002162'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002434'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000927'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000297'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002423'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002239'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000696'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8125</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000132'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002688'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000294'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002331'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000673'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002697'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8157894736842105</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001763'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001278'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000317'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002244'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000316'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001731'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8620689655172413</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001760'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002590'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000219'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002859'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000218'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002858'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000217'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002860'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000091'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002071'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000090'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001891'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000896'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001253'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000277'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002268'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002033'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001789'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000023'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000023'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000733'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000004'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001367'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/OBI_0302912'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000525'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001024'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.7931034482758621</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/PATO_0000025'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001487'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8181818181818182</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000020'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000020'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000179'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002348'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000698'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001279'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000078'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000987'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002788'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000287'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000014'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002752'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000176'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002824'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000175'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002823'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0001695'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000650'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000325'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000802'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000323'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002115'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000073'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002579'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001955'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000012'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000289'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000804'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002423'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002023'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001756'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000651'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.75</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002228'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000792'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000284'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002185'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000131'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002403'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001750'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/OBI_0302888'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000019'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000019'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000017'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000017'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000301'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002269'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000016'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000016'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000519'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000823'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000015'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000015'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002185'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002771'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000514'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000799'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000527'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000228'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000168'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002820'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000319'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000831'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000167'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002821'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.6153846153846154</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000525'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000010'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000317'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001959'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000857'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001234'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000032'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000986'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002216'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002108'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000110'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000816'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001543'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002317'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002014'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001005'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000070'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000922'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000507'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002533'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000002'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000002'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/IAO_0000005'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/IAO_0000005'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000080'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002039'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000872'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000293'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002171'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001135'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002800'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002814'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.76</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0003591'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000072'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.7272727272727273</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000300'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001187'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000028'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/IAO_0000140'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000310'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001002'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000263'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000835'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000068'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000800'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000642'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001059'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000112'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002773'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000066'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001124'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.7391304347826086</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000064'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001910'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001698'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002774'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002361'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002302'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000869'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000024'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001530'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001640'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000503'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002827'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001135'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001685'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001134'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000779'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000109'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002123'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000266'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000291'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000011'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000995'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000251'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000818'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000057'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000803'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000260'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002249'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000053'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000808'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000431'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002571'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000855'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001167'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.9565217391304348</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000140'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/BFO_0000140'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000231'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000976'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000392'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002477'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001321'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001000'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000443'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002388'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001719'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001259'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000246'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001254'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000165'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000992'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000164'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000996'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000253'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001003'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000046'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000822'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000044'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000832'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001677'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002698'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0001501'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/IAO_0000104'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000057'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002119'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000421'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001803'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000224'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002755'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.7291666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000840'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000915'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000439'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000806'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000438'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001066'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000024'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002478'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000185'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002232'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000236'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002387'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000775'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002267'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000246'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001733'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001861'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002354'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001666'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002095'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000217'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000997'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002293'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001707'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000808'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001835'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8181818181818182</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000114'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001945'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001106'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000294'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001266'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000924'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000792'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001465'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000803'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002264'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000171'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000543'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.7291666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000800'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002072'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002328'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001051'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000222'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000801'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000993'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000993'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002680'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/OBI_0000070'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000567'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000060'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.7727272727272727</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/function#AFFN_0000143'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001310'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.75</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000391'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000899'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8947368421052632</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001655'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000232'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000020'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000820'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000368'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001715'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.8787878787878788</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001650'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002386'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002122'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001163'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001457'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002106'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000363'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002585'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000339'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000991'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000360'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002266'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000620'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001082'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000588'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001001'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000412'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000834'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000410'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002573'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/quality#AFQ_0000064'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001161'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.75</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000229'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000209'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000225'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001004'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000373'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002502'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/IAO_0000309'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/IAO_0000033'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002314'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001129'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001649'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002020'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000554'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001804'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000094'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001361'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000022'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002092'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000021'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002262'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000550'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002265'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000813'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000295'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000354'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/OBI_0000968'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000158'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000990'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000611'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000682'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000127'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002740'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/role#AFRL_0000126'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000994'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001046'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002451'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.obolibrary.org/obo/OBI_0000011'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/OBI_0000011'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002309'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000001'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000007'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000914'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002305'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001049'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000360'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000842'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000373'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002642'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000166'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0001992'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000164'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000821'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/result#AFR_0000001'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000854'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002065'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002433'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0001192'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0002318'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000692'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000975'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0000955'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000292'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/equipment#AFE_0000691'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000974'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource='http://purl.allotrope.org/ontologies/process#AFP_0002059'/>
+      <entity2 rdf:resource='http://purl.obolibrary.org/obo/CHMO_0000795'/>
+      <relation>=</relation>
+      <measure rdf:datatype='http://www.w3.org/2001/XMLSchema#float'>1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

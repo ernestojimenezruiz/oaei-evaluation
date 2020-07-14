@@ -110,6 +110,10 @@ public abstract class AbstractEvaluation {
 				
 				name = name.replaceAll("-","");
 				
+				
+				System.out.println("Loading mappings for " + name + ": " + mappingReaderTool.getMappingObjects().size());
+				
+				
 				//TODO we do not read the type of mapping. All are considered as class mappings
 				//Use something like Utilities.createOWLOntologyFromRDFMappings to get the type
 				

@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://data.bioontology.org/ontologies/BAO</onto1>
+<onto2>null</onto2>
+<uri1>http://data.bioontology.org/ontologies/BAO</uri1>
+<uri2>null</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002401"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017248"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000693"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006531"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002451"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002874"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002428"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011863"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000639"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004317"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001028"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013793"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001034"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013973"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001030"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019284"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001013"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020889"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002346"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D025341"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002351"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009323"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001021"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019311"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001060"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006153"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001061"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006160"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002301"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D056004"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000947"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016209"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000920"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019004"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000927"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D006003"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000924"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005947"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000055"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013058"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000054"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D020349"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003119"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012984"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002657"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001351"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000001"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D031541"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000005"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005434"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000003"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005454"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000853"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016718"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000848"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000804"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000894"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004298"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000876"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002217"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000874"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002118"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000882"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003065"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003049"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D053148"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0003057"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005978"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002525"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014054"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002526"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D008853"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002527"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001345"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000797"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011802"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002508"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D047468"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0080010"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000071448"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0001216"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019793"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000779"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D003402"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000776"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000255"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000775"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D000244"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000773"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014415"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000772"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D014284"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000750"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D001616"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000759"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004318"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000763"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015759"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000762"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007377"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000771"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D013926"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002080"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016133"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002066"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012709"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000204"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015850"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000269"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004247"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000271"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007371"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000270"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012313"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002808"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010539"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030004"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018808"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030006"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019040"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0030005"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D017304"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000161"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D002942"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000138"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015394"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002781"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015544"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000129"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007118"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002789"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D019950"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000976"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D009478"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000985"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010121"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000990"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D010728"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000950"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007545"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000957"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D018021"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002721"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D015335"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000998"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D011339"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002231"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D016415"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000415"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D007150"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000418"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D005658"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0000405"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012588"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002135"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012995"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002109"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D048308"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002927"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D004194"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.bioassayontology.org/bao#BAO_0002929"/>
+		<entity2 rdf:resource="http://purl.bioontology.org/ontology/MESH/D012380"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

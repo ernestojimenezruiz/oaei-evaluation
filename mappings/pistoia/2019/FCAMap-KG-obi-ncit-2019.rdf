@@ -1,0 +1,3680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	alignmentSource="FCA-Map">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>source</onto1>
+<onto2>target</onto2>
+<uri1>source</uri1>
+<uri2>target</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0005739"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13258"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53279"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000051"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17943"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000007"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12399"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400107"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61298"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25356"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000955"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12439"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302859"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97158"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100026"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92453"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000439"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45308"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001020"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61555"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001089"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13280"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000064"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16275"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000251"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43418"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000029"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37901"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0500000"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15320"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14187"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000948"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12727"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001058"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70661"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000789"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28192"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001159"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12384"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001323"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C52809"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000125"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34808"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001970"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13192"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001628"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83078"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600008"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43384"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302891"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84232"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200152"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48924"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000315"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86046"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302893"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60824"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/VO_0000002"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15346"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000122"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25334"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100026"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63848"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2157"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61092"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110011"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114476"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400115"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62333"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000311"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48669"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001052"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12390"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000165"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80484"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000011"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002110"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71462"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PR_000000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17021"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000832"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81182"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000542"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13350"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000451"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12583"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000891"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116553"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001134"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13050"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000017"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99285"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000003"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25275"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_11103"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14312"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0008150"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17828"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002488"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68961"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2759"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25796"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302910"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54156"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400109"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61365"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001154"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40987"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/VO_0000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15346"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CLO_0000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16403"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000310"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12971"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10407"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14215"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000029"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80490"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000973"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153329"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001504"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15227"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000023"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16977"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0003823"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40474"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000117"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25681"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000426"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64978"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10116"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14266"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000835"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43360"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001934"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16238"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001087"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77613"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000015"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159310"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0005694"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13202"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000164"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15727"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000146"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25206"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_37333"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65795"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001070"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78810"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001797"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13323"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001741"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17054"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001728"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12423"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000922"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70717"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001910"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19315"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_15956"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C309"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001174"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15259"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000179"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71615"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001953"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48160"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002032"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12368"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001830"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33129"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_40674"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14234"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001422"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28554"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000384"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20197"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001874"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12452"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001636"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16644"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000055"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78269"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001135"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73497"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48835"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001567"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13070"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33696"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C706"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PR_000023089"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105960"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000925"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14316"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302887"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C841"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/SO_0001248"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63548"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002174"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17731"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302889"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28365"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110201"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62651"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000311"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48471"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000066"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12578"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PR_000007928"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20446"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000311"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49060"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001873"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12451"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302884"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61575"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000038"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37960"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54064"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000132"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70848"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001836"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13275"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1000024"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113745"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000971"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84517"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000083"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142524"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000066"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25936"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000025"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61520"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/HP_0000855"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113101"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000967"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79873"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000990"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28219"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000090"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15368"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001137"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18883"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001025"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25195"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302885"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16583"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000430"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C754"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001112"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93052"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/VO_0000002"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28385"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.org/dc/elements/1.1/date"/>
+		<entity2 rdf:resource="http://purl.org/dc/elements/1.1/date"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0042110"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19053"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000087"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16856"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001988"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13234"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000907"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60759"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000479"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33177"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000721"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45946"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_31624"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61766"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000309"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43559"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000818"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69187"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001483"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32343"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000943"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73482"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002369"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12666"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000140"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25339"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302911"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73623"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000038"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18242"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200199"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111203"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_00001975"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106048"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002619"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17378"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000339"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25619"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002410"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16151"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002394"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106551"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000572"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25356"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0006909"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26115"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001264"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12393"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000010"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16396"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001013"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12472"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000844"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16696"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_11709"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14221"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9989"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14270"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0019815"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107558"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001671"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19362"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000105"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15342"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400034"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64722"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000427"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16554"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002367"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12410"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41205"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000235"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53323"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002625"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74927"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200176"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45725"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302911"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71756"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302911"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16237"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0006260"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16514"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.geneontology.org/formats/oboInOwl#Synonym"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C52469"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400147"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44282"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000931"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98388"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000315"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60765"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302886"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153402"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_26710"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29974"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000383"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16576"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000306"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48441"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000301"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41196"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_11652"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117716"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000479"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000175"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44185"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.geneontology.org/formats/oboInOwl#Definition"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43680"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/VO_0000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28385"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000180"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78549"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0009987"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20480"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400169"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25252"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400103"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13299"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000088"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25375"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000423"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61575"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600011"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68767"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000572"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70899"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000125"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43246"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000737"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1329"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000102"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17995"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60819"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_160"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86825"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001879"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C802"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000536"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80369"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302884"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82948"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25643"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001729"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12762"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/SO_0000149"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40984"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000049"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47875"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0001788"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16298"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001000"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17048"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0003688"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33209"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000167"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142523"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33697"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C812"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000185"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86035"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302886"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16410"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000473"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12412"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://protege.stanford.edu/plugins/owl/protege#defaultLanguage"/>
+		<entity2 rdf:resource="http://protege.stanford.edu/plugins/owl/protege#defaultLanguage"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000057"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12482"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001374"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17001"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000315"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42874"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000918"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25335"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_29191"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157205"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110054"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2889"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P97"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002813"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33472"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000140"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104788"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000654"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C163747"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000088"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25651"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001741"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19176"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24636"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17024"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001498"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54711"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000178"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12434"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000100"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47824"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/SO_0001248"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C52474"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000422"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43202"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000030"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88181"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000325"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80506"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0042098"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19599"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001442"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64217"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000232"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12521"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_15377"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65147"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001638"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12814"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002606"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C155831"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400064"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16782"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.geneontology.org/formats/oboInOwl#Definition"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114710"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002106"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12432"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_16670"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C735"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0002524"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3114"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600041"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85856"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IDO_0000586"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128320"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_37586"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29459"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302899"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90375"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0097278"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41572"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000835"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25392"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302887"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50753"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63848"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000025"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53414"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002037"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12445"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19315"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200042"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63919"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001876"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16396"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000182"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54625"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PR_000003252"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104683"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000995"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12405"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002067"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12701"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302890"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34072"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002608"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C155835"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200097"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64257"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0036149"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126736"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400169"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20677"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000011"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16269"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_17234"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2831"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000994"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28162"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000066"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28041"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000457"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53616"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100014"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14194"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000924"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115528"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000956"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12443"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000436"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69013"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_4890"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77167"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14250"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002048"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12468"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001090"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33718"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13189"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000030"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49155"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000286"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129961"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000690"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16724"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0007311"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13278"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001505"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68780"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400107"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16464"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110087"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48284"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001621"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12843"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.geneontology.org/formats/oboInOwl#Definition"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62607"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000027"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142479"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302896"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90371"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_59050"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44377"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400044"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78806"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001866"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20215"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0009566"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94191"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001088"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25744"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002107"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12392"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000542"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12535"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0500022"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142698"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002812"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32955"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400116"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78811"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001108"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18881"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001072"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63393"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002410"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106541"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33709"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C231"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000918"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43320"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000066"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41198"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600022"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15232"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200198"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18142"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110094"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17997"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000034"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25518"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000141"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41186"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000345"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47926"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600040"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61408"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0010467"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16608"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002116"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12387"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400168"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126373"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25283"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CLO_0000031"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16403"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000165"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25207"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000701"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63920"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000953"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41604"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_6239"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14303"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000301"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43679"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000165"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113779"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51070"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0001806"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3115"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000028"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54191"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41129"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000835"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53616"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000800"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47936"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000457"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25392"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001359"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12692"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45247"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001574"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82554"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/VO_0000002"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C923"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_28619"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44329"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000814"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80932"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000097"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12747"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400103"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153598"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29862"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100058"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12932"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000000"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48694"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302912"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15707"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001152"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17209"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0002186"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38054"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_61073"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1421"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000786"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12486"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000136"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15685"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001588"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82888"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600052"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15221"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001421"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37987"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001986"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16722"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600034"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129961"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001155"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12382"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000967"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43186"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100026"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14250"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000432"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45309"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110034"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C268"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400106"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153402"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001088"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13283"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001089"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36172"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302902"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142778"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000182"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12588"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000088"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41191"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000522"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41275"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000018"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16586"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000483"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12710"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000260"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25619"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200200"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53235"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001155"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128361"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000572"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001104"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80370"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.geneontology.org/formats/oboInOwl#Definition"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42777"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000423"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82948"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000000"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000701"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122168"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24636"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54165"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001723"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12422"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000419"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17096"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000947"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12669"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0006338"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19797"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001167"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61555"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000025"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47903"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000828"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93448"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0007610"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12824"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000945"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12391"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400114"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81871"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/VO_0000001"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C923"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000304"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80505"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000422"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70946"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302895"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50544"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_11676"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14220"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302888"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65077"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70899"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0500005"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142604"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000700"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78542"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000968"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62103"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600044"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38068"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001268"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77612"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110094"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15258"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0009566"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16578"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000992"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12404"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10358"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14196"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000272"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42651"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002046"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12400"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000173"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13188"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000073"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000984"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25488"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000235"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12558"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001987"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13272"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200000"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43582"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002371"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12431"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400149"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25867"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302902"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131944"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302889"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68775"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000030"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45281"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000029"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12745"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001340"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45909"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000458"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97325"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600041"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400155"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112508"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000996"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12407"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0009566"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16579"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0200099"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68834"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000140"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25246"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000362"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12740"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CL_0000767"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12531"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001047"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122172"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100051"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19157"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000415"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17003"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PR_000003745"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157285"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13018"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001161"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64657"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110094"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16710"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000131"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73518"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0016570"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129422"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400106"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16410"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002358"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12770"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0400109"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113744"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302903"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16924"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0600053"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16536"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_1110122"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16956"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_31643"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65796"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_4932"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14271"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0000785"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13201"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000101"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48179"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/GO_0006306"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17961"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0001173"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47920"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92453"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100026"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13018"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48177"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000844"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25179"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000457"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43360"/>
+		<relation>=</relation>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

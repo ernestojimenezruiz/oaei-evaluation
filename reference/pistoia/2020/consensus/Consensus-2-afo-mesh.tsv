@@ -1,0 +1,150 @@
+#URI 1	Label 1	URI 2	Label 2	Confidence	Family votes	Families	System votes	Systems
+http://purl.allotrope.org/ontologies/role#AFRL_0000351	api	http://purl.bioontology.org/ontology/MESH/D001516	bee	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000319	action spectrum	http://purl.bioontology.org/ontology/MESH/D000067549	spectrum, action	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0002293	sonication	http://purl.bioontology.org/ontology/MESH/D013010	sonication	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0001750	flushing	http://purl.bioontology.org/ontology/MESH/D005483	flushings	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0000422	separating	http://purl.bioontology.org/ontology/MESH/D004243	separations	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/quality#AFQ_0000057	thermal conductivity	http://purl.bioontology.org/ontology/MESH/D013814	conductivity, thermal	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/result#AFR_0000304	certificate	http://purl.bioontology.org/ontology/MESH/D002567	certificate of need	0.7	2	LogMap;PAXO	2	LogMapLt;PAXO_Relaxed
+http://purl.allotrope.org/ontologies/role#AFRL_0000464	target	http://purl.bioontology.org/ontology/MESH/D012380	role concept	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/role#AFRL_0000465	from role	http://purl.bioontology.org/ontology/MESH/D012380	role concept	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.obolibrary.org/obo/PATO_0000018	fluorescence	http://purl.bioontology.org/ontology/MESH/D005453	fluorescence	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0003385	collecting	http://purl.bioontology.org/ontology/MESH/D020471	collection	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0003385	collecting	http://www.w3.org/2004/02/skos/core#Collection	http://www.w3.org/2004/02/skos/core#Collection	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0000310	gas chromatography run	http://purl.bioontology.org/ontology/MESH/D002849	chromatographies, gas	0.85	3	AML;LogMap;PAXO	5	AML;LogMap;LogMapBio;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/quality#AFQ_0000045	torque	http://purl.bioontology.org/ontology/MESH/D019415	torques	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/function#AFFN_0000014	controlling function	http://purl.bioontology.org/ontology/MESH/Q000517	preventive therapy	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/role#AFRL_0000254	calibration sample role	http://purl.bioontology.org/ontology/MESH/D002138	calibration	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/role#AFRL_0000257	quality control	http://purl.bioontology.org/ontology/MESH/D011786	quality controls	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.obolibrary.org/obo/PATO_0000146	temperature	http://purl.bioontology.org/ontology/MESH/D013696	temperatures	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/function#AFFN_0000130	molding function	http://purl.bioontology.org/ontology/MESH/D020478	forms	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/function#AFFN_0000130	molding function	http://purl.bioontology.org/ontology/MESH/D005658	fungi	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/role#AFRL_0000370	population	http://purl.bioontology.org/ontology/MESH/D011153	population, school age	0.85	3	AML;LogMap;PAXO	3	AML;LogMapLt;PAXO_Relaxed
+http://purl.allotrope.org/ontologies/process#AFP_0002389	calibration	http://purl.bioontology.org/ontology/MESH/D002138	calibration	1.0	4	AML;BioPortal;LogMap;PAXO	5	AML;BioPortal;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/result#AFR_0001196	signal-to-noise ratio (rms)	http://purl.bioontology.org/ontology/MESH/D059629	signal-to-noise ratios	0.7	2	AML;PAXO	3	AML;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0001611	injection (chromatography)	http://purl.bioontology.org/ontology/MESH/D007267	injections	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0001195	signal-to-noise ratio	http://purl.bioontology.org/ontology/MESH/D059629	signal-to-noise ratios	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0000525	conductimetry	http://purl.bioontology.org/ontology/MESH/D003217	titration, conductometric	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/result#AFR_0001079	telephone	http://purl.bioontology.org/ontology/MESH/D013689	telephones	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0000527	spectroscopy	http://purl.bioontology.org/ontology/MESH/D013057	spectrum analysis	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/quality#AFQ_0000181	cell density	http://purl.bioontology.org/ontology/MESH/D002452	cell densities	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0003370	achievement	http://purl.bioontology.org/ontology/MESH/D000124	achievements	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0003491	analysis	http://purl.bioontology.org/ontology/MESH/Q000032	chemical analysis	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/equipment#AFE_0002102	needle	http://purl.bioontology.org/ontology/MESH/D009339	needles, hypodermic	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/quality#AFQ_0000184	amount of cells	http://purl.bioontology.org/ontology/MESH/D002452	cell densities	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0000896	ultra-violet spectrometry	http://purl.bioontology.org/ontology/MESH/D013056	ultraviolet spectrophotometry	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.obolibrary.org/obo/OBI_0100026	organism	http://purl.bioontology.org/ontology/STY/T001	organism	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000894	analysis sequence	http://purl.bioontology.org/ontology/MESH/D017421	determinations, sequence	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/result#AFR_0001209	population (statistics)	http://purl.bioontology.org/ontology/MESH/D011153	population, school age	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000916	classification	http://purl.bioontology.org/ontology/MESH/Q000145	taxonomy	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000916	classification	http://purl.bioontology.org/ontology/STY/T185	classification	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000916	classification	http://purl.bioontology.org/ontology/MESH/D002965	classification	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0003581	data collection	http://purl.bioontology.org/ontology/MESH/D000078303	aggregation, data	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0003581	data collection	http://purl.bioontology.org/ontology/MESH/D003625	method, data collection	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0003452	mental process	http://purl.bioontology.org/ontology/STY/T041	mental process	0.85	3	AML;BioPortal;LogMap	3	AML;BioPortal;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0003452	mental process	http://purl.bioontology.org/ontology/MESH/D008606	mental processes	0.7	2	LogMap;PAXO	4	LogMap;LogMapBio;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0002361	reverse-phase chromatography	http://purl.bioontology.org/ontology/MESH/D056148	chromatography, reverse phase	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0000620	osmometry	http://purl.bioontology.org/ontology/MESH/D061286	osmometry	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0003458	melting	http://purl.bioontology.org/ontology/MESH/D005615	freezing	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0000748	high-performance liquid chromatography	http://purl.bioontology.org/ontology/MESH/D002851	hplc	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/material#AFM_0001054	x-ray radiation	http://purl.bioontology.org/ontology/MESH/D014965	xray	0.7	2	AML;LogMap	3	AML;LogMap;LogMapBio
+http://purl.allotrope.org/ontologies/function#AFFN_0000140	to supply	http://purl.bioontology.org/ontology/MESH/Q000600	supply	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/function#AFFN_0000141	tracking function	http://purl.bioontology.org/ontology/MESH/D014142	tracks	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0001047	abg	http://purl.bioontology.org/ontology/MESH/D001784	blood gas analysis	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0003586	indexing	http://purl.bioontology.org/ontology/MESH/D000043	indexing	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/material#AFM_0001044	colloid	http://purl.bioontology.org/ontology/MESH/D003102	hydrocolloid	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.obolibrary.org/obo/NCBITaxon_9606	human	http://purl.bioontology.org/ontology/STY/T016	human	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.obolibrary.org/obo/NCBITaxon_9606	human	http://purl.bioontology.org/ontology/MESH/D006801	man (taxonomy)	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0000840	rheology	http://purl.bioontology.org/ontology/MESH/D012212	flowmetry	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/role#AFRL_0000325	population role	http://purl.bioontology.org/ontology/MESH/D011153	population, school age	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/function#AFFN_0000041	to measure	http://purl.bioontology.org/ontology/MESH/D014894	measures and weights	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/function#AFFN_0000043	transmitting energy function	http://purl.bioontology.org/ontology/MESH/D004735	transfer, energy	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/function#AFFN_0000044	to heat	http://purl.bioontology.org/ontology/MESH/D006358	hot temperature	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.obolibrary.org/obo/IAO_0000064	algorithm	http://purl.bioontology.org/ontology/MESH/D000465	algorithm	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/quality#AFQ_0000026	particle size	http://purl.bioontology.org/ontology/MESH/D010316	sizes, particle	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0001266	magnetic susceptibility measurements	http://purl.bioontology.org/ontology/MESH/D060306	magnetometry	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/equipment#AFE_0001695	computer	http://purl.bioontology.org/ontology/MESH/D003201	computers	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0002239	refractive index measurement	http://purl.bioontology.org/ontology/MESH/C027982	rid	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0000611	calorimetry	http://purl.bioontology.org/ontology/MESH/D002151	calorimetry	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/quality#AFQ_0000145	friction	http://purl.bioontology.org/ontology/MESH/D017276	friction	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/material#AFM_0001083	person	http://purl.bioontology.org/ontology/MESH/D009272	persons	0.85	3	AML;LogMap;PAXO	5	AML;LogMap;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/result#AFR_0000951	time	http://purl.bioontology.org/ontology/MESH/D013995	longterm effects	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/material#AFM_0001085	organization	http://purl.bioontology.org/ontology/MESH/D009938	organizations	0.85	3	AML;LogMap;PAXO	4	AML;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/material#AFM_0001085	organization	http://purl.bioontology.org/ontology/STY/T092	organization	0.85	3	AML;BioPortal;LogMap	3	AML;BioPortal;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000955	observation	http://purl.bioontology.org/ontology/MESH/D019370	observation	1.0	4	AML;BioPortal;LogMap;PAXO	5	AML;BioPortal;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/material#AFM_0001084	group	http://purl.bioontology.org/ontology/STY/T096	group	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.obolibrary.org/obo/PATO_0002027	osmolality	http://purl.bioontology.org/ontology/MESH/D009994	strengths, ionic	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/function#AFFN_0000198	to count cells	http://purl.bioontology.org/ontology/MESH/D002452	cell densities	0.7	2	LogMap;PAXO	3	LogMap;LogMapBio;PAXO_Relaxed
+http://purl.allotrope.org/ontologies/process#AFP_0002680	measurement method	http://purl.bioontology.org/ontology/MESH/Q000032	chemical analysis	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/equipment#AFE_0000354	device	http://purl.bioontology.org/ontology/MESH/Q000295	devices	0.7	2	AML;LogMap	3	AML;LogMap;LogMapBio
+http://purl.allotrope.org/ontologies/process#AFP_0000266	molecular absorption spectrophotometry	http://purl.bioontology.org/ontology/MESH/D013053	spectrophotometry	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/equipment#AFE_0002099	artifact	http://purl.bioontology.org/ontology/MESH/D016477	artifact	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0003656	data aggregation	http://purl.bioontology.org/ontology/MESH/D000078303	aggregation, data	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0001257	function (math)	http://purl.bioontology.org/ontology/MESH/Q000502	function	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/quality#AFQ_0000211	strain	http://purl.bioontology.org/ontology/MESH/D013180	sprain	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000941	action specification	http://purl.bioontology.org/ontology/MESH/D019514	instructional film and video	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000700	fingerprint	http://purl.bioontology.org/ontology/MESH/D003878	print, plantar	0.7	2	AML;LogMap	3	AML;LogMap;LogMapBio
+http://purl.allotrope.org/ontologies/result#AFR_0001480	fax	http://purl.bioontology.org/ontology/MESH/D016636	telefacsimile	0.7	2	AML;LogMap	3	AML;LogMap;LogMapBio
+http://purl.allotrope.org/ontologies/process#AFP_0003666	injecting	http://purl.bioontology.org/ontology/MESH/D007267	injections	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0003665	running state	http://purl.bioontology.org/ontology/MESH/D012420	running	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0001367	electroporation	http://purl.bioontology.org/ontology/MESH/D018274	electropermeabilisation	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/quality#AFQ_0000208	partial pressure	http://purl.bioontology.org/ontology/MESH/D010313	pressures, partial	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0003305	sensing	http://purl.bioontology.org/ontology/MESH/D019370	observation	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0002216	oximetry	http://purl.bioontology.org/ontology/MESH/D010092	oximetry, pulse	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/result#AFR_0000937	time	http://purl.bioontology.org/ontology/MESH/D013995	longterm effects	1.0	4	AML;BioPortal;LogMap;PAXO	5	AML;BioPortal;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.obolibrary.org/obo/PATO_0001757	electrical conductivity	http://purl.bioontology.org/ontology/MESH/D004553	conductivity, electric	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/quality#AFQ_0000115	plasma state of matter	http://purl.bioontology.org/ontology/MESH/D010949	frozen plasmas, fresh	0.85	3	AML;BioPortal;PAXO	4	AML;BioPortal;PAXO_Relaxed;PAXO_Strict
+http://purl.obolibrary.org/obo/IAO_0000010	software	http://purl.bioontology.org/ontology/MESH/D012984	software engineering	0.85	3	AML;BioPortal;LogMap	4	AML;BioPortal;LogMap;LogMapBio
+http://purl.allotrope.org/ontologies/material#AFM_0000888	electro-magnetic energy	http://purl.bioontology.org/ontology/MESH/D060733	electromagnetic waves	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/material#AFM_0000404	plasma	http://purl.bioontology.org/ontology/MESH/D010949	frozen plasmas, fresh	1.0	4	AML;BioPortal;LogMap;PAXO	6	AML;BioPortal;LogMap;LogMapBio;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/material#AFM_0001058	γ-ray	http://purl.bioontology.org/ontology/MESH/D005720	ray, gamma	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/material#AFM_0001056	ultraviolet light	http://purl.bioontology.org/ontology/MESH/D014466	actinic ray	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/role#AFRL_0000405	researcher	http://purl.bioontology.org/ontology/MESH/D012108	investigator, clinical	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/material#AFM_0001055	visible light	http://purl.bioontology.org/ontology/MESH/D008027	photoradiations	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0002788	fluorescence detection	http://purl.bioontology.org/ontology/MESH/D005470	analysis, fluorometric	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0002309	colorimetric method	http://purl.bioontology.org/ontology/MESH/D003124	colorimetry	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0001909	luminescence measurement	http://purl.bioontology.org/ontology/MESH/D008163	luminescent techniques	0.85	3	AML;LogMap;PAXO	5	AML;LogMap;LogMapBio;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/role#AFRL_0000402	head	http://purl.bioontology.org/ontology/MESH/D006257	head	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/result#AFR_0000928	index	http://purl.bioontology.org/ontology/MESH/D020481	indexes	0.85	3	AML;BioPortal;LogMap	3	AML;BioPortal;LogMapLt
+http://purl.obolibrary.org/obo/BFO_0000182	history	http://purl.bioontology.org/ontology/MESH/Q000266	history	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.obolibrary.org/obo/BFO_0000182	history	http://purl.bioontology.org/ontology/MESH/D006664	historical aspects	0.85	3	AML;BioPortal;LogMap	3	AML;BioPortal;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0002434	velocimetry	http://purl.bioontology.org/ontology/MESH/D012212	flowmetry	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0000253	sfc	http://purl.bioontology.org/ontology/MESH/D025924	fluid chromatography, supercritical	0.7	2	AML;PAXO	2	AML;PAXO_Relaxed
+http://purl.allotrope.org/ontologies/process#AFP_0003641	degradation	http://purl.bioontology.org/ontology/MESH/Q000378	incorporation	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0001586	osmolality datum	http://purl.bioontology.org/ontology/MESH/D009994	strengths, ionic	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0001584	temperature	http://purl.bioontology.org/ontology/MESH/D013696	temperatures	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/common#AFC_0000160	list	http://www.w3.org/1999/02/22-rdf-syntax-ns#List	http://www.w3.org/1999/02/22-rdf-syntax-ns#List	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/role#AFRL_0000157	measured value	http://purl.bioontology.org/ontology/MESH/D014894	measures and weights	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.obolibrary.org/obo/IAO_0000306	table	http://purl.bioontology.org/ontology/MESH/D020501	table	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/common#AFC_0000166	collection	http://purl.bioontology.org/ontology/MESH/D020471	collection	0.85	3	AML;BioPortal;LogMap	3	AML;BioPortal;LogMapLt
+http://purl.allotrope.org/ontologies/common#AFC_0000166	collection	http://www.w3.org/2004/02/skos/core#Collection	http://www.w3.org/2004/02/skos/core#Collection	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0001170	noise	http://purl.bioontology.org/ontology/MESH/D009622	noise pollution	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0000225	liquid chromatography	http://purl.bioontology.org/ontology/MESH/D002853	liquid chromatography	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/material#AFM_0000341	cell	http://purl.bioontology.org/ontology/STY/T025	cell	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/material#AFM_0000341	cell	http://purl.bioontology.org/ontology/MESH/D002477	cells	0.85	3	AML;LogMap;PAXO	5	AML;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/result#AFR_0001059	registry	http://purl.bioontology.org/ontology/MESH/D012042	register, parish	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/role#AFRL_0000022	reference role	http://purl.bioontology.org/ontology/MESH/D012016	normal values	0.7	2	LogMap;PAXO	2	LogMapLt;PAXO_Relaxed
+http://purl.obolibrary.org/obo/PATO_0000051	morphology	http://purl.bioontology.org/ontology/MESH/Q000033	anatomy & histology	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.obolibrary.org/obo/PATO_0001025	pressure	http://purl.bioontology.org/ontology/MESH/D011312	pressures	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0003620	activity	http://purl.bioontology.org/ontology/STY/T052	activity	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0001321	chromatography	http://purl.bioontology.org/ontology/MESH/D002845	chromatographies	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.obolibrary.org/obo/BFO_0000001	entity	http://purl.bioontology.org/ontology/STY/T071	entity	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000733	distribution	http://purl.bioontology.org/ontology/MESH/Q000600	supply	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://xmlns.com/foaf/0.1/Organization	http://xmlns.com/foaf/0.1/Organization	http://purl.bioontology.org/ontology/MESH/Q000458	organizational structure	0.7	2	AML;LogMap	2	AML;LogMapBio
+http://xmlns.com/foaf/0.1/Organization	http://xmlns.com/foaf/0.1/Organization	http://purl.bioontology.org/ontology/MESH/D009938	organizations	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://xmlns.com/foaf/0.1/Organization	http://xmlns.com/foaf/0.1/Organization	http://purl.bioontology.org/ontology/STY/T092	organization	0.85	3	AML;BioPortal;LogMap	4	AML;BioPortal;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000004	constitution	http://purl.bioontology.org/ontology/MESH/D003249	constitution	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/role#AFRL_0000290	about role	http://purl.bioontology.org/ontology/MESH/D012380	role concept	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0003284	drawing	http://purl.bioontology.org/ontology/MESH/D020472	drawing	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000005	environmental situation	http://purl.bioontology.org/ontology/MESH/D004777	impact, environmental	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/equipment#AFE_0001745	optical device	http://purl.bioontology.org/ontology/MESH/D055096	component, optical	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0002065	interferometry	http://purl.bioontology.org/ontology/MESH/D007368	interferometry	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0001410	reversed-phase liquid chromatography	http://purl.bioontology.org/ontology/MESH/D056148	chromatography, reverse phase	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/equipment#AFE_0000410	thermometer	http://purl.bioontology.org/ontology/MESH/D013821	thermometer	0.85	3	AML;LogMap;PAXO	6	AML;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.allotrope.org/ontologies/process#AFP_0001530	filtration	http://purl.bioontology.org/ontology/MESH/D005374	filtrations	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict
+http://purl.obolibrary.org/obo/BFO_0000034	function	http://purl.bioontology.org/ontology/MESH/Q000502	function	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/equipment#AFE_0002153	plumbing system	http://purl.bioontology.org/ontology/MESH/D012498	plumbing	0.7	2	AML;LogMap	4	AML;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/result#AFR_0000966	time datum	http://purl.bioontology.org/ontology/MESH/D013995	longterm effects	0.7	2	AML;LogMap	2	AML;LogMapLt
+http://purl.allotrope.org/ontologies/realizable#AFRE_0000012	detergent	http://purl.bioontology.org/ontology/MESH/D003902	pods, laundry detergent	0.85	3	AML;LogMap;PAXO	5	AML;LogMap;LogMapBio;PAXO_Relaxed;PAXO_Strict
+http://purl.obolibrary.org/obo/BFO_0000023	role	http://purl.bioontology.org/ontology/MESH/D012380	role concept	0.85	3	AML;BioPortal;LogMap	5	AML;BioPortal;LogMap;LogMapBio;LogMapLt
+http://purl.allotrope.org/ontologies/process#AFP_0001666	densiometric measurements	http://purl.bioontology.org/ontology/MESH/D003720	densitometries	1.0	4	AML;BioPortal;LogMap;PAXO	7	AML;BioPortal;LogMap;LogMapBio;LogMapLt;PAXO_Relaxed;PAXO_Strict

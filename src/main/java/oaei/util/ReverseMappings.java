@@ -113,6 +113,10 @@ public class ReverseMappings {
 			String ncit	= "http://purl.obolibrary.org/ncit.owl";
 			
 			
+
+			String afo = "http://purl.obolibrary.org/obo/afo.owl";
+			String chmo	= "http://purl.obolibrary.org/obo/chmo.owl";
+			
 		
 			
 			
@@ -223,8 +227,14 @@ public class ReverseMappings {
 			
 			file_in = path + "POMAP-mp-ordo_noimports.rdf";
 			file_out = path + "POMAP-mp-ordo_noimports";
-			onto1 = mp;
+			onto1 = mp;	
 			onto2 =ordo;
+			
+			
+			file_in = path + "POMAP++-afo-chmo-2019.rdf";
+			file_out = path + "POMAP++-afo-chmo-2019";
+			onto1 = afo;
+			onto2 =chmo;
 			
 			
 			
