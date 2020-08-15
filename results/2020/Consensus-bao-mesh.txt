@@ -1,34 +1,34 @@
 Vote 2
-	Mappings: 3053
+	Mappings: 251
 	Families:
-		AML: 99.4% (3036)
-		BioPortal: 42.9% (1311)
-		LogMap: 99.9% (3050)
-		PAXO: 4.3% (132)
+		AML: 93.2% (234)
+		BioPortal: 43.4% (109)
+		LogMap: 99.6% (250)
+		PAXO: 52.6% (132)
 	Systems:
-		AML: 99.4% (3036/3285)
-		BioPortal: 42.9% (1311/1314)
-		LogMap: 95.3% (2908/3494)
-		LogMapBio: 98.2% (2999/3599)
-		LogMapLt: 78.2% (2388/2514)
-		PAXO_Relaxed: 4.3% (132/273)
-		PAXO_Strict: 4.1% (125/176)
+		AML: 93.2% (234/248)
+		BioPortal: 43.4% (109/112)
+		LogMap: 94.4% (237/313)
+		LogMapBio: 95.6% (240/317)
+		LogMapLt: 74.9% (188/224)
+		PAXO_Relaxed: 52.6% (132/273)
+		PAXO_Strict: 49.8% (125/176)
 
 Vote 3
-	Mappings: 1342
+	Mappings: 142
 	Families:
-		AML: 100.0% (1342)
-		BioPortal: 97.3% (1306)
-		LogMap: 99.9% (1341)
-		PAXO: 8.8% (118)
+		AML: 100.0% (142)
+		BioPortal: 74.6% (106)
+		LogMap: 99.3% (141)
+		PAXO: 83.1% (118)
 	Systems:
-		AML: 100.0% (1342/3285)
-		BioPortal: 97.3% (1306/1314)
-		LogMap: 97.8% (1313/3494)
-		LogMapBio: 98.4% (1320/3599)
-		LogMapLt: 85.8% (1152/2514)
-		PAXO_Relaxed: 8.8% (118/273)
-		PAXO_Strict: 8.5% (114/176)
+		AML: 100.0% (142/248)
+		BioPortal: 74.6% (106/112)
+		LogMap: 95.1% (135/313)
+		LogMapBio: 95.1% (135/317)
+		LogMapLt: 80.3% (114/224)
+		PAXO_Relaxed: 83.1% (118/273)
+		PAXO_Strict: 80.3% (114/176)
 
 Vote 4
 	Mappings: 81
@@ -38,11 +38,11 @@ Vote 4
 		LogMap: 100.0% (81)
 		PAXO: 100.0% (81)
 	Systems:
-		AML: 100.0% (81/3285)
-		BioPortal: 100.0% (81/1314)
-		LogMap: 93.8% (76/3494)
-		LogMapBio: 93.8% (76/3599)
-		LogMapLt: 75.3% (61/2514)
+		AML: 100.0% (81/248)
+		BioPortal: 100.0% (81/112)
+		LogMap: 93.8% (76/313)
+		LogMapBio: 93.8% (76/317)
+		LogMapLt: 75.3% (61/224)
 		PAXO_Relaxed: 100.0% (81/273)
 		PAXO_Strict: 100.0% (81/176)
 

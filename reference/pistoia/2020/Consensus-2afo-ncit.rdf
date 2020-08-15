@@ -8,9 +8,9 @@
 <level>0</level>
 <type>??</type>
 <onto1>http://data.bioontology.org/ontologies/AFO</onto1>
-<onto2>null</onto2>
+<onto2>http://data.bioontology.org/ontologies/NCIT</onto2>
 <uri1>http://data.bioontology.org/ontologies/AFO</uri1>
-<uri2>null</uri2>
+<uri2>http://data.bioontology.org/ontologies/NCIT</uri2>
 <map>
 	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000113"/>
@@ -69,48 +69,8 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000125"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43246"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000125"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34808"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001334"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25285"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000008"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41146"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000112"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71586"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001574"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82554"/>
 		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
@@ -120,14 +80,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001994"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C139456"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000122"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25334"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -173,17 +125,17 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000103"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25619"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000304"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68637"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000304"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68637"/>
-		<measure rdf:datatype="xsd:float">1.0</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000103"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25619"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -285,17 +237,17 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000224"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60823"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000107"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64659"/>
+		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000107"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64659"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000224"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60823"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -317,17 +269,9 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000018"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16586"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001585"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C134263"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001640"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63548"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -336,14 +280,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000310"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C30014"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001640"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63548"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -429,14 +365,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000256"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17998"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001628"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25658"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -455,6 +383,14 @@
 	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000417"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63808"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000256"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17998"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
@@ -517,32 +453,8 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000025"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41186"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000025"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44476"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000025"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53414"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000146"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25206"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000130"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25677"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
@@ -559,14 +471,6 @@
 	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001508"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71492"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000130"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25677"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
@@ -600,22 +504,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000250"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25697"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000141"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41186"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001595"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25333"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -805,22 +693,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000033"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001242"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48158"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000012"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70830"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -829,25 +701,9 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000304"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80505"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002834"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47891"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000422"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70946"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -864,14 +720,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002716"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112926"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100026"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14250"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -957,14 +805,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001422"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28554"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000143"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104788"/>
 		<measure rdf:datatype="xsd:float">0.85</measure>
@@ -975,14 +815,6 @@
 	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000024"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95498"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001421"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37987"/>
 		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
@@ -1061,6 +893,22 @@
 </map>
 <map>
 	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000320"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37917"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000320"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53319"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/function#AFFN_0000049"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41199"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -1085,22 +933,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000320"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37917"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000320"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53319"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000321"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28007"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -1120,30 +952,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000323"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48918"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000117"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25483"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000117"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25681"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/RO_0002577"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -1181,14 +989,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000694"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54156"/>
-		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001824"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15631"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -1197,9 +997,9 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000260"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25619"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000694"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54156"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -1413,14 +1213,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000131"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73518"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000403"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45298"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -1445,9 +1237,9 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000017"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99285"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000403"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38008"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -1461,8 +1253,8 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000403"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38008"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002788"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62322"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
@@ -1485,24 +1277,8 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002788"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62322"/>
-		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003634"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25662"/>
-		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000407"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54634"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
@@ -1517,24 +1293,16 @@
 </map>
 <map>
 	<Cell>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000407"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54634"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003639"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54694"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000132"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70848"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000132"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104504"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
@@ -1685,14 +1453,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000028"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54191"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000378"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15959"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -1765,30 +1525,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000309"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43559"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000429"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42775"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000306"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48441"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/common#AFC_0000168"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47894"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -1845,16 +1581,16 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000588"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18242"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000225"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16435"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000225"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16435"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000588"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18242"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
@@ -1877,14 +1613,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001059"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61393"/>
-		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001319"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25662"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -1893,17 +1621,9 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19498"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70899"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001059"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61393"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -1944,14 +1664,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001046"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43426"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92453"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -2109,14 +1821,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001842"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45997"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/realizable#AFRE_0000012"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122626"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -2160,14 +1864,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001666"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86063"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000101"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48179"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -2429,14 +2125,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000719"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25324"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000181"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120538"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -2589,14 +2277,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000038"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37960"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000900"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42651"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -2693,30 +2373,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0002070"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20604"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14225"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14366"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000036"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C163747"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -2733,17 +2389,17 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003316"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66715"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003437"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71894"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003437"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71894"/>
-		<measure rdf:datatype="xsd:float">1.0</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0003316"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66715"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -2773,33 +2429,9 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000915"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41145"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000918"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43320"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000057"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112926"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000918"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25335"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000064"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16275"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -2808,14 +2440,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0001695"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16464"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000057"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112926"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -2909,14 +2533,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001084"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"/>
-		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000955"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25598"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -2925,9 +2541,9 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0002027"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89824"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001084"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -2973,17 +2589,17 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000960"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45805"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000211"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95501"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000211"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95501"/>
-		<measure rdf:datatype="xsd:float">1.0</measure>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000960"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45805"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -3029,16 +2645,16 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000925"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16210"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001060"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001060"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000925"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16210"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
@@ -3093,16 +2709,16 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000090"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49507"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000938"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42651"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000938"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42651"/>
+		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000090"/>
+		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49507"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
@@ -3277,14 +2893,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000182"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54625"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0001069"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70830"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -3325,14 +2933,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25283"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000634"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17216"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -3357,14 +2957,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29862"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000157"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25209"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -3381,14 +2973,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41205"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000639"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42883"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -3399,22 +2983,6 @@
 	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000271"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73480"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001019"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45781"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001019"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75762"/>
 		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
@@ -3477,38 +3045,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000051"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17943"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000052"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25677"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001025"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25195"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://www.w3.org/2006/time#Interval"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25543"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000019"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44175"/>
 		<measure rdf:datatype="xsd:float">0.85</measure>
@@ -3520,14 +3056,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0002165"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47874"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51070"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -3629,30 +3157,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001035"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48161"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000034"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25518"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000030"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45281"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000961"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47839"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
@@ -3680,14 +3184,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000962"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54169"/>
 		<measure rdf:datatype="xsd:float">0.7</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000029"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37901"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -3736,14 +3232,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0002145"/>
 		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81182"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
-		<entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48835"/>
-		<measure rdf:datatype="xsd:float">0.7</measure>
 		<relation>=</relation>
 	</Cell>
 </map>

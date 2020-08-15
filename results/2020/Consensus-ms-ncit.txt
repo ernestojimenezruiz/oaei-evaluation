@@ -1,0 +1,72 @@
+Vote 2
+	Mappings: 107
+	Families:
+		AML: 65.4% (70)
+		BioPortal: 79.4% (85)
+		FCA-Map: 81.3% (87)
+		LogMap: 86.9% (93)
+		PAXO: 80.4% (86)
+	Systems:
+		AML: 65.4% (70/73)
+		BioPortal: 79.4% (85/86)
+		FCAMapKG: 81.3% (87/107)
+		LogMap: 43.0% (46/56)
+		LogMapBio: 43.0% (46/57)
+		LogMapLt: 80.4% (86/107)
+		PAXO_Relaxed: 80.4% (86/268)
+		PAXO_Strict: 73.8% (79/143)
+
+Vote 3
+	Mappings: 86
+	Families:
+		AML: 72.1% (62)
+		BioPortal: 96.5% (83)
+		FCA-Map: 97.7% (84)
+		LogMap: 90.7% (78)
+		PAXO: 83.7% (72)
+	Systems:
+		AML: 72.1% (62/73)
+		BioPortal: 96.5% (83/86)
+		FCAMapKG: 97.7% (84/107)
+		LogMap: 45.3% (39/56)
+		LogMapBio: 45.3% (39/57)
+		LogMapLt: 86.0% (74/107)
+		PAXO_Relaxed: 83.7% (72/268)
+		PAXO_Strict: 82.6% (71/143)
+
+Vote 4
+	Mappings: 74
+	Families:
+		AML: 77.0% (57)
+		BioPortal: 100.0% (74)
+		FCA-Map: 100.0% (74)
+		LogMap: 95.9% (71)
+		PAXO: 90.5% (67)
+	Systems:
+		AML: 77.0% (57/73)
+		BioPortal: 100.0% (74/86)
+		FCAMapKG: 100.0% (74/107)
+		LogMap: 50.0% (37/56)
+		LogMapBio: 50.0% (37/57)
+		LogMapLt: 90.5% (67/107)
+		PAXO_Relaxed: 90.5% (67/268)
+		PAXO_Strict: 89.2% (66/143)
+
+Vote 5
+	Mappings: 47
+	Families:
+		AML: 100.0% (47)
+		BioPortal: 100.0% (47)
+		FCA-Map: 100.0% (47)
+		LogMap: 100.0% (47)
+		PAXO: 100.0% (47)
+	Systems:
+		AML: 100.0% (47/73)
+		BioPortal: 100.0% (47/86)
+		FCAMapKG: 100.0% (47/107)
+		LogMap: 70.2% (33/56)
+		LogMapBio: 70.2% (33/57)
+		LogMapLt: 93.6% (44/107)
+		PAXO_Relaxed: 100.0% (47/268)
+		PAXO_Strict: 100.0% (47/143)
+

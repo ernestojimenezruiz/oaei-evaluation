@@ -99,6 +99,8 @@ public abstract class AbstractEvaluation {
 		
 		String family;
 		
+		System.out.println("Number of mappings without namspace filtering");
+		
 		for(int i=0; i<tool_files.length; i++){			
 			
 			if (tool_files[i].contains(configuration.getFileNamePattern())){
@@ -111,6 +113,7 @@ public abstract class AbstractEvaluation {
 				name = name.replaceAll("-","");
 				
 				
+				//Before filtering
 				System.out.println("Loading mappings for " + name + ": " + mappingReaderTool.getMappingObjects().size());
 				
 				
@@ -170,7 +173,8 @@ public abstract class AbstractEvaluation {
 				//	system_results_map.get(name).setMappings(onto1, onto2, reverse(mappingReaderTool.getMappingObjects()));
 				//}
 				//else {
-					system_results_map.get(name).setMappings(onto1, onto2, mappingReaderTool.getMappingObjects());
+				//We load filtered mappings
+				system_results_map.get(name).setMappings(onto1, onto2, getFilteredMappings(mappingReaderTool.getMappingObjects()));
 				//}		
 				//Global set of mappings + voting
 				addMappingsToGlobalSet(system_results_map.get(name).getMappingSet());
@@ -197,6 +201,34 @@ public abstract class AbstractEvaluation {
 				
 			}
 		}
+	}
+	
+	
+	/**
+	 * We filter according to namespace of the mapping entities. To avoid mappings among imported/reused ontologies (for example). 
+	 * @return
+	 */
+	protected Set<MappingObjectStr> getFilteredMappings(Set<MappingObjectStr> mappings) throws Exception{
+		
+		Set<MappingObjectStr> filtered_mappings = new HashSet<MappingObjectStr>();
+		
+		if (configuration.getNameSpace1() == null || configuration.getNameSpace2() == null || configuration.getNameSpace1().equals("") || configuration.getNameSpace2().equals(""))
+			return mappings;
+		
+		for (MappingObjectStr m : mappings) {
+			
+			if (m.getIRIStrEnt1().contains(configuration.getNameSpace1()) && 
+				m.getIRIStrEnt2().contains(configuration.getNameSpace2())) {
+				filtered_mappings.add(m);
+			}
+			
+			
+		}
+		
+		
+		return filtered_mappings;
+		
+		
 	}
 	
 	
@@ -439,6 +471,7 @@ public abstract class AbstractEvaluation {
 			if (ref_files[i].contains(configuration.getFileNamePattern())){
 			
 				String mappings_file = configuration.getReferencesPath() + ref_files[i];
+				//System.err.println(mappings_file);
 				MappingsReaderManager mappingReadeReference = new MappingsReaderManager(mappings_file, MappingsReaderManager.OAEIFormat);
 				
 				
@@ -451,7 +484,7 @@ public abstract class AbstractEvaluation {
 				
 				
 				//Add mappings
-				reference_mappings_map.get(name).setMappings(onto1, onto2, mappingReadeReference.getMappingObjects());
+				reference_mappings_map.get(name).setMappings(onto1, onto2, getFilteredMappings(mappingReadeReference.getMappingObjects()));
 				
 				
 				//Entities in mappings

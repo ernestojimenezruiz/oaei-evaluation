@@ -64,6 +64,13 @@ public class OAEIConfiguration {
 	//Logical uri onto2
 	protected String onto_uri2;
 	
+	
+	//Optional namespace1 for entities to take into account for consensus and mapping
+	protected String namespace1="";
+		
+	//Optional namespace2 for entities to take into account for consensus and mapping
+	protected String namespace2="";
+	
 	//Reasoner
 	protected int reasoner_id;
 	
@@ -136,6 +143,15 @@ public class OAEIConfiguration {
 		return onto_uri2;
 	}
 	
+	
+	public String getNameSpace1(){
+		return namespace1;
+	}
+	
+	public String getNameSpace2(){
+		return namespace2;
+	}
+	
 	public int getResonerID() {
 		return reasoner_id;
 	}
@@ -198,6 +214,12 @@ public class OAEIConfiguration {
 			onto_file2 = protocol + ontologies_path + properties.getProperty("onto_file2");
 			
 			onto_uri1 = properties.getProperty("onto_uri1");
+			
+			onto_uri2 = properties.getProperty("onto_uri2");
+			
+			namespace1 = properties.getProperty("namespace1");
+			
+			namespace2 = properties.getProperty("namespace2");
 			
 			String reasoner_name;
 			if (properties.containsKey("reasoner")){

@@ -8,9 +8,9 @@
 <level>0</level>
 <type>??</type>
 <onto1>http://data.bioontology.org/ontologies/AFO</onto1>
-<onto2>null</onto2>
+<onto2>http://data.bioontology.org/ontologies/CHMO</onto2>
 <uri1>http://data.bioontology.org/ontologies/AFO</uri1>
-<uri2>null</uri2>
+<uri2>http://data.bioontology.org/ontologies/CHMO</uri2>
 <map>
 	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000439"/>
@@ -64,14 +64,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000078"/>
 		<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000987"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001750"/>
-		<entity2 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302888"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -213,14 +205,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0001501"/>
-		<entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000104"/>
-		<measure rdf:datatype="xsd:float">0.93</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/result#AFR_0000412"/>
 		<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000834"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -312,14 +296,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001861"/>
 		<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002354"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.obolibrary.org/obo/PATO_0000033"/>
-		<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002820"/>
-		<measure rdf:datatype="xsd:float">0.85</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -733,14 +709,6 @@
 </map>
 <map>
 	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0002680"/>
-		<entity2 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
-		<measure rdf:datatype="xsd:float">0.93</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000021"/>
 		<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002262"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
@@ -752,14 +720,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/quality#AFQ_0000218"/>
 		<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002858"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000354"/>
-		<entity2 rdf:resource="http://purl.obolibrary.org/obo/OBI_0000968"/>
-		<measure rdf:datatype="xsd:float">0.93</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -864,14 +824,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/equipment#AFE_0000217"/>
 		<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0000997"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0001367"/>
-		<entity2 rdf:resource="http://purl.obolibrary.org/obo/OBI_0302912"/>
-		<measure rdf:datatype="xsd:float">0.93</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
@@ -1240,14 +1192,6 @@
 		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/process#AFP_0000109"/>
 		<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHMO_0002123"/>
 		<measure rdf:datatype="xsd:float">1.0</measure>
-		<relation>=</relation>
-	</Cell>
-</map>
-<map>
-	<Cell>
-		<entity1 rdf:resource="http://purl.allotrope.org/ontologies/role#AFRL_0000028"/>
-		<entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000140"/>
-		<measure rdf:datatype="xsd:float">0.93</measure>
 		<relation>=</relation>
 	</Cell>
 </map>
