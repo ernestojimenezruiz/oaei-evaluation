@@ -1,0 +1,31 @@
+>>> Preparing environment ...
+ExternalMatcher (ERR): The following parameters have been received: de.uni_mannheim.informatik.dws.melt.atmatcher.ATMatcher | file:/home/ernesto/Documents/Datasets/LargeBio/oaei_FMA_small_overlapping_snomed.owl | file:/home/ernesto/Documents/Datasets/LargeBio/oaei_SNOMED_small_overlapping_fma.owl
+ExternalMatcher (ERR): 2020-10-01 17:00:01 INFO  [main                          ] 56   in OntologyCacheJena    - Reading model into cache (file:/home/ernesto/Documents/Datasets/LargeBio/oaei_FMA_small_overlapping_snomed.owl)
+ExternalMatcher (ERR): 2020-10-01 17:00:02 INFO  [main                          ] 56   in OntologyCacheJena    - Reading model into cache (file:/home/ernesto/Documents/Datasets/LargeBio/oaei_SNOMED_small_overlapping_fma.owl)
+ExternalMatcher (ERR): 2020-10-01 17:00:03 INFO  [main                          ] 67   in ATMatcher            - Match classes
+ExternalMatcher (ERR): 2020-10-01 17:00:03 INFO  [main                          ] 95   in ATMatcher            - source: 10192
+ExternalMatcher (ERR): 2020-10-01 17:00:03 INFO  [main                          ] 96   in ATMatcher            - target: 27080
+ExternalMatcher (ERR): 2020-10-01 17:00:03 INFO  [main                          ] 98   in ATMatcher            - Extract stopwords
+ExternalMatcher (ERR): 2020-10-01 17:00:03 INFO  [main                          ] 135  in ATMatcher            - Run string matcher
+ExternalMatcher (ERR): 2020-10-01 17:00:04 INFO  [main                          ] 103  in TransducerBuilder    - Building transducer out of [24633] terms with isSorted [false], algorithm [TRANSPOSITION], defaultMaxDistance [1], and includeDistance [false]
+ExternalMatcher (ERR): 2020-10-01 17:00:04 INFO  [main                          ] 105  in Dawg                 - Added [10000] of [24633] terms
+ExternalMatcher (ERR): 2020-10-01 17:00:05 INFO  [main                          ] 105  in Dawg                 - Added [20000] of [24633] terms
+ExternalMatcher (ERR): 2020-10-01 17:00:06 INFO  [main                          ] 70   in ATMatcher            - Match properties
+ExternalMatcher (ERR): 2020-10-01 17:00:06 INFO  [main                          ] 95   in ATMatcher            - source: 24
+ExternalMatcher (ERR): 2020-10-01 17:00:06 INFO  [main                          ] 96   in ATMatcher            - target: 18
+ExternalMatcher (ERR): 2020-10-01 17:00:06 INFO  [main                          ] 98   in ATMatcher            - Extract stopwords
+ExternalMatcher (ERR): 2020-10-01 17:00:06 INFO  [main                          ] 135  in ATMatcher            - Run string matcher
+ExternalMatcher (ERR): 2020-10-01 17:00:07 INFO  [main                          ] 103  in TransducerBuilder    - Building transducer out of [17] terms with isSorted [false], algorithm [TRANSPOSITION], defaultMaxDistance [1], and includeDistance [false]
+ExternalMatcher (ERR): 2020-10-01 17:00:07 INFO  [main                          ] 73   in ATMatcher            - Match instances
+ExternalMatcher (ERR): 2020-10-01 17:00:07 INFO  [main                          ] 155  in ATMatcher            - source: 0
+ExternalMatcher (ERR): 2020-10-01 17:00:07 INFO  [main                          ] 156  in ATMatcher            - target: 0
+ExternalMatcher (ERR): 2020-10-01 17:00:07 INFO  [main                          ] 159  in ATMatcher            - Run string matcher
+ExternalMatcher (ERR): 2020-10-01 17:00:07 INFO  [main                          ] 183  in ATMatcher            - Run additional confidence generators
+ExternalMatcher (ERR): 2020-10-01 17:00:07 INFO  [main                          ] 199  in ATMatcher            - OneToOneInstanceFilter...
+ExternalMatcher (ERR): 2020-10-01 17:00:07 INFO  [main                          ] 80   in ATMatcher            - Filter
+ExternalMatcher (ERR): 2020-10-01 17:00:08 INFO  [main                          ] 85   in ATMatcher            - Finish
+ExternalMatcher (OUT): file:/tmp/alignment2945009814293769754.rdf
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.972	0.648	0.778	8351
+>>> Cleaning up environment...

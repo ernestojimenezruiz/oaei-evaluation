@@ -1,0 +1,61 @@
+>>> Preparing environment ...
+Loading source ontology
+http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0 loaded in 13 seconds
+Classes: 78988
+Individuals: 0
+Properties: 54
+Loading target ontology
+http://www.ihtsdo.org/snomed loaded in 24 seconds
+Classes: 122464
+Individuals: 0
+Properties: 55
+Direct Relationships: 289614
+Running transitive closure on RelationshipMap
+Transitive closure finished in 36 seconds
+Extended Relationships: 3973586
+Disjoints: 44
+Reading config.ini file
+Finished!
+Running Lexical Matcher
+Finished in 0 seconds
+Loading mediating ontology doid.owl
+http://purl.obolibrary.org/obo/doid.owl loaded in 3 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/doid.owl
+Finished in 0 seconds
+doid.owl discarded
+Loading mediating ontology uberon.owl
+http://purl.obolibrary.org/obo/uberon.owl loaded in 3 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/uberon.owl
+Finished in 0 seconds
+uberon.owl selected as a mediator
+Running Mediating Matcher using store/knowledge/mesh.lexicon
+Finished in 0 seconds
+mesh.lexicon selected
+Extending Alignment with String Matcher
+Matching Children & Parents
+Matching Siblings
+Finished in 8 seconds
+Running Obsoletion Filter
+Finished in 0 seconds
+Computing High-Level Structure Overlap
+Finished in 1 seconds
+Computing Neighbor Similarity
+Finished in 0 seconds
+Performing Selection
+Finished in 0 seconds
+Building Repair Map
+Computed check list in 7 seconds
+Core fragments: 19271 classes
+Check list: 6049 classes to check
+Computed ancestral paths in 11 seconds
+Paths to process: 387964
+Computed minimal conflict sets in 49 seconds
+Sets of conflicting mappings: 24897
+Repair Map finished in 67 seconds
+Repairing Alignment
+Finished Repair in 0 seconds
+Removed 546 mappings
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.685	0.71	0.697	180801
+>>> Cleaning up environment...

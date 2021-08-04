@@ -1,0 +1,180 @@
+>>> Preparing environment ...
+Representative elements: 2055
+Time performing matching with input ontologies O1 and O2 (s): 28.101
+Extracting up to 10 mediating ontologies from BioPortal.
+Error accessing: http://data.bioontology.org/ontologies/XPO/metrics  Attempt: 1
+Error accessing: http://data.bioontology.org/ontologies/XPO/metrics  Attempt: 2
+Error accessing: http://data.bioontology.org/ontologies/XPO/metrics  Attempt: 3
+Necessary number of calls to BioPortal: 60
+MP
+	Pos hits: 45
+	Size: 14241
+	Language: OBO
+HP
+	Pos hits: 42
+	Size: 18976
+	Language: OBO
+CHIRO
+	Pos hits: 41
+	Size: 13286
+	Language: OWL
+EFO
+	Pos hits: 20
+	Size: 27892
+	Language: OWL
+CCONT
+	Pos hits: 20
+	Size: 28098
+	Language: OWL
+MAXO
+	Pos hits: 17
+	Size: 8801
+	Language: OWL
+IFAR
+	Pos hits: 10
+	Size: 4530
+	Language: OWL
+MONDO
+	Pos hits: 10
+	Size: 23585
+	Language: OBO
+BDO
+	Pos hits: 8
+	Size: 3668
+	Language: OWL
+BAO
+	Pos hits: 7
+	Size: 7266
+	Language: OWL
+Time extracting Mediating Ontologies (s): 200.027
+
+
+0. MO ONTOLOGY: MP
+Downloading ontology MP. Attempt: 1
+
+Time downloading MO 'MP' (s): 19.819
+Time matching O1 with MO 'MP' (s): 26.597
+Time matching O2 with MO 'MP' (s): 86.232
+Time creating composed mappings for'MP' (s): 0.023
+
+Time performing composed matching with MO 'MP' (s): 0.024
+Composed mappings: 40
+
+
+1. MO ONTOLOGY: HP
+Downloading ontology HP. Attempt: 1
+
+Time downloading MO 'HP' (s): 18.057
+Time matching O1 with MO 'HP' (s): 101.453
+Time matching O2 with MO 'HP' (s): 26.073
+Time creating composed mappings for'HP' (s): 0.023
+
+Time performing composed matching with MO 'HP' (s): 0.023
+Composed mappings: 80
+
+
+2. MO ONTOLOGY: CHIRO
+Downloading ontology CHIRO. Attempt: 1
+
+Time downloading MO 'CHIRO' (s): 5.643
+Time matching O1 with MO 'CHIRO' (s): 4.501
+Time matching O2 with MO 'CHIRO' (s): 4.567
+Time creating composed mappings for'CHIRO' (s): 0.0
+
+Time performing composed matching with MO 'CHIRO' (s): 0.0
+Composed mappings: 0
+
+
+2. MO ONTOLOGY: EFO
+Downloading ontology EFO. Attempt: 1
+
+Time downloading MO 'EFO' (s): 280.619
+Time matching O1 with MO 'EFO' (s): 58.026
+Time matching O2 with MO 'EFO' (s): 51.111
+Time creating composed mappings for'EFO' (s): 0.1
+
+Time performing composed matching with MO 'EFO' (s): 0.1
+Composed mappings: 563
+
+
+3. MO ONTOLOGY: CCONT
+Downloading ontology CCONT. Attempt: 1
+
+Time downloading MO 'CCONT' (s): 1.663
+Time matching O1 with MO 'CCONT' (s): 4.358
+Time matching O2 with MO 'CCONT' (s): 4.292
+Time creating composed mappings for'CCONT' (s): 0.0
+
+Time performing composed matching with MO 'CCONT' (s): 0.0
+Composed mappings: 0
+
+
+3. MO ONTOLOGY: MAXO
+Downloading ontology MAXO. Attempt: 1
+
+Time downloading MO 'MAXO' (s): 59.924
+Time matching O1 with MO 'MAXO' (s): 5.99
+Time matching O2 with MO 'MAXO' (s): 5.45
+Time creating composed mappings for'MAXO' (s): 0.0
+
+Time performing composed matching with MO 'MAXO' (s): 0.0
+Composed mappings: 0
+
+
+3. MO ONTOLOGY: IFAR
+Downloading ontology IFAR. Attempt: 1
+
+Time downloading MO 'IFAR' (s): 10.712
+Time matching O1 with MO 'IFAR' (s): 7.895
+Time matching O2 with MO 'IFAR' (s): 6.86
+Time creating composed mappings for'IFAR' (s): 0.032
+
+Time performing composed matching with MO 'IFAR' (s): 0.032
+Composed mappings: 460
+
+
+4. MO ONTOLOGY: MONDO
+Downloading ontology MONDO. Attempt: 1
+
+Time downloading MO 'MONDO' (s): 53.63
+Time matching O1 with MO 'MONDO' (s): 47.906
+Time matching O2 with MO 'MONDO' (s): 33.03
+Time creating composed mappings for'MONDO' (s): 0.044
+
+Time performing composed matching with MO 'MONDO' (s): 0.044
+Composed mappings: 526
+
+
+5. MO ONTOLOGY: BDO
+Downloading ontology BDO. Attempt: 1
+
+Time downloading MO 'BDO' (s): 19.862
+Time matching O1 with MO 'BDO' (s): 7.119
+Time matching O2 with MO 'BDO' (s): 5.54
+Time creating composed mappings for'BDO' (s): 0.02
+
+Time performing composed matching with MO 'BDO' (s): 0.02
+Composed mappings: 423
+
+
+6. MO ONTOLOGY: BAO
+Downloading ontology BAO. Attempt: 1
+Downloading ontology BAO. Attempt: 2
+Downloading ontology BAO. Attempt: 3
+
+Time downloading MO 'BAO' (s): 160.142
+
+Time performing composed matching with MO 'BAO' (s): 160.142
+Composed mappings: 0
+
+Results Composed mappings: 
+
+
+
+Time performing mapping repir (s): 3.243
+Number of total computed mappings: 2198
+LogMap 2 (with BioPortal) total matching time (s): 1354.878
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.847	0.864	0.855	1354906
+>>> Cleaning up environment...

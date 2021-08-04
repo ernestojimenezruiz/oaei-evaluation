@@ -1,0 +1,69 @@
+>>> Preparing environment ...
+Loading source ontology
+http://www.ihtsdo.org/snomed loaded in 13 seconds
+Classes: 51128
+Individuals: 0
+Properties: 51
+Loading target ontology
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl loaded in 7 seconds
+Classes: 23958
+Individuals: 0
+Properties: 82
+Direct Relationships: 148661
+Running transitive closure on RelationshipMap
+Transitive closure finished in 17 seconds
+Extended Relationships: 2090347
+Disjoints: 153
+Reading config.ini file
+Finished!
+Running Lexical Matcher
+Finished in 1 seconds
+Loading mediating ontology doid.owl
+http://purl.obolibrary.org/obo/doid.owl loaded in 2 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/doid.owl
+Finished in 0 seconds
+doid.owl selected as a mediator
+Loading mediating ontology uberon.owl
+http://purl.obolibrary.org/obo/uberon.owl loaded in 4 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/uberon.owl
+Finished in 0 seconds
+uberon.owl selected as a mediator
+Running Mediating Matcher using store/knowledge/mesh.lexicon
+Finished in 0 seconds
+mesh.lexicon selected
+Building Word Lexicons
+Running Word Matcher
+Blocks to match: 6x3
+...
+...
+...
+...
+...
+...
+Finished in 11 seconds
+Extending Alignment with String Matcher
+Matching Children & Parents
+Matching Siblings
+Finished in 18 seconds
+Running Spaceless Lexical Matcher
+Finished in 0 seconds
+Running Thesaurus Matcher
+Finished in 161 seconds
+Performing Selection
+Finished in 0 seconds
+Building Repair Map
+Computed check list in 19 seconds
+Core fragments: 32479 classes
+Check list: 14307 classes to check
+Computed ancestral paths in 86 seconds
+Paths to process: 400494
+Computed minimal conflict sets in 279 seconds
+Sets of conflicting mappings: 40612
+Repair Map finished in 384 seconds
+Repairing Alignment
+Finished Repair in 0 seconds
+Removed 658 mappings
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.906	0.746	0.818	628757
+>>> Cleaning up environment...

@@ -1,0 +1,178 @@
+>>> Preparing environment ...
+Representative elements: 2602
+Time performing matching with input ontologies O1 and O2 (s): 64.733
+Extracting up to 10 mediating ontologies from BioPortal.
+Necessary number of calls to BioPortal: 70
+OBA
+	Pos hits: 38
+	Size: 17116
+	Language: OWL
+EMAPA
+	Pos hits: 29
+	Size: 8643
+	Language: OWL
+CL
+	Pos hits: 28
+	Size: 10639
+	Language: OWL
+BTO
+	Pos hits: 23
+	Size: 6428
+	Language: OBO
+MA
+	Pos hits: 21
+	Size: 3257
+	Language: OBO
+EFO
+	Pos hits: 20
+	Size: 27892
+	Language: OWL
+CCONT
+	Pos hits: 20
+	Size: 28098
+	Language: OWL
+VHOG
+	Pos hits: 16
+	Size: 1185
+	Language: OBO
+XAO
+	Pos hits: 14
+	Size: 1779
+	Language: OBO
+DTO
+	Pos hits: 12
+	Size: 10075
+	Language: OWL
+Time extracting Mediating Ontologies (s): 308.473
+
+
+0. MO ONTOLOGY: OBA
+Downloading ontology OBA. Attempt: 1
+
+Time downloading MO 'OBA' (s): 64.149
+Time matching O1 with MO 'OBA' (s): 24.889
+Time matching O2 with MO 'OBA' (s): 27.792
+Time creating composed mappings for'OBA' (s): 0.044
+
+Time performing composed matching with MO 'OBA' (s): 0.044
+Composed mappings: 312
+
+
+1. MO ONTOLOGY: EMAPA
+Downloading ontology EMAPA. Attempt: 1
+
+Time downloading MO 'EMAPA' (s): 28.972
+Time matching O1 with MO 'EMAPA' (s): 28.59
+Time matching O2 with MO 'EMAPA' (s): 19.343
+Time creating composed mappings for'EMAPA' (s): 0.111
+
+Time performing composed matching with MO 'EMAPA' (s): 0.111
+Composed mappings: 1402
+
+
+2. MO ONTOLOGY: CL
+Downloading ontology CL. Attempt: 1
+
+Time downloading MO 'CL' (s): 74.466
+Time matching O1 with MO 'CL' (s): 15.333
+Time matching O2 with MO 'CL' (s): 12.84
+Time creating composed mappings for'CL' (s): 0.0
+
+Time performing composed matching with MO 'CL' (s): 0.0
+Composed mappings: 0
+
+
+2. MO ONTOLOGY: BTO
+Downloading ontology BTO. Attempt: 1
+
+Time downloading MO 'BTO' (s): 7.624
+Time matching O1 with MO 'BTO' (s): 16.834
+Time matching O2 with MO 'BTO' (s): 23.324
+Time creating composed mappings for'BTO' (s): 0.044
+
+Time performing composed matching with MO 'BTO' (s): 0.044
+Composed mappings: 785
+
+
+3. MO ONTOLOGY: MA
+Downloading ontology MA. Attempt: 1
+
+Time downloading MO 'MA' (s): 4.865
+Time matching O1 with MO 'MA' (s): 19.222
+Time matching O2 with MO 'MA' (s): 15.889
+Time creating composed mappings for'MA' (s): 0.082
+
+Time performing composed matching with MO 'MA' (s): 0.082
+Composed mappings: 1161
+
+
+4. MO ONTOLOGY: EFO
+Downloading ontology EFO. Attempt: 1
+
+Time downloading MO 'EFO' (s): 284.931
+Time matching O1 with MO 'EFO' (s): 53.432
+Time matching O2 with MO 'EFO' (s): 169.172
+Time creating composed mappings for'EFO' (s): 0.299
+
+Time performing composed matching with MO 'EFO' (s): 0.299
+Composed mappings: 879
+
+
+5. MO ONTOLOGY: CCONT
+Downloading ontology CCONT. Attempt: 1
+
+Time downloading MO 'CCONT' (s): 1.239
+Time matching O1 with MO 'CCONT' (s): 5.496
+Time matching O2 with MO 'CCONT' (s): 10.845
+Time creating composed mappings for'CCONT' (s): 0.0
+
+Time performing composed matching with MO 'CCONT' (s): 0.0
+Composed mappings: 14
+
+
+6. MO ONTOLOGY: VHOG
+Downloading ontology VHOG. Attempt: 1
+
+Time downloading MO 'VHOG' (s): 4.067
+Time matching O1 with MO 'VHOG' (s): 9.763
+Time matching O2 with MO 'VHOG' (s): 11.213
+Time creating composed mappings for'VHOG' (s): 0.008
+
+Time performing composed matching with MO 'VHOG' (s): 0.008
+Composed mappings: 451
+
+
+7. MO ONTOLOGY: XAO
+Downloading ontology XAO. Attempt: 1
+
+Time downloading MO 'XAO' (s): 7.394
+Time matching O1 with MO 'XAO' (s): 9.586
+Time matching O2 with MO 'XAO' (s): 16.271
+Time creating composed mappings for'XAO' (s): 0.008
+
+Time performing composed matching with MO 'XAO' (s): 0.008
+Composed mappings: 403
+
+
+8. MO ONTOLOGY: DTO
+Downloading ontology DTO. Attempt: 1
+
+Time downloading MO 'DTO' (s): 37.994
+Time matching O1 with MO 'DTO' (s): 12.581
+Time matching O2 with MO 'DTO' (s): 29.27
+Time creating composed mappings for'DTO' (s): 0.041
+
+Time performing composed matching with MO 'DTO' (s): 0.041
+Composed mappings: 308
+
+Results Composed mappings: 
+
+
+
+Time performing mapping repir (s): 19.005
+Number of total computed mappings: 2855
+LogMap 2 (with BioPortal) total matching time (s): 1446.865
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.83	0.828	0.829	1446917
+>>> Cleaning up environment...

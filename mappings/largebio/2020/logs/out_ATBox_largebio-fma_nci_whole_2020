@@ -1,0 +1,36 @@
+>>> Preparing environment ...
+ExternalMatcher (ERR): The following parameters have been received: de.uni_mannheim.informatik.dws.melt.atmatcher.ATMatcher | file:/home/ernesto/Documents/Datasets/LargeBio/oaei_FMA_whole_ontology.owl | file:/home/ernesto/Documents/Datasets/LargeBio/oaei_NCI_whole_ontology.owl
+ExternalMatcher (ERR): 2020-10-02 11:02:04 INFO  [main                          ] 56   in OntologyCacheJena    - Reading model into cache (file:/home/ernesto/Documents/Datasets/LargeBio/oaei_FMA_whole_ontology.owl)
+ExternalMatcher (ERR): 2020-10-02 11:02:07 INFO  [main                          ] 56   in OntologyCacheJena    - Reading model into cache (file:/home/ernesto/Documents/Datasets/LargeBio/oaei_NCI_whole_ontology.owl)
+ExternalMatcher (ERR): 2020-10-02 11:02:14 INFO  [main                          ] 67   in ATMatcher            - Match classes
+ExternalMatcher (ERR): 2020-10-02 11:02:15 INFO  [main                          ] 95   in ATMatcher            - source: 79037
+ExternalMatcher (ERR): 2020-10-02 11:02:15 INFO  [main                          ] 96   in ATMatcher            - target: 135397
+ExternalMatcher (ERR): 2020-10-02 11:02:15 INFO  [main                          ] 98   in ATMatcher            - Extract stopwords
+ExternalMatcher (ERR): 2020-10-02 11:02:18 INFO  [main                          ] 135  in ATMatcher            - Run string matcher
+ExternalMatcher (ERR): 2020-10-02 11:02:21 INFO  [main                          ] 103  in TransducerBuilder    - Building transducer out of [71367] terms with isSorted [false], algorithm [TRANSPOSITION], defaultMaxDistance [1], and includeDistance [false]
+ExternalMatcher (ERR): 2020-10-02 11:02:22 INFO  [main                          ] 105  in Dawg                 - Added [10000] of [71367] terms
+ExternalMatcher (ERR): 2020-10-02 11:02:22 INFO  [main                          ] 105  in Dawg                 - Added [20000] of [71367] terms
+ExternalMatcher (ERR): 2020-10-02 11:02:22 INFO  [main                          ] 105  in Dawg                 - Added [30000] of [71367] terms
+ExternalMatcher (ERR): 2020-10-02 11:02:22 INFO  [main                          ] 105  in Dawg                 - Added [40000] of [71367] terms
+ExternalMatcher (ERR): 2020-10-02 11:02:23 INFO  [main                          ] 105  in Dawg                 - Added [50000] of [71367] terms
+ExternalMatcher (ERR): 2020-10-02 11:02:23 INFO  [main                          ] 105  in Dawg                 - Added [60000] of [71367] terms
+ExternalMatcher (ERR): 2020-10-02 11:02:23 INFO  [main                          ] 105  in Dawg                 - Added [70000] of [71367] terms
+ExternalMatcher (ERR): 2020-10-02 11:02:37 INFO  [main                          ] 70   in ATMatcher            - Match properties
+ExternalMatcher (ERR): 2020-10-02 11:02:37 INFO  [main                          ] 95   in ATMatcher            - source: 54
+ExternalMatcher (ERR): 2020-10-02 11:02:37 INFO  [main                          ] 96   in ATMatcher            - target: 190
+ExternalMatcher (ERR): 2020-10-02 11:02:37 INFO  [main                          ] 98   in ATMatcher            - Extract stopwords
+ExternalMatcher (ERR): 2020-10-02 11:02:37 INFO  [main                          ] 135  in ATMatcher            - Run string matcher
+ExternalMatcher (ERR): 2020-10-02 11:02:38 INFO  [main                          ] 103  in TransducerBuilder    - Building transducer out of [37] terms with isSorted [false], algorithm [TRANSPOSITION], defaultMaxDistance [1], and includeDistance [false]
+ExternalMatcher (ERR): 2020-10-02 11:02:42 INFO  [main                          ] 73   in ATMatcher            - Match instances
+ExternalMatcher (ERR): 2020-10-02 11:02:43 INFO  [main                          ] 155  in ATMatcher            - source: 0
+ExternalMatcher (ERR): 2020-10-02 11:02:43 INFO  [main                          ] 156  in ATMatcher            - target: 0
+ExternalMatcher (ERR): 2020-10-02 11:02:43 INFO  [main                          ] 159  in ATMatcher            - Run string matcher
+ExternalMatcher (ERR): 2020-10-02 11:02:43 INFO  [main                          ] 183  in ATMatcher            - Run additional confidence generators
+ExternalMatcher (ERR): 2020-10-02 11:02:43 INFO  [main                          ] 199  in ATMatcher            - OneToOneInstanceFilter...
+ExternalMatcher (ERR): 2020-10-02 11:02:43 INFO  [main                          ] 80   in ATMatcher            - Filter
+ExternalMatcher (ERR): 2020-10-02 11:02:43 INFO  [main                          ] 85   in ATMatcher            - Finish
+ExternalMatcher (OUT): file:/tmp/alignment6447501321676456421.rdf
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.696	0.688	0.692	41080
+>>> Cleaning up environment...

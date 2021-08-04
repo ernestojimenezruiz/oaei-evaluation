@@ -1,0 +1,67 @@
+>>> Preparing environment ...
+Loading source ontology
+http://purl.obolibrary.org/obo/doid.owl loaded in 3 seconds
+Classes: 10942
+Individuals: 0
+Properties: 20
+Loading target ontology
+http://www.orpha.net/ontology/orphanet.owl loaded in 8 seconds
+Classes: 13504
+Individuals: 0
+Properties: 24
+Direct Relationships: 75659
+Running transitive closure on RelationshipMap
+Transitive closure finished in 1 seconds
+Extended Relationships: 299946
+Disjoints: 1381
+Reading config.ini file
+Finished!
+Running Direct Cross-Reference Matcher
+Finished in 0 seconds
+Running Lexical Matcher
+Finished in 0 seconds
+Loading mediating ontology doid.owl
+http://purl.obolibrary.org/obo/doid.owl loaded in 2 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/doid.owl
+Finished in 0 seconds
+doid.owl selected as a mediator
+Loading mediating ontology uberon.owl
+http://purl.obolibrary.org/obo/uberon.owl loaded in 3 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/uberon.owl
+Finished in 0 seconds
+uberon.owl discarded
+Running Mediating Matcher using store/knowledge/mesh.lexicon
+Finished in 0 seconds
+mesh.lexicon selected
+Building Word Lexicons
+Running Word Matcher
+Blocks to match: 2x2
+..
+..
+Finished in 6 seconds
+Extending Alignment with String Matcher
+Matching Children & Parents
+Matching Siblings
+Finished in 11 seconds
+Running Spaceless Lexical Matcher
+Finished in 0 seconds
+Running Thesaurus Matcher
+Finished in 89 seconds
+Performing Selection
+Finished in 0 seconds
+Building Repair Map
+Computed check list in 0 seconds
+Core fragments: 7159 classes
+Check list: 2746 classes to check
+Computed ancestral paths in 60 seconds
+Paths to process: 19876
+Computed minimal conflict sets in 8 seconds
+Sets of conflicting mappings: 931
+Repair Map finished in 68 seconds
+Repairing Alignment
+Finished Repair in 0 seconds
+Removed 148 mappings
+>>> Evaluation:
+Precision	Recall	F-measure	Run Time
+0.496	0.896	0.639	200117
+>>> Cleaning up environment...
