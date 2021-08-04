@@ -1,0 +1,1 @@
+Please download mondo-with-equivalents.owl from https://mondo.monarchinitiative.org/
