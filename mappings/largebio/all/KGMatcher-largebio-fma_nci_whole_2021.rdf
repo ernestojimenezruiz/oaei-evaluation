@@ -1,0 +1,2434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Colostrum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Colostrum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Triangular"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Triangle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Talus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Talus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Apical"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Apical"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tryptophan"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Tryptophan"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Limb"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Limb"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Radius"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Radius"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thymosin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Thymosin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thyrotropin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Thyroid_Stimulating_Hormone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lambda"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Lambda_Parameter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chondroblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Chondroblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Incus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Incus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Stroma"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Stroma_Connective_Tissue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Caudal"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Caudal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Longitudinal"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Longitudinal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Peripheral"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Peripheral"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Eyelid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Eyelid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lipoprotein"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Lipoprotein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Pituicyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Pituicyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Olecranon"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Olecranon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endoneurium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Endoneurium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Autosome"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Autosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cementocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cementocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Posterior"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Posterior"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#C7"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#CXCL10_wt_Allele"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Skeleton"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Skeletal_System"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lymphoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Leukocyte_Lymphoblast_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Secretin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Secretin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hymen_of_vagina"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Hymen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tragus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Tragus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Flatulence"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Flatulence"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hepatic_perisinusoidal_space"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Perisinusoidal_Space"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histone_H2A"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Histone-H2A"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histone_H4"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Histone-H4"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Posterior_wall_of_nasopharynx"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Posterior_Wall_of_Nasopharynx"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histone_H2B"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Histone-H2B"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Radius"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Radius"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Putamen"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Putamen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histone"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Histone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Phenylalanine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Phenylalanine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neuropil"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Neuropil"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Medial_nuclear_group_of_thalamus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Doctor_of_Medicine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thymocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Leukocyte_Lymphocyte_Thymocyte_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Blastocyst"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Blastocyst"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Dopamine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Dopamine_Base"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mesothelium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mesothelium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endosteum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Endosteum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Stroma"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Stroma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Norepinephrine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Norepinephrine_Base"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibrocartilage"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fibrocartilage"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histone_H3"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Histone-H3"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Primary_hair"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Lanugo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Sweat"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sweat"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cadherin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cadherin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Midgut"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Midgut"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Vasopressin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Vasopressin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Centriole"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Centriole"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Actin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Actin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histone_H1"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Histone-H1"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hair"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Hair"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Inferior"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Inferior"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Centromere"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Centromere"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ulna"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Ulna"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endocardium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Endocardium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tear"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Tear"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Eyelid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Eyelid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Metaphysis"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Metaphysis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thrombospondin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Thrombospondin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Notochord"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Notochord"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Follitropin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Folitropin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ribosome"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Ribosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Myelocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Myelocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cytosine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cytosine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hemidesmosome"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Hemidesmosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Phosphatidylinositol"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Phosphatidylinositol"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Urachus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Urachus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#External_naris"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Nostril"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Adipocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Lipocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Megakaryoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Megakaryoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cusp"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cusp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chromatid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Chromatid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Threonine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Threonine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Prolactin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Prolactin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Composite"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Composite"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Pericardium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Pericardium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Aponeurosis"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Aponeurosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tooth"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Tooth"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lymphocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Leukocyte_Lymphocyte_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Villus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Villus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Amygdala"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Amygdala"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Trochanter"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Trochanter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Keratin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cytokeratin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Pyramid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Pyramid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tubulin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Tubulin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Omentum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Omentum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neuroblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Neuroblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Proprioceptor"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Proprioceptor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ventral_posterior_nucleus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cisplatin_Vinblastine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Rhamnose"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Rhamnose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mesangium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mesangium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Iris"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Iris"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Flatus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Flatus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Sinus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sinus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Outside"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#External"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Left"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Left"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Jejunum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Intestine_Small_Intestine_Jejunum_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cement"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cementum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cylindrical"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cylinder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cell_body_of_neuron"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Perikaryon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Rectum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Intestine_Large_Intestine_Rectum_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tree"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Hierarchy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Plasmablast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Plasmablast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Vertical"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Vertical"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Gut"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Gastrointestinal_Tract"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cementoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cementoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Organelle"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cytoplasmic_Organelle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chondrocranium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Chondrocranium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Circumpennate"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Radial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Urothelium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Urothelium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Plasma_membrane"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Plasma_Membrane"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Corticotropin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Adrenocorticotropic_Hormone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Microvillus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Microvillus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Surface"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Surface"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Smegma"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Smegma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Phagosome"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Phagosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tibia"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Tibia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Macrophage"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Leukocyte_Monocyte_Macrophage_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Syncytial_trophoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Syncytiotrophoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Epididymis"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Epididymis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Protoplasm"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Protoplasm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chromatin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Chromatin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cranial"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cranial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#T11"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#CD2_wt_Allele"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Iris"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Eye_Iris_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Isoleucine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Isoleucine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thigh"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Thigh"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Humerus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Humerus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ulna"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Ulna"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#T9"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Transferrin_Receptor-1"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tooth"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Tooth"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Phosphatidylethanolamine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cephalin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Guanine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Guanine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Space_of_Mall"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Space_of_Mall"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Volume"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Publication_Volume"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Milk"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Breast_Milk"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Column"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Column"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Anterior"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Anterior"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endocervix"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Endocervix"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Sternum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Sternum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Throat"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Throat"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cellulose"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cellulose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Nail_of_toe"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Toe_Nail"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thalamus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#CNS_Brain_Thalamus_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Adenine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Adenine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lip"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Lip"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_13"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Interleukin-13"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Freeform"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Freeform"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Euchromatin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Euchromatin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Epithalamus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Epithalamus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Pericardium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Pericardium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Horizontal"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Horizontal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Solid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Solid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Kinocilium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Kinocilium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Disaccharide"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Disaccharide"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Acromion"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Acromion"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Faceted_volume"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Polyhedron"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lateral"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Lateral"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Zygote"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Zygote"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Gonadotropin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Gonadotropin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cone"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cone_Shape"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Promyelocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Promyelocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Dorsal"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Dorsal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Oxytocin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Oxytocin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mesothelium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Connective_Tissue_Mesothelium_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Deep"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Deep"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Malleus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Malleus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Nucleolus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Nucleolus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fascia_cluster"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fascia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lymphoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Lymphoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Point"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Point"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Zygote"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Zygote"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Epineurium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Epineurium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Volume"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Volume"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Monoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Leukocyte_Monoblast_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Pronephros"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Pronephros"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Primordium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Primordium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Myocardium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Myocardium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Sarcoplasm"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sarcoplasm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Intermediate"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Intermediate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Perineurium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Perineurium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Carbohydrate"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sugar"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Anterolateral"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Anterolateral"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Shoulder"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Shoulder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Loop_of_Henle"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Kidney_Cortex_Renal_Tubule_Loop_of_Henle_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thymosin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Recombinant_Thymosin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Vasopressin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Therapeutic_Vasopressin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Monoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Monoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Set_of_meninges"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#CNS_Brain_Meninges_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Gas"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Gas"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Right"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Right"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Loop_of_Henle"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Loop_of_Henle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Muscle_cell"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Muscle_Cell"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tibia"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Tibia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endoderm"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Endoderm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ventral"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Ventral"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thymocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Thymocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neuroglial_cell"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Neuroglia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Waist"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Waist"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Exon"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Exon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Clivus_of_basicranium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Clivus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Luminal"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Luminal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Leucine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Leucine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Periodontium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Periodontium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Atrium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cardiac_Atrium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Primary_oocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Primary_Oocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Monocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Leukocyte_Monocyte_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thorax"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Thorax"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Axial"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Axial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Foregut"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Foregut"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fissure"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fissure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Superior"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Superior"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Patella"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Patella"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Estrogen"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Estrogen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Line"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Line"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Somite"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Somite"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Heterochromatin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Heterochromatin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Periosteum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Periosteum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Pyrimidine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Pyrimidine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Digit"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Digit_Number"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neurilemma"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sheath_of_Schwann"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endosome"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Endosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Antitragus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Antitragus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Polysaccharide"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Dietary_Polysaccharide"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Symphysis"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Amphiarthrosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thymine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Thymine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lipoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Lipoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endothelium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Endothelium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Liquid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Liquid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Messenger_ribonucleic_acid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Messenger_RNA"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibril"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fibril"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Middle"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Middle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Acetabular_part_of_hip_bone"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Acetabulum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Parametrium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Parametrium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Milk"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Milk"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Telencephalon"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#CNS_Brain_Cerebrum_Cortex_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Vinculin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Vinculin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mesoderm"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mesoderm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cytoskeleton"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cytoskeleton"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histamine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Histamine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Plakoglobin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Junction_Plakoglobin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fucose"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fucose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibronectin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fibronectin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ribosomal_ribonucleic_acid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Ribosomal_RNA"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fontanelle"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fontanelle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Oligodendroglia"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Oligodendroglia"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Articular_disc"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Meniscus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Plasma_membrane_of_muscle_cell"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sarcolemma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Nephron"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Nephron"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Serotonin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Serotonin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Galactose"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Galactose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Valine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Valine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Jejunum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Jejunum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#E_cadherin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#E-Cadherin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Laminin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Laminin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Column"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Column_Structure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibroblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Connective_Tissue_Fibroblasts_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Schwann_cell"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Schwann_Cell"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Sternum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sternum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Trophoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Placenta_Trophoblast_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Myoblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Myoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Parametrium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Parametrium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#T3"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#SLC25A5_wt_Allele"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neuropil"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mouse_Neuropil"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Promonocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Promonocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Transfer_ribonucleic_acid"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Transfer_RNA"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cilium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cilium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Xylose"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Xylose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neuroblast"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Neuroblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Perimysium"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Perimysium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lutropin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Luteinizing_Hormone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibula"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fibula"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hindgut"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Hindgut"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Metamyelocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Metamyelocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Nucleosome"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Nucleosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Clitoris"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Clitoris"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Purine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Purine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Nonsynovial_joint"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Synarthrosis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Central"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Center"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Integrin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Integrin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Forebrain"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Prosencephalon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Dendritic"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Dendrite"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ventral_posterior_nucleus"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Prednisolone_Vincristine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fossa"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Fossa"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Medial"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Medial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Finger"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Finger"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Selectin"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Selectin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mannose"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mannose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Jaw"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Jaw"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Body"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Body"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Medulla_oblongata"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Medulla_Oblongata"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hilum"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Hilum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Promonocyte"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Leukocyte_Promonocyte_MMHCC"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glycine"/>
+      <entity2 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Glycine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

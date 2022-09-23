@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Myelin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Myelin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Euchromatin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Euchromatin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Plantar"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Plantar"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Perichondrium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Perichondrium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibrocartilage"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Fibrocartilage"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Anterior"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Anterior"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Androgen"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Androgen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Apophysis"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Apophysis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Proline"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Proline"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lipid"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lipid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chromatin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Chromatin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Horizontal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Horizontal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lysine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lysine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Osteocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Osteocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Bile"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Bile"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Epineurium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Epineurium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Phospholipid"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Phospholipid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glutamine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glutamine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lymphocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lymphocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#External"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#External"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endoneurium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Endoneurium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Valine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Valine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Exon"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Exon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Urine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Urine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neuromelanin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Neuromelanin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Proplasmacyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Proplasmacyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Melatonin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Melatonin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cysteine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Cysteine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cytosine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Cytosine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hormone"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Hormone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Promegakaryocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Promegakaryocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Metamyelocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Metamyelocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Foveola"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Foveola"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Enteroglucagon"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Enteroglucagon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Gelsolin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Gelsolin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chromosome"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Chromosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Volar"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Volar"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Proximal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Proximal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ankyrin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Ankyrin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Subserosa"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Subserosa"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neurotensin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Neurotensin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Megakaryocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Megakaryocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tyrosine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Tyrosine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lipoprotein"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lipoprotein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glucosamine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glucosamine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Promyelomonocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Promyelomonocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Osteoclast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Osteoclast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thymine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Thymine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neuropil"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Neuropil"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Myelomonocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Myelomonocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Calcitonin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Calcitonin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Galactosamine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Galactosamine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Methionine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Methionine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lysosome"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lysosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Sweat"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Sweat"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mucus"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Mucus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Secretin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Secretin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lipoblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lipoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cellulose"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Cellulose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Melanocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Melanocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Galactose"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Galactose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Guanine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Guanine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Neurophysin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Neurophysin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Reticulocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Reticulocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Centriole"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Centriole"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Somatostatin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Somatostatin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Keratinized_cell_of_epidermis"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Keratinocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cylindrical"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Cylindrical"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Protein"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Protein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Composite"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Composite"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endosteum"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Endosteum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibronectin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Fibronectin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cytokine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Cytokine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Vimentin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Vimentin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glucose"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glucose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Milk"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Milk"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Nucleotide"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Nucleotide"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Eponychium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Eponychium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ribosome"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Ribosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Caudal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Caudal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Monoblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Monoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Median"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Median"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Transverse"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Transverse"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Posterolateral"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Posterolateral"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Xylose"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Xylose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lipopolysaccharide"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lipopolysaccharide"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Myelocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Myelocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thrombospondin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Thrombospondin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Medial"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Medial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Isoleucine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Isoleucine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Central"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Central"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Purine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Purine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Promyelocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Promyelocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Longitudinal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Longitudinal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Sebum"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Sebum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Peroneal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Peroneal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Osteoblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Osteoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Oxytocin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Oxytocin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Promonocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Promonocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cilium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Cilium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lymphokine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lymphokine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Proerythroblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Pronormoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_12"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_12"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Spectrin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Spectrin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Elastin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Elastin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Internal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Internal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Thymosin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Thymosin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Basal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Basal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hemidesmosome"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Hemidesmosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Spermatid"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Spermatid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_10"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_10"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Anterolateral"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Anterolateral"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Serotonin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Serotonin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glycolipid"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glycolipid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Apical"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Apical"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibroblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Fibroblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Dendritic"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Dendritic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Left"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Left"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Intermediate"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Intermediate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Heparin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Heparin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Heterochromatin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Heterochromatin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Serum"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Serum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Liquid"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Liquid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lateral"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lateral"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glioblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Spongioblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Calmodulin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Calmodulin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Carbohydrate"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Sugar"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Erythroblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Erythroblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Gland"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Gland"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Collagen"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Collagen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ganglioside"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Ganglioside"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tropomyosin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Tropomyosin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tryptophan"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Tryptophan"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Peripheral"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Peripheral"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Axial"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Axial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mitochondrion"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Mitochondrion"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glycoprotein"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glycoprotein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fissure"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Fissure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_9"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_9"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fucose"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Fucose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mannose"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Mannose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Tubulin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Tubulin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Cholecystokinin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Cholecystokinin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Serine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Serine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Lymphoblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lymphoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Sagittal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Sagittal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Superior"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Superior"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Solid"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Solid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Estrogen"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Estrogen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chyle"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Chyle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Arginine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Arginine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Leucine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Leucine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Norepinephrine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Norepinephrine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Macrophage"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Macrophage"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Enkephalin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Enkephalin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Alanine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Alanine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Galactitol"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Galactitol"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_4"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_4"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Uracil"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Uracil"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Fibril"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Fibril"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Polysaccharide"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Polysaccharide"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glycine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glycine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hindfoot"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Hindfoot"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_3"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_3"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Organelle"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Organelle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Transudate"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Transudate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Stereocilium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Stereocilium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Centromere"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Centromere"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Proteoglycan"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Proteoglycan"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_1"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_1"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_8"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_8"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Stellate"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Stellate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Right"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Right"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_7"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_7"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_6"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_6"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Centrosome"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Centrosome"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Dendrite"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Dendrite"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Endothelium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Endothelium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Interleukin_5"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Interleukin_5"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Melanin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Melanin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Ulnar"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Ulnar"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Monocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Monocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Immunoglobulin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Immunoglobulin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glucagon"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glucagon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Megakaryoblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Megakaryoblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Oligosaccharide"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Oligosaccharide"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Prolactin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Prolactin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glycopeptide"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glycopeptide"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Dorsal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Dorsal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Pyrimidine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Pyrimidine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Retinaculum"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Retinaculum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Urothelium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Urothelium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Adenine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Adenine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Periosteum"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Periosteum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chondroblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Chondroblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Catecholamine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Catecholamine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chromatid"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Chromatid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Mamelon"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Mamelon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histamine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Histamine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Insulin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Insulin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Pituicyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Pituicyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Motilin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Motilin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Nucleolus"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Nucleolus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Microvillus"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Microvillus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Epinephrine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Epinephrine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Dopamine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Dopamine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Histidine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Histidine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Myeloblast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Myeloblast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Actin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Actin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Acetylcholine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Acetylcholine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Gonadotropin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Gonadotropin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Colostrum"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Colostrum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Chondrocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Chondrocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Disaccharide"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Disaccharide"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Profilin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Profilin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Smegma"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Smegma"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hemosiderin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Hemosiderin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Granular_leukocyte"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Granulocyte"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Surface"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Surface"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Hemoglobin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Hemoglobin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Rhamnose"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Rhamnose"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Myosin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Myosin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Primary_hair"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Lanugo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Perimysium"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Perimysium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Threonine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Threonine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Rhodopsin"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Rhodopsin"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Plasmablast"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Plasmablast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Inferior"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Inferior"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Coronal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Coronal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Posterior"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Posterior"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Glycogen"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Glycogen"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Vertical"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Vertical"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Distal"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Distal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Phenylalanine"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Phenylalanine"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0#Triangular"/>
+      <entity2 rdf:resource="http://www.ihtsdo.org/snomed#Triangular"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
