@@ -1,0 +1,2506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Bathroom"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Bathroom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasHDDValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#TemperatureSensor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Temperature_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLuminaireValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Room"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Room"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#notificationValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6652173913043478</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#createdTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEmail1AddressValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.65625</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasNativeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntologySharedVocabulary.owl#Building"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Building"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl#hasName"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Command"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Command"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLongitudeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEngineValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasSpeed"/>
+      <entity2 rdf:resource="https://w3id.org/rec#portSpeed"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl#hasName"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasFirstNameValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCurrencyValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasName"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCountryValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#country"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8559</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasRoofColorValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntologySharedVocabulary.owl#Parameter"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Parameter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#inXSDDateTimeStamp"/>
+      <entity2 rdf:resource="https://w3id.org/rec#timestamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDateValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLongitudeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#longitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.87075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasStartTimeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#start"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7320000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#IPAddress"/>
+      <entity2 rdf:resource="https://w3id.org/rec#IPAddress"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCountryValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#valueDiscrete"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8043157894736842</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Floor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Floor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9830372066642187</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasStandardsTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#standard"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6685714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLastNameValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#isGatewayOf"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6593864149240258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl#hasValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasScheduleValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasGasValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#valueContinuous"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7894285714285715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasVersionValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasFluidTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLoopTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntologySharedVocabulary.owl#BuildingElement"/>
+      <entity2 rdf:resource="https://w3id.org/rec#BuildingElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasObjectIdValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasStagesValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Heater"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Water_Heater"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6777222662517778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasValueTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7894285714285715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasIdValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8307692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Room"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Room"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasVolumeUnitValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6207272727272728</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTRS"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6060606060606061</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#isGatewayOf"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.617997966101695</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6349014084507043</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasValueValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.96975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasUseTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasTime"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesId"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.77184</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasNameValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#maxValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#Point"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Point"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#contains"/>
+      <entity2 rdf:resource="https://w3id.org/rec#containsElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#DiningRoom"/>
+      <entity2 rdf:resource="https://w3id.org/rec#DiningRoom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasLongitude"/>
+      <entity2 rdf:resource="http://schema.org/longitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#CO2Sensor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#CO2_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#timestamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasEndTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#end"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7875000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasObjectIdValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#minValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDependentValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Zone"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Zone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLoopTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTRS"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6060606060606061</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasStartTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#startLevel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6362008368200838</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasMinValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTimeUnitValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#OffCommand"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Off_Command"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Pump"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Pump"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#isGatewayOf"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6861842105263158</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasWall"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Door"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Door"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9861541361323832</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#LightingSystemResource"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Lighting_System"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6742520137061715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLampValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCostTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCityValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#valueContinuous"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7894285714285715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCDDValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasStateValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7593749999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Building"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Building"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasUnitValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#PressureSensor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Pressure_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasVolumeUnitValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6207272727272728</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasPlatformValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasNameValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasPhotometryValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6857142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#lat"/>
+      <entity2 rdf:resource="http://schema.org/latitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasFieldOfApplication"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6378774193548388</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDDDayCoolValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#lat"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#latitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasStartTimeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Boiler"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Boiler"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9865982047641166</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasUrlValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTRS"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl#hasMinValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDataTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#isFieldOfApplicationOf"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7220829242819844</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDependentValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasURIValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#realStateValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#location"/>
+      <entity2 rdf:resource="https://w3id.org/rec#locatedIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6026086956521739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasUrlValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCostTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasStateValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7593749999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLongitudeValue"/>
+      <entity2 rdf:resource="http://schema.org/longitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.87075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#isFieldOfApplicationOf"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7220829242819844</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#long"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#longitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTypeCodeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Wall"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Wall"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9865982047641166</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCityValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasLatitude"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#latitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCDDValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasPlatformValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#HumiditySensor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Humidity_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasNativeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLuminaireValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasIndependentValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasPhotometryValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6857142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasZipCodeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#port"/>
+      <entity2 rdf:resource="https://w3id.org/rec#portSpeed"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8177142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDDDayHeatValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl#hasMaxValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasMaxValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasWebPageValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#isGatewayOf"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6593864149240258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#unitType"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8307692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Lighting"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Lighting"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLatitudeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl#hasMinValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#realStateValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#GasSecuritySystem"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Gas_System"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6765033575115269</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasLatitude"/>
+      <entity2 rdf:resource="http://schema.org/latitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasGasValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasLongitude"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#longitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasModelValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7593749999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasScheduleValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasIDTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#long"/>
+      <entity2 rdf:resource="http://schema.org/longitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTypeCodeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasZipcodeOrPostalCodeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#postalCode"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7525</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasFamilyNameValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9137142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasValueTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7894285714285715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#minValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasVersionValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Meter"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Meter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasWallColorValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasValueValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.96975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasPowerTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasUseTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasIndependentValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Touchpanel"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Touchpanel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Window"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Window"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9895511172715457</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasPersonIdValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasName"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#AirPressureSensor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Air_Pressure_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl#hasMaxValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasFunctionality"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6334216792948817</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasZipCodeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#OpenCloseFunctionality"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Open_Close_Status"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6518748493462699</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Thermostat"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Thermostat"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#Point"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Point"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Equipment"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Equipment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasWebPageValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasValueElement"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.813</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasIdValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8307692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasMaxValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasBeginDateValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasStartTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#start"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDDDayHeatValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasMinValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTimeUnitValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasTime"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#timestamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasEndTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#closedTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6122969107551488</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntologySharedVocabulary.owl#Campus"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Campus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#AirLoop"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Air_Loop"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#notificationValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6652173913043478</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLatitudeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#valueDiscrete"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8043157894736842</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEntityValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasHDDValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLampValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDDDayCoolValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEmail1AddressValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.65625</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Radiator"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Radiator"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#acknowledgedTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6385714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEngineValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Bedroom"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Bedroom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasAreaUnitValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasUnitValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#isGatewayOf"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6370299377916019</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasSpaceTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Switch"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Switch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.989888199244958</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLongitudeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#inXSDDateTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#createdTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6348648648648649</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasExpressionValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6857142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCurrencyValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasFirstNameValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl#hasName"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasManufacturerValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6652173913043478</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDateValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDescriptionValue"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.881357142857143</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDataTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Lamp"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Lamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9878408447441919</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Building"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Building"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasURIValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Garage"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Garage"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasStartTimeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#storesEnergyCapacity"/>
+      <entity2 rdf:resource="https://w3id.org/rec#capacity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.636</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasAzimuthValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Location"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Location"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Level"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Level"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#OccupancySensor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Occupancy_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEndDateValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#end"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6446470588235295</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEntityValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Lobby"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Lobby"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasFileNameValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Architectural"/>
+      <entity2 rdf:resource="https://w3id.org/rec#ArchitecturalAsset"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6958709999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl#hasValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCountryValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasRelatedValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasStagesValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasNativeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasValueElement"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.813</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTempTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasFluidTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasSpaceTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTiltValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasManufacturerValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6652173913043478</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#producesEnergy"/>
+      <entity2 rdf:resource="https://w3id.org/rec#producedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6169825047635544</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasAreaUnitValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#FlowSensor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Flow_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Fan"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Fan"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTemporalDuration"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6179284649776453</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Space"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Space"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#WallOpening"/>
+      <entity2 rdf:resource="https://w3id.org/rec#BarrierAsset"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6585684178013097</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasBallastValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEndDateValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTRS"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#StorageRoom"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Storage_Room"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#DateTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6509230657631625</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Zone"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Zone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasReferenceValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasPowerTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasExpressionValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6857142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLatitudeValue"/>
+      <entity2 rdf:resource="http://schema.org/latitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.864</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasProgramIdValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl#hasValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasDuration"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7846935483870967</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#inXSDDateTimeStamp"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#timestamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDescriptionValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#StateChangeNotificationFunctionality"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#NotificationParameters.ChangeOfState"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6465498171239963</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasCityValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#city"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8177142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDayTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLastNameValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasPostalAddress"/>
+      <entity2 rdf:resource="https://w3id.org/rec#postalCode"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.63243</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasLatitudeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#latitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.864</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#controlledObject"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#objectOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8333333333333334</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasAzimuthValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Space"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Space"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasIDTypeValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasRelatedValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDayTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#LivingRoom"/>
+      <entity2 rdf:resource="https://w3id.org/rec#LivingRoom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasNativeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Campus"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Campus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasDirection"/>
+      <entity2 rdf:resource="https://w3id.org/rec#tripDirection"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.837391304347826</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTempTypeValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#cmdHexValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.65</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasModelValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7593749999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#location"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasWallColorValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl#TemperatureParameter"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Temperature_Parameter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#Lobby"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Lobby"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasBallastValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasEndDateValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.631578947368421</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#maxValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasProgramIdValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#location"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#SurveillanceCamera"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Surveillance_Camera"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9883945342168492</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasReferenceValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#Blind"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Blind"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTime"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7218260869565217</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#cmdHexValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.65</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTime"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7132499999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasTiltValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasPersonIdValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasBeginDateValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#UnControllable"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Asset"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6703884</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl#hasValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#OnCommand"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#On_Command"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasFileNameValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#hasName"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasRoofColorValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#hasTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#closedTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl#HumidityParameter"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Humidity_Parameter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#GasSensor"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Gas_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl#ElectricalSystemResource"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Electrical_System"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6775455956671235</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl#hasDescriptionValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntologySharedVocabulary.owl#Building"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Building"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9702989999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#location"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

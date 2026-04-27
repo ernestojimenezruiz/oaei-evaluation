@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <align:Alignment rdf:nodeID="N30d3ac05601b426a831403812f6715e1">
+    <align:level>0</align:level>
+    <align:type>??</align:type>
+    <align:onto1>file:///home/jon/repos/DISO-mappings/data/diso-compact/information-exchange/JC3IEDM.owl</align:onto1>
+    <align:onto2>file:///home/jon/repos/DISO-mappings/data/diso-compact/mid-level/cco-modules/FacilityOntology-noimports.rdf</align:onto2>
+    <align:map>
+      <align:Cell rdf:nodeID="Ne7bddaa1c2c1480d915c67f484f02ac6">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Apartment_building"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000336"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N4492d78f29d84023af4b3e84c674d83d">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Combat_outpost"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000667"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ne44bc2f382664024b13bc540ffb307a8">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Command_post_facility"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000710"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N503660effac64c62b4dd9840b80c5c95">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Decontamination_facility"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000901"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N87f3766ba9534094b7d23817da4b2b01">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Farm"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001380"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N5ebdcde5c6984d5192d6aff6fd205909">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Fort"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001091"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N6d27a32e19d64f2fa81bfa2d255d6360">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Gas_processing_facility"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001362"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nacbb116881e547b68249a0cef3854df4">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Government_building"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000946"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N92e7c7611ff346b98879008221af6d99">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Heliport"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000195"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N3f287b3414634e8bb6937f563d4971c5">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#House"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000331"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ne3ce712e243b4a09be279a4c7d6bcfe1">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Maintenance_facility"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001287"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N50b50dea8377458fb4da3c57dce6ff23">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Mine"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000639"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nd79dae15670d4ea289f0c358d0f6d25d">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Petrochemical_refinery"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001089"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N0c5833b0e2974c4e8430b23a6b316af1">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Pier"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000761"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nd913a15453e04c2d93c1c89f805464a6">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Pipeline"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000867"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ne950eb508b8343b681a8ea8dc9b3896b">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Police_station"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000349"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N19c92d0c67cd41c68f22c0a5aa5be11a">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Port"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001258"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N3f37e5065a7642f383b0666a2ddd36a5">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Power_transmission_line"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000705"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N95908a33c3b14881b0e3e7c7c3367791">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Pumping_station"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000232"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nc0a892702a1a4878bbaa8005b698ec49">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Religious_facility"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000052"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N6dde13066fa2461a9b7a0ca695534a22">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Reservoir"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000957"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Na5e0da1d9ac14e65a323c10ff500be95">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#School"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001358"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N2431ffa5f79444d08bc345d4108a535b">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Sewage_treatment_facility"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001308"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N52d5e8303b46477bb9531352315b4c91">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Shop"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000262"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N749396e0787d486e87033959e02a1519">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Town_hall"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000545"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N807143e7bc23428ba2fcb12ff3975f16">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Warehouse"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000375"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N28925c55a6e540c38451c0fea52dc6fd">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Washing_facility"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001375"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nf10e7c163375434ca4e20711bc92c08e">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Water_tower"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000708"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N0aea734882db446d99b6b43cd8d64a6b">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Water_treatment_facility"/>
+        <align:entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000814"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+  </align:Alignment>
+</rdf:RDF>

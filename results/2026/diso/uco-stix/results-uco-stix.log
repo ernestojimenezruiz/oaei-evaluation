@@ -1,0 +1,261 @@
+Read RDF Align mapping objects: 39
+Read RDF Align mapping objects: 171
+Number of mappings without namspace filtering
+Read RDF Align mapping objects: 125
+Loading mappings for LogMapLLM: 125
+Read RDF Align mapping objects: 22
+Loading mappings for SecureBertMap: 22
+Read RDF Align mapping objects: 692
+Loading mappings for Matcha: 692
+Read RDF Align mapping objects: 21
+Loading mappings for CySecBertMap: 21
+Read RDF Align mapping objects: 21
+Loading mappings for BertMap: 21
+Read RDF Align mapping objects: 131
+Loading mappings for LogMap: 131
+Read RDF Align mapping objects: 21
+Loading mappings for BertMapLt: 21
+Read RDF Align mapping objects: 177
+Loading mappings for LogMapLt: 177
+Read RDF Align mapping objects: 43
+Loading mappings for AML: 43
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.183
+
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.074
+
+Classifying integrated ontology for '9' systems.
+Classifying integrated ontology with: AML
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.08
+
+Classifying integrated ontology with: BertMap
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.047
+
+Classifying integrated ontology with: BertMapLt
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.039
+
+Classifying integrated ontology with: CySecBertMap
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.073
+
+Classifying integrated ontology with: LogMap
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.034
+
+Classifying integrated ontology with: LogMapLLM
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.03
+
+Classifying integrated ontology with: LogMapLt
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.042
+
+Classifying integrated ontology with: Matcha
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.032
+
+Classifying integrated ontology with: SecureBertMap
+
+Classifying 'SROIN(D)' Ontology with ELK... 
+Done, Time (s): 0.021
+
+				Consensus-2			Consensus-3			
+System	Time (s)	Size	Unique	P	F	R	P	F	R	Unsat.	File nanme
+AML	0	43	1	0.977	0.393	0.246	0.907	0.951	1.0	95	AML-uco-stix_2026.rdf
+BertMap	0	21	0	1.0	0.219	0.123	1.0	0.7	0.538	85	BertMap-uco-stix_2026.rdf
+BertMapLt	0	21	0	1.0	0.219	0.123	1.0	0.7	0.538	85	BertMapLt-uco-stix_2026.rdf
+CySecBertMap	0	21	0	1.0	0.219	0.123	1.0	0.7	0.538	85	CySecBertMap-uco-stix_2026.rdf
+LogMap	0	131	3	0.954	0.828	0.731	0.29	0.447	0.974	94	LogMap-uco-stix_2026.rdf
+LogMapLLM	0	125	0	0.976	0.824	0.713	0.28	0.427	0.897	92	LogMapLLM-uco-stix_2026.rdf
+LogMapLt	0	177	37	0.78	0.793	0.807	0.158	0.259	0.718	92	LogMapLt-uco-stix_2021.rdf
+Matcha	0	692	521	0.247	0.396	1.0	0.056	0.106	1.0	95	Matcha-uco-stix_2026.rdf
+SecureBertMap	0	22	1	0.955	0.218	0.123	0.955	0.688	0.538	86	SecureBertMap-uco-stix_2026.rdf
+
+
+<table cellpadding="4" cellspacing="0">
+
+<tr class="header">
+<td  class="header" rowspan="2"> System </td>
+<td  class="header" rowspan="2" colspan="1"> Time (s) </td>
+<td  class="header" rowspan="2" colspan="1"> # Mappings </td> </td>
+<td  class="header" rowspan="2" colspan="1"> # Unique </td> </td>
+<td  class="header" colspan="3"> Scores </td>
+<td  class="header" colspan="2"> Incoherence Analysis</td>
+</tr>
+<tr class="header">
+<td  class="header"> Precision </td><td  class="header"> &nbsp;Recall&nbsp; </td> <td  class="header"> F-measure </td>
+<td  class="header"> Unsat.</td> <td  class="header"> Degree </td>
+</tr>
+
+<tr class="odd">
+<td class="text">LogMap</td>
+<td> 0 </td><td> 131 </td>
+<td> 3 </td>
+<td> 0.954 </td> <td> 0.731 </td> <td class="bold"> 0.828 </td>
+<td> 0.290 </td> <td> 0.974 </td> <td class="bold"> 0.447 </td>
+<td> &ge;94 </td><td class="right"> &ge;61.4&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">LogMapLLM</td>
+<td> 0 </td><td> 125 </td>
+<td> 0 </td>
+<td> 0.976 </td> <td> 0.713 </td> <td class="bold"> 0.824 </td>
+<td> 0.280 </td> <td> 0.897 </td> <td class="bold"> 0.427 </td>
+<td> &ge;92 </td><td class="right"> &ge;60.1&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">LogMapLt</td>
+<td> 0 </td><td> 177 </td>
+<td> 37 </td>
+<td> 0.780 </td> <td> 0.807 </td> <td class="bold"> 0.793 </td>
+<td> 0.158 </td> <td> 0.718 </td> <td class="bold"> 0.259 </td>
+<td> &ge;92 </td><td class="right"> &ge;60.1&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">Matcha</td>
+<td> 0 </td><td> 692 </td>
+<td> 521 </td>
+<td> 0.247 </td> <td> 1.000 </td> <td class="bold"> 0.396 </td>
+<td> 0.056 </td> <td> 1.000 </td> <td class="bold"> 0.106 </td>
+<td> &ge;95 </td><td class="right"> &ge;62.1&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">AML</td>
+<td> 0 </td><td> 43 </td>
+<td> 1 </td>
+<td> 0.977 </td> <td> 0.246 </td> <td class="bold"> 0.393 </td>
+<td> 0.907 </td> <td> 1.000 </td> <td class="bold"> 0.951 </td>
+<td> &ge;95 </td><td class="right"> &ge;62.1&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">CySecBertMap</td>
+<td> 0 </td><td> 21 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.123 </td> <td class="bold"> 0.219 </td>
+<td> 1.000 </td> <td> 0.538 </td> <td class="bold"> 0.700 </td>
+<td> &ge;85 </td><td class="right"> &ge;55.6&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">BertMapLt</td>
+<td> 0 </td><td> 21 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.123 </td> <td class="bold"> 0.219 </td>
+<td> 1.000 </td> <td> 0.538 </td> <td class="bold"> 0.700 </td>
+<td> &ge;85 </td><td class="right"> &ge;55.6&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">BertMap</td>
+<td> 0 </td><td> 21 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.123 </td> <td class="bold"> 0.219 </td>
+<td> 1.000 </td> <td> 0.538 </td> <td class="bold"> 0.700 </td>
+<td> &ge;85 </td><td class="right"> &ge;55.6&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">SecureBertMap</td>
+<td> 0 </td><td> 22 </td>
+<td> 1 </td>
+<td> 0.955 </td> <td> 0.123 </td> <td class="bold"> 0.218 </td>
+<td> 0.955 </td> <td> 0.538 </td> <td class="bold"> 0.688 </td>
+<td> &ge;86 </td><td class="right"> &ge;56.2&#37</td></tr>
+
+
+
+<caption><b>Table X:</b> Results for the largebio task X.</caption>
+</table>
+
+
+{\small\sf LogMap }
+& 0& 131 
+& 3 
+& 0.95& 0.83& 0.73
+& 0.29& 0.45& 0.97
+& $\geq$94& $\geq$61.4\%\\
+
+
+{\small\sf LogMapLLM }
+& 0& 125 
+& 0 
+& 0.98& 0.82& 0.71
+& 0.28& 0.43& 0.90
+& $\geq$92& $\geq$60.1\%\\
+
+
+{\small\sf LogMapLt }
+& 0& 177 
+& 37 
+& 0.78& 0.79& 0.81
+& 0.16& 0.26& 0.72
+& $\geq$92& $\geq$60.1\%\\
+
+
+{\small\sf Matcha }
+& 0& 692 
+& 521 
+& 0.25& 0.40& 1.00
+& 0.06& 0.11& 1.00
+& $\geq$95& $\geq$62.1\%\\
+
+
+{\small\sf AML }
+& 0& 43 
+& 1 
+& 0.98& 0.39& 0.25
+& 0.91& 0.95& 1.00
+& $\geq$95& $\geq$62.1\%\\
+
+
+{\small\sf CySecBertMap }
+& 0& 21 
+& 0 
+& 1.00& 0.22& 0.12
+& 1.00& 0.70& 0.54
+& $\geq$85& $\geq$55.6\%\\
+
+
+{\small\sf BertMapLt }
+& 0& 21 
+& 0 
+& 1.00& 0.22& 0.12
+& 1.00& 0.70& 0.54
+& $\geq$85& $\geq$55.6\%\\
+
+
+{\small\sf BertMap }
+& 0& 21 
+& 0 
+& 1.00& 0.22& 0.12
+& 1.00& 0.70& 0.54
+& $\geq$85& $\geq$55.6\%\\
+
+
+{\small\sf SecureBertMap }
+& 0& 22 
+& 1 
+& 0.96& 0.22& 0.12
+& 0.96& 0.69& 0.54
+& $\geq$86& $\geq$56.2\%\\
+
+

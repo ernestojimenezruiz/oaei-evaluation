@@ -18,6 +18,7 @@ import org.semanticweb.owlapi.search.EntitySearcher;
 
 import oaei.configuration.OAEIConfiguration;
 import oaei.evaluation.AbstractEvaluation;
+import uk.ac.ox.krr.logmap2.Parameters;
 import uk.ac.ox.krr.logmap2.indexing.ExtractStringFromAnnotationAssertionAxiom;
 import uk.ac.ox.krr.logmap2.io.OutPutFilesManager;
 import uk.ac.ox.krr.logmap2.io.WriteFile;
@@ -254,6 +255,7 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 			
 			for (MappingObjectStr mapping : system_results_map.get(system).getMappingSet()){
 				
+				
 				//We avoid mappings among same URIS
 				if (!mapping.getIRIStrEnt1().equals(mapping.getIRIStrEnt2())){
 					
@@ -267,7 +269,10 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 							getLabel4Entity(IRI.create(mapping.getIRIStrEnt2()), onto2));
 				}
 			}			
-		}		
+		}
+		
+		
+		//System.out.println("Consensus created." + consensusAlignment.getSources());
 	}
 	
 	
@@ -285,11 +290,16 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 		
 		consensusAlignment.setConfidenceForMappings(max_votes);
 		
+		
+		System.out.println("Number of max votes: " + max_votes);
+		
 	}
 	
 	
 	public static void main (String[] argss){
 		try {
+			Parameters.print_output=true;
+			Parameters.print_output_always=true;
 			new CreateConsensusAlignments();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

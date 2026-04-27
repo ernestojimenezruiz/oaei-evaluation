@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <align:Alignment rdf:nodeID="N05ccc5a6598849aa92a80991a4d98d10">
+    <align:level>0</align:level>
+    <align:type>??</align:type>
+    <align:onto1>file:///home/jon/repos/DISO-mappings/data/diso-compact/smart-environments/smart-cities/CityOWLmerged.ttl</align:onto1>
+    <align:onto2>file:///home/jon/repos/DISO-mappings/data/diso-compact/smart-environments/smart-buildings/Brick%2Bimports.ttl</align:onto2>
+    <align:map>
+      <align:Cell rdf:nodeID="Nbc09c90b6eef4aaca674c4027a1a3d28">
+        <align:entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/document#Document"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Document"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N4d76cce327ef42ce991a2ac57397f4d2">
+        <align:entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Door"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Door"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Na4ad4dbafe294c2badce30c605522afb">
+        <align:entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Tag"/>
+        <align:entity2 rdf:resource="https://brickschema.org/schema/Brick#Tag"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N44f295d37e2f4bc38a86e9ee8f6a80ab">
+        <align:entity1 rdf:resource="http://www.opengis.net/ont/geosparql#Geometry"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Geometry"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N543bdb9e7f674b7e8a4f227c8f63524e">
+        <align:entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/workspace#Space"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Space"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nd08ac22db1a7465792c636fc8e28ad79">
+        <align:entity1 rdf:resource="https://schema.org/Person"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Person"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N9ad4aade83d848c995a9e70857a8d988">
+        <align:entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Window"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Window"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N4a54979e05a747d1919705dfbd992dfc">
+        <align:entity1 rdf:resource="http://www.opengis.net/ont/gml#Point"/>
+        <align:entity2 rdf:resource="https://brickschema.org/schema/Brick#Point"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N13ad7cfaf0464432b1fb1da09cd202a0">
+        <align:entity1 rdf:resource="https://schema.org/Organization"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Organization"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N5898a9a4e26a4d15bec3229184929315">
+        <align:entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Address"/>
+        <align:entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Address"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N8b5594adf5ae4e40aeed057feda9b227">
+        <align:entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Workspace"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Workspace"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N8f065b5ab9d64e20977a896843aacad5">
+        <align:entity1 rdf:resource="http://www.opengis.net/ont/gml#Polygon"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Polygon"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+  </align:Alignment>
+</rdf:RDF>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+>
+  <align:Alignment rdf:nodeID="N450460c4a5e14747a499168a4279320f">
+    <align:level>0</align:level>
+    <align:type>??</align:type>
+    <align:onto1>file:///home/jon/repos/DISO-mappings/data/diso-compact/information-exchange/JC3IEDM.owl</align:onto1>
+    <align:onto2>file:///home/jon/repos/DISO-mappings/data/diso-compact/smart-environments/smart-buildings/Brick%2Bimports.ttl</align:onto2>
+    <align:map>
+      <align:Cell rdf:nodeID="N6991297843fe455cb0965ed38dfff83c">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PERSON"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Person"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nf8b7c4156ff642c6a3333d1d0a96a249">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Status"/>
+        <align:entity2 rdf:resource="https://brickschema.org/schema/Brick#Status"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N27864b709e144df8944845b1c78cb60f">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ACTION"/>
+        <align:entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Action"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Na6b0f5e2aa114d19b17a30f8827fd196">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#School"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#School"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ne9a247616b02418cbb04a5c772b03667">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Wall"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Wall"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nefe143cc747e47e39c9608e1450a5ea4">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Maintenance"/>
+        <align:entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Maintenance"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nc8693b0cc10140a7923ada7b47228c03">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Action"/>
+        <align:entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Action"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N44aeb37996604f75aab0d334eb0eecc9">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#VEHICLE-TYPE-Maintenance"/>
+        <align:entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Maintenance"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nf758d26545824410bf7013aaf17837ed">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Lamp"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Lamp"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N1106e4a2df8c423d97e8e840ece3fc0e">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Lightning"/>
+        <align:entity2 rdf:resource="https://brickschema.org/schema/Brick#Lighting"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nc416e01c7e0149b3b878e84fd7b5c894">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Office"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Office"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nec68eb2979d24204ad560531f7205fb0">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Point_of_interest"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#PointOfInterest"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N64bca03d205e46498ebf8e97bfca9838">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MISCELLANEOUS-EQUIPMENT-TYPE-Tank"/>
+        <align:entity2 rdf:resource="https://brickschema.org/schema/Brick#Tank"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N0acb40dddfcd46c9b08b9ffdf58771d1">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Building"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Building"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N918753ae3429437196bf9409b472e00e">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ADDRESS"/>
+        <align:entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Address"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N1c22e6b76cf04cb69bc4d5e39caf017c">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Tank"/>
+        <align:entity2 rdf:resource="https://brickschema.org/schema/Brick#Tank"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N412ed7b6526345408f5b4332e3872e8a">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Sensor"/>
+        <align:entity2 rdf:resource="https://brickschema.org/schema/Brick#Sensor"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N3acd432d8e424eaaa8585bd4fdab1543">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#POINT"/>
+        <align:entity2 rdf:resource="https://brickschema.org/schema/Brick#Point"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nb65753cdac564270bc45e761106995e8">
+        <align:entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Cart"/>
+        <align:entity2 rdf:resource="https://w3id.org/rec#Cart"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+  </align:Alignment>
+</rdf:RDF>

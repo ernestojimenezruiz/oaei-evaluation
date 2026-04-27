@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+>
+  <align:Alignment rdf:nodeID="N636c7983baad43a9b0d1513fa6ea6455">
+    <align:level>0</align:level>
+    <align:type>??</align:type>
+    <align:onto1>file:///home/jon/repos/DISO-mappings/data/diso-compact/cyber-security/stix-spec-merged.ttl</align:onto1>
+    <align:onto2>file:///home/jon/repos/DISO-mappings/data/diso-compact/cyber-security/d3fend.rdf</align:onto2>
+    <align:map>
+      <align:Cell rdf:nodeID="N0855d71985ce4a6485f4e581c03198dc">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/archive-file#ArchiveFile"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#ArchiveFile"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N132c12537788482689a548ca51ba6e2d">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#NetworkTraffic"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#NetworkTraffic"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nf18d976787d94221bc0ed122fa663abf">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Process"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Process"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nc1184ef83ec54f2383b6201dd876bd22">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Artifact"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Artifact"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N34103b94219d4a8faa1805579ba85ebc">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Directory"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Directory"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nb57b31b34e9549dea9af52a119ee5470">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Organization"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Organization"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N56623b2af83a48b99867c27ca7e6bd37">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Vulnerability"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Vulnerability"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N5852fd8ddcd2474f808155897052b14c">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Tool"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1588.002"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N44c578fbcd9546b099e7db621ed8dda5">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Grouping"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Grouping"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nd7798d5906094d7d91f411931bf68a99">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Software"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1592.002"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ne7963d1cef2c447b89e8dfc8f635f36f">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Software"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Software"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N1240e0cc3c854f3d9d8836596999d629">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#URL"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#URL"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ned4daae8139345829e81fd0fd8c658e7">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#DomainName"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#DomainName"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N97fdac5810464f0c890d447ccd3a5716">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#File"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#File"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N69629286d93c4891857815c9d1df280f">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#UserAccount"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#UserAccount"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Na1981d78d2314357b6e69c1e690ec50a">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Malware"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1587.001"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Neacbc470627b49a1985ffdd0836a0759">
+        <align:entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Malware"/>
+        <align:entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1588.001"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+  </align:Alignment>
+</rdf:RDF>

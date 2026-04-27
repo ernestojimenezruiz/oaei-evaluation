@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl</onto1>
+	<onto2>https://brickschema.org/schema/1.4/Brick</onto2>
+	<uri1>http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl</uri1>
+	<uri2>https://brickschema.org/schema/1.4/Brick</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#School"/>
+			<entity2 rdf:resource="https://w3id.org/rec#School"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Tunnel"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Tunnel"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Zone_I"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Zone"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9898</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Q-zone"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Zone"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9898</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Wall"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Wall"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9878</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ADDRESS"/>
+			<entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Address"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9862</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Status"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Status"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9861</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Lamp"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Lamp"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9858</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Zone_of_fire"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Fire_Zone"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9856</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#UNIT"/>
+			<entity2 rdf:resource="http://qudt.org/schema/qudt/Unit"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9837</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Cart"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Cart"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9831</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Maintenance"/>
+			<entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Maintenance"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#POINT"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Point"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#POINT"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Point"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Tank"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Tank"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ACTION"/>
+			<entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Action"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Action"/>
+			<entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Action"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Building"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Building"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Building"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Building"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Sensor"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Sensor"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Office"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Office"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Office"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Office"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Point_of_interest"/>
+			<entity2 rdf:resource="https://w3id.org/rec#PointOfInterest"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Location"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Location"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LOCATION"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Location"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PERSON"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Person"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PERSON"/>
+			<entity2 rdf:resource="http://schema.org/Person"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#G-agent"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Agent"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9618</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#NetworkSecurityPolicyCode"/>
+			<entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#NetworkSecurityPolicy"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8469</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ORGANISATION"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Organization"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7367</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Hail"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Hail_Sensor"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7272</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Control_zone"/>
+			<entity2 rdf:resource="https://w3id.org/rec#AccessControlZone"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6865</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Resting"/>
+			<entity2 rdf:resource="https://w3id.org/rec#RestingRoom"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6663</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Hospital_ship"/>
+			<entity2 rdf:resource="https://w3id.org/rec#Hospital"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6642</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REFERENCE"/>
+			<entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#SetpointReference"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6592</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Broadcast"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Broadcast_Room"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.657</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Retail"/>
+			<entity2 rdf:resource="https://w3id.org/rec#RetailRoom"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6568</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Air_compressor"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Compressor"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6501</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Fire_control"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Fire_Control_Panel"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6472</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Generator"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Generator_Room"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6428</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Fire"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Fire_Sensor"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6366</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Cable"/>
+			<entity2 rdf:resource="https://w3id.org/rec#CableRoom"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Relay_facility"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Relay"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6248</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Smoke"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Smoke_Alarm"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.606</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LIGHT"/>
+			<entity2 rdf:resource="https://brickschema.org/schema/Brick#Light_Command"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6026</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

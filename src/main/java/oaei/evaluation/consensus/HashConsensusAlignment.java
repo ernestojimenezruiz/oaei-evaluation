@@ -35,7 +35,7 @@ public class HashConsensusAlignment {
 	
 	public void add(String uri1, String uri2, String system, String family, int type, String label1, String label2)
 	{
-		
+				
 		//If the mapping already exists in the HashAlignment, return
 		if(!this.contains(uri1)){
 			alignment.put(uri1, new HashMap<String, ConsensusMapping>());			

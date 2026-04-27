@@ -151,6 +151,8 @@ public abstract class AbstractEvaluation {
 				//	family = "DKPAOM";
 				else if (name.startsWith("PAXO"))
 					family = "PAXO";
+				else if (name.contains("BertMap"))
+					family = "BertMap";
 				else		
 					family = name;
 				

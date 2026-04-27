@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Hospital_ship"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001098"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6457687697418854</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Washing_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001375"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9509421345359721</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Headquarters_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001297"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.612892357762236</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Warehouse"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000375"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Power_plant__hydroelectric"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000846"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9583636982496163</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Religious_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000052"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9471958716078387</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Power_plant__fossil_fuel"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000717"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9570607161714231</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Heliport"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000195"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Sewage_treatment_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001308"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.955059137692869</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Depot__biological"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001344"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9433075198373251</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Town_hall"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000545"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8712</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Fort"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001091"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#House"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000331"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9627207465904338</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Maintenance_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001287"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9352829063327134</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Police_station"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000349"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.95399494183661</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Mine"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000639"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9518024060770673</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Rail_facility__repair"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000108"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6253910317551897</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Pier"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000761"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Pumping_station"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000232"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9631970871972197</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Decontamination_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000901"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9441601253192423</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#School"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001358"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Farm"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001380"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9579377449850497</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Petrochemical_refinery"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001089"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9612460267511876</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Water_treatment_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000814"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9494593780065871</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Power_plant__thermal"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000330"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9583636982496163</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Depot__nuclear_storage"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001257"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9510836965574327</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Reservoir"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000957"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Shop"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000262"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Power_plant__nuclear"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000421"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9478095847811477</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Military_base.facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000483"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6881050793504907</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Depot__ammunition"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000220"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9433075198373251</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Command_post_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000710"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9381748232793286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Port"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001258"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9627207465904338</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Gas_processing_facility"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001362"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9548942305813455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Government_building"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000946"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9614992983046605</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Military"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00001052"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6215093874499394</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Pipeline"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000867"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Depot__medical"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000680"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9478848778890242</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Power_transmission_line"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000705"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9457907638737121</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Combat_outpost"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000667"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9470025740030344</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Agricultural"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000339"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7038812873286485</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Water_tower"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000708"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9521147437314595</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Apartment_building"/>
+      <entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000336"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9635074946341243</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

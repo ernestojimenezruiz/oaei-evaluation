@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <align:Alignment rdf:nodeID="Nede8a6b88b29435f8ebf679cb0b53216">
+    <align:level>0</align:level>
+    <align:type>??</align:type>
+    <align:onto1>file:///home/jon/repos/DISO-mappings/data/diso-compact/cyber-security/uco1-merge.ttl</align:onto1>
+    <align:onto2>file:///home/jon/repos/DISO-mappings/data/diso-compact/cyber-security/stix-spec-merged.ttl</align:onto2>
+    <align:map>
+      <align:Cell rdf:nodeID="N4bd1a13866c14f71b5342c3f4f76d13d">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/ExternalReference"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#ExternalReference"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N2fe2316ee2564b2fb3cd0d95aea142ed">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/Grouping"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Grouping"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N47adc6c4c2fb4d2598c18a7e6c64b90d">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/Relationship"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Relationship"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nb9536fd80a45485aa3b3903fec94a5a3">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/identity/Organization"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Organization"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nf6158888261e4e83a5b9492730e360f6">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/marking/StatementMarking"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/data-marking#StatementMarking"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nc35b31e5586949518effa7f3402244f5">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/AutonomousSystem"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#AutonomousSystem"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N09a7913c8fb54fe7bbae499191a5e4c2">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Directory"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Directory"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N0a6ff7ea41304a85a30b8bbb6c1d435c">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/EmailMessage"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#EmailMessage"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N52727265a1ff4e6db6503213295b8922">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/File"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#File"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N79e9a69d1d284e0aabcd11753f893bb5">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/IPv4Address"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#IPv4Address"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nf1817853273b461eb3ae527bbbd61dec">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/IPv6Address"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#IPv6Address"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nd9a9919763324218af150dd6c89b8cec">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/MACAddress"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#MACAddress"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ndc6496dfd4dc4afc9c134de1d7892e19">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Mutex"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Mutex"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N931f237c8cc1440399e2822db3486fab">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Note"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Note"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nc138bd7cf77c441ea7b62bb837287fc9">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Process"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Process"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N4e8c339885ea4f72b70f0ef639d7d1a4">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Software"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Software"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ned5176a378024636bd09d8af0a38aa68">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/URL"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#URL"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N1ecc467cc6504be6a65ad8cf14a3b1f9">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/WindowsRegistryKey"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#WindowsRegistryKey"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N25dfee6536af490391b2c68fdf7fc2af">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/X509Certificate"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#X509Certificate"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N0f610d634c584cf99baafbe5c5983f95">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/tool/Tool"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Tool"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nb51d088a8e484c169f176ba29201d88c">
+        <align:entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/types/Hash"/>
+        <align:entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#Hash"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+  </align:Alignment>
+</rdf:RDF>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>https://brickschema.org/schema/1.4/Brick</onto1>
+<onto2>https://brickschema.org/schema/1.4/Brick</onto2>
+<uri1>https://brickschema.org/schema/1.4/Brick</uri1>
+<uri2>https://brickschema.org/schema/1.4/Brick</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Geometry"/>
+		<entity2 rdf:resource="http://www.opengis.net/ont/geosparql#Geometry"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Parameter"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Parameter"/>
+		<measure rdf:datatype="xsd:float">0.83</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#ForceObservation"/>
+		<entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/sensing.owl#Observation"/>
+		<measure rdf:datatype="xsd:float">0.8</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#ForceObservation"/>
+		<entity2 rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+		<measure rdf:datatype="xsd:float">0.6</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Organization"/>
+		<entity2 rdf:resource="https://schema.org/Organization"/>
+		<measure rdf:datatype="xsd:float">0.51</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Organization"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"/>
+		<measure rdf:datatype="xsd:float">0.77</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#System"/>
+		<entity2 rdf:resource="http://www.w3.org/ns/ssn/System"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Event"/>
+		<entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/event.owl#Event"/>
+		<measure rdf:datatype="xsd:float">0.52</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Event"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+		<measure rdf:datatype="xsd:float">0.72</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Agent"/>
+		<entity2 rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+		<measure rdf:datatype="xsd:float">0.51</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Agent"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"/>
+		<measure rdf:datatype="xsd:float">0.86</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Substance"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Substance"/>
+		<measure rdf:datatype="xsd:float">0.76</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#Object"/>
+		<entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/object.owl#Object"/>
+		<measure rdf:datatype="xsd:float">0.84</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#On_Timer_Sensor"/>
+		<entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/time.owl#TimeDuration"/>
+		<measure rdf:datatype="xsd:float">0.19</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Collection"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection"/>
+		<measure rdf:datatype="xsd:float">0.83</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Entity"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Entity"/>
+		<measure rdf:datatype="xsd:float">0.73</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Region"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Region"/>
+		<measure rdf:datatype="xsd:float">0.78</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#Action"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Person"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"/>
+		<measure rdf:datatype="xsd:float">0.79</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#Person"/>
+		<entity2 rdf:resource="https://schema.org/Person"/>
+		<measure rdf:datatype="xsd:float">0.51</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Sensor"/>
+		<entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/sensing.owl#Sensor"/>
+		<measure rdf:datatype="xsd:float">0.51</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Sensor"/>
+		<entity2 rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+		<measure rdf:datatype="xsd:float">0.51</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/Unit"/>
+		<entity2 rdf:resource="http://www.w3.org/2006/time#TemporalUnit"/>
+		<measure rdf:datatype="xsd:float">0.36</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/sosa/ObservableProperty"/>
+		<entity2 rdf:resource="http://www.w3.org/ns/sosa/ObservableProperty"/>
+		<measure rdf:datatype="xsd:float">0.6</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#ExceptionEvent"/>
+		<entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/event.owl#Event"/>
+		<measure rdf:datatype="xsd:float">0.88</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://w3id.org/rec#ExceptionEvent"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+		<measure rdf:datatype="xsd:float">0.64</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://schema.org/Person"/>
+		<entity2 rdf:resource="https://schema.org/Person"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://schema.org/Person"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"/>
+		<measure rdf:datatype="xsd:float">0.51</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#EventType"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#EventType"/>
+		<measure rdf:datatype="xsd:float">0.6</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Collection"/>
+		<entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection"/>
+		<measure rdf:datatype="xsd:float">0.53</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Usage_Sensor"/>
+		<entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/sensing.owl#Sensor"/>
+		<measure rdf:datatype="xsd:float">0.93</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Usage_Sensor"/>
+		<entity2 rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+		<measure rdf:datatype="xsd:float">0.73</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/vocab/unit/SEC"/>
+		<entity2 rdf:resource="http://www.w3.org/2006/time#unitSecond"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/vocab/unit/TONNE-PER-YR"/>
+		<entity2 rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/vocab/unit/HR"/>
+		<entity2 rdf:resource="http://www.w3.org/2006/time#unitHour"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://brickschema.org/schema/Brick#Tag"/>
+		<entity2 rdf:resource="http://www.w3.org/2006/time#unitDay"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/vocab/unit/DAY"/>
+		<entity2 rdf:resource="http://www.w3.org/2006/time#unitDay"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/vocab/unit/MIN"/>
+		<entity2 rdf:resource="http://www.w3.org/2006/time#unitMinute"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/vocab/unit/WK"/>
+		<entity2 rdf:resource="http://www.w3.org/2006/time#unitWeek"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

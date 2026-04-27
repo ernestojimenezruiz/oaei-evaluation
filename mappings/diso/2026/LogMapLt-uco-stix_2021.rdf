@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>https://ontology.unifiedcyberontology.org/uco/uco-merge</onto1>
+<onto2>http://docs.oasis-open.org/ns/cti/stix/stix-spec-merged</onto2>
+<uri1>https://ontology.unifiedcyberontology.org/uco/uco-merge</uri1>
+<uri2>http://docs.oasis-open.org/ns/cti/stix/stix-spec-merged</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/action/Action"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#CourseOfAction"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/types/Hash"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#Hash"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/Grouping"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Grouping"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Process"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Process"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/MACAddress"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#MACAddress"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Mutex"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Mutex"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/X509Certificate"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#X509Certificate"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/File"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#File"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/EmailAddress"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#EmailAddress"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/marking/MarkingDefinition"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/data-marking#MarkingDefinition"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/WindowsProcess"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#WindowsProcess"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/EmailMessage"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#EmailMessage"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/ArchiveFile"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/archive-file#ArchiveFile"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/URL"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#URL"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/marking/StatementMarking"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/data-marking#StatementMarking"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/IPv6Address"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#IPv6Address"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Directory"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Directory"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/IPv4Address"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#IPv4Address"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/DomainName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#DomainName"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/AutonomousSystem"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#AutonomousSystem"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Note"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Note"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/Relationship"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Relationship"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Software"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Software"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/UserAccount"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#UserAccount"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/identity/Organization"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Organization"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/marking/GranularMarking"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/data-marking#GranularMarking"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/tool/Tool"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Tool"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/WindowsRegistryKey"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#WindowsRegistryKey"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/ExternalReference"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#ExternalReference"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/inhibitAnyPolicy"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#inhibit_any_policy"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/contentDisposition"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/message#content_disposition"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/data"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#data"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/requestVersion"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/network-traffic#request_version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfUninitializedData"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_uninitialized_data"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/isActive"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/network-traffic#is_active"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/messageID"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/message#message_id"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/imageBase"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#image_base"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/groupName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#group_name"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/tool/version"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/malware#version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/tool/version"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/pdf-file#version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/tool/version"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://purl.org/co/size"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/file#size"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfHeapCommit"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_heap_commit"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/depEnabled"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#dep_enabled"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/subjectPublicKeyAlgorithm"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#subject_public_key_algorithm"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/labels"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#labels"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/minorSubsystemVersion"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#minor_subsystem_version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/tool/swid"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/software#swid"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfOptionalHeader"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_optional_header"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/marking/statement"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/data-marking#statement"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/subjectDirectoryAttributes"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#subject_directory_attributes"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/location/postalCode"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#postal_code"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/crlDistributionPoints"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#crl_distribution_points"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/serviceName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#service_name"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/majorLinkerVersion"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#major_linker_version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.essepuntato.it/2009/10/error/hasError"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/network-traffic#SO_ERROR"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/domain"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/network-traffic#SO_DOMAIN"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/fileAlignment"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#file_alignment"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sid"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/ntfs-file#sid"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/numberOfSections"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#number_of_sections"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/aslrEnabled"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#aslr_enabled"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/signatureAlgorithm"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#signature_algorithm"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/subjectPublicKeyModulus"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#subject_public_key_modulus"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/context"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/grouping#context"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/isOptimized"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/pdf-file#is_optimized"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/timeDateStamp"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#time_date_stamp"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/peType"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#pe_type"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/action/startTime"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#start_time"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/isPrivileged"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/user-account#is_privileged"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/startTime"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#start_time"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/location/country"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#country"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/number"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/autonomous-system#number"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/version"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/malware#version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/version"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/pdf-file#version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/version"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/swid"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/software#swid"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/privateKeyUsagePeriodNotBefore"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#private_key_usage_period_not_after"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/privateKeyUsagePeriodNotBefore"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#private_key_usage_period_not_before"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/location/region"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#region"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/shell"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/unix-user-account#shell"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/pid"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/process#pid"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/isMultipart"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/message#is_multipart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/issuerAlternativeName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#issuer_alternative_name"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/subject"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#subject"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/subject"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/message#subject"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfCode"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_code"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/privateKeyUsagePeriodNotAfter"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#private_key_usage_period_not_after"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/privateKeyUsagePeriodNotAfter"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#private_key_usage_period_not_before"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/accountLogin"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/user-account#account_login"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/srcPackets"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/network-traffic#src_packets"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/body"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/message#body"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/serialNumber"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#serial_number"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/addressOfEntryPoint"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#address_of_entry_point"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/policyConstraints"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#policy_constraints"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/contentType"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/message#content_type"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/subjectKeyIdentifier"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#subject_key_identifier"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/modifiedTime"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#modified_time"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/size"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/file#size"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/requestMethod"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/network-traffic#request_method"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/serviceStatus"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#service_status"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/validityNotBefore"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#validity_not_before"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/validityNotBefore"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#validity_not_after"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/descriptions"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#descriptions"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/keyUsage"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#key_usage"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/statement"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/data-marking#statement"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/displayName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/user-account#display_name"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/displayName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/email-address#display_name"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/displayName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#display_name"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfHeapReserve"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_heap_reserve"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/location/longitude"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#longitude"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/subjectPublicKeyExponent"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#subject_public_key_exponent"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/dataType"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#data_type"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfHeaders"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_headers"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/specVersion"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#spec_version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/accountType"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/user-account#account_type"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/gid"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/unix-user-account#gid"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/requestValue"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/network-traffic#request_value"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/entropy"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/file#entropy"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/modifiedTime"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#modified_time"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/nameConstraints"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#name_constraints"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/subjectAlternativeName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#subject_alternative_name"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfImage"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_image"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/policyMappings"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#policy_mappings"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/types/key"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#key_value"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/types/key"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#key"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/groups"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/unix-user-account#groups"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/minorLinkerVersion"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#minor_linker_version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/ownerSID"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#owner_sid"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfInitializedData"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_initialized_data"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/action/objective"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/campaign#objective"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/types/hashValue"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#hash_value"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sectionAlignment"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#section_alignment"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/majorSubsystemVersion"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#major_subsystem_version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/mimeType"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#mime_type"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/majorImageVersion"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#major_image_version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/isHidden"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/process#is_hidden"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/key"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#key_value"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/key"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#key"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/canEscalatePrivs"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/user-account#can_escalate_privs"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/serviceType"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#service_type"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/numberOfSubkeys"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#number_of_subkeys"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/startType"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#start_type"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/authorityKeyIdentifier"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#authority_key_identifier"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/isDisabled"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/user-account#is_disabled"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/dstPackets"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/network-traffic#dst_packets"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/identity/familyName"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/malware#is_family"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/certificatePolicies"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#certificate_policies"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/validityNotAfter"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#validity_not_before"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/validityNotAfter"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#validity_not_after"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/path"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/directory#path"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/priority"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/network-traffic#SO_PRIORITY"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/priority"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#priority"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/context"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/grouping#context"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/bitsPerPixel"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/raster-image-file#bits_per_pixel"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/confidence"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#confidence"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/numberOfSymbols"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#number_of_symbols"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/location/latitude"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#latitude"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfStackCommit"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_stack_commit"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/extendedKeyUsage"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#extended_key_usage"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/isSelfSigned"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#is_self_signed"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/minorImageVersion"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#minor_image_version"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/basicConstraints"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#basic_constraints"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/core/description"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#description"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/isServiceAccount"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/user-account#is_service_account"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sizeOfStackReserve"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#size_of_stack_reserve"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/marking/definitionType"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/data-marking#definition_type"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/issuer"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#issuer"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/startTime"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#start_time"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/baseOfCode"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#base_of_code"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/bodyMultipart"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/message#body_multipart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/environmentVariables"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/process#environment_variables"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/startupInfo"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#startup_info"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/ipfix"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/network-traffic#ipfix"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/optionalHeader"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#optional_header"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/hashes"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti#hashes"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/sections"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#sections"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/fileHeaderHashes"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/windows-pebinary-file#file_header_hashes"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/File"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#File"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://ontology.unifiedcyberontology.org/uco/observable/Directory"/>
+		<entity2 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Directory"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

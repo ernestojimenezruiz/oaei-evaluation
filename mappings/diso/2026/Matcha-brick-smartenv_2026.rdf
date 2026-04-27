@@ -1,0 +1,2586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#TimerTransition"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Transition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6212326153846155</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isActedOnBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.619294249649369</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isSubMeterOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTimeIntervalOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7421146981219929</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPropertPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8543971132494449</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConstituentOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.679429964539007</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Event"/>
+      <entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/event.owl#Event"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#Action"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9830372066642187</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isIntroducedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7159772442588725</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isUnifiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8234212253829322</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#acknowledgedTime"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#inXSDDateTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7272727272727273</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#Region"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Region"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isCharacterizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7590515818431912</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasQuantity"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isQualityOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7307307692307693</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#includes"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesAction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8546086956521739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isCoveredBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8305035778175313</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isSampleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.786814054054054</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParticipantIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isSubMeterOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick/ref#hasIfcProjectReference"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7142857142857143</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasSize"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTaskOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6929435146443514</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#Substance"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Substance"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.676928379085945</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isDescribedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6942272727272727</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTimeOfObservationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6800339522546419</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/isPropertyOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6728309957924263</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#includes"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesEvent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.864</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParametrizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8070648637374861</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPostconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6868018455560951</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#connectedTo"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#rcc8ec"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7572413793103447</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/isPropertyOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7349127906976745</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#timestamp"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#inXSDDateTimeStamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRealizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8099618049540966</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isComponentOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.660929104477612</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#netArea"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isResultOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7450458167330678</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasParticipant"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8149565217391305</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7138766355140186</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6524174573055029</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Person"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#objectOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isObjectIncludedIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8177142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isHostedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8384708737864077</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPreconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6317682926829269</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPostconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.729650442477876</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#includes"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesWhole"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.864</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Information"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6705235862068966</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9523809523809523</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#coordinateSystem"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/deployedSystem"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://observedchange.com/tisc/ns#locatedAt"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6026086956521739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#ratedPowerOutput"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/hasOutput"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRealizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.708884484228474</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasConstraint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.699192219679634</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6530070984915706</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#DateTime"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.668997212993844</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasProperPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8942608695652174</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasInputSubstance"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/hasInput"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8828571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7387706766917292</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isHostedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7443397546012269</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isObservedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6919225352112677</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6929435146443514</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6942272727272727</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParametrizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7675430107526882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#hasTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7132499999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParametrizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6405662544169611</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasRole"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isDescribedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.797827239488117</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isObservedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8099618049540966</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPrecondition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6468461538461538</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasUnit"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9523809523809523</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasSubMeter"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasPerimeterLength"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6285319725433527</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#FileObject"/>
+      <entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/object.owl#MobileObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.630562718446602</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isIntroducedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.786814054054054</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPostconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6868018455560951</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasTimeInterval"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6247734402029754</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConceptualizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6397935153583618</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isSampleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#hasTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7218260869565217</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConcretelyExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.667369520153551</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isUnifiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.708884484228474</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#Object"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Object"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#containsElement"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#ehContains"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#Object"/>
+      <entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/object.owl#Object"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isComponentOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7371611852996358</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasRegion"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.698421948569359</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isUnifiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8234212253829322</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Event"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.786814054054054</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isQualityOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6370299377916019</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasSubMeter"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/hasSubSystem"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7290511508951407</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isResultOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isSampleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6530070984915706</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6349014084507043</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTaskOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8827325923504413</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.797827239488117</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#connectedTo"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#rcc8dc"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7714285714285714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isResultOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.63425</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isSampleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.797827239488117</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://schema.org/Person"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isObservedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.708884484228474</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#Entity"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Entity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isSubMeterOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isFeatureOfInterestOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6280853598014889</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#producedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isIntroducedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7108946078431373</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#createdBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRealizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6168356643356643</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isQualityOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6593864149240258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#coordinateSystem"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/hasSubSystem"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8390961408259986</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.660929104477612</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isComponentOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7014357055214724</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasParameter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7592132701421802</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#System"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/System"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.663541935483871</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isActedOnBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.619294249649369</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSatisfiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6942272727272727</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/isPropertyOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#Parameter"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Parameter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#servicedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isObservedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6698398026315789</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasParameter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7592132701421802</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isSubMeterOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7283038029386344</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPreconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6692941085511056</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#EventType"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#EventType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9805184356873385</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#includes"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8742857142857142</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPreconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6946608478802992</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://observedchange.com/tisc/ns#locatedAt"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6026086956521739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasTimeInterval"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6247734402029754</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Person"/>
+      <entity2 rdf:resource="https://schema.org/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPostconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.729650442477876</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSpecializedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7767621664050236</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#relatedTo"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRelatedToDescription"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.807923076923077</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPreconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7403455188679245</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPostconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7173323882224645</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#grossArea"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSpecializedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7767621664050236</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSpecializedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6514912520503007</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6229861891117479</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasQuality"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7697142857142858</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isHostedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8384708737864077</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSpecializedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6693030706243603</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7387706766917292</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasUnit"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#unitType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8307692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParametrizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7675430107526882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isCharacterizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7968395959214502</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPreconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6946608478802992</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTaskOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSatisfiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.797827239488117</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isObservedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8099618049540966</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#member"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#objectOfInterest"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isObjectIncludedIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6610429906542057</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6728309957924263</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParticipantIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9858243153261502</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPropertPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7222500000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Agent"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isResultOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7013076923076923</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#includes"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesAgent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.864</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isQualityOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6593864149240258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://schema.org/Person"/>
+      <entity2 rdf:resource="https://schema.org/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTaskOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isComponentOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7014357055214724</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Organization"/>
+      <entity2 rdf:resource="https://schema.org/Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#coordinates"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#coordinateDimension"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6583870967741936</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isUnifiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7254336981010621</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6334040707964602</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isIntroducedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.786814054054054</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7013076923076923</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isSampleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7013076923076923</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isQualityOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6861842105263158</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#createdTime"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#inXSDDateTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7272727272727273</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRealizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8093736263736264</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isDescribedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.797827239488117</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasConstraint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.699192219679634</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConstituentOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.640565934065934</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasProperPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8942608695652174</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="http://observedchange.com/tisc/ns#locatedAt"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6026086956521739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isSubMeterOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isResultOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Agent"/>
+      <entity2 rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#Location"/>
+      <entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/object.owl#Location"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasSubMeter"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasParameter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7629949514563108</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConcretelyExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.667369520153551</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#locatedIn"/>
+      <entity2 rdf:resource="http://observedchange.com/tisc/ns#locatedAt"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6524174573055029</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTimeOfObservationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6317516467151614</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#region"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasRegionDataValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7492173913043478</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#objectOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7138766355140186</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPostconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6237241379310344</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/Property"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isSubMeterOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTaskOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#locatedIn"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6026086956521739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTimeOfObservationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6800339522546419</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isSubMeterOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isSampleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.691177793904209</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Collection"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isDescribedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.676928379085945</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Agent"/>
+      <entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/object.owl#Agent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasParticipant"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasProperPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7371</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9523809523809523</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#Collection"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTimeIntervalOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7094878369195923</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#hasTemporalDuration"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6179284649776453</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#hasDuration"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7846935483870967</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isCharacterizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6306014975041596</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasSubMeter"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasGeometry"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6458922829581994</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isResultOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7213347516633142</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#area"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasDataValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConceptExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6867704520396913</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#value"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasDataValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRealizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8099618049540966</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConcretelyExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.700577645558861</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isSampleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.63425</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#area"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6334040707964602</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isHostedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7283038029386344</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#includes"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8546086956521739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPreconditionOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7403455188679245</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isSampleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isIntroducedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6811197822141561</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#GroupRoom"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Group"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6290656263847666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6749999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Organization"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPropertPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6808438435074806</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTaskOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7138766355140186</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#volume"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasVolume"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#timestamp"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#inXSDDateTimeStamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isAssociatedWith"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#associatedWith"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isCoveredBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.708884484228474</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/isPropertyOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.711195</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#relatedTo"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRelatedToConcept"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8370000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Geometry"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#Geometry"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9858243153261502</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#resolution"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasSpatialResolution"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8823529411764706</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasParticipant"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8149565217391305</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasSubstance"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/hasSubSystem"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6747827486321212</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#Region"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Region"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isMeteredBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6811197822141561</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isSubMeterOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#georeference"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7714285714285714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#ActuationEvent"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/Actuation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6325026559562991</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasOutputSubstance"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/hasOutput"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.888</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#panelArea"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isCharacterizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7590515818431912</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParticipantIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#intersectingElement"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#sfIntersects"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6249307875894988</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasProperPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7371</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParticipantIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6105147103892123</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPropertPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7222500000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTaskOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7138766355140186</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isCoveredBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8234212253829322</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#containsElement"/>
+      <entity2 rdf:resource="http://www.opengis.net/ont/geosparql#sfContains"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isReferenceOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9523809523809523</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConceptualizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7512009112024298</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/ssn/isPropertyOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7349127906976745</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasParticipant"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isResultOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7450458167330678</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasAssociatedTag"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#associatedWith"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8955</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPostcondition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6334216792948817</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTaskOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6456353503184713</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConceptExpressedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6867704520396913</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isQualityOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.617997966101695</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasTask"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8241115384615385</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConstituentOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7136933085501858</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isTimeIntervalOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6718922060766184</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isCoveredBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8234212253829322</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://observedchange.com/tisc/ns#sharesPathWith"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSatisfiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.676928379085945</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPropertPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8543971132494449</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isReplacedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConceptualizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6214644839067702</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/geometry.owl#hasSpatialRelation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6285319725433527</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConstituentOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.679429964539007</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSatisfiedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.797827239488117</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#locatedIn"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6026086956521739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#includes"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8742857142857142</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasQuantity"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasQuality"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.867</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#Sensor"/>
+      <entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/sensing.owl#Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#TemperatureObservation"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6401269902926554</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#Sensor"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#isFedBy"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConceptualizedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7512009112024298</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#member"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#closedTime"/>
+      <entity2 rdf:resource="http://www.w3.org/2006/time#inXSDDateTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7272727272727273</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <entity2 rdf:resource="http://observedchange.com/tisc/ns#sharesPathWith"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#includesPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <entity2 rdf:resource="http://www.w3.org/ns/sosa/isResultOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6037355769230769</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

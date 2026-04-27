@@ -1,0 +1,3226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DateAttribute.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#PlantCover.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractPhysicalSpace.pointCloud"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#AbstractFurniture"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Furniture"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6132018591787542</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#QualifiedArea.typeOfArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7546153846153846</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/versioning#Version.tag"/>
+      <entity2 rdf:resource="https://w3id.org/rec#assetTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.idColumnNo"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesId"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6520588235294118</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTRS"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#AbstractFillingElement"/>
+      <entity2 rdf:resource="https://w3id.org/rec#BarrierAsset"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6572173864324938</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Document.tag"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasAssociatedTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6247058823529411</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#DoorClassValue"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#DoorValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.682625099314805</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Workspace.spaceMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasSpatialResolution"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#resolution"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9375</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <entity2 rdf:resource="https://w3id.org/rec#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Window.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#AuxiliaryTrafficSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.uriValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.doubleValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/waterbody#WaterLevelValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Water_Level_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.617071842274449</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.boolValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#QualifiedArea.area"/>
+      <entity2 rdf:resource="https://w3id.org/rec#grossArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_featureMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#IntAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericOccupiedSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6286956521739131</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#SensorConnection.linkToSensorDescription"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7076470588235295</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#StringAttribute.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Waterway.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Road.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityobjectgroup#CityObjectGroup.groupMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingConstructiveElement"/>
+      <entity2 rdf:resource="https://w3id.org/rec#BuildingElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6616392538287716</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.idValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8307692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractThematicSurface.area"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityObjectRelation.relatedTo"/>
+      <entity2 rdf:resource="https://w3id.org/rec#relatedTo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#IntAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#AuxiliaryTrafficArea.adeOfAuxiliaryTrafficArea"/>
+      <entity2 rdf:resource="https://w3id.org/rec#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.625</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.points"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.850909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.valueColumnNo"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.741</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgePart.adeOfBridgePart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6145314581791266</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#AbstractTunnel.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityfurniture#CityFurniture.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/document#Document"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Document"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/landuse#LandUse.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericThematicSurface.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#TrafficArea.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_versionMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgeFurniture.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingFurniture.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_featureMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Workspace.spaceMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#ExternalReference"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#ExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#QualifiedVolume.typeOfVolume"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#volume"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7994117647058824</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.doubleValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.highReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6451612903225806</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.highReference"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6451612903225806</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeseriesComponent.repetitions"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesId"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6289073993471165</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.adeOfPointCloud"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6701250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Address.multiPoint"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7593749999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#panelArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#SolitaryVegetationObject.height"/>
+      <entity2 rdf:resource="https://w3id.org/rec#weight"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7153846153846155</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6349014084507043</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingUnit.address"/>
+      <entity2 rdf:resource="https://w3id.org/rec#address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Building.buildingPart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#AbstractTransportationSpace.trafficDirection"/>
+      <entity2 rdf:resource="https://w3id.org/rec#tripDirection"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6620703812316715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#OtherConstruction.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Address.multiPoint"/>
+      <entity2 rdf:resource="https://w3id.org/rec#address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7555384615384615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/versioning#Version.versionMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#TrafficArea.adeOfTrafficArea"/>
+      <entity2 rdf:resource="https://w3id.org/rec#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7142857142857143</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTRS"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6060606060606061</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/versioning#Version.adeOfVersion"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#deprecatedInVersion"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.625</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#StringAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.idColumnName"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesId"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6411509433962265</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/appearance#TexCoordList.textureCoordinates"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#coordinates"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.813</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Reference"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#SetpointReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6758127846472279</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#StringAttribute.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Tag.count"/>
+      <entity2 rdf:resource="https://w3id.org/rec#country"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.81</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgePart.adeOfBridgePart"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6145314581791266</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#TrafficSpace.trafficDirection"/>
+      <entity2 rdf:resource="https://w3id.org/rec#tripDirection"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6620703812316715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#CodeAttribute.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#lastKnownValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6000000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgeInstallation.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#TunnelFurniture.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.highReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7142857142857143</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Document.tag"/>
+      <entity2 rdf:resource="https://w3id.org/rec#documentTopic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8033942307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#Bridge.bridgePart"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractPhysicalSpace.pointCloud"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Storey"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Storey"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.987523999671184</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#Tunnel.tunnelPart"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#CodeAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#AbstractBuildingSubdivision.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Square.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractPhysicalSpace.pointCloud"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#DoubleOrNilReasonList.list_value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.highReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7142857142857143</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.idValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesId"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7043744680851065</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_cityObjectMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#UriAttribute.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#UriAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Space.scenarioMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8571428571428571</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.idValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8307692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#TunnelPart.adeOfTunnelPart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6145314581791266</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Reference.purposeType"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6060606060606061</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasMetricArea"/>
+      <entity2 rdf:resource="https://w3id.org/rec#rentableArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#QualifiedArea.typeOfArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#netArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#inXSDDateTimeStamp"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#timestamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.valueColumnNo"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.741</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgeInstallation.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#HollowSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractThematicSurface.pointCloud"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Document.uri"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#BACnetURI"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6784615384615384</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_appearanceMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7082608695652173</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#IntAttribute.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#Geometry"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Geometry"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Address.adeOfAddress"/>
+      <entity2 rdf:resource="https://w3id.org/rec#address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Waterway.intersection"/>
+      <entity2 rdf:resource="https://w3id.org/rec#intersectingElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericUnoccupiedSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingRoom.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Door.address"/>
+      <entity2 rdf:resource="https://w3id.org/rec#address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Address.multiPoint"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7593749999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#SolitaryVegetationObject.adeOfSolitaryVegetationObject"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#objectOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6068571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#UriAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Reference.referringTo"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/gml#Point"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Point"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#RoofSurface"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Roof"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6547359746663141</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#AuxiliaryTrafficArea.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.valueColumnName"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7238181818181819</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/relief#MassPointRelief.pointCloud"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#TrafficArea.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_cityObjectMember"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#objectOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/appearance#AbstractTexture.imageURI"/>
+      <entity2 rdf:resource="https://w3id.org/rec#image"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7753846153846154</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/landuse#LandUse.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Scenario.versionMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasSize"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeseriesComponent.timeseries"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/waterbody#WaterBody.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.mimeType"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6649615384615385</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#rcc8dc"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#connectedTo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7714285714285714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Reference.referringTo"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.uriValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractCityObject.externalReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.lowReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Door.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Building.buildingPart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6141315789473685</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#MeasureAttribute.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#ConstructionEvent.description"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#TunnelConstructiveElement.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Building.buildingPart"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingInstallation.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7753787234042553</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractFeature.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#AuxiliaryTrafficArea.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.intValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgeRoom.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#IntAttribute.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#inXSDDateTimeStamp"/>
+      <entity2 rdf:resource="https://w3id.org/rec#timestamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.highReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6451612903225806</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DateAttribute.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Road.intersection"/>
+      <entity2 rdf:resource="https://w3id.org/rec#intersectingElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#inXSDDateTime"/>
+      <entity2 rdf:resource="https://w3id.org/rec#createdTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6348648648648649</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/workspace#Space"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Space"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#AuxiliaryTrafficArea.adeOfAuxiliaryTrafficArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.625</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#OtherConstruction.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Space"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Space"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractCityObject.externalReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DoubleAttribute.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#heightRUs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7222222222222222</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#EventValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Event"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6594239612414659</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#MeasureAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#TrafficArea.adeOfTrafficArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7142857142857143</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTime"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7218260869565217</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Reference.referringTo"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractCityObject.externalReference"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/appearance#GeoreferencedTexture.referencePoint"/>
+      <entity2 rdf:resource="https://w3id.org/rec#georeference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6244897959183674</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTime"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7132499999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Reference.purposeType"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6060606060606061</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Track.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.lowReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6285134685733289</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#PlantCover.averageHeight"/>
+      <entity2 rdf:resource="https://w3id.org/rec#heightRUs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8125</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#GenericTimeseries.valueType"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Railway.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Document"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Document"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Square.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.points"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.850909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericAttributeSet.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#TunnelInstallation.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#AbstractBridge.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityobjectgroup#CityObjectGroup.groupMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#QualifiedArea.typeOfArea"/>
+      <entity2 rdf:resource="https://w3id.org/rec#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7546153846153846</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/appearance#GeoreferencedTexture.orientation"/>
+      <entity2 rdf:resource="https://w3id.org/rec#georeference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://schema.org/Person"/>
+      <entity2 rdf:resource="http://schema.org/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.status"/>
+      <entity2 rdf:resource="https://w3id.org/rec#status"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#ImplicitGeometry.referencePoint"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasVolume"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#volume"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/relief#MassPointRelief.pointCloud"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DoubleAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#TrafficSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingFurniture.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7964371667936024</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasDuration"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7846935483870967</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Door"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Door"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9896421662629896</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.adeOfPointCloud"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6701250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.stringValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasGeometry"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasSubMeter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6458922829581994</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.valueColumnName"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7238181818181819</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.mimeType"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6649615384615385</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericThematicSurface.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#cityModelMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6286956521739131</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericOccupiedSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#AbstractBuildingSubdivision.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#MeasureAttribute.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#grossArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTemporalDuration"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6179284649776453</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#TunnelPart.adeOfTunnelPart"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6145314581791266</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/versioning#VersionTransition.type"/>
+      <entity2 rdf:resource="https://w3id.org/rec#poeType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractThematicSurface.area"/>
+      <entity2 rdf:resource="https://w3id.org/rec#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#UriAttribute.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DoubleAttribute.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.area"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#panelArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#SensorConnection.sensorLocation"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7943478260869565</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityfurniture#CityFurniture.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.valueType"/>
+      <entity2 rdf:resource="https://w3id.org/rec#poeType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6431707317073171</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Tag"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Tag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Workspace"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Workspace"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/appearance#GeoreferencedTexture.referencePoint"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.lod0Point"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6428571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#Tunnel.tunnelPart"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.status"/>
+      <entity2 rdf:resource="https://w3id.org/rec#status"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#ehContains"/>
+      <entity2 rdf:resource="https://w3id.org/rec#containsElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Space"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Space"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.lod0Point"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6428571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Window.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.status"/>
+      <entity2 rdf:resource="https://w3id.org/rec#heightRUs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7647058823529411</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#cityModelMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6286956521739131</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#ImplicitGeometry.referencePoint"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DoubleAttribute.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#sfContains"/>
+      <entity2 rdf:resource="https://w3id.org/rec#containsElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#UriAttribute.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericLogicalSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityobjectgroup#Role.groupMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.volume"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#volume"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.status"/>
+      <entity2 rdf:resource="https://w3id.org/rec#heightRUs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.65</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#TunnelConstructiveElement.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#SolitaryVegetationObject.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.lod0Point"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6428571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasEnd"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasPerimeterLength"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasSubMeter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6285319725433527</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Space.scenarioMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8571428571428571</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Address"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#Address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9888522085090121</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Occupancy.numberOfOccupants"/>
+      <entity2 rdf:resource="https://w3id.org/rec#numberOfPorts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7317875150060024</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Track.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.lowReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7134272300469484</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractCityObject.relatedTo"/>
+      <entity2 rdf:resource="https://w3id.org/rec#relatedTo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#unitType"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8307692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.spaceType"/>
+      <entity2 rdf:resource="https://w3id.org/rec#poeType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6431707317073171</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.valueType"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.area"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#netArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#PlantCover.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractThematicSurface.area"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#panelArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/gml#Polygon"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Polygon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9899055593395353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingConstructiveElement.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6895921989273526</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractFeature.description"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#TrafficArea.adeOfTrafficArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#netArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#Tunnel.tunnelPart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/appearance#GeoreferencedTexture.referencePoint"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#AbstractBuilding.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7461450467965818</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#Tunnel"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Tunnel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#SolitaryVegetationObject.height"/>
+      <entity2 rdf:resource="https://w3id.org/rec#heightScaleFactor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.73344</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.lowReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6285134685733289</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#AbstractVegetationObject.adeOfAbstractVegetationObject"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#objectOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6068571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#CodeAttribute.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#AbstractBuilding.address"/>
+      <entity2 rdf:resource="https://w3id.org/rec#address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Road.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTRS"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.lowReference"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6285134685733289</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingInstallation.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#QualifiedArea.area"/>
+      <entity2 rdf:resource="https://w3id.org/rec#netArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#DoorSurface.address"/>
+      <entity2 rdf:resource="https://w3id.org/rec#address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Railway.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#member"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.area"/>
+      <entity2 rdf:resource="https://w3id.org/rec#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityobjectgroup#CityObjectGroup.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.valueType"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#AbstractBuilding.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#DoubleOrNilReasonList.list_value"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DateAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DateAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DoubleAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#givenName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#GenericTimeseries.valueType"/>
+      <entity2 rdf:resource="https://w3id.org/rec#poeType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6431707317073171</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#TrafficSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#ExternalReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Building.buildingPart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#SolitaryVegetationObject.height"/>
+      <entity2 rdf:resource="https://w3id.org/rec#heightRUs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9285714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericUnoccupiedSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgeConstructiveElement.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#netArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#TunnelInstallation.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#GenericTimeseries.valueType"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#AbstractBridge.address"/>
+      <entity2 rdf:resource="https://w3id.org/rec#address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6011806451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Workspace/3.0/workspace#Scenario.versionMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#FloorSurface"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Floor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6401402545761343</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#AbstractBridge.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#Bridge.bridgePart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericAttributeSet.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgeRoom.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Document.tag"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isTagOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgeFurniture.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/vegetation#SolitaryVegetationObject.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.stringValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7411764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.area"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#grossArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractThematicSurface.area"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#netArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#member"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#StringAttribute.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#MeasureAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractSpace.area"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Address.multiPoint"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7593749999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.adeOfPointCloud"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6701250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#SensorConnection.sensorLocation"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7943478260869565</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/workspace#Workspace"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Workspace"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingRoom.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.842520760370063</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractThematicSurface.pointCloud"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/versioning#Version.versionMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_cityObjectMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.615</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractFeature.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Door.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.lowReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#Bridge.bridgePart"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.boolValue"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Window"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Window"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9820099930344918</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/waterbody#WaterBody.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/appearance#GeoreferencedTexture.referencePoint"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#coordinateDimension"/>
+      <entity2 rdf:resource="https://w3id.org/rec#coordinates"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6583870967741936</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#hasTRS"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6060606060606061</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityobjectgroup#Role.groupMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Railway.intersection"/>
+      <entity2 rdf:resource="https://w3id.org/rec#intersectingElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Building"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Building"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#BuildingConstructiveElement.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://schema.org/Person"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://schema.org/Organization"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Track.intersection"/>
+      <entity2 rdf:resource="https://w3id.org/rec#intersectingElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Building.buildingPart"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#TunnelFurniture.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#Waterway.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractCityObject.adeOfAbstractCityObject"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#objectOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.mimeType"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6649615384615385</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#AbstractTunnel.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#ImplicitGeometry.objectID"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#objectOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8228571428571428</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityobjectgroup#CityObjectGroup"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#GroupObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6696115344743673</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#ImplicitGeometry.referencePoint"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#heightRUs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6190476190476191</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Address.xalAddress"/>
+      <entity2 rdf:resource="https://w3id.org/rec#address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.835</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6286956521739131</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#sfIntersects"/>
+      <entity2 rdf:resource="https://w3id.org/rec#intersectingElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6249307875894988</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.highReference"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6451612903225806</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#Tunnel.tunnelPart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#Occupancy"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Occupancy_Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6836196135922774</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/transportation#AuxiliaryTrafficSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_appearanceMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasMember"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7082608695652173</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#BridgeConstructiveElement.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.lowReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7134272300469484</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/bridge#Bridge.bridgePart"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#SensorConnection.sensorLocation"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7943478260869565</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractThematicSurface.pointCloud"/>
+      <entity2 rdf:resource="https://w3id.org/rec#hasPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractThematicSurface.area"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#grossArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#MeasureAttribute.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Document.referringTo"/>
+      <entity2 rdf:resource="https://w3id.org/rec#documentTopic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6355266393442623</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#WallSurface"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Wall"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6340640483543335</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#AbstractConstruction.dateOfConstruction"/>
+      <entity2 rdf:resource="https://w3id.org/rec#installationDate"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6133827196714098</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericLogicalSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.highReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasTimeseriesReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7142857142857143</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#CodeAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TimeValuePair.intValue"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Building"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#Building"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#TabulatedFileTimeseries.numberOfHeaderLines"/>
+      <entity2 rdf:resource="https://w3id.org/rec#numberOfPorts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6580383970177075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#QualifiedArea.area"/>
+      <entity2 rdf:resource="https://w3id.org/rec#rentableArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9090909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/dynamizer#StandardFileTimeseries.fileLocation"/>
+      <entity2 rdf:resource="https://w3id.org/rec#standard"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6495652173913045</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#DateAttribute.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/cityobjectgroup#CityObjectGroup.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#buildingPrimaryFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6054545454545455</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasMetricArea"/>
+      <entity2 rdf:resource="https://w3id.org/rec#netArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Reference.referringTo"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+      <entity2 rdf:resource="http://data.ashrae.org/bacnet/2020#DateTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6517309942699346</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractCityObject.externalReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#IntAttribute.value"/>
+      <entity2 rdf:resource="https://w3id.org/rec#value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#AbstractFeature.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/relief#MassPointRelief.pointCloud"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8336250000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#RoomHeight.lowReference"/>
+      <entity2 rdf:resource="http://data.ashrae.org/standard223#hasExternalReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6285134685733289</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/core#CityModel.cityModelMember_versionMember"/>
+      <entity2 rdf:resource="https://w3id.org/rec#isMemberOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.747</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#hasArea"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#area"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/workspace#Space"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Space"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/building#Storey.buildingUnit"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/geosparql#rcc8ec"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#connectedTo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7572413793103447</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/Document/3.0/document#Document.tag"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/tunnel#HollowSpace.function"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#aggregationFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/pointcloud#PointCloud.points"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#isPointOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.850909090909091</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#GenericAttributeSet.name"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick/ref#ifcName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/gml#MultiPoint"/>
+      <entity2 rdf:resource="https://w3id.org/rec#MultiPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9869160243955788</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/generics#StringAttribute.name"/>
+      <entity2 rdf:resource="https://w3id.org/rec#familyName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.opengis.net/ont/gml#Point"/>
+      <entity2 rdf:resource="https://w3id.org/rec#Point"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Height.highReference"/>
+      <entity2 rdf:resource="https://brickschema.org/schema/Brick#hasQUDTReference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7142857142857143</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

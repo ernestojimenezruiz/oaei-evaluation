@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <align:Alignment rdf:nodeID="N01990cd8f0954a4fb3f13ad7a234e0ae">
+    <align:level>0</align:level>
+    <align:type>??</align:type>
+    <align:onto1>file:///home/jon/repos/DISO-mappings/data/diso-compact/smart-environments/smart-buildings/Brick%2Bimports.ttl</align:onto1>
+    <align:onto2>file:///home/jon/repos/DISO-mappings/data/diso-compact/smart-environments/smart-homes/SmartEnvMerged.ttl</align:onto2>
+    <align:map>
+      <align:Cell rdf:nodeID="N4247ed5205e846c9bc6e6fe19e5aefd9">
+        <align:entity1 rdf:resource="https://w3id.org/rec#Geometry"/>
+        <align:entity2 rdf:resource="http://www.opengis.net/ont/geosparql#Geometry"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nf7179e10570b40a6905fc0576e868a77">
+        <align:entity1 rdf:resource="https://brickschema.org/schema/Brick#Entity"/>
+        <align:entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Entity"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nd07021bd8bea45118e0ae72eb49877b4">
+        <align:entity1 rdf:resource="https://w3id.org/rec#Region"/>
+        <align:entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Region"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N44ada10c38594294aeb48594e6c39bf6">
+        <align:entity1 rdf:resource="http://data.ashrae.org/bacnet/2020#Action"/>
+        <align:entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nb7b3a9ab4cfb49d5981a5b6f63dd52d1">
+        <align:entity1 rdf:resource="https://w3id.org/rec#Person"/>
+        <align:entity2 rdf:resource="https://schema.org/Person"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N74e379016d174599a82c5b6f063266cb">
+        <align:entity1 rdf:resource="https://brickschema.org/schema/Brick#Sensor"/>
+        <align:entity2 rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N9528085ed54f4395bb65713e9cecb640">
+        <align:entity1 rdf:resource="https://brickschema.org/schema/Brick#Parameter"/>
+        <align:entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Parameter"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Ndcd8957e72fc4ad19f7ee406a966b17c">
+        <align:entity1 rdf:resource="https://brickschema.org/schema/Brick#System"/>
+        <align:entity2 rdf:resource="http://www.w3.org/ns/ssn/System"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N097734a530b04ddf8fbff54cd21d039b">
+        <align:entity1 rdf:resource="https://w3id.org/rec#Event"/>
+        <align:entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N0f6da5a5ec40428c93b7ae5cd8ad6afe">
+        <align:entity1 rdf:resource="https://w3id.org/rec#Agent"/>
+        <align:entity2 rdf:resource="https://w3id.org/smartenvironment/patterns/object.owl#Agent"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="Nf0fda956b70b4a7086973ed4b56547d5">
+        <align:entity1 rdf:resource="https://brickschema.org/schema/Brick#Substance"/>
+        <align:entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Substance"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+    <align:map>
+      <align:Cell rdf:nodeID="N4d59c1fc25004cd1aa969b38d5fdcbef">
+        <align:entity1 rdf:resource="https://brickschema.org/schema/Brick#Collection"/>
+        <align:entity2 rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection"/>
+        <align:relation>=</align:relation>
+        <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</align:measure>
+      </align:Cell>
+    </align:map>
+  </align:Alignment>
+</rdf:RDF>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti#published"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#published"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: published, published, |published|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#DomainName"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#DomainName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: DomainName, Domain Name, domain_name, domain_name, domain_name, domain_name, |domain|name|, |domain|name|, |domain|name|, |domain|name|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/email-address#value"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#windows-registry-value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: value, value, |value|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti#valid_until"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#valid"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.1</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same normalized Bag of Words (BOW). A match was found on the following (normalized) bag of words: |valid|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/x509-certificate#issuer"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#issued"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.1</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;issuer&apos; of ontology 1 and label &apos;issued&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Vulnerability"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Vulnerability"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Vulnerability, vulnerability, |vulnerability|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Process"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Process, process, |process|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Tool"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1588.002"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Tool, tool, |tool|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti#version"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#version"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: version, version, version, version, |version|, |version|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Grouping"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Grouping"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Grouping, grouping, |grouping|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#WindowsRegistryValue"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#WindowsRegistryValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: WindowsRegistryValue, windows_registry_value, windows_registry_value, |windows|registry|value|, |windows|registry|value|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/message#date_sent"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#date"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: date, date, date, date, |date|, |date|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/process#WindowsService"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1543.003"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.2</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: windows_service, |windows|service|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Software"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1592.002"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Software, software, |software|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/archive-file#comment"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#comments"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.1</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;comment&apos; of ontology 1 and label &apos;comments&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Malware"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1587.001"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Malware, malware, |malware|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Organization"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Organization, organization, |organization|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#UserAccount"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#User"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: User Account, user_account, user_account, |user|account|, |user|account|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti#created"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#created"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: created, created, |created|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#File"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#MoveFile"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.2</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same normalized Bag of Words (BOW). A match was found on the following (normalized) bag of words: |file|, |file|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Directory"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Directory"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Directory, directory, |directory|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Artifact"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Artifact"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Artifact, artifact, |artifact|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/domain-name#value"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#windows-registry-value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: value, value, |value|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/mac-address#value"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#windows-registry-value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: value, value, |value|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#MACAddress"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#MACAddress"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: MACAddress, mac_address, mac_address, |mac|address|, |mac|address|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/pdf-file#version"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#version"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: version, version, version, version, |version|, |version|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/malware#version"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#version"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: version, version, version, version, |version|, |version|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#WindowsRegistryKey"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#WindowsRegistryKey"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: WindowsRegistryKey, windows_registry_key, windows_registry_key, |windows|registry|key|, |windows|registry|key|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#URL"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#URL"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: URL, url, |url|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti#confidence"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#confidence"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: confidence, confidence, |confidence|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ip-address#value"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#windows-registry-value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: value, value, |value|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti#modified"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#modified"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: modified, modified, |modified|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Malware"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#T1588.001"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Malware, malware, |malware|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#key"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#windows-registry-key"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: key, key, |key|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#UserAccount"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#UserAccount"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: User Account, UserAccount, user_account, user_account, user_account, user_account, |user|account|, |user|account|, |user|account|, |user|account|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#File"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#File"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: File, file, |file|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/ext/archive-file#ArchiveFile"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#ArchiveFile"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: ArchiveFile, Archive File, archive_file, archive_file, archive_file, archive_file, |archive|file|, |archive|file|, |archive|file|, |archive|file|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/uri#value"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#windows-registry-value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: value, value, |value|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Group"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Group"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Group, group, |group|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#Software"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#Software"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Software, software, |software|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti#name"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#name"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: name, name, name, name, |name|, |name|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix#NetworkTraffic"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#NetworkTraffic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: NetworkTraffic, Network Traffic, network_traffic, network_traffic, network_traffic, network_traffic, |network|traffic|, |network|traffic|, |network|traffic|, |network|traffic|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://docs.oasis-open.org/ns/cti/stix/windows-registry#name"/>
+      <entity2 rdf:resource="http://d3fend.mitre.org/ontologies/d3fend.owl#name"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: name, name, name, name, |name|, |name|</alignapilocalns:description>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

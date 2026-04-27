@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#UNIT"/>
+      <entity2 rdf:resource="http://sweet.jpl.nasa.gov/ontology/units.owl#Unit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3333333333333333</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: unit, |unit|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ORGANISATION"/>
+      <entity2 rdf:resource="http://xmlns.com/wordnet/1.6/Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;ORGANISATION&apos; of ontology 1 and label &apos;Organization&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MISCELLANEOUS-EQUIPMENT-TYPE-Rope"/>
+      <entity2 rdf:resource="http://ontologies.ezweb.morfeo-project.org/profile.owl#Role"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Rope&apos; of ontology 1 and label &apos;Role&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Main"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Device.owl#Mains"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Main&apos; of ontology 1 and label &apos;Mains&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Snow"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Provider.owl#Show"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Snow&apos; of ontology 1 and label &apos;Show&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REFERENCE"/>
+      <entity2 rdf:resource="http://ontologies.ezweb.morfeo-project.org/reco.owl#Preference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;REFERENCE&apos; of ontology 1 and label &apos;Preference&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PERSON"/>
+      <entity2 rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: person, |person|, |person|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#House"/>
+      <entity2 rdf:resource="http://e-response.org/ontology/2006/20060815/e_response_buildings#House"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: House, house, |house|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#CONTEXT"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/mIO.owl#Context"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: context, context, |context|, |context|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#RWANDA"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Country.owl#Country_RW_RWANDA"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;RWANDA&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#NETWORK"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Network.owl#Network"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: network, network, |network|, |network|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Warehouse"/>
+      <entity2 rdf:resource="http://e-response.org/ontology/2006/20060815/e_response_buildings#Warehouse"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Warehouse, warehouse, |warehouse|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Farm"/>
+      <entity2 rdf:resource="http://e-response.org/ontology/2006/20060815/e_response_buildings#Farm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Farm, farm, |farm|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Shop"/>
+      <entity2 rdf:resource="http://e-response.org/ontology/2006/20060815/e_response_buildings#Shop"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Shop, shop, |shop|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Diaphragm"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Device.owl#Diaphragm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Diaphragm, Diaphragm, diaphragm, diaphragm, |diaphragm|, |diaphragm|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Cable"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Device.owl#Cable"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Cable, Cable, cable, cable, |cable|, |cable|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ROAD"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Location.owl#Road"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: road, road, |road|, |road|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Uses"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/User.owl#User"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Uses&apos; of ontology 1 and label &apos;User&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ADDRESS"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Location.owl#Address"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: address, address, |address|, |address|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MINUTE-1"/>
+      <entity2 rdf:resource="http://sweet.jpl.nasa.gov/ontology/units.owl#minute"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;minute&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Resting"/>
+      <entity2 rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Resting&apos; of ontology 1 and label &apos;testing&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#City"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Location.owl#City"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: City, City, city, city, |city|, |city|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REFERENCE"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Role.owl#Preference"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;REFERENCE&apos; of ontology 1 and label &apos;Preference&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Country"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Country.owl#Country"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Country, Country, country, country, |country|, |country|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ORGANISATION"/>
+      <entity2 rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;ORGANISATION&apos; of ontology 1 and label &apos;Organization&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PERSON"/>
+      <entity2 rdf:resource="http://xmlns.com/wordnet/1.6/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3333333333333333</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: person, |person|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Lightning"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/context_Environment.owl#Lighting"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Lightning&apos; of ontology 1 and label &apos;Lighting&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#CANDIDATE-TARGET-LIST-ASSOCIATION-Has_as_a_component"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Service.owl#Component"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3333333333333333</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same normalized Bag of Words (BOW). A match was found on the following (normalized) bag of words: |component|, |component|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#CapabilityUnitOfMeasureCode"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Location.owl#Road"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same normalized Bag of Words (BOW). A match was found on the following (normalized) bag of words: |capability|unit|measure|code|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Sensor"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Device.owl#Sensor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Sensor, Sensor, sensor, sensor, |sensor|, |sensor|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Group_-navy-"/>
+      <entity2 rdf:resource="http://xmlns.com/foaf/0.1/Group"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3333333333333333</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: group, |group|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Resting"/>
+      <entity2 rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Resting&apos; of ontology 1 and label &apos;testing&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Wall"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Location.owl#Walk"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Wall&apos; of ontology 1 and label &apos;Walk&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Network"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Network.owl#Network"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Network, Network, network, network, |network|, |network|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Marker"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Provider.owl#Market"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Marker&apos; of ontology 1 and label &apos;Market&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Mine"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Provider.owl#Cinema"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Mine&apos; of ontology 1 and label &apos;Cine&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#YARD"/>
+      <entity2 rdf:resource="http://pervasive.semanticweb.org/ont/2004/06/geo-measurement#Yard"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;yard&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Shed"/>
+      <entity2 rdf:resource="http://e-response.org/ontology/2006/20060815/e_response_buildings#Shed"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Shed, shed, |shed|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Apartment_building"/>
+      <entity2 rdf:resource="http://e-response.org/ontology/2006/20060815/e_response_buildings#ApartmentBuilding"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: apartment_building, apartment_building, |apartment|building|, |apartment|building|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Country"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Location.owl#Country"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Country, Country, country, country, |country|, |country|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LUX"/>
+      <entity2 rdf:resource="http://sweet.jpl.nasa.gov/ontology/units.owl#lux"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;lux&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Building"/>
+      <entity2 rdf:resource="http://e-response.org/ontology/2006/20060815/e_response_buildings#Building"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Building, building, |building|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ANGOLA"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Country.owl#Country_AO_ANGOLA"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;ANGOLA&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#INCH"/>
+      <entity2 rdf:resource="http://pervasive.semanticweb.org/ont/2004/06/geo-measurement#Inch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;inch&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ROUTE"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Device.owl#Router"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;ROUTE&apos; of ontology 1 and label &apos;Router&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Shop"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Provider.owl#Shop"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Shop, Shop, shop, shop, |shop|, |shop|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Road"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Location.owl#Road"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Road, Road, road, road, |road|, |road|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MISCELLANEOUS-EQUIPMENT-TYPE-Rope"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Role.owl#Role"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Rope&apos; of ontology 1 and label &apos;Role&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#School"/>
+      <entity2 rdf:resource="http://e-response.org/ontology/2006/20060815/e_response_buildings#School"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: School, school, |school|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#KUWAIT"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Country.owl#Country_KW_KUWAIT"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;KUWAIT&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#GROUP-ORGANISATION-TYPE-Refugee"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Provider.owl#Refuge"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Refugee&apos; of ontology 1 and label &apos;Refuge&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Has_as_a_component"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Service.owl#Component"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same normalized Bag of Words (BOW). A match was found on the following (normalized) bag of words: |component|, |component|, |component|, |component|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Revolution"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Interface.owl#Resolution"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Revolution&apos; of ontology 1 and label &apos;Resolution&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#SECOND"/>
+      <entity2 rdf:resource="http://sweet.jpl.nasa.gov/ontology/units.owl#second"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;second&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Tank"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Role.owl#Task"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.16666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">Label &apos;Tank&apos; of ontology 1 and label &apos;Task&apos; of ontology 2 have a very similar writing.</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#FOOT-1"/>
+      <entity2 rdf:resource="http://pervasive.semanticweb.org/ont/2004/06/geo-measurement#Foot"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;foot&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MISCELLANEOUS-EQUIPMENT-TYPE-Paper"/>
+      <entity2 rdf:resource="http://www.cenitmio.es/ontologies/Device.owl#Paper"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Paper, Paper, paper, paper, |paper|, |paper|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MILE"/>
+      <entity2 rdf:resource="http://pervasive.semanticweb.org/ont/2004/06/geo-measurement#Mile"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;mile&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#METRE-1"/>
+      <entity2 rdf:resource="http://sweet.jpl.nasa.gov/ontology/units.owl#metre"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">A match was found on the following (normalized) label(s): &apos;metre&apos;</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Image"/>
+      <entity2 rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label. This the strongest indication of a match for this matcher. A match was found on the following label: Image, image, |image|, |image|</alignapilocalns:description>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PERSON"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.3333333333333333</measure>
+      <alignapilocalns:description xmlns:alignapilocalns="http://purl.org/dc/elements/1.1/">The two resources have the same label when normalized. This a strong indication of a match for this matcher. A match was found on the following normalized label: person, |person|</alignapilocalns:description>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
