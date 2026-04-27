@@ -1,0 +1,23 @@
+#URI 1	Label 1	URI 2	Label 2	Confidence	Family votes	Families	System votes	Systems
+https://brickschema.org/schema/Brick#Substance	substance	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Substance	sostanza	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://brickschema.org/schema/Brick#Region	region	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Region	regione	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;BertMapLt;LogMapLt;Matcha
+https://w3id.org/rec#Agent	agent	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	agente	1.0	4	AML;BertMap;LogMap;Matcha	5	AML;BertMapLt;LogMap;LogMapLt;Matcha
+https://w3id.org/rec#Agent	agent	http://xmlns.com/foaf/0.1/Agent	agent	1.0	4	AML;BertMap;LogMap;Matcha	5	AML;BertMapLt;LogMap;LogMapLt;Matcha
+https://w3id.org/rec#Agent	agent	https://w3id.org/smartenvironment/patterns/object.owl#Agent	agent	1.0	4	AML;BertMap;LogMap;Matcha	7	AML;BertMap;BertMapLt;CySecBertMap;LogMapLt;Matcha;SecureBertMap
+https://brickschema.org/schema/Brick#Entity	entity	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Entity	entity	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://data.ashrae.org/bacnet/2020#Action	action	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action	action	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://brickschema.org/schema/Brick#Location	location	https://w3id.org/smartenvironment/patterns/object.owl#Location	location	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;BertMapLt;LogMapLt;Matcha
+https://w3id.org/rec#Organization	organization	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization	organizzazione	1.0	4	AML;BertMap;LogMap;Matcha	5	AML;BertMapLt;LogMap;LogMapLt;Matcha
+https://w3id.org/rec#Organization	organization	https://schema.org/Organization	organization	1.0	4	AML;BertMap;LogMap;Matcha	5	AML;BertMapLt;LogMap;LogMapLt;Matcha
+https://w3id.org/rec#Person	person	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person	person	1.0	4	AML;BertMap;LogMap;Matcha	5	AML;BertMapLt;LogMap;LogMapLt;Matcha
+https://w3id.org/rec#Person	person	https://schema.org/Person	person	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://brickschema.org/schema/Brick#System	system	http://www.w3.org/ns/ssn/System	system	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://brickschema.org/schema/Brick#Collection	collection	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection	collection	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://w3id.org/rec#Event	event	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	event	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://w3id.org/rec#Event	event	https://w3id.org/smartenvironment/patterns/event.owl#Event	event	1.0	4	AML;BertMap;LogMap;Matcha	5	AML;BertMapLt;LogMap;LogMapLt;Matcha
+https://w3id.org/rec#Region	region	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Region	regione	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://brickschema.org/schema/Brick#Sensor	sensor	https://w3id.org/smartenvironment/patterns/sensing.owl#Sensor	sensor	1.0	4	AML;BertMap;LogMap;Matcha	5	AML;BertMapLt;LogMap;LogMapLt;Matcha
+https://brickschema.org/schema/Brick#Sensor	sensor	http://www.w3.org/ns/sosa/Sensor	sensor	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://brickschema.org/schema/Brick#Parameter	parameter	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Parameter	parameter	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+https://w3id.org/rec#Collection	collection	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection	collection	1.0	4	AML;BertMap;LogMap;Matcha	5	AML;BertMapLt;LogMap;LogMapLt;Matcha
+https://w3id.org/rec#Geometry	geometry	http://www.opengis.net/ont/geosparql#Geometry	geometry	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
