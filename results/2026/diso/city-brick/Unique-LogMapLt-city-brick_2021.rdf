@@ -1,0 +1,6 @@
+http://www.w3.org/2006/time#unitYear	一年	https://brickschema.org/schema/Brick#hasUnit	has unit	=	INST
+http://www.opengis.net/ont/gml#Point	point	https://w3id.org/rec#PointOfInterest	point of interest	=	CLS
+http://www.w3.org/2006/time#unitYear	一年	https://brickschema.org/schema/BrickTag#Unit	unit	=	INST
+https://dataset-dl.liris.cnrs.fr/rdf-owl-urban-data-ontologies/Ontologies/CityOWL/CWA/3.0/construction#Door	door	http://data.ashrae.org/bacnet/2020#DoorValue	doorvalue	=	CLS
+http://www.opengis.net/ont/geosparql#Feature	feature	http://www.w3.org/ns/sosa/FeatureOfInterest	featureofinterest	=	CLS
+http://www.opengis.net/ont/geosparql#AnyFeature	anyfeature	http://www.w3.org/ns/sosa/FeatureOfInterest	featureofinterest	=	CLS

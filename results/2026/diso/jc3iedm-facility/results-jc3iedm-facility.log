@@ -1,0 +1,375 @@
+Read RDF Align mapping objects: 41
+Read RDF Align mapping objects: 44
+Number of mappings without namspace filtering
+Read RDF Align mapping objects: 36
+Loading mappings for LogMapLt: 36
+Read RDF Align mapping objects: 29
+Loading mappings for BertMapLt: 29
+Read RDF Align mapping objects: 38
+Loading mappings for ATMatcher: 38
+Read RDF Align mapping objects: 28
+Loading mappings for CySecBertMap: 28
+Read RDF Align mapping objects: 41
+Loading mappings for LogMapLLM: 41
+Read RDF Align mapping objects: 37
+Loading mappings for FineTOM: 37
+Read RDF Align mapping objects: 43
+Loading mappings for Matcha: 43
+Read RDF Align mapping objects: 43
+Loading mappings for AML: 43
+Read RDF Align mapping objects: 44
+Loading mappings for LogMap: 44
+Read RDF Align mapping objects: 34
+Loading mappings for SecureBertMap: 34
+Read RDF Align mapping objects: 28
+Loading mappings for BertMap: 28
+Read RDF Align mapping objects: 38
+Loading mappings for ALOD2Vec: 38
+Read RDF Align mapping objects: 12
+Loading mappings for KGMatcher: 12
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.261
+
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.148
+
+Classifying integrated ontology for '13' systems.
+Classifying integrated ontology with: ALOD2Vec
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.11
+
+Classifying integrated ontology with: AML
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.075
+
+Classifying integrated ontology with: ATMatcher
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.042
+
+Classifying integrated ontology with: BertMap
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.036
+
+Classifying integrated ontology with: BertMapLt
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.044
+
+Classifying integrated ontology with: CySecBertMap
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.044
+
+Classifying integrated ontology with: FineTOM
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.039
+
+Classifying integrated ontology with: KGMatcher
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.122
+
+Classifying integrated ontology with: LogMap
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.038
+
+Classifying integrated ontology with: LogMapLLM
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.029
+
+Classifying integrated ontology with: LogMapLt
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.032
+
+Classifying integrated ontology with: Matcha
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.029
+
+Classifying integrated ontology with: SecureBertMap
+
+Classifying 'ALUOIN' Ontology with ELK... 
+Done, Time (s): 0.025
+
+				Consensus-2			Consensus-3			
+System	Time (s)	Size	Unique	P	F	R	P	F	R	Unsat.	File nanme
+ALOD2Vec	0	38	1	0.974	0.903	0.841	0.974	0.937	0.902	0	ALOD2Vec-jc3iedm-facility_2026.rdf
+AML	0	43	0	1.0	0.988	0.977	0.953	0.976	1.0	0	AML-jc3iedm-facility_2026.rdf
+ATMatcher	0	38	7	0.816	0.756	0.705	0.816	0.785	0.756	0	ATMatcher-jc3iedm-facility_2026.rdf
+BertMap	0	28	0	1.0	0.778	0.636	1.0	0.812	0.683	0	BertMap-jc3iedm-facility_2026.rdf
+BertMapLt	0	29	0	1.0	0.794	0.659	1.0	0.828	0.707	0	BertMapLt-jc3iedm-facility_2026.rdf
+CySecBertMap	0	28	0	1.0	0.778	0.636	1.0	0.812	0.683	0	CySecBertMap-jc3iedm-facility_2026.rdf
+FineTOM	0	37	26	0.297	0.271	0.25	0.297	0.282	0.268	0	Fine-TOM-jc3iedm-facility_2026.rdf
+KGMatcher	0	12	0	1.0	0.429	0.273	1.0	0.453	0.293	0	KGMatcher-jc3iedm-facility_2026.rdf
+LogMap	0	44	1	0.886	0.886	0.886	0.864	0.894	0.927	0	LogMap-jc3iedm-facility_2026.rdf
+LogMapLLM	0	41	0	0.902	0.87	0.841	0.878	0.878	0.878	0	LogMapLLM-jc3iedm-facility_2026.rdf
+LogMapLt	0	36	0	1.0	0.9	0.818	1.0	0.935	0.878	0	LogMapLt-jc3iedm-facility_2021.rdf
+Matcha	0	43	0	1.0	0.988	0.977	0.953	0.976	1.0	0	Matcha-jc3iedm-facility_2026.rdf
+SecureBertMap	0	34	2	0.941	0.82	0.727	0.912	0.827	0.756	0	SecureBertMap-jc3iedm-facility_2026.rdf
+
+
+<table cellpadding="4" cellspacing="0">
+
+<tr class="header">
+<td  class="header" rowspan="2"> System </td>
+<td  class="header" rowspan="2" colspan="1"> Time (s) </td>
+<td  class="header" rowspan="2" colspan="1"> # Mappings </td> </td>
+<td  class="header" rowspan="2" colspan="1"> # Unique </td> </td>
+<td  class="header" colspan="3"> Scores </td>
+<td  class="header" colspan="2"> Incoherence Analysis</td>
+</tr>
+<tr class="header">
+<td  class="header"> Precision </td><td  class="header"> &nbsp;Recall&nbsp; </td> <td  class="header"> F-measure </td>
+<td  class="header"> Unsat.</td> <td  class="header"> Degree </td>
+</tr>
+
+<tr class="odd">
+<td class="text">Matcha</td>
+<td> 0 </td><td> 43 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.977 </td> <td class="bold"> 0.988 </td>
+<td> 0.953 </td> <td> 1.000 </td> <td class="bold"> 0.976 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">AML</td>
+<td> 0 </td><td> 43 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.977 </td> <td class="bold"> 0.988 </td>
+<td> 0.953 </td> <td> 1.000 </td> <td class="bold"> 0.976 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">ALOD2Vec</td>
+<td> 0 </td><td> 38 </td>
+<td> 1 </td>
+<td> 0.974 </td> <td> 0.841 </td> <td class="bold"> 0.903 </td>
+<td> 0.974 </td> <td> 0.902 </td> <td class="bold"> 0.937 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">LogMapLt</td>
+<td> 0 </td><td> 36 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.818 </td> <td class="bold"> 0.900 </td>
+<td> 1.000 </td> <td> 0.878 </td> <td class="bold"> 0.935 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">LogMap</td>
+<td> 0 </td><td> 44 </td>
+<td> 1 </td>
+<td> 0.886 </td> <td> 0.886 </td> <td class="bold"> 0.886 </td>
+<td> 0.864 </td> <td> 0.927 </td> <td class="bold"> 0.894 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">LogMapLLM</td>
+<td> 0 </td><td> 41 </td>
+<td> 0 </td>
+<td> 0.902 </td> <td> 0.841 </td> <td class="bold"> 0.870 </td>
+<td> 0.878 </td> <td> 0.878 </td> <td class="bold"> 0.878 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">SecureBertMap</td>
+<td> 0 </td><td> 34 </td>
+<td> 2 </td>
+<td> 0.941 </td> <td> 0.727 </td> <td class="bold"> 0.820 </td>
+<td> 0.912 </td> <td> 0.756 </td> <td class="bold"> 0.827 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">BertMapLt</td>
+<td> 0 </td><td> 29 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.659 </td> <td class="bold"> 0.794 </td>
+<td> 1.000 </td> <td> 0.707 </td> <td class="bold"> 0.828 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">CySecBertMap</td>
+<td> 0 </td><td> 28 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.636 </td> <td class="bold"> 0.778 </td>
+<td> 1.000 </td> <td> 0.683 </td> <td class="bold"> 0.812 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">BertMap</td>
+<td> 0 </td><td> 28 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.636 </td> <td class="bold"> 0.778 </td>
+<td> 1.000 </td> <td> 0.683 </td> <td class="bold"> 0.812 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">ATMatcher</td>
+<td> 0 </td><td> 38 </td>
+<td> 7 </td>
+<td> 0.816 </td> <td> 0.705 </td> <td class="bold"> 0.756 </td>
+<td> 0.816 </td> <td> 0.756 </td> <td class="bold"> 0.785 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">KGMatcher</td>
+<td> 0 </td><td> 12 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.273 </td> <td class="bold"> 0.429 </td>
+<td> 1.000 </td> <td> 0.293 </td> <td class="bold"> 0.453 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">FineTOM</td>
+<td> 0 </td><td> 37 </td>
+<td> 26 </td>
+<td> 0.297 </td> <td> 0.250 </td> <td class="bold"> 0.271 </td>
+<td> 0.297 </td> <td> 0.268 </td> <td class="bold"> 0.282 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+
+<caption><b>Table X:</b> Results for the largebio task X.</caption>
+</table>
+
+
+{\small\sf Matcha }
+& 0& 43 
+& 0 
+& 1.00& 0.99& 0.98
+& 0.95& 0.98& 1.00
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf AML }
+& 0& 43 
+& 0 
+& 1.00& 0.99& 0.98
+& 0.95& 0.98& 1.00
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf ALOD2Vec }
+& 0& 38 
+& 1 
+& 0.97& 0.90& 0.84
+& 0.97& 0.94& 0.90
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf LogMapLt }
+& 0& 36 
+& 0 
+& 1.00& 0.90& 0.82
+& 1.00& 0.94& 0.88
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf LogMap }
+& 0& 44 
+& 1 
+& 0.89& 0.89& 0.89
+& 0.86& 0.89& 0.93
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf LogMapLLM }
+& 0& 41 
+& 0 
+& 0.90& 0.87& 0.84
+& 0.88& 0.88& 0.88
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf SecureBertMap }
+& 0& 34 
+& 2 
+& 0.94& 0.82& 0.73
+& 0.91& 0.83& 0.76
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf BertMapLt }
+& 0& 29 
+& 0 
+& 1.00& 0.79& 0.66
+& 1.00& 0.83& 0.71
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf CySecBertMap }
+& 0& 28 
+& 0 
+& 1.00& 0.78& 0.64
+& 1.00& 0.81& 0.68
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf BertMap }
+& 0& 28 
+& 0 
+& 1.00& 0.78& 0.64
+& 1.00& 0.81& 0.68
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf ATMatcher }
+& 0& 38 
+& 7 
+& 0.82& 0.76& 0.71
+& 0.82& 0.79& 0.76
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf KGMatcher }
+& 0& 12 
+& 0 
+& 1.00& 0.43& 0.27
+& 1.00& 0.45& 0.29
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf FineTOM }
+& 0& 37 
+& 26 
+& 0.30& 0.27& 0.25
+& 0.30& 0.28& 0.27
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+s

@@ -1,0 +1,110 @@
+Vote 2
+	Mappings: 46
+	Families:
+		ALOD2Vec: 87.0% (40)
+		AML: 54.3% (25)
+		BertMap: 39.1% (18)
+		KGMatcher: 39.1% (18)
+		LogMap: 76.1% (35)
+		Matcha: 97.8% (45)
+	Systems:
+		ALOD2Vec: 87.0% (40/43)
+		AML: 54.3% (25/27)
+		BertMap: 37.0% (17/17)
+		BertMapLt: 39.1% (18/18)
+		CySecBertMap: 37.0% (17/17)
+		KGMatcher: 39.1% (18/18)
+		LogMap: 58.7% (27/37)
+		LogMapLLM: 47.8% (22/24)
+		LogMapLt: 58.7% (27/28)
+		Matcha: 97.8% (45/102)
+		SecureBertMap: 37.0% (17/17)
+
+Vote 3
+	Mappings: 32
+	Families:
+		ALOD2Vec: 100.0% (32)
+		AML: 68.8% (22)
+		BertMap: 56.3% (18)
+		KGMatcher: 56.3% (18)
+		LogMap: 100.0% (32)
+		Matcha: 96.9% (31)
+	Systems:
+		ALOD2Vec: 100.0% (32/43)
+		AML: 68.8% (22/27)
+		BertMap: 53.1% (17/17)
+		BertMapLt: 56.3% (18/18)
+		CySecBertMap: 53.1% (17/17)
+		KGMatcher: 56.3% (18/18)
+		LogMap: 81.3% (26/37)
+		LogMapLLM: 65.6% (21/24)
+		LogMapLt: 78.1% (25/28)
+		Matcha: 96.9% (31/102)
+		SecureBertMap: 53.1% (17/17)
+
+Vote 4
+	Mappings: 22
+	Families:
+		ALOD2Vec: 100.0% (22)
+		AML: 100.0% (22)
+		BertMap: 81.8% (18)
+		KGMatcher: 81.8% (18)
+		LogMap: 100.0% (22)
+		Matcha: 95.5% (21)
+	Systems:
+		ALOD2Vec: 100.0% (22/43)
+		AML: 100.0% (22/27)
+		BertMap: 77.3% (17/17)
+		BertMapLt: 81.8% (18/18)
+		CySecBertMap: 77.3% (17/17)
+		KGMatcher: 81.8% (18/18)
+		LogMap: 95.5% (21/37)
+		LogMapLLM: 72.7% (16/24)
+		LogMapLt: 86.4% (19/28)
+		Matcha: 95.5% (21/102)
+		SecureBertMap: 77.3% (17/17)
+
+Vote 5
+	Mappings: 18
+	Families:
+		ALOD2Vec: 100.0% (18)
+		AML: 100.0% (18)
+		BertMap: 100.0% (18)
+		KGMatcher: 100.0% (18)
+		LogMap: 100.0% (18)
+		Matcha: 94.4% (17)
+	Systems:
+		ALOD2Vec: 100.0% (18/43)
+		AML: 100.0% (18/27)
+		BertMap: 94.4% (17/17)
+		BertMapLt: 100.0% (18/18)
+		CySecBertMap: 94.4% (17/17)
+		KGMatcher: 100.0% (18/18)
+		LogMap: 94.4% (17/37)
+		LogMapLLM: 66.7% (12/24)
+		LogMapLt: 100.0% (18/28)
+		Matcha: 94.4% (17/102)
+		SecureBertMap: 94.4% (17/17)
+
+Vote 6
+	Mappings: 17
+	Families:
+		ALOD2Vec: 100.0% (17)
+		AML: 100.0% (17)
+		BertMap: 100.0% (17)
+		KGMatcher: 100.0% (17)
+		LogMap: 100.0% (17)
+		Matcha: 100.0% (17)
+	Systems:
+		ALOD2Vec: 100.0% (17/43)
+		AML: 100.0% (17/27)
+		BertMap: 94.1% (16/17)
+		BertMapLt: 100.0% (17/18)
+		CySecBertMap: 94.1% (16/17)
+		KGMatcher: 100.0% (17/18)
+		LogMap: 94.1% (16/37)
+		LogMapLLM: 70.6% (12/24)
+		LogMapLt: 100.0% (17/28)
+		Matcha: 100.0% (17/102)
+		SecureBertMap: 94.1% (16/17)
+

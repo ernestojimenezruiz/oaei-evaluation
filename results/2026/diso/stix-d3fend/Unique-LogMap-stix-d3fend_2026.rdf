@@ -1,0 +1,8 @@
+http://docs.oasis-open.org/ns/cti#Hashes	hashes	http://d3fend.mitre.org/ontologies/d3fend.owl#T1550.002	pass the hash	=	CLS
+http://docs.oasis-open.org/ns/cti#Hash	hash	http://d3fend.mitre.org/ontologies/d3fend.owl#T1550.002	pass the hash	=	CLS
+http://docs.oasis-open.org/ns/cti/stix#Vulnerability	vulnerability	http://d3fend.mitre.org/ontologies/d3fend.owl#T1588.006	vulnerabilities	=	CLS
+http://docs.oasis-open.org/ns/cti/stix/windows-registry#WindowsRegistryValue	registryvalue	http://d3fend.mitre.org/ontologies/d3fend.owl#WindowsRegistry	windows registry	=	CLS
+http://docs.oasis-open.org/ns/cti/stix#DomainName	domain name	http://d3fend.mitre.org/ontologies/d3fend.owl#T1584.001	domains	=	CLS
+http://docs.oasis-open.org/ns/cti/stix#DomainName	domain name	http://d3fend.mitre.org/ontologies/d3fend.owl#T1583.001	domains	=	CLS
+http://docs.oasis-open.org/ns/cti/stix#Grouping	grouping	http://d3fend.mitre.org/ontologies/d3fend.owl#Group	group	<	CLS
+http://docs.oasis-open.org/ns/cti/stix#Group	group	http://d3fend.mitre.org/ontologies/d3fend.owl#Grouping	grouping	=	CLS

@@ -1,0 +1,182 @@
+Vote 2
+	Mappings: 77
+	Families:
+		ALOD2Vec: 59.7% (46)
+		AML: 40.3% (31)
+		ATMatcher: 59.7% (46)
+		BertMap: 33.8% (26)
+		FineTOM: 50.6% (39)
+		KGMatcher: 18.2% (14)
+		LogMap: 70.1% (54)
+		Matcha: 85.7% (66)
+	Systems:
+		ALOD2Vec: 59.7% (46/61)
+		AML: 40.3% (31/34)
+		ATMatcher: 59.7% (46/91)
+		BertMap: 28.6% (22/22)
+		BertMapLt: 33.8% (26/26)
+		CySecBertMap: 28.6% (22/22)
+		FineTOM: 50.6% (39/44)
+		KGMatcher: 18.2% (14/14)
+		LogMap: 48.1% (37/234)
+		LogMapLLM: 53.2% (41/238)
+		LogMapLt: 48.1% (37/37)
+		Matcha: 85.7% (66/167)
+		SecureBertMap: 28.6% (22/22)
+
+Vote 3
+	Mappings: 46
+	Families:
+		ALOD2Vec: 84.8% (39)
+		AML: 60.9% (28)
+		ATMatcher: 82.6% (38)
+		BertMap: 56.5% (26)
+		FineTOM: 73.9% (34)
+		KGMatcher: 30.4% (14)
+		LogMap: 80.4% (37)
+		Matcha: 95.7% (44)
+	Systems:
+		ALOD2Vec: 84.8% (39/61)
+		AML: 60.9% (28/34)
+		ATMatcher: 82.6% (38/91)
+		BertMap: 47.8% (22/22)
+		BertMapLt: 56.5% (26/26)
+		CySecBertMap: 47.8% (22/22)
+		FineTOM: 73.9% (34/44)
+		KGMatcher: 30.4% (14/14)
+		LogMap: 45.7% (21/234)
+		LogMapLLM: 54.3% (25/238)
+		LogMapLt: 76.1% (35/37)
+		Matcha: 95.7% (44/167)
+		SecureBertMap: 47.8% (22/22)
+
+Vote 4
+	Mappings: 36
+	Families:
+		ALOD2Vec: 100.0% (36)
+		AML: 75.0% (27)
+		ATMatcher: 83.3% (30)
+		BertMap: 72.2% (26)
+		FineTOM: 77.8% (28)
+		KGMatcher: 38.9% (14)
+		LogMap: 91.7% (33)
+		Matcha: 100.0% (36)
+	Systems:
+		ALOD2Vec: 100.0% (36/61)
+		AML: 75.0% (27/34)
+		ATMatcher: 83.3% (30/91)
+		BertMap: 61.1% (22/22)
+		BertMapLt: 72.2% (26/26)
+		CySecBertMap: 61.1% (22/22)
+		FineTOM: 77.8% (28/44)
+		KGMatcher: 38.9% (14/14)
+		LogMap: 55.6% (20/234)
+		LogMapLLM: 66.7% (24/238)
+		LogMapLt: 88.9% (32/37)
+		Matcha: 100.0% (36/167)
+		SecureBertMap: 61.1% (22/22)
+
+Vote 5
+	Mappings: 32
+	Families:
+		ALOD2Vec: 100.0% (32)
+		AML: 84.4% (27)
+		ATMatcher: 81.3% (26)
+		BertMap: 81.3% (26)
+		FineTOM: 78.1% (25)
+		KGMatcher: 43.8% (14)
+		LogMap: 100.0% (32)
+		Matcha: 100.0% (32)
+	Systems:
+		ALOD2Vec: 100.0% (32/61)
+		AML: 84.4% (27/34)
+		ATMatcher: 81.3% (26/91)
+		BertMap: 68.8% (22/22)
+		BertMapLt: 81.3% (26/26)
+		CySecBertMap: 68.8% (22/22)
+		FineTOM: 78.1% (25/44)
+		KGMatcher: 43.8% (14/14)
+		LogMap: 59.4% (19/234)
+		LogMapLLM: 75.0% (24/238)
+		LogMapLt: 100.0% (32/37)
+		Matcha: 100.0% (32/167)
+		SecureBertMap: 68.8% (22/22)
+
+Vote 6
+	Mappings: 24
+	Families:
+		ALOD2Vec: 100.0% (24)
+		AML: 100.0% (24)
+		ATMatcher: 87.5% (21)
+		BertMap: 95.8% (23)
+		FineTOM: 83.3% (20)
+		KGMatcher: 58.3% (14)
+		LogMap: 100.0% (24)
+		Matcha: 100.0% (24)
+	Systems:
+		ALOD2Vec: 100.0% (24/61)
+		AML: 100.0% (24/34)
+		ATMatcher: 87.5% (21/91)
+		BertMap: 87.5% (21/22)
+		BertMapLt: 95.8% (23/26)
+		CySecBertMap: 87.5% (21/22)
+		FineTOM: 83.3% (20/44)
+		KGMatcher: 58.3% (14/14)
+		LogMap: 75.0% (18/234)
+		LogMapLLM: 91.7% (22/238)
+		LogMapLt: 100.0% (24/37)
+		Matcha: 100.0% (24/167)
+		SecureBertMap: 87.5% (21/22)
+
+Vote 7
+	Mappings: 19
+	Families:
+		ALOD2Vec: 100.0% (19)
+		AML: 100.0% (19)
+		ATMatcher: 100.0% (19)
+		BertMap: 100.0% (19)
+		FineTOM: 84.2% (16)
+		KGMatcher: 73.7% (14)
+		LogMap: 100.0% (19)
+		Matcha: 100.0% (19)
+	Systems:
+		ALOD2Vec: 100.0% (19/61)
+		AML: 100.0% (19/34)
+		ATMatcher: 100.0% (19/91)
+		BertMap: 94.7% (18/22)
+		BertMapLt: 100.0% (19/26)
+		CySecBertMap: 94.7% (18/22)
+		FineTOM: 84.2% (16/44)
+		KGMatcher: 73.7% (14/14)
+		LogMap: 89.5% (17/234)
+		LogMapLLM: 94.7% (18/238)
+		LogMapLt: 100.0% (19/37)
+		Matcha: 100.0% (19/167)
+		SecureBertMap: 94.7% (18/22)
+
+Vote 8
+	Mappings: 11
+	Families:
+		ALOD2Vec: 100.0% (11)
+		AML: 100.0% (11)
+		ATMatcher: 100.0% (11)
+		BertMap: 100.0% (11)
+		FineTOM: 100.0% (11)
+		KGMatcher: 100.0% (11)
+		LogMap: 100.0% (11)
+		Matcha: 100.0% (11)
+	Systems:
+		ALOD2Vec: 100.0% (11/61)
+		AML: 100.0% (11/34)
+		ATMatcher: 100.0% (11/91)
+		BertMap: 100.0% (11/22)
+		BertMapLt: 100.0% (11/26)
+		CySecBertMap: 100.0% (11/22)
+		FineTOM: 100.0% (11/44)
+		KGMatcher: 100.0% (11/14)
+		LogMap: 100.0% (11/234)
+		LogMapLLM: 100.0% (11/238)
+		LogMapLt: 100.0% (11/37)
+		Matcha: 100.0% (11/167)
+		SecureBertMap: 100.0% (11/22)
+

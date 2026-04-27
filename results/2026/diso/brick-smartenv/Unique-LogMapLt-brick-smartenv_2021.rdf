@@ -1,0 +1,5 @@
+http://www.w3.org/ns/sosa/FeatureOfInterest	featureofinterest	http://www.opengis.net/ont/geosparql#Feature	feature	=	CLS
+http://data.ashrae.org/bacnet/2020#PropertyValue	propertyvalue	http://www.w3.org/ns/ssn/Property	property	=	CLS
+http://data.ashrae.org/bacnet/2020#NameValueCollection	namevaluecollection	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection	collection	=	CLS
+https://brickschema.org/schema/BrickTag#Unit	unit	http://www.w3.org/2006/time#unitYear	一年	=	INST
+https://brickschema.org/schema/Brick#hasUnit	has unit	http://www.w3.org/2006/time#unitYear	一年	=	OPROP

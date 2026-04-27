@@ -1,0 +1,256 @@
+Read RDF Align mapping objects: 48
+Read RDF Align mapping objects: 28
+Number of mappings without namspace filtering
+Read RDF Align mapping objects: 12
+Loading mappings for CySecBertMap: 12
+Read RDF Align mapping objects: 32
+Loading mappings for AML: 32
+Read RDF Align mapping objects: 322
+Loading mappings for Matcha: 322
+Read RDF Align mapping objects: 40
+Loading mappings for LogMap: 40
+Read RDF Align mapping objects: 22
+Loading mappings for BertMapLt: 22
+Read RDF Align mapping objects: 54
+Loading mappings for LogMapLt: 54
+Read RDF Align mapping objects: 12
+Loading mappings for SecureBertMap: 12
+Read RDF Align mapping objects: 12
+Loading mappings for BertMap: 12
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.295
+
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.111
+
+Classifying integrated ontology for '8' systems.
+Classifying integrated ontology with: AML
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.049
+
+Classifying integrated ontology with: BertMap
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.034
+
+Classifying integrated ontology with: BertMapLt
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.048
+
+Classifying integrated ontology with: CySecBertMap
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.029
+
+Classifying integrated ontology with: LogMap
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.057
+
+Classifying integrated ontology with: LogMapLt
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.11
+
+Classifying integrated ontology with: Matcha
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Error classifying ontology with ELK
+Inconsistent ontology
+Inconsistent ontology
+org.semanticweb.owlapi.reasoner.InconsistentOntologyException: Inconsistent ontology
+Classifying integrated ontology with: SecureBertMap
+	at org.semanticweb.elk.owlapi.ElkExceptionConverter.convert(ElkExceptionConverter.java:70)
+	at org.semanticweb.elk.owlapi.ElkExceptionConverter.convert(ElkExceptionConverter.java:88)
+	at org.semanticweb.elk.owlapi.ElkConverter.convert(ElkConverter.java:114)
+	at org.semanticweb.elk.owlapi.ElkReasoner.precomputeInferences(ElkReasoner.java:950)
+	at uk.ac.ox.krr.logmap2.reasoning.ReasonerAccessImpl.classifyOntology(ReasonerAccessImpl.java:274)
+	at oaei.util.MergedOntology.classifyMergedOntology(MergedOntology.java:138)
+	at oaei.util.MergedOntology.<init>(MergedOntology.java:60)
+	at oaei.util.MergedOntology.<init>(MergedOntology.java:52)
+	at oaei.evaluation.AbstractEvaluation.createMergedOntologiesForSystemMappingSets(AbstractEvaluation.java:548)
+	at oaei.evaluation.AbstractEvaluation.createMergedOntologies(AbstractEvaluation.java:512)
+	at oaei.evaluation.EvaluateOAEITrack.<init>(EvaluateOAEITrack.java:51)
+	at oaei.evaluation.EvaluateOAEITrack.main(EvaluateOAEITrack.java:89)
+Error when invoking the reasoner to get unsatisfiable classes.
+
+Classifying 'SROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.033
+
+				Consensus-2			Consensus-3			
+System	Time (s)	Size	Unique	P	F	R	P	F	R	Unsat.	File nanme
+AML	0	32	1	0.969	0.775	0.646	0.875	0.933	1.0	7	AML-brick-smartenv_2026.rdf
+BertMap	0	12	0	1.0	0.4	0.25	1.0	0.6	0.429	0	BertMap-brick-smartenv_2026.rdf
+BertMapLt	0	22	0	1.0	0.628	0.458	1.0	0.88	0.786	6	BertMapLt-brick-smartenv_2026.rdf
+CySecBertMap	0	12	0	1.0	0.4	0.25	1.0	0.6	0.429	0	CySecBertMap-brick-smartenv_2026.rdf
+LogMap	0	39	13	0.615	0.552	0.5	0.615	0.716	0.857	0	LogMap-brick-smartenv_2026.rdf
+LogMapLt	0	52	5	0.865	0.9	0.938	0.538	0.7	1.0	90	LogMapLt-brick-smartenv_2021.rdf
+Matcha	0	322	274	0.149	0.259	1.0	0.087	0.16	1.0	0	Matcha-brick-smartenv_2026.rdf
+SecureBertMap	0	12	0	1.0	0.4	0.25	1.0	0.6	0.429	0	SecureBertMap-brick-smartenv_2026.rdf
+
+
+<table cellpadding="4" cellspacing="0">
+
+<tr class="header">
+<td  class="header" rowspan="2"> System </td>
+<td  class="header" rowspan="2" colspan="1"> Time (s) </td>
+<td  class="header" rowspan="2" colspan="1"> # Mappings </td> </td>
+<td  class="header" rowspan="2" colspan="1"> # Unique </td> </td>
+<td  class="header" colspan="3"> Scores </td>
+<td  class="header" colspan="2"> Incoherence Analysis</td>
+</tr>
+<tr class="header">
+<td  class="header"> Precision </td><td  class="header"> &nbsp;Recall&nbsp; </td> <td  class="header"> F-measure </td>
+<td  class="header"> Unsat.</td> <td  class="header"> Degree </td>
+</tr>
+
+<tr class="odd">
+<td class="text">LogMapLt</td>
+<td> 0 </td><td> 52 </td>
+<td> 5 </td>
+<td> 0.865 </td> <td> 0.938 </td> <td class="bold"> 0.900 </td>
+<td> 0.538 </td> <td> 1.000 </td> <td class="bold"> 0.700 </td>
+<td> &ge;90 </td><td class="right"> &ge;60.0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">AML</td>
+<td> 0 </td><td> 32 </td>
+<td> 1 </td>
+<td> 0.969 </td> <td> 0.646 </td> <td class="bold"> 0.775 </td>
+<td> 0.875 </td> <td> 1.000 </td> <td class="bold"> 0.933 </td>
+<td> &ge;7 </td><td class="right"> &ge;4.7&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">BertMapLt</td>
+<td> 0 </td><td> 22 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.458 </td> <td class="bold"> 0.628 </td>
+<td> 1.000 </td> <td> 0.786 </td> <td class="bold"> 0.880 </td>
+<td> &ge;6 </td><td class="right"> &ge;4.0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">LogMap</td>
+<td> 0 </td><td> 39 </td>
+<td> 13 </td>
+<td> 0.615 </td> <td> 0.500 </td> <td class="bold"> 0.552 </td>
+<td> 0.615 </td> <td> 0.857 </td> <td class="bold"> 0.716 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">SecureBertMap</td>
+<td> 0 </td><td> 12 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.250 </td> <td class="bold"> 0.400 </td>
+<td> 1.000 </td> <td> 0.429 </td> <td class="bold"> 0.600 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">CySecBertMap</td>
+<td> 0 </td><td> 12 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.250 </td> <td class="bold"> 0.400 </td>
+<td> 1.000 </td> <td> 0.429 </td> <td class="bold"> 0.600 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">BertMap</td>
+<td> 0 </td><td> 12 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.250 </td> <td class="bold"> 0.400 </td>
+<td> 1.000 </td> <td> 0.429 </td> <td class="bold"> 0.600 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">Matcha</td>
+<td> 0 </td><td> 322 </td>
+<td> 274 </td>
+<td> 0.149 </td> <td> 1.000 </td> <td class="bold"> 0.259 </td>
+<td> 0.087 </td> <td> 1.000 </td> <td class="bold"> 0.160 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+
+<caption><b>Table X:</b> Results for the largebio task X.</caption>
+</table>
+
+
+{\small\sf LogMapLt }
+& 0& 52 
+& 5 
+& 0.87& 0.90& 0.94
+& 0.54& 0.70& 1.00
+& $\geq$90& $\geq$60.0\%\\
+
+
+{\small\sf AML }
+& 0& 32 
+& 1 
+& 0.97& 0.78& 0.65
+& 0.88& 0.93& 1.00
+& $\geq$7& $\geq$4.7\%\\
+
+
+{\small\sf BertMapLt }
+& 0& 22 
+& 0 
+& 1.00& 0.63& 0.46
+& 1.00& 0.88& 0.79
+& $\geq$6& $\geq$4.0\%\\
+
+
+{\small\sf LogMap }
+& 0& 39 
+& 13 
+& 0.62& 0.55& 0.50
+& 0.62& 0.72& 0.86
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf SecureBertMap }
+& 0& 12 
+& 0 
+& 1.00& 0.40& 0.25
+& 1.00& 0.60& 0.43
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf CySecBertMap }
+& 0& 12 
+& 0 
+& 1.00& 0.40& 0.25
+& 1.00& 0.60& 0.43
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf BertMap }
+& 0& 12 
+& 0 
+& 1.00& 0.40& 0.25
+& 1.00& 0.60& 0.43
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf Matcha }
+& 0& 322 
+& 274 
+& 0.15& 0.26& 1.00
+& 0.09& 0.16& 1.00
+& $\geq$0& $\geq$0.0 (Incosistent onto)\%
+\\
+
+

@@ -1,0 +1,17 @@
+http://www.w3.org/2006/time#unitType	tipo de unidad temporal	https://brickschema.org/schema/Brick#hasUnit	https://brickschema.org/schema/Brick#hasUnit	=	OPROP
+http://www.w3.org/2006/time#inXSDDateTimeStamp	en fecha-sello de tiempo xsd	https://w3id.org/rec#timestamp	https://w3id.org/rec#timestamp	=	DPROP
+http://www.w3.org/2006/time#hasEnd	tiene fin	https://brickschema.org/schema/Brick#hasUnit	https://brickschema.org/schema/Brick#hasUnit	=	OPROP
+http://www.w3.org/2006/time#hasTemporalDuration	tiene duración temporal	https://brickschema.org/schema/Brick#hasLocation	https://brickschema.org/schema/Brick#hasLocation	=	OPROP
+http://www.w3.org/2006/time#hasTime	has time	https://brickschema.org/schema/Brick/ref#hasTimeseriesReference	https://brickschema.org/schema/Brick/ref#hasTimeseriesReference	=	OPROP
+http://www.w3.org/2006/time#hasTRS	temporal reference system used	https://brickschema.org/schema/Brick/ref#hasTimeseriesReference	https://brickschema.org/schema/Brick/ref#hasTimeseriesReference	=	OPROP
+http://www.w3.org/2006/time#hasEnd	tiene fin	https://w3id.org/rec#hasPart	https://w3id.org/rec#hasPart	=	OPROP
+http://www.w3.org/2006/time#hasEnd	tiene fin	https://brickschema.org/schema/Brick#hasTag	https://brickschema.org/schema/Brick#hasTag	=	OPROP
+http://www.w3.org/2006/time#hasEnd	tiene fin	https://brickschema.org/schema/Brick#hasPart	https://brickschema.org/schema/Brick#hasPart	=	OPROP
+http://www.w3.org/2006/time#hasTRS	temporal reference system used	http://data.ashrae.org/standard223#hasExternalReference	http://data.ashrae.org/standard223#hasExternalReference	=	OPROP
+http://www.w3.org/2006/time#hasTRS	temporal reference system used	https://brickschema.org/schema/Brick/ref#hasExternalReference	https://brickschema.org/schema/Brick/ref#hasExternalReference	=	OPROP
+http://www.w3.org/2006/time#inXSDDateTime	in xsd date-time	https://w3id.org/rec#createdTime	https://w3id.org/rec#createdTime	=	DPROP
+http://www.w3.org/2006/time#hasTime	has time	https://brickschema.org/schema/Brick#hasTag	https://brickschema.org/schema/Brick#hasTag	=	OPROP
+http://www.w3.org/2006/time#hasTRS	temporal reference system used	https://brickschema.org/schema/Brick#hasQUDTReference	https://brickschema.org/schema/Brick#hasQUDTReference	=	OPROP
+http://www.w3.org/2006/time#hasDuration	tiene duración	https://brickschema.org/schema/Brick#hasLocation	https://brickschema.org/schema/Brick#hasLocation	=	OPROP
+http://www.w3.org/2006/time#DateTimeDescription	date-time description	http://data.ashrae.org/bacnet/2020#DateTime	http://data.ashrae.org/bacnet/2020#DateTime	=	CLS
+http://www.w3.org/2006/time#inXSDDateTimeStamp	en fecha-sello de tiempo xsd	https://brickschema.org/schema/Brick#timestamp	https://brickschema.org/schema/Brick#timestamp	=	DPROP

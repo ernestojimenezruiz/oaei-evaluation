@@ -1,0 +1,13 @@
+https://brickschema.org/schema/Brick#Usage_Sensor	usage sensor	http://www.w3.org/ns/sosa/Sensor	sensor	=	CLS
+http://qudt.org/vocab/unit/SEC	saat	http://www.w3.org/2006/time#unitSecond	一秒	=	INST
+http://qudt.org/vocab/unit/MIN	minute	http://www.w3.org/2006/time#unitMinute	minuto	=	INST
+https://brickschema.org/schema/Brick#Usage_Sensor	usage sensor	https://w3id.org/smartenvironment/patterns/sensing.owl#Sensor	sensor	=	CLS
+https://brickschema.org/schema/Brick#On_Timer_Sensor	on timer sensor	https://w3id.org/smartenvironment/patterns/time.owl#TimeDuration	time duration	=	CLS
+http://qudt.org/vocab/unit/DAY	day	http://www.w3.org/2006/time#unitDay	giorno	=	INST
+https://w3id.org/rec#ExceptionEvent	exception event	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	event	=	CLS
+http://qudt.org/vocab/unit/WK	week	http://www.w3.org/2006/time#unitWeek	سبوع واحد	=	INST
+http://qudt.org/vocab/unit/HR	hour	http://www.w3.org/2006/time#unitHour	hora	=	INST
+https://brickschema.org/schema/Brick#Tag	tag	http://www.w3.org/2006/time#unitDay	giorno	=	CLS
+http://qudt.org/schema/qudt/Unit	http://qudt.org/schema/qudt/Unit	http://www.w3.org/2006/time#TemporalUnit	unidad de tiempo	=	CLS
+http://qudt.org/vocab/unit/TONNE-PER-YR	tonne per year	http://www.w3.org/2006/time#unitYear	一年	=	INST
+https://w3id.org/rec#ExceptionEvent	exception event	https://w3id.org/smartenvironment/patterns/event.owl#Event	event	=	CLS

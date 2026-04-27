@@ -1,0 +1,109 @@
+#URI 1	Label 1	URI 2	Label 2	Confidence	Family votes	Families	System votes	Systems
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#CLOSE	close	https://brickschema.org/schema/BrickTag#Close	close	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Status	status	https://brickschema.org/schema/Brick#Status	status	1.0	4	AML;BertMap;LogMap;Matcha	7	AML;BertMap;BertMapLt;CySecBertMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REST	rest	https://brickschema.org/schema/BrickTag#Rest	rest	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#AFGHAN	afghan	http://qudt.org/vocab/unit/CCY_AFN	afghani	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#VOLUME	volume	https://brickschema.org/schema/BrickTag#Volume	volume	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#VOLUME	volume	http://qudt.org/vocab/quantitykind/Volume	volume	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#VOLUME	volume	https://brickschema.org/schema/Brick#Volume	volume	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#VOLUME	volume	https://brickschema.org/schema/Brick#volume	volume	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#GROUND	ground	https://brickschema.org/schema/BrickTag#Ground	ground	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#BIT	bit	http://qudt.org/vocab/unit/BIT	bit	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#SAFE	safe	https://w3id.org/rec#Safe	safe	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Control_zone	control zone	https://w3id.org/rec#AccessControlZone	access control zone	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#YARD	yard	http://qudt.org/vocab/unit/YD	yard	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ORGANISATION	organisation	https://w3id.org/rec#Organization	organization	0.85	3	AML;LogMap;Matcha	3	AML;LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Cart	cart	https://w3id.org/rec#Cart	cart	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#AIR	air	https://brickschema.org/schema/Brick#Air	air	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#AIR	air	https://brickschema.org/schema/BrickTag#Air	air	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#School	school	https://w3id.org/rec#School	school	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REGION	region	https://w3id.org/rec#Region	region	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REGION	region	https://brickschema.org/schema/BrickTag#Region	region	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REGION	region	https://brickschema.org/schema/Brick#Region	region	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Retail	retail	https://w3id.org/rec#RetailRoom	retail room	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#WHEEL	wheel	https://brickschema.org/schema/BrickTag#Wheel	wheel	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ACTION	action	http://data.ashrae.org/bacnet/2020#Action	action	1.0	4	AML;BertMap;LogMap;Matcha	7	AML;BertMap;BertMapLt;CySecBertMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#SOM	som	http://qudt.org/vocab/unit/CCY_KGS	som	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Sensor	sensor	https://brickschema.org/schema/Brick#Sensor	sensor	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LIQUID	liquid	https://brickschema.org/schema/BrickTag#Liquid	liquid	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LIQUID	liquid	https://brickschema.org/schema/Brick#Liquid	liquid	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LOCATION	location	https://brickschema.org/schema/Brick#Location	location	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;BertMapLt;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#DEGREE	degree	http://qudt.org/vocab/unit/DEG	degree	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PEAK	peak	https://brickschema.org/schema/BrickTag#Peak	peak	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#DEC	dec	http://qudt.org/vocab/unit/DECADE	dec	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Generator	generator	https://brickschema.org/schema/Brick#Generator_Room	generator room	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Tunnel	tunnel	https://brickschema.org/schema/Brick#Tunnel	tunnel	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;BertMapLt;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#NetworkSecurityPolicyCode	http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#NetworkSecurityPolicyCode	http://data.ashrae.org/bacnet/2020#NetworkSecurityPolicy	networksecuritypolicy	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LUX	lux	http://qudt.org/vocab/unit/LUX	لكس	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#DEG	deg	http://qudt.org/vocab/unit/DEG	degree	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#RAD	rad	http://qudt.org/vocab/unit/RAD	radyan	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#RAD	rad	http://qudt.org/vocab/unit/RAD_R	rad	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Relay_facility	relay facility	https://brickschema.org/schema/Brick#Relay	relay	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ACTIVE	active	https://brickschema.org/schema/BrickTag#Active	active	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#SLAB	slab	https://w3id.org/rec#Slab	slab	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#VISUAL	visual	https://brickschema.org/schema/BrickTag#Visual	visual	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#DELAY	delay	https://brickschema.org/schema/BrickTag#Delay	delay	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#HOT	hot	https://brickschema.org/schema/BrickTag#Hot	hot	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#VIDEO	video	https://brickschema.org/schema/BrickTag#Video	video	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LIGHT	light	https://brickschema.org/schema/Brick#Light_Command	light command	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#FINAL	final	https://brickschema.org/schema/BrickTag#Final	final	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Broadcast	broadcast	https://brickschema.org/schema/Brick#Broadcast_Room	broadcast room	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Zone_of_fire	zone of fire	https://brickschema.org/schema/Brick#Fire_Zone	fire zone	0.85	3	AML;LogMap;Matcha	3	AML;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Hail	hail	https://brickschema.org/schema/Brick#Hail_Sensor	hail sensor	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#WING	wing	https://brickschema.org/schema/BrickTag#Wing	wing	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#WING	wing	https://brickschema.org/schema/Brick#Wing	wing	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#WING	wing	https://w3id.org/rec#Wing	wing	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#BEL	bel	http://qudt.org/vocab/unit/B	bel	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PAU	pau	https://brickschema.org/schema/BrickTag#PAU	pau	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PAU	pau	https://brickschema.org/schema/Brick#PAU	pau	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Action	action	http://data.ashrae.org/bacnet/2020#Action	action	1.0	4	AML;BertMap;LogMap;Matcha	7	AML;BertMap;BertMapLt;CySecBertMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Location	location	https://brickschema.org/schema/Brick#Location	location	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;BertMapLt;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Wall	wall	https://w3id.org/rec#Wall	wall	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Resting	resting	https://w3id.org/rec#RestingRoom	resting room	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Point_of_interest	point of interest	https://w3id.org/rec#PointOfInterest	point of interest	1.0	4	AML;BertMap;LogMap;Matcha	7	AML;BertMap;BertMapLt;CySecBertMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#UNIT	unit	http://qudt.org/schema/qudt/Unit	http://qudt.org/schema/qudt/Unit	0.85	3	AML;LogMap;Matcha	4	AML;LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#HIGH	high	https://brickschema.org/schema/BrickTag#High	high	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REAL	real	https://brickschema.org/schema/BrickTag#Real	real	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Office	office	https://brickschema.org/schema/Brick#Office	office	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;BertMapLt;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Office	office	https://w3id.org/rec#Office	office	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Smoke	smoke	https://brickschema.org/schema/Brick#Smoke_Alarm	smoke alarm	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#SMOKE	smoke	https://brickschema.org/schema/BrickTag#Smoke	smoke	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MIXED	mixed	https://brickschema.org/schema/BrickTag#Mixed	mixed	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#LOW	low	https://brickschema.org/schema/BrickTag#Low	low	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Cable	cable	https://w3id.org/rec#CableRoom	cable room	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Tank	tank	https://brickschema.org/schema/Brick#Tank	tank	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#POINT	point	https://brickschema.org/schema/Brick#Point	point	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#POINT	point	https://w3id.org/rec#Point	point	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;BertMapLt;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#DAY	day	http://qudt.org/vocab/unit/DAY	day	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MASSA	massa	http://qudt.org/vocab/quantitykind/Mass	mass	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#OIL	oil	https://brickschema.org/schema/Brick#Oil	oil	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ADDRESS	address	http://data.ashrae.org/bacnet/2020#Address	address	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#BOX	box	https://brickschema.org/schema/BrickTag#Box	box	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#FLIGHT	flight	http://qudt.org/vocab/unit/FLIGHT	flight	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PERSON	person	http://schema.org/Person	http://schema.org/Person	0.85	3	AML;LogMap;Matcha	4	AML;LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#PERSON	person	https://w3id.org/rec#Person	person	1.0	4	AML;BertMap;LogMap;Matcha	7	AML;BertMap;BertMapLt;CySecBertMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#COLD	cold	https://brickschema.org/schema/BrickTag#Cold	cold	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#REFERENCE	reference	http://data.ashrae.org/bacnet/2020#SetpointReference	setpointreference	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#COIL	coil	https://brickschema.org/schema/BrickTag#Coil	coil	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#COIL	coil	https://brickschema.org/schema/Brick#Coil	coil	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Air_compressor	air compressor	https://brickschema.org/schema/Brick#Compressor	compressor	0.85	3	AML;LogMap;Matcha	3	AML;LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#GAMMA	gamma	http://qudt.org/vocab/unit/GAMMA	gamma	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#GAMMA	gamma	http://qudt.org/vocab/unit/Gamma	gamma	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#COM-4	com	http://qudt.org/vocab/quantitykind/CENTER-OF-MASS	center of mass (com)	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Building	building	https://w3id.org/rec#Building	building	1.0	4	AML;BertMap;LogMap;Matcha	7	AML;BertMap;BertMapLt;CySecBertMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Building	building	https://brickschema.org/schema/Brick#Building	building	1.0	4	AML;BertMap;LogMap;Matcha	4	AML;BertMapLt;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#BARREL	barrel	http://qudt.org/vocab/unit/BBL	barrel	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#BYPASS-1	bypass	https://brickschema.org/schema/BrickTag#Bypass	bypass	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MISCELLANEOUS-EQUIPMENT-TYPE-Tank	tank	https://brickschema.org/schema/Brick#Tank	tank	0.7	2	BertMap;LogMap	6	BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#MIL	mil	http://qudt.org/vocab/unit/MIL	mil angle (nato)	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Fire	fire	https://brickschema.org/schema/Brick#Fire_Sensor	fire sensor	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#VEHICLE-TYPE-Maintenance	maintenance	http://data.ashrae.org/bacnet/2020#Maintenance	maintenance	0.7	2	BertMap;LogMap	5	BertMap;BertMapLt;CySecBertMap;LogMapLt;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#TEAM	team	https://brickschema.org/schema/BrickTag#Team	team	0.7	2	LogMap;Matcha	3	LogMap;LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Fire_control	fire control	https://brickschema.org/schema/Brick#Fire_Control_Panel	fire control panel	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Lamp	lamp	https://w3id.org/rec#Lamp	lamp	1.0	4	AML;BertMap;LogMap;Matcha	8	AML;BertMap;BertMapLt;CySecBertMap;LogMap;LogMapLt;Matcha;SecureBertMap
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ICE	ice	https://brickschema.org/schema/Brick#Ice	ice	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ICE	ice	https://brickschema.org/schema/BrickTag#Ice	ice	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Hospital_ship	hospital ship	https://w3id.org/rec#Hospital	hospital	0.7	2	AML;Matcha	2	AML;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#ATM	atm	http://qudt.org/vocab/unit/ATM	standard atmosphere	0.7	2	LogMap;Matcha	2	LogMapLt;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#GUARAN	guaran	http://qudt.org/vocab/unit/CCY_PYG	guarani	0.7	2	LogMap;Matcha	2	LogMap;Matcha
+http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Maintenance	maintenance	http://data.ashrae.org/bacnet/2020#Maintenance	maintenance	1.0	4	AML;BertMap;LogMap;Matcha	7	AML;BertMap;BertMapLt;CySecBertMap;LogMapLt;Matcha;SecureBertMap
