@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl</onto1>
+<onto2>https://www.commoncoreontologies.org/FacilityOntology</onto2>
+<uri1>http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl</uri1>
+<uri2>https://www.commoncoreontologies.org/FacilityOntology</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Heliport"/>
+		<entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000195"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://vistology.com/ont/2006/JC3IEDM3.0/JC3IEDM.owl#Shop"/>
+		<entity2 rdf:resource="https://www.commoncoreontologies.org/ont00000262"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>
