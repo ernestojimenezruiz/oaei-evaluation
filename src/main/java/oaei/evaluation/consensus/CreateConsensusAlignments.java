@@ -224,6 +224,8 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 				
 				if (cmapping.getFamilyVotes()>=min_required_votes){
 					
+					//System.out.println(source + " " + target + " " + cmapping.getTypeOfMapping());
+					
 					if (cmapping.isClassMapping())
 						output_manager.addClassMapping2Files(
 								cmapping.getIRIStrEnt1(), cmapping.getIRIStrEnt2(), cmapping.getMappingDirection(), cmapping.getConfidence());
@@ -259,12 +261,25 @@ public class CreateConsensusAlignments extends AbstractEvaluation {
 				//We avoid mappings among same URIS
 				if (!mapping.getIRIStrEnt1().equals(mapping.getIRIStrEnt2())){
 					
+					
+					//In the unlikely case where we cannot find the type we assume it is a class
+					int type;
+					type = getMappingType(IRI.create(mapping.getIRIStrEnt1()), onto1);
+					if (type == MappingObjectStr.UNKNOWN) {
+						type = getMappingType(IRI.create(mapping.getIRIStrEnt2()), onto2);
+						if (type == MappingObjectStr.UNKNOWN) {
+							type = MappingObjectStr.CLASSES;
+							System.err.println("Unknown type of mapping entities. Check provided input ontologies.");
+						}
+					}
+							
+					
 					consensusAlignment.add(
 							mapping.getIRIStrEnt1(), 
 							mapping.getIRIStrEnt2(), 
 							system, 
 							system_results_map.get(system).getFamily(),
-							getMappingType(IRI.create(mapping.getIRIStrEnt1()), onto1),
+							type,
 							getLabel4Entity(IRI.create(mapping.getIRIStrEnt1()), onto1),
 							getLabel4Entity(IRI.create(mapping.getIRIStrEnt2()), onto2));
 				}

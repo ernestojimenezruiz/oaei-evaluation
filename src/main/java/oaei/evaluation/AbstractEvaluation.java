@@ -403,6 +403,7 @@ public abstract class AbstractEvaluation {
 	 * @return
 	 */
 	protected int getMappingType(IRI uri, OWLOntology onto) {
+		
 		if (onto.containsClassInSignature(uri, Imports.INCLUDED)){
 			return MappingObjectStr.CLASSES;
 		}
@@ -517,8 +518,8 @@ public abstract class AbstractEvaluation {
 	protected  void createMergedOntologiesForReferenceMappingSets() throws Exception{
 				
 	
-		boolean classify=classifyMergedOntologies;
-		//boolean classify=false;
+		//boolean classify=classifyMergedOntologies;
+		boolean classify=false;
 		
 		for (String name : reference_mappings_map.keySet()){
 			//Set merged ontology

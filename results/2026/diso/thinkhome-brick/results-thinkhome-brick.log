@@ -1,5 +1,5 @@
-Read RDF Align mapping objects: 0
-Read RDF Align mapping objects: 0
+Read RDF Align mapping objects: 95
+Read RDF Align mapping objects: 58
 Number of mappings without namspace filtering
 Read RDF Align mapping objects: 13
 Loading mappings for SecureBertMap: 13
@@ -18,64 +18,64 @@ Loading mappings for CySecBertMap: 13
 Read RDF Align mapping objects: 112
 Loading mappings for AML: 112
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.054
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.358
 
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.006
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.102
 
 Classifying integrated ontology for '8' systems.
 Classifying integrated ontology with: AML
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.032
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.109
 
 Classifying integrated ontology with: BertMap
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.002
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.152
 
 Classifying integrated ontology with: BertMapLt
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.014
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.07
 
 Classifying integrated ontology with: CySecBertMap
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.022
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.081
 
 Classifying integrated ontology with: LogMap
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.02
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.078
 
 Classifying integrated ontology with: LogMapLt
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.008
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.073
 
 Classifying integrated ontology with: Matcha
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.014
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.081
 
 Classifying integrated ontology with: SecureBertMap
 
-Classifying 'AL' Ontology with ELK... 
-Done, Time (s): 0.016
+Classifying 'ALCROIQ(D)' Ontology with ELK... 
+Done, Time (s): 0.08
 
 				Consensus-2			Consensus-3			
 System	Time (s)	Size	Unique	P	F	R	P	F	R	Unsat.	File nanme
-AML	0	112	40	0.0	0.0	0.0	0.0	0.0	0.0	0	AML-thinkhome-brick_2026.rdf
-BertMap	0	13	0	0.0	0.0	0.0	0.0	0.0	0.0	0	BertMap-thinkhome-brick_2026.rdf
-BertMapLt	0	17	0	0.0	0.0	0.0	0.0	0.0	0.0	0	BertMapLt-thinkhome-brick_2026.rdf
-CySecBertMap	0	13	0	0.0	0.0	0.0	0.0	0.0	0.0	0	CySecBertMap-thinkhome-brick_2026.rdf
-LogMap	0	55	8	0.0	0.0	0.0	0.0	0.0	0.0	0	LogMap-thinkhome-brick_2026.rdf
-LogMapLt	0	141	52	0.0	0.0	0.0	0.0	0.0	0.0	0	LogMapLt-thinkhome-brick_2021.rdf
-Matcha	0	312	229	0.0	0.0	0.0	0.0	0.0	0.0	0	Matcha-thinkhome-brick_2026.rdf
-SecureBertMap	0	13	0	0.0	0.0	0.0	0.0	0.0	0.0	0	SecureBertMap-thinkhome-brick_2026.rdf
+AML	0	112	40	0.643	0.696	0.758	0.518	0.682	1.0	324	AML-thinkhome-brick_2026.rdf
+BertMap	0	13	0	1.0	0.241	0.137	1.0	0.366	0.224	0	BertMap-thinkhome-brick_2026.rdf
+BertMapLt	0	17	0	1.0	0.304	0.179	1.0	0.453	0.293	18	BertMapLt-thinkhome-brick_2026.rdf
+CySecBertMap	0	13	0	1.0	0.241	0.137	1.0	0.366	0.224	0	CySecBertMap-thinkhome-brick_2026.rdf
+LogMap	0	55	8	0.818	0.6	0.474	0.691	0.673	0.655	0	LogMap-thinkhome-brick_2026.rdf
+LogMapLt	0	141	52	0.617	0.737	0.916	0.411	0.583	1.0	482	LogMapLt-thinkhome-brick_2021.rdf
+Matcha	0	312	229	0.266	0.408	0.874	0.176	0.297	0.948	279	Matcha-thinkhome-brick_2026.rdf
+SecureBertMap	0	13	0	1.0	0.241	0.137	1.0	0.366	0.224	0	SecureBertMap-thinkhome-brick_2026.rdf
 
 
 <table cellpadding="4" cellspacing="0">
@@ -94,75 +94,75 @@ SecureBertMap	0	13	0	0.0	0.0	0.0	0.0	0.0	0.0	0	SecureBertMap-thinkhome-brick_202
 </tr>
 
 <tr class="odd">
-<td class="text">SecureBertMap</td>
-<td> 0 </td><td> 13 </td>
-<td> 0 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> &ge;0 </td><td class="right"> &ge;NaN&#37</td></tr>
-
-
-<tr class="even">
-<td class="text">Matcha</td>
-<td> 0 </td><td> 312 </td>
-<td> 229 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> &ge;0 </td><td class="right"> &ge;NaN&#37</td></tr>
-
-
-<tr class="odd">
 <td class="text">LogMapLt</td>
 <td> 0 </td><td> 141 </td>
 <td> 52 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> &ge;0 </td><td class="right"> &ge;NaN&#37</td></tr>
-
-
-<tr class="even">
-<td class="text">LogMap</td>
-<td> 0 </td><td> 55 </td>
-<td> 8 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> &ge;0 </td><td class="right"> &ge;NaN&#37</td></tr>
-
-
-<tr class="odd">
-<td class="text">CySecBertMap</td>
-<td> 0 </td><td> 13 </td>
-<td> 0 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> &ge;0 </td><td class="right"> &ge;NaN&#37</td></tr>
-
-
-<tr class="even">
-<td class="text">BertMapLt</td>
-<td> 0 </td><td> 17 </td>
-<td> 0 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> &ge;0 </td><td class="right"> &ge;NaN&#37</td></tr>
-
-
-<tr class="odd">
-<td class="text">BertMap</td>
-<td> 0 </td><td> 13 </td>
-<td> 0 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> &ge;0 </td><td class="right"> &ge;NaN&#37</td></tr>
+<td> 0.617 </td> <td> 0.916 </td> <td class="bold"> 0.737 </td>
+<td> 0.411 </td> <td> 1.000 </td> <td class="bold"> 0.583 </td>
+<td> &ge;482 </td><td class="right"> &ge;48.5&#37</td></tr>
 
 
 <tr class="even">
 <td class="text">AML</td>
 <td> 0 </td><td> 112 </td>
 <td> 40 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> 0.000 </td> <td> 0.000 </td> <td class="bold"> 0.000 </td>
-<td> &ge;0 </td><td class="right"> &ge;NaN&#37</td></tr>
+<td> 0.643 </td> <td> 0.758 </td> <td class="bold"> 0.696 </td>
+<td> 0.518 </td> <td> 1.000 </td> <td class="bold"> 0.682 </td>
+<td> &ge;324 </td><td class="right"> &ge;32.6&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">LogMap</td>
+<td> 0 </td><td> 55 </td>
+<td> 8 </td>
+<td> 0.818 </td> <td> 0.474 </td> <td class="bold"> 0.600 </td>
+<td> 0.691 </td> <td> 0.655 </td> <td class="bold"> 0.673 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">Matcha</td>
+<td> 0 </td><td> 312 </td>
+<td> 229 </td>
+<td> 0.266 </td> <td> 0.874 </td> <td class="bold"> 0.408 </td>
+<td> 0.176 </td> <td> 0.948 </td> <td class="bold"> 0.297 </td>
+<td> &ge;279 </td><td class="right"> &ge;28.1&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">BertMapLt</td>
+<td> 0 </td><td> 17 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.179 </td> <td class="bold"> 0.304 </td>
+<td> 1.000 </td> <td> 0.293 </td> <td class="bold"> 0.453 </td>
+<td> &ge;18 </td><td class="right"> &ge;1.8&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">SecureBertMap</td>
+<td> 0 </td><td> 13 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.137 </td> <td class="bold"> 0.241 </td>
+<td> 1.000 </td> <td> 0.224 </td> <td class="bold"> 0.366 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="odd">
+<td class="text">CySecBertMap</td>
+<td> 0 </td><td> 13 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.137 </td> <td class="bold"> 0.241 </td>
+<td> 1.000 </td> <td> 0.224 </td> <td class="bold"> 0.366 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
+
+
+<tr class="even">
+<td class="text">BertMap</td>
+<td> 0 </td><td> 13 </td>
+<td> 0 </td>
+<td> 1.000 </td> <td> 0.137 </td> <td class="bold"> 0.241 </td>
+<td> 1.000 </td> <td> 0.224 </td> <td class="bold"> 0.366 </td>
+<td> &ge;0 </td><td class="right"> &ge;0&#37</td></tr>
 
 
 
@@ -170,67 +170,71 @@ SecureBertMap	0	13	0	0.0	0.0	0.0	0.0	0.0	0.0	0	SecureBertMap-thinkhome-brick_202
 </table>
 
 
-{\small\sf SecureBertMap }
-& 0& 13 
-& 0 
-& 0.00& 0.00& 0.00
-& 0.00& 0.00& 0.00
-& $\geq$0& $\geq$NaN\%\\
-
-
-{\small\sf Matcha }
-& 0& 312 
-& 229 
-& 0.00& 0.00& 0.00
-& 0.00& 0.00& 0.00
-& $\geq$0& $\geq$NaN\%\\
-
-
 {\small\sf LogMapLt }
 & 0& 141 
 & 52 
-& 0.00& 0.00& 0.00
-& 0.00& 0.00& 0.00
-& $\geq$0& $\geq$NaN\%\\
-
-
-{\small\sf LogMap }
-& 0& 55 
-& 8 
-& 0.00& 0.00& 0.00
-& 0.00& 0.00& 0.00
-& $\geq$0& $\geq$NaN\%\\
-
-
-{\small\sf CySecBertMap }
-& 0& 13 
-& 0 
-& 0.00& 0.00& 0.00
-& 0.00& 0.00& 0.00
-& $\geq$0& $\geq$NaN\%\\
-
-
-{\small\sf BertMapLt }
-& 0& 17 
-& 0 
-& 0.00& 0.00& 0.00
-& 0.00& 0.00& 0.00
-& $\geq$0& $\geq$NaN\%\\
-
-
-{\small\sf BertMap }
-& 0& 13 
-& 0 
-& 0.00& 0.00& 0.00
-& 0.00& 0.00& 0.00
-& $\geq$0& $\geq$NaN\%\\
+& 0.62& 0.74& 0.92
+& 0.41& 0.58& 1.00
+& $\geq$482& $\geq$48.5\%\\
 
 
 {\small\sf AML }
 & 0& 112 
 & 40 
-& 0.00& 0.00& 0.00
-& 0.00& 0.00& 0.00
-& $\geq$0& $\geq$NaN\%\\
+& 0.64& 0.70& 0.76
+& 0.52& 0.68& 1.00
+& $\geq$324& $\geq$32.6\%\\
+
+
+{\small\sf LogMap }
+& 0& 55 
+& 8 
+& 0.82& 0.60& 0.47
+& 0.69& 0.67& 0.66
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf Matcha }
+& 0& 312 
+& 229 
+& 0.27& 0.41& 0.87
+& 0.18& 0.30& 0.95
+& $\geq$279& $\geq$28.1\%\\
+
+
+{\small\sf BertMapLt }
+& 0& 17 
+& 0 
+& 1.00& 0.30& 0.18
+& 1.00& 0.45& 0.29
+& $\geq$18& $\geq$1.8\%\\
+
+
+{\small\sf SecureBertMap }
+& 0& 13 
+& 0 
+& 1.00& 0.24& 0.14
+& 1.00& 0.37& 0.22
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf CySecBertMap }
+& 0& 13 
+& 0 
+& 1.00& 0.24& 0.14
+& 1.00& 0.37& 0.22
+& $\geq$0& $\geq$0.0\%
+\\
+
+
+{\small\sf BertMap }
+& 0& 13 
+& 0 
+& 1.00& 0.24& 0.14
+& 1.00& 0.37& 0.22
+& $\geq$0& $\geq$0.0\%
+\\
 
 

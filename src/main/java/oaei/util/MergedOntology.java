@@ -137,7 +137,7 @@ public class MergedOntology {
 		
 		mergedReasoner.classifyOntology(false);
 		
-		//System.out.println(mergedOntology.getAxiomCount() + "  " + mergedReasoner.getUnsatisfiableClasses().size());
+		System.out.println(mergedOntology.getAxiomCount() + "  " + mergedReasoner.getUnsatisfiableClasses().size());
 		
 		long fin = Calendar.getInstance().getTimeInMillis();
 		LogOutput.printAlways("\tReasoning time (s): " + (float)((double)fin-(double)init)/1000.0);
